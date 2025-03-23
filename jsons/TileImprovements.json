@@ -1,0 +1,69 @@
+[
+    {
+        "name": "Halwit",
+        "uniqueTo": "Aksum",
+        "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Snow","Flood plains"],
+        "gold": 2,
+        "culture": 1,
+        "turnsToBuild": 7,
+        "techRequired": "Masonry",
+        "uniques": ["[+1 Food] for each adjacent [Halwit]", "Pillaging this improvement yields approximately [+25 Gold]"],
+        "shortcutKey": "H"
+    },
+  {
+        "name": "Great Wall",
+        "uniqueTo": "Han",
+        "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Snow","Hill"],
+        "culture": 2,
+        "turnsToBuild": 7,
+        "techRequired": "Masonry",
+        "uniques": ["[+1 Happiness] for each adjacent [Great Wall]", "Gives a defensive bonus of [50]%", "Pillaging this improvement yields approximately [+25 Gold]"],
+        "shortcutKey": "W"
+    },
+  {
+        "name": "Baray",
+        "uniqueTo": "Khmer",
+        "terrainsCanBeBuiltOn": ["River","Flood plains","Marsh"],
+        "food": 3,
+        "turnsToBuild": 7,
+        "techRequired": "Masonry",
+        "uniques": ["[+1 Food] from [Flood plains] tiles", "Pillaging this improvement yields approximately [+25 Gold]"],
+        "shortcutKey": "B"
+    },
+  {
+        "name": "Potkop",
+        "uniqueTo": "Mississipi",
+        "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Snow","Hill"],
+        "gold": 2,
+        "turnsToBuild": 7,
+        "techRequired": "Calendar",
+        "uniques": ["[+1 Food] for each adjacent [Resource]", "Pillaging this improvement yields approximately [+25 Gold]"],
+        "shortcutKey": "P"
+    },
+  {
+        "name": "Hidden Fortress",
+        "uniqueTo": "Bulgaria",
+        "terrainsCanBeBuiltOn": ["Hill"],
+        "production": 4,
+        "turnsToBuild": 7,
+        "techRequired": "Metal Casting",
+        "uniques": ["Gives a defensive bonus of [60]%", "Pillaging this improvement yields approximately [+25 Gold]"],
+        "shortcutKey": "H"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
