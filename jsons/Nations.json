@@ -31,7 +31,9 @@
 		"innerColor": [25,120,25],
 		"uniqueName": "Kingdom of Natural Wealth",
 		"uniques": ["[+2 Gold] from [Resource] tiles [in all cities]"],
-		"cities": ["Aksum","Adulis","Matara","Lalibela","Saba","Koloe","Qohayto","Maste","Tekondo","Zala-Bet-Makeda","Etchmara","Gulo-Makeda","Haghero-Deragweh","Dergouah","Henzat","Ham","Anza","Hawzien","Degum","Chergos Agula","Nazret","Yeha","Aden","Hehzat"]
+		"cities": ["Aksum","Adulis","Matara","Lalibela","Saba","Koloe","Qohayto","Maste","Tekondo","Zala-Bet-Makeda",
+			"Etchmara","Gulo-Makeda","Haghero-Deragweh","Dergouah","Henzat","Ham","Anza","Hawzien","Degum","Chergos Agula",
+			"Nazret","Yeha","Aden","Hehzat"]
 	},
 	{
 		"name": "Han",
@@ -65,7 +67,9 @@
 		"innerColor": [110,60,50],
 		"uniqueName": "Nine Provinces",
 		"uniques": ["[+1] population [in all cities]"],
-		"cities": ["Cháng'ān","Luoyang","Línzī","Chengdu","Huáiyáng","Liángzhōu","Jīnyáng","Handan","Pengcheng","Ji","Guanglíng","Xuchang","Xíngyáng","Shouchun","Linxiang","Dìngtáo","Nanjun","Nanchang","Yángqǔ","Hefei","Nánzhèng","Yè","Didao","Panyu"],
+		"cities": ["Cháng'ān","Luoyang","Línzī","Chengdu","Huáiyáng","Liángzhōu","Jīnyáng","Handan","Pengcheng","Ji",
+			"Guanglíng","Xuchang","Xíngyáng","Shouchun","Linxiang","Dìngtáo","Nanjun","Nanchang","Yángqǔ","Hefei",
+			"Nánzhèng","Yè","Didao","Panyu"],
 	},
 	{
 		"name": "Khmer",
@@ -99,7 +103,9 @@
 		"innerColor": [170,140,10],
 		"uniqueName": "Ksekam Chamnon",
 		"uniques": ["[+100]% growth [in capital]","[-3 Happiness] <in cities without a [Palace]>"],
-		"cities": ["Yasodharapura","Indrapura","Mahendraparvata","Hariharalaya","Stung Treng","Isanapura","Lingapura","Jayendranagari","Angkor Borei","Phum Snay","Ou Kaev","Phimai","Sdok Kok Thom","Beng Mealea","Banteay Srei","Banteay Chhmar","Preah Vihear","Kompong Thom","Longvek","Oudong","Kampot","Phnom Penh","Battambang","Siem Reap"],
+		"cities": ["Yasodharapura","Indrapura","Mahendraparvata","Hariharalaya","Stung Treng","Isanapura","Lingapura","Jayendranagari","Angkor Borei","Phum Snay"
+			,"Ou Kaev","Phimai","Sdok Kok Thom","Beng Mealea","Banteay Srei","Banteay Chhmar","Preah Vihear","Kompong Thom","Longvek","Oudong",
+			"Kampot","Phnom Penh","Battambang","Siem Reap"],
 	},
 	{
 		"name": "Mississipi",
@@ -133,7 +139,9 @@
 		"innerColor": [120,100,230],
 		"uniqueName": "Goose Societies",
 		"uniques": ["[+1 Food, +1 Production] from [River] tiles [in all cities]"],
-		"cities": ["Cahokia","Coosa","Chickasaw","Alabama","Apalachee","Choctaw","Creek","Hitchiti","Houma","Kansa","Missouria","Mobilian","Natchez","Osage","Quapaw","Tunica","Yamasee","Yuchi","Quizquiz","Chucalisa","Nodana","Wapanocca","Chauga","Coste"],
+		"cities": ["Cahokia","Coosa","Chickasaw","Alabama","Apalachee","Choctaw","Creek","Hitchiti","Houma","Kansa",
+			"Missouria","Mobilian","Natchez","Osage","Quapaw","Tunica","Yamasee","Yuchi","Quizquiz","Chucalisa",
+			"Nodana","Wapanocca","Chauga","Coste"],
 	},
 	{
 		"name": "Bulgaria",
@@ -167,7 +175,9 @@
 		"innerColor": [255,212,212],
 		"uniqueName": "Krums Dynasty",
 		"uniques": ["[+1 Food] per [1] population [in all cities] <when number of [Razing] is more than [0]>"],
-		"cities": ["Preslav","Tarnovo","Ohrid","Pliska","Drastar","Pleven","Badin","Sredets","Karvuna","Plovdiv","Borui","Skopie","Belograd","Varna","Breznik","Devina","Pernik","Lipjan","Deultum","Bitolja","Drembitsa","Drembitsa","Prilep","Kossovo"],
+		"cities": ["Preslav","Tarnovo","Ohrid","Pliska","Drastar","Pleven","Badin","Sredets","Karvuna","Plovdiv",
+			"Borui","Skopie","Belograd","Varna","Breznik","Devina","Pernik","Lipjan","Deultum","Bitolja",
+			"Drembitsa","Drembitsa","Prilep","Kossovo"],
 	}
 
 	{
@@ -202,6 +212,46 @@
 		"innerColor": [190,25,20],
 		"uniqueName": "Normannitas",
 		"uniques": [ "[Land] units gain the [Normannitas] promotion","[+20]% Strength <when attacking> <in tiles adjacent to [Coast] tiles>"],
-		"cities": ["Rouen","Kaem","Bayeux","Falaise","Hastinges","Fecamp","wyncestre","Lundres","Dovorre","Gisors","Everwyk","Cheregugh","Cantorbire","Dives","Colcestre","Norwiche","Mortaigne","Diepe","Lincoln","Evrous","Boseham","Avraunches","Melfi","Avraunches"],
+		"cities": ["Rouen","Kaem","Bayeux","Falaise","Hastinges","Fecamp","Wyncestre","Lundres","Dovorre","Gisors",
+			"Everwyk","Cheregugh","Cantorbire","Dives","Colcestre","Norwiche","Mortaigne","Diepe","Lincoln","Evrous",
+			"Boseham","Avraunches","Melfi","Avraunches"],
+	}
+
+	{
+		"name": "Shawnee",
+		"leaderName": "Tecumseh",
+		"adjective": ["Shawnee"],
+		"startBias": ["River","Grassland","Plains"],
+		"preferredVictoryType": "Diplomacy",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "",
+		"attacked": "",
+		
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"outerColor": [10,10,135],
+		"innerColor": [190,25,20],
+		"uniqueName": "Nepekifaki",
+		"uniques": [ "[+2 Food] from every [River] <in cities with a [Water Mill]>", "[-10]% [Food] <in cities without a [Water Mill]>"],
+		"cities": ["Cilakofa","Pikawiiki","Thuthy's Hotewe","Penfekim'teko","White Oak","Little Axe","Prophet's Town","Sekakwis","Wakacaalli","Yetakapewaki",
+			"Ikan'hatki","Wapa'konetta","Cornstalk's Town","Nonhelema's Town","Nepipemi Hotaapata","Saawanwa Hotewe","Wapatomica","Makacheki","Mawaskawewiikiwa","New Pekowiki",
+			"Chillicothe Old Town","Bluejacket's Town","Wicita","Eskalapia"],
 	}
 ]
