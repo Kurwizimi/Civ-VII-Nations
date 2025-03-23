@@ -169,4 +169,39 @@
 		"uniques": ["[+1 Food] per [1] population [in all cities] <when number of [Razing] is more than [0]>"],
 		"cities": ["Preslav","Tarnovo","Ohrid","Pliska","Drastar","Pleven","Badin","Sredets","Karvuna","Plovdiv","Borui","Skopie","Belograd","Varna","Breznik","Devina","Pernik","Lipjan","Deultum","Bitolja","Drembitsa","Drembitsa","Prilep","Kossovo"],
 	}
+
+	{
+		"name": "The Normans",
+		"leaderName": "William",
+		"adjective": ["Norman"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"outerColor": [10,10,135],
+		"innerColor": [190,25,20],
+		"uniqueName": "Normannitas",
+		"uniques": [ "[Land] units gain the [Normannitas] promotion","[+20]% Strength <when attacking> <in tiles adjacent to [Coast] tiles>"],
+		"cities": ["Rouen","Kaem","Bayeux","Falaise","Hastinges","Fecamp","wyncestre","Lundres","Dovorre","Gisors","Everwyk","Cheregugh","Cantorbire","Dives","Colcestre","Norwiche","Mortaigne","Diepe","Lincoln","Evrous","Boseham","Avraunches","Melfi","Avraunches"],
+	}
 ]
