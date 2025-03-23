@@ -1,17 +1,77 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
-	}
+        "name": "Dhow",
+        "replaces": "Trireme",
+        "uniqueTo": "Aksum",
+        "unitType": "Ranged Water",
+        "movement": 3,
+        "strength": 10,
+	"rangedStrength": 6,
+        "range": 2,
+        "cost": 45,
+        "requiredTech": "Sailing",
+        "uniques": [
+            "Cannot enter ocean tiles",
+            "Can move after attacking",
+            "[-33]% Strength <vs cities> <when attacking>"
+        ],
+        "upgradesTo": "Caravel",
+        "obsoleteTech": "Astronomy",
+        "attackSound": "nonmetalhit"
+    },
+	//Han - Chu Ko Nu already exist in the game
+	//So what UU should be added?
+	//If you are reading this, please end my torment and tell me what you think.
+	//Use the issues tab or tell me on the Unciv Discord server, pls
+	
+	{
+        "name": "Yuthahathi",
+	"replaces": "Horseman",
+	"uniqueTo": "Carthage",
+	"unitType": "Mounted",
+        "movement": 4,
+        "strength": 13,
+        "cost": 75,
+        "requiredTech": "Horseback Riding",
+        "upgradesTo": "Knight",
+        "obsoleteTech": "Chivalry",
+        "uniques": ["Can move after attacking","No defensive terrain bonus"],
+        "hurryCostModifier": 20,
+        "attackSound": "elephant"
+    },
+
+	{
+        "name": "Burning Arrows",
+	"replaces": "Archer",
+	"uniqueTo": "Mississipi",
+        "unitType": "Archery",
+        "movement": 2,
+        "strength": 5,
+        "rangedStrength": 7,
+        "cost": 40,
+        "requiredTech": "Archery",
+        "upgradesTo": "Composite Bowman",
+        "obsoleteTech": "Construction",
+	"uniques": ["[+50]% Strength <vs cities> <when attacking>"],
+	"promotions": ["Burning Arrows Ability"],
+        "attackSound": "arrow"
+    },
+
+	 {
+        "name": "Bolyar",
+	"replaces": "Knight",
+	"uniqueTo": "Bulgaria",
+        "unitType": "Mounted",
+        "movement": 4,
+        "strength": 20,
+        "cost": 120,
+        "requiredTech": "Chivalry",
+        "obsoleteTech": "Military Science",
+        "upgradesTo": "Cavalry",
+        "requiredResource": "Horses",
+        "uniques": ["Double movement in [Hill]", "Can move after attacking", "[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+	"promotions": ["Drill II"],
+        "attackSound": "horse"
+    },
+
 ]
