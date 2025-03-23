@@ -32,13 +32,13 @@
 		"uniqueName": "Kingdom of Natural Wealth",
 		"uniques": ["[+2 Gold] from [Resource] tiles [in all cities]"],
 		"cities": ["Aksum","Adulis","Matara","Lalibela","Saba","Koloe","Qohayto","Maste","Tekondo","Zala-Bet-Makeda","Etchmara","Gulo-Makeda","Haghero-Deragweh","Dergouah","Henzat","Ham","Anza","Hawzien","Degum","Chergos Agula","Nazret","Yeha","Aden","Hehzat"]
-	}
+	},
 	{
 		"name": "Han",
 		"leaderName": "",
 		"adjective": ["Han"],
 		"startBias": ["Grassland"],
-		"preferredVictoryType": "Science",
+		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "",
 		"startIntroPart2": "",
@@ -66,13 +66,13 @@
 		"uniqueName": "Nine Provinces",
 		"uniques": ["[+1] population [in all cities]"],
 		"cities": ["Cháng'ān","Luoyang","Línzī","Chengdu","Huáiyáng","Liángzhōu","Jīnyáng","Handan","Pengcheng","Ji","Guanglíng","Xuchang","Xíngyáng","Shouchun","Linxiang","Dìngtáo","Nanjun","Nanchang","Yángqǔ","Hefei","Nánzhèng","Yè","Didao","Panyu"],
-	}
+	},
 	{
 		"name": "Khmer",
 		"leaderName": "Jayavarman II",
 		"adjective": ["Khmer"],
 		"startBias": ["Jungle","Flood plains"],
-		"preferredVictoryType": "Science",
+		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "",
 		"startIntroPart2": "",
@@ -100,7 +100,7 @@
 		"uniqueName": "Ksekam Chamnon",
 		"uniques": ["[+100]% growth [in capital]","[-3 Happiness] <in cities without a [Palace]>"],
 		"cities": ["Yasodharapura","Indrapura","Mahendraparvata","Hariharalaya","Stung Treng","Isanapura","Lingapura","Jayendranagari","Angkor Borei","Phum Snay","Ou Kaev","Phimai","Sdok Kok Thom","Beng Mealea","Banteay Srei","Banteay Chhmar","Preah Vihear","Kompong Thom","Longvek","Oudong","Kampot","Phnom Penh","Battambang","Siem Reap"],
-	}
+	},
 	{
 		"name": "Mississipi",
 		"leaderName": "",
@@ -134,7 +134,7 @@
 		"uniqueName": "Goose Societies",
 		"uniques": ["[+1 Food, +1 Production] from [River] tiles [in all cities]"],
 		"cities": ["Cahokia","Coosa","Chickasaw","Alabama","Apalachee","Choctaw","Creek","Hitchiti","Houma","Kansa","Missouria","Mobilian","Natchez","Osage","Quapaw","Tunica","Yamasee","Yuchi","Quizquiz","Chucalisa","Nodana","Wapanocca","Chauga","Coste"],
-	}
+	},
 	{
 		"name": "Bulgaria",
 		"leaderName": "",
