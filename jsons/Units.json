@@ -53,7 +53,7 @@
         "upgradesTo": "Composite Bowman",
         "obsoleteTech": "Construction",
 	"uniques": ["[+50]% Strength <vs cities> <when attacking>"],
-	"promotions": ["Burning Arrows Ability"],
+	"promotions": ["[Burning Arrows] ability"],
         "attackSound": "arrow"
     },
 
