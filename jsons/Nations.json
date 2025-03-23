@@ -1,38 +1,172 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Aksum",
+		"leaderName": "",
+		"adjective": ["Aksumite"],
+		"startBias": ["Coast", "Hill"],
+		"preferredVictoryType": "Diplomatic",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "",
+		"startIntroPart2": "",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "",
+		"tradeRequest": "",
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"uniqueName": "Kingdom of Natural Wealth",
+		"uniques": ["[+2 Gold] from [Resource] tiles [in all cities]"],
+		"cities": ["Aksum","Adulis","Matara","Lalibela","Saba","Koloe","Qohayto","Maste","Tekondo","Zala-Bet-Makeda","Etchmara","Gulo-Makeda","Haghero-Deragweh","Dergouah","Henzat","Ham","Anza","Hawzien","Degum","Chergos Agula","Nazret","Yeha","Aden","Hehzat"]
+	}
+	{
+		"name": "Han",
+		"leaderName": "",
+		"adjective": ["Han"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Science",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "Nine Provinces",
+		"uniques": ["[+1] population [in all cities]"],
+		"cities": ["Cháng'ān","Luoyang","Línzī","Chengdu","Huáiyáng","Liángzhōu","Jīnyáng","Handan","Pengcheng","Ji","Guanglíng","Xuchang","Xíngyáng","Shouchun","Linxiang","Dìngtáo","Nanjun","Nanchang","Yángqǔ","Hefei","Nánzhèng","Yè","Didao","Panyu"],
+	}
+	{
+		"name": "Khmer",
+		"leaderName": "Jayavarman II",
+		"adjective": ["Khmer"],
+		"startBias": ["Jungle","Flood plains"],
+		"preferredVictoryType": "Science",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "Ksekam Chamnon",
+		"uniques": ["[+100]% growth [in capital]","[-3 Happiness] <in cities without a [Palace]>"],
+		"cities": ["Yasodharapura","Indrapura","Mahendraparvata","Hariharalaya","Stung Treng","Isanapura","Lingapura","Jayendranagari","Angkor Borei","Phum Snay","Ou Kaev","Phimai","Sdok Kok Thom","Beng Mealea","Banteay Srei","Banteay Chhmar","Preah Vihear","Kompong Thom","Longvek","Oudong","Kampot","Phnom Penh","Battambang","Siem Reap"],
+	}
+	{
+		"name": "Mississipi",
+		"leaderName": "",
+		"adjective": ["Mississipi"],
+		"startBias": ["River"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "Goose Societies",
+		"uniques": ["[+1 Food, +1 Production] from [River] tiles [in all cities]"],
+		"cities": ["Cahokia","Coosa","Chickasaw","Alabama","Apalachee","Choctaw","Creek","Hitchiti","Houma","Kansa","Missouria","Mobilian","Natchez","Osage","Quapaw","Tunica","Yamasee","Yuchi","Quizquiz","Chucalisa","Nodana","Wapanocca","Chauga","Coste"],
+	}
+	{
+		"name": "Bulgaria",
+		"leaderName": "",
+		"adjective": ["Bulgarian"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "Krums Dynasty",
+		"uniques": [""],
+		"cities": ["Cahokia","Coosa","Chickasaw","Alabama","Apalachee","Choctaw","Creek","Hitchiti","Houma","Kansa","Missouria","Mobilian","Natchez","Osage","Quapaw","Tunica","Yamasee","Yuchi","Quizquiz","Chucalisa","Nodana","Wapanocca","Chauga","Coste"],
 	}
 ]
