@@ -7,7 +7,7 @@
         "culture": 1,
         "turnsToBuild": 7,
         "techRequired": "Masonry",
-        "uniques": ["[+1 Food] for each adjacent [Halwit]", "Pillaging this improvement yields approximately [+25 Gold]"],
+        "uniques": ["[+1 Culture] for each adjacent [Halwit]", "Pillaging this improvement yields approximately [+25 Gold]"],
         "shortcutKey": "H"
     },
   {
@@ -37,7 +37,7 @@
         "gold": 2,
         "turnsToBuild": 7,
         "techRequired": "Calendar",
-        "uniques": ["[+1 Food] for each adjacent [Resource]", "Pillaging this improvement yields approximately [+25 Gold]"],
+        "uniques": ["[+1 Food] for each adjacent [resource]", "Pillaging this improvement yields approximately [+25 Gold]"],
         "shortcutKey": "P"
     },
   {
