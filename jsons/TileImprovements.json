@@ -50,6 +50,48 @@
         "uniques": ["Gives a defensive bonus of [60]%", "Pillaging this improvement yields approximately [+25 Gold]"],
         "shortcutKey": "H"
     },
+     {
+        "name": "Mawaskawe Skote",
+        "uniqueTo": "Shawnee",
+        "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Forest","Jungle"],
+        "food": 3,
+        "turnsToBuild": 7,
+        "techRequired": "Civil Service",
+        "uniques": ["[+1 Gold] for each adjacent [resource]", "Pillaging this improvement yields approximately [+25 Gold]"],
+        "shortcutKey": "S"
+    },
+    {
+        "name": "Kabaka's Lake",
+        "uniqueTo": "Buganda",
+        "terrainsCanBeBuiltOn": ["Plains","Grassland"],
+        "food": 2,
+        "gold": 1,
+        "happiness": 2,
+        "turnsToBuild": 7,
+        "techRequired": "Engineering",
+        "uniques": ["Fresh water", "Pillaging this improvement yields approximately [+25 Gold]"],
+        "shortcutKey": "K"
+    },
+    {
+        "name": "Stepwell",
+        "uniqueTo": "The Mughals",
+        "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert"],
+        "gold": 2,
+        "turnsToBuild": 7,
+        "techRequired": "Mathematics",
+        "uniques": ["[+1 Food] for each adjacent [Farm]", "Pillaging this improvement yields approximately [+25 Gold]"],
+        "shortcutKey": "S"
+    },
+     {
+        "name": "Highland Power Station",
+        "uniqueTo": "Nepal",
+        "terrainsCanBeBuiltOn": ["Mountain"],
+        "production": 2,
+        "turnsToBuild": 7,
+        "techRequired": "Electricity",
+        "uniques": ["[+1 Culture] for each adjacent [Mountain]", "Pillaging this improvement yields approximately [+25 Gold]"],
+        "shortcutKey": "P"
+    },
 
 
 
