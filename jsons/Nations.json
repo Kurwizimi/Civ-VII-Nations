@@ -553,7 +553,7 @@
 		"outerColor": [10,10,135],
 		"innerColor": [190,25,20],
 		"uniqueName": "Kang Qian Shengshi",
-		"uniques": [ "[+2 Gold,+2 Culture, -2 Science] <for every [resource]>"],
+		"uniques": [ "[+2 Gold, +2 Culture, -2 Science] <for every [resource]>"],
 		"cities": ["Beijing","Guangzhou","Nanjing","Suzhou","Wuchang","Changsha","Shanghai","Shenyang","Lanzhou","Kunming",
 			"Fuzhou","Chengdu","Hankou","Taipei","Qingdao","Guiyang","Shenzhen","Harbin","Hong Kong","Taiyuan",
 			"Tianjin","Foshan","Weihai","Zhenjiang"],
