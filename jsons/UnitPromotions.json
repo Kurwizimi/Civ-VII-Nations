@@ -1,5 +1,5 @@
 [
-{
+        {
         "name": "[Burning Arrows] ability",
         "uniques": ["[+50]% Strength <when fighting in [Forest] tiles>"]
     },
@@ -7,6 +7,10 @@
         {
         "name": "Normannitas",
         "uniques": ["[+20]% Strength <when attacking> <in tiles adjacent to [Coast] tiles>","[+1] Movement <when [Embarked]>"]
+    },
+        {
+        "name": "Trained Sherpas",
+        "uniques": ["Can pass through impassable tiles","[This Unit] heals [50] HP <upon ending a turn in a [Mountain] tile>"]
     },
 
 
