@@ -477,7 +477,7 @@
 		"outerColor": [10,10,135],
 		"innerColor": [190,25,20],
 		"uniqueName": "Paradise of Nations",
-		"uniques": [ "[-25]% [Culture]", "[-25]% [Science]", "[-25]% [Production]", "[+100]% [Gold]"],
+		"uniques": [ "[-25]% [Culture] [in all cities]", "[-25]% [Science] [in all cities]", "[-25]% [Production] [in all cities]", "[+100]% [Gold] [in all cities]"],
 		"cities": ["Dilī","Āgra","Kābul","Allāhābād","Lahore","Ahmadabad","Banaras","Cambay","Surat","Burhanpur",
 			"Thatta","Aurangabad","Bahkkar","Multan","Patna","Faizabad","Lucknow","Ajmer","Ujjain","Kashmir",
 			"Dhaka","Ellichpur","Bidar","Bijapur"],
