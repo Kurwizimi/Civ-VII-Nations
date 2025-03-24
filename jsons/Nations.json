@@ -211,7 +211,7 @@
 		"outerColor": [10,10,135],
 		"innerColor": [190,25,20],
 		"uniqueName": "Normannitas",
-		"uniques": [ "[Land] units gain the [Normannitas] promotion","[+20]% Strength <when attacking> <in tiles adjacent to [Coast] tiles>"],
+		"uniques": [ "[Land] units gain the [Normannitas] promotion"],
 		"cities": ["Rouen","Kaem","Bayeux","Falaise","Hastinges","Fecamp","Wyncestre","Lundres","Dovorre","Gisors",
 			"Everwyk","Cheregugh","Cantorbire","Dives","Colcestre","Norwiche","Mortaigne","Diepe","Lincoln","Evrous",
 			"Boseham","Avraunches","Melfi","Avraunches"],
