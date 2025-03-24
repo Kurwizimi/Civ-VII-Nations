@@ -64,12 +64,12 @@
         "name": "Kabaka's Lake",
         "uniqueTo": "Buganda",
         "terrainsCanBeBuiltOn": ["Plains","Grassland"],
-        "food": 2,
+        "food": 3,
         "gold": 1,
         "happiness": 2,
         "turnsToBuild": 7,
         "techRequired": "Engineering",
-        "uniques": ["Fresh water", "Pillaging this improvement yields approximately [+25 Gold]"],
+        "uniques": ["Pillaging this improvement yields approximately [+25 Gold]"],
         "shortcutKey": "K"
     },
     {
