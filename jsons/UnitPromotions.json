@@ -1,10 +1,14 @@
 [
 {
         "name": "[Burning Arrows] ability",
-        "uniques": [
-            "[+50]% Strength <when fighting in [Forest] tiles>",
-        ]
+        "uniques": ["[+50]% Strength <when fighting in [Forest] tiles>"]
     },
+
+        {
+        "name": "Normannitas",
+        "uniques": ["[+50]% Strength <when fighting in [Forest] tiles>"]
+    },
+
 
 
 
