@@ -66,7 +66,7 @@
 		"outerColor": [220,200,100],
 		"innerColor": [110,60,50],
 		"uniqueName": "Nine Provinces",
-		"uniques": ["[+1] population [in all cities] <for every [25 turns]>"],
+		"uniques": ["[+1] population [in all cities] <for every [ [25] turns] ]>"],
 		"cities": ["Cháng'ān","Luoyang","Línzī","Chengdu","Huáiyáng","Liángzhōu","Jīnyáng","Handan","Pengcheng","Ji",
 			"Guanglíng","Xuchang","Xíngyáng","Shouchun","Linxiang","Dìngtáo","Nanjun","Nanchang","Yángqǔ","Hefei",
 			"Nánzhèng","Yè","Didao","Panyu"],
@@ -213,7 +213,7 @@
 		"outerColor": [170,20,20],
 		"innerColor": [255,212,212],
 		"uniqueName": "Krums Dynasty",
-		"uniques": ["[+1 Food] per [1] population [in all cities] <when number of [Razing] is more than [0]>"], //No Work :(//
+		//"uniques": ["[+1 Food] per [1] population [in all cities] <when number of [Razing] is more than [0]>"], No Work :(//
 		"cities": ["Preslav","Tarnovo","Ohrid","Pliska","Drastar","Pleven","Badin","Sredets","Karvuna","Plovdiv",
 			"Borui","Skopie","Belograd","Varna","Breznik","Devina","Pernik","Lipjan","Deultum","Bitolja",
 			"Drembitsa","Drembitsa","Prilep","Kossovo"],
@@ -329,14 +329,14 @@
 		"cities": ["Rouen","Kaem","Bayeux","Falaise","Hastinges","Fecamp","Wyncestre","Lundres","Dovorre","Gisors",
 			"Everwyk","Cheregugh","Cantorbire","Dives","Colcestre","Norwiche","Mortaigne","Diepe","Lincoln","Evrous",
 			"Boseham","Avraunches","Melfi","Avraunches"],
-	}
+	},
 
 	{
 		"name": "Shawnee",
 		"leaderName": "Tecumseh",
 		"adjective": ["Shawnee"],
 		"startBias": ["River","Grassland","Plains"],
-		"preferredVictoryType": "Diplomacy",
+		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "",
 		"startIntroPart2": "",
@@ -367,14 +367,14 @@
 		"cities": ["Cilakofa","Pikawiiki","Thuthy's Hotewe","Penfekim'teko","White Oak","Little Axe","Prophet's Town","Sekakwis","Wakacaalli","Yetakapewaki",
 			"Ikan'hatki","Wapa'konetta","Cornstalk's Town","Nonhelema's Town","Nepipemi Hotaapata","Saawanwa Hotewe","Wapatomica","Makacheki","Mawaskawewiikiwa","New Pekowiki",
 			"Chillicothe Old Town","Bluejacket's Town","Wicita","Eskalapia"],
-	}
+	},
 
 	{
 		"name": "Buganda",
 		"leaderName": "",
 		"adjective": ["Bugandan"],
 		"startBias": ["Lakes","Jungle"],
-		"preferredVictoryType": "Diplomacy",
+		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "",
 		"startIntroPart2": "",
@@ -553,7 +553,7 @@
 		"outerColor": [10,10,135],
 		"innerColor": [190,25,20],
 		"uniqueName": "Kang Qian Shengshi",
-		"uniques": [ "[+2 Gold, +2 Culture, -2 Science] <for every [resource]>"],
+		//"uniques": [ "[+2 Gold, +2 Culture, -2 Science] <for every [resource]>"],
 		"cities": ["Beijing","Guangzhou","Nanjing","Suzhou","Wuchang","Changsha","Shanghai","Shenyang","Lanzhou","Kunming",
 			"Fuzhou","Chengdu","Hankou","Taipei","Qingdao","Guiyang","Shenzhen","Harbin","Hong Kong","Taiyuan",
 			"Tianjin","Foshan","Weihai","Zhenjiang"],
