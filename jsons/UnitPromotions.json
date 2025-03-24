@@ -6,7 +6,7 @@
 
         {
         "name": "Normannitas",
-        "uniques": ["[+50]% Strength <when fighting in [Forest] tiles>"]
+        "uniques": ["[+20]% Strength <when attacking> <in tiles adjacent to [Coast] tiles>","[+1] Movement <when [Embarked]>"]
     },
 
 
