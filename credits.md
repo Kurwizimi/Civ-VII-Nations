@@ -7,7 +7,7 @@ All the following are from [the Noun Project](https://thenounproject.com) licenc
 * paganism - sun cross by Gavin Muhammad Isa from <a href="https://thenounproject.com/browse/icons/term/paganism-sun-cross/" target="_blank" title="paganism - sun cross Icons">Noun Project</a> (CC BY 3.0)
 * horse rider by Dimitri Lupo from <a href="https://thenounproject.com/browse/icons/term/horse-rider/" target="_blank" title="horse rider Icons">Noun Project</a> (CC BY 3.0)
 * tiger head by Yash Gohel from <a href="https://thenounproject.com/browse/icons/term/tiger-head/" target="_blank" title="tiger head Icons">Noun Project</a> (CC BY 3.0)
-* phoenix by Brad from <a href="https://thenounproject.com/browse/icons/term/phoenix/" target="_blank" title="phoenix Icons">Noun Project</a> (CC BY 3.0)
+* (Sourced from Nobles and Merchants)
 * NORMAN
 * SHAWNEE
 * BUGANDA
