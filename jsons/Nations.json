@@ -250,7 +250,7 @@
 		"outerColor": [170,20,20],
 		"innerColor": [255,212,212],
 		"uniqueName": "Samayam",
-		"uniques": ["Gifts of Gold to City-States generate [relativeAmount]% more Influence"], //Something to do with gold for every city state you are allied with?
+		"uniques": ["Gifts of Gold to City-States generate [100]% more Influence"], //Something to do with gold for every city state you are allied with?
 		"cities": ["Gangaikonda Cholapuram","Pazhayarai","Thanjavur","Uraiyuir","Nagapattinam","Kanchipuram","Madurai","Karur","Talakkad","Mahodaiyapuram",
 			"Kollam","Kantalur-Salai","Talakadu","Vengi","Mahabalipuram","Vasavasamudram","Arikamedu","Kaveripatnam","Tondi","Periyapattinam",
 			"Rameswaram","Devipattinam","Alagankulam","Korkal"],
