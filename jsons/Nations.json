@@ -137,8 +137,8 @@
 		"afterPeace": "",
 		"tradeRequest": "",
 
-		"outerColor": [10,10,135],
-		"innerColor": [190,25,20],
+		"outerColor": [50,200,200],
+		"innerColor": [50,10,150],
 		"uniqueName": "Dhamma Lipi",
 		"uniques": [  "Gain a free [Pantheon] belief <after discovering [Philosophy]>"],
 		"cities": ["Pataliputra","Ujjayini","Tosali","Suvarnagiri","Taksasila","Kausambi","Samapa","Risila","Pudanagala","Girinagara",
@@ -247,8 +247,8 @@
 		"afterPeace": "",
 		"tradeRequest": "",
 
-		"outerColor": [170,20,20],
-		"innerColor": [255,212,212],
+		"outerColor": [200,50,50],
+		"innerColor": [190,155,0],
 		"uniqueName": "Samayam",
 		"uniques": ["Gifts of Gold to City-States generate [100]% more Influence"], //Something to do with gold for every city state you are allied with?
 		"cities": ["Gangaikonda Cholapuram","Pazhayarai","Thanjavur","Uraiyuir","Nagapattinam","Kanchipuram","Madurai","Karur","Talakkad","Mahodaiyapuram",
@@ -284,8 +284,8 @@
 		"afterPeace": "",
 		"tradeRequest": "",
 
-		"outerColor": [170,20,20],
-		"innerColor": [255,212,212],
+		"outerColor": [50,140,70],
+		"innerColor": [200,200,160],
 		"uniqueName": "Great Canon of Yongle",
 		"uniques": ["[+10]% [Science]  <after adopting [Tradition]>","[+10]% [Science] <after adopting [Liberty]>","[+10]% [Science] <after adopting [Honor]>","[+10]% [Science] <after adopting [Piety]>","[+10]% [Science] <after adopting [Commerce]>","[+10]% [Science] <after adopting [Rationalism]>","[+10]% [Science]  <after adopting [Order]>","[+10]% [Science] <after adopting [Freedom]>","[+10]% [Science] <after adopting [Autocracy]>","[+10]% [Science] <after adopting [Patronage]>",
 			"[-10 Science] <after adopting [Tradition Complete]>","[-10 Science] <after adopting [Liberty Complete]>","[-10 Science] <after adopting [Honor Complete]>","[-10 Science] <after adopting [Piety Complete]>","[-10 Science] <after adopting [Commerce Complete]>","[-10 Science] <after adopting [Rationalism Complete]>","[-10 Science] <after adopting [Order Complete]>","[-10 Science] <after adopting [Freedom Complete]>","[-10 Science] <after adopting [Autocracy Complete]>","[-10 Science] <after adopting [Patronage Complete]>"],
@@ -361,8 +361,8 @@
 		"afterPeace": "",
 		"tradeRequest": "",
 
-		"outerColor": [10,10,135],
-		"innerColor": [190,25,20],
+		"outerColor": [160,115,185],
+		"innerColor": [230,230,0],
 		"uniqueName": "Nepekifaki",
 		"uniques": [ "[+2 Food] from every [River] <in cities with a [Water Mill]>", "[-10]% [Food] <in cities without a [Water Mill]>"],
 		"cities": ["Cilakofa","Pikawiiki","Thuthy's Hotewe","Penfekim'teko","White Oak","Little Axe","Prophet's Town","Sekakwis","Wakacaalli","Yetakapewaki",
@@ -399,8 +399,8 @@
 		"afterPeace": "",
 		"tradeRequest": "",
 
-		"outerColor": [10,10,135],
-		"innerColor": [190,25,20],
+		"outerColor": [160,160,70],
+		"innerColor": [197,60,50],
 		"uniqueName": "'Nnalubaale",
 		"uniques": [ "[+2 Culture, +2 Food] from every [Lakes]", "[Land] units gain the [Amphibious] promotion"],
 		"cities": ["Kampala","Kasangati","Mukono","Ssentema","Butoolo","Mitiyana","Buzinde","Nakasongola","Kaabasanda","Masaka",
@@ -437,8 +437,8 @@
 		"afterPeace": "",
 		"tradeRequest": "",
 
-		"outerColor": [10,10,135],
-		"innerColor": [190,25,20],
+		"outerColor": [0,100,5],
+		"innerColor": [200,50,0],
 		"uniqueName": "Revolución",
 		"uniques": ["[+20]% [Culture] <for [12] turns> <after adopting [Tradition]>","[+20]% [Culture] <for [12] turns> <after adopting [Liberty]>","[+20]% [Culture] <for [12] turns> <after adopting [Honor]>","[+20]% [Culture] <for [12] turns> <after adopting [Piety]>","[+20]% [Culture] <for [12] turns> <after adopting [Commerce]>","[+20]% [Culture] <for [12] turns> <after adopting [Rationalism]>","[+20]% [Culture] <for [12] turns> <after adopting [Order]>","[+20]% [Culture] <for [12] turns> <after adopting [Freedom]>","[+20]% [Culture] <for [12] turns> <after adopting [Autocracy]>","[+20]% [Culture] <for [12] turns> <after adopting [Patronage]>"],
 		"cities": ["Ciudad de México","Guadalajara","Puebla","Monterrey","Tampico","Mérida","Tehuacán","León","Toluca","Zacatlán",
@@ -475,8 +475,8 @@
 		"afterPeace": "",
 		"tradeRequest": "",
 
-		"outerColor": [10,10,135],
-		"innerColor": [190,25,20],
+		"outerColor": [20,90,30],
+		"innerColor": [170,170,10],
 		"uniqueName": "Paradise of Nations",
 		"uniques": [ "[-25]% [Culture] [in all cities]", "[-25]% [Science] [in all cities]", "[-25]% [Production] [in all cities]", "[+100]% [Gold] [in all cities]"],
 		"cities": ["Dilī","Āgra","Kābul","Allāhābād","Lahore","Ahmadabad","Banaras","Cambay","Surat","Burhanpur",
@@ -513,8 +513,8 @@
 		"afterPeace": "",
 		"tradeRequest": "",
 
-		"outerColor": [10,10,135],
-		"innerColor": [190,25,20],
+		"outerColor": [220, 20, 60],
+		"innerColor": [0, 56, 147],
 		"uniqueName": "Roof of the World",
 		"uniques": ["[+1 Food, +1 Production] from [Mountain] tiles [in all cities]", "[Worker] units gain the [Trained Sherpas] promotion"],
 		"cities": ["Kathmandu","Pokhara","Lalitpur","Bharatpur","Gahawa","Dharan","Hetauda","Birendranagar","Itahari","Janakpurdham",
@@ -551,8 +551,8 @@
 		"afterPeace": "",
 		"tradeRequest": "",
 
-		"outerColor": [10,10,135],
-		"innerColor": [190,25,20],
+		"outerColor": [250,250,0],
+		"innerColor": [10,20,90],
 		"uniqueName": "Kang Qian Shengshi",
 		//"uniques": [ "[+2 Gold, +2 Culture, -2 Science] <for every [resource]>"],
 		"cities": ["Beijing","Guangzhou","Nanjing","Suzhou","Wuchang","Changsha","Shanghai","Shenyang","Lanzhou","Kunming",
