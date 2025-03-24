@@ -1,6 +1,6 @@
 
 game.png
-size: 512, 128
+size: 2048, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
@@ -18,6 +18,13 @@ BuildingIcons/Holodeck
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Aksum
+  rotate: false
+  xy: 1338, 15
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
 NationIcons/Aliens
   rotate: false
   xy: 4, 4
@@ -25,9 +32,72 @@ NationIcons/Aliens
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Phasers
+NationIcons/Bulgaria
+  rotate: false
+  xy: 652, 14
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+NationIcons/Chola
+  rotate: false
+  xy: 750, 14
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+NationIcons/Han
+  rotate: false
+  xy: 848, 14
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+NationIcons/Maurya
+  rotate: false
+  xy: 946, 14
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+NationIcons/Mexico
   rotate: false
   xy: 328, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Ming
+  rotate: false
+  xy: 436, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Mississipi
+  rotate: false
+  xy: 1044, 14
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+NationIcons/Nepal
+  rotate: false
+  xy: 1142, 14
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+NationIcons/Qing
+  rotate: false
+  xy: 1240, 14
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Phasers
+  rotate: false
+  xy: 544, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
