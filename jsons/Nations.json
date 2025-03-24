@@ -288,7 +288,8 @@
 		"innerColor": [255,212,212],
 		"uniqueName": "Great Canon of Yongle",
 		"uniques": ["[+10]% [Science]  <after adopting [Tradition]>","[+10]% [Science] <after adopting [Liberty]>","[+10]% [Science] <after adopting [Honor]>","[+10]% [Science] <after adopting [Piety]>","[+10]% [Science] <after adopting [Commerce]>","[+10]% [Science] <after adopting [Rationalism]>","[+10]% [Science]  <after adopting [Order]>","[+10]% [Science] <after adopting [Freedom]>","[+10]% [Science] <after adopting [Autocracy]>","[+10]% [Science] <after adopting [Patronage]>",
-			"[-10 Science] <after adopting [Tradition Complete]>","[-10 Science] <after adopting [Liberty Complete]>","[-10 Science] <after adopting [Honor Complete]>","[-10 Science] <after adopting [Piety Complete]>","[-10 Science] <after adopting [Commerce Complete]>","[-10 Science] <after adopting [Rationalism Complete]>","[-10 Science] <after adopting [Order Complete]>","[-10 Science] <after adopting [Freedom Complete]>","[+-10 Science] <after adopting [Autocracy Complete]>","[-10 Science] <after adopting [Patronage Complete]>",],
+			"[-10 Science] <after adopting [Tradition Complete]>","[-10 Science] <after adopting [Liberty Complete]>","[-10 Science] <after adopting [Honor Complete]>","[-10 Science] <after adopting [Piety Complete]>","[-10 Science] <after adopting [Commerce Complete]>","[-10 Science] <after adopting [Rationalism Complete]>","[-10 Science] <after adopting [Order Complete]>","[-10 Science] <after adopting [Freedom Complete]>","[+-10 Science] <after adopting [Autocracy Complete]>","[-10 Science] <after adopting [Patronage Complete]>"],
+		"cities":["Yingtian","Beiping","Fuzhou","Guangzhou","Hangzhou","Guilin","Guiyang","Kaifeng","Hankou","Nanchang",
 			"Jinan","Taiyuan","Chengdu","Yunnan","Nanning","Luzhou","Wuchang","Quanzhou","Changsha","Hangyang",
 			"Xiangyang","Jingzhou","Xiamen","Luoyang"],
 	}
