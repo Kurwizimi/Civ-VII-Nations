@@ -10,11 +10,7 @@
         "range": 2,
         "cost": 45,
         "requiredTech": "Sailing",
-        "uniques": [
-            "Cannot enter ocean tiles",
-            "Can move after attacking",
-            "[-33]% Strength <vs cities> <when attacking>"
-        ],
+        "uniques": ["Cannot enter ocean tiles","Can move after attacking","[-33]% Strength <vs cities> <when attacking>"],
         "upgradesTo": "Caravel",
         "obsoleteTech": "Astronomy",
         "attackSound": "nonmetalhit"
@@ -27,7 +23,7 @@
 	{
         "name": "Yuthahathi",
 	"replaces": "Horseman",
-	"uniqueTo": "Carthage",
+	"uniqueTo": "Khmer",
 	"unitType": "Mounted",
         "movement": 4,
         "strength": 13,
@@ -35,7 +31,23 @@
         "requiredTech": "Horseback Riding",
         "upgradesTo": "Knight",
         "obsoleteTech": "Chivalry",
-        "uniques": ["Can move after attacking","No defensive terrain bonus"],
+        "uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
+        "hurryCostModifier": 20,
+        "attackSound": "elephant"
+    },
+
+	{
+        "name": "Purabhettarah",
+	"replaces": "Horseman",
+	"uniqueTo": "Maurya",
+	"unitType": "Mounted",
+        "movement": 3,
+        "strength": 12,
+        "cost": 75,
+        "requiredTech": "Horseback Riding",
+        "upgradesTo": "Knight",
+        "obsoleteTech": "Chivalry",
+        "uniques": ["Can move after attacking","No defensive terrain bonus","[50]% Strength <vs cities> <when attacking>"],
         "hurryCostModifier": 20,
         "attackSound": "elephant"
     },
@@ -72,6 +84,135 @@
         "uniques": ["Double movement in [Hill]", "Can move after attacking", "[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
 	"promotions": ["Drill II"],
         "attackSound": "horse"
+    },
+
+	{
+        "name": "Kalam",
+        "replaces": "Caravel",
+        "uniqueTo": "Chola",
+        "unitType": "Melee Water",
+        "movement": 4,
+        "strength": 20,
+        "cost": 120,
+        "requiredTech": "Astronomy",
+        "uniques": ["Can move after attacking","[3] additional attacks per turn","[+1] Sight","Withdraws before melee combat <with [80]% chance>"],
+        "upgradesTo": "Caravel",
+        "obsoleteTech": "Astronomy",
+        "attackSound": "nonmetalhit"
+    },
+
+	{
+	"name": "Xunleichong",
+	"unitType": "Ranged Gunpowder",
+	"uniqueTo": "Ming",
+	"replaces": "Longswordsman",
+	"movement": 2,
+	"strength": 17,
+	"rangedStrength": 21,
+	"range": 1,
+	"cost": 130,
+	"requiredTech": "Archery",
+	"upgradesTo": "Musketman",
+	"obsoleteTech": "Gunpowder",
+	"promotions": ["Shock I"],
+   },
+
+	{
+	"name": "Mandarin",
+      	"unitType": "Civilian",
+	"uniqueTo": "Ming",
+	"replaces": "Great Merchant",
+	"movement": 4
+        "uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence","Can instantly construct a [Customs house] improvement <by consuming this unit>","May enter foreign tiles without open borders", "Can build [All Road] improvements on tiles", "Gain [25] [Gold] <upon building a [All Road] improvement>", "Unbuildable","Uncapturable"],
+   },
+
+	{
+	"name": "Chevaler",
+	"unitType": "Mounted",
+	"uniqueTo": "Normandy",
+	"replaces": "Knight",
+	"movement": 4,
+	"strength": 20,
+	"cost": 120,
+	"obsolete": "Military Science"
+	"requiredTech": "Chivalry",
+	"uniques":["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>"],
+	"requiredResource": "Horses",
+	"promotions": ["[Chevaler] ability"],
+    },
+
+	{
+        "name": "Hoceepkileni", // DO THIS ONE NOW!!!
+	"replaces": "Missionary",
+	"uniqueTo": "Shawnee",
+	"unitType": "Civilian",
+        "movement": 4,
+        "requiredTech": "Horseback Riding",
+        "upgradesTo": "Knight",
+        "obsoleteTech": "Chivalry",
+        "uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
+        "hurryCostModifier": 20,
+        "attackSound": "elephant"
+    },
+
+	{
+	"name": "Abambowa",
+	"unitType": "Sword",
+	"uniqueTo": "Buganda",
+	"replaces": "Rifleman",
+	"strength": 34,
+	"cost": 200,
+	"movement": 2,
+	"obsolete": "Replaceable Parts"
+	"promotions": ["[Abambowa] ability"], // <upon ending a turn in a [pillaged] tile>
+    },
+
+	{
+	"name": "Soldaderas",
+	"unitType": "Gunpowder",
+	"uniqueTo": "Mexico",
+	"replaces": "Rifleman",
+	"strength": 34,
+	"cost": 225,
+	"movement": 2,
+	"obsolete": "Replaceable Parts"
+	"promotions": ["[Soldaderas] ability"], // +10 health for adjacent units
+    },
+
+	{
+	"name": "Sepoy",
+	"unitType": "Gunpowder",
+	"uniqueTo": "The Mughals",
+	"replaces": "Rifleman",
+	"strength": 40,
+	"rangedStrength": 35,
+	"range": 1,
+	"cost": 250,
+	"movement": 2,
+	"obsolete": "Plastics"
+    },
+
+	{
+	"name": "Gurkha",
+	"unitType": "Gunpowder",
+	"uniqueTo": "Nepal",
+	"replaces": "Infantry",
+	"strength": 80,
+	"cost": 400,
+	"movement": 3,
+	"obsolete": "Mobile Tactics"
+    },
+
+	{
+	"name": "Gusa",
+	"unitType": "Gunpowder",
+	"uniqueTo": "Qing",
+	"replaces": "Rifleman",
+	"strength": 34,
+	"cost": 225,
+	"movement": 2,
+	"obsolete": "Replacable Parts",
+	"promotions": ["[Gusa] ability"],// [+10]% Strength <when adjacent to a [Gusa] unit>//
     },
 
 ]
