@@ -142,17 +142,14 @@
     },
 
 	{
-        "name": "Hoceepkileni", // DO THIS ONE NOW!!!
+        "name": "Hoceepkileni",
 	"replaces": "Missionary",
 	"uniqueTo": "Shawnee",
-	"unitType": "Civilian",
-        "movement": 4,
-        "requiredTech": "Horseback Riding",
-        "upgradesTo": "Knight",
-        "obsoleteTech": "Chivalry",
-        "uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
-        "hurryCostModifier": 20,
-        "attackSound": "elephant"
+	"cost": 100,
+        "uniques": ["Can Spread Religion <for [5] movement> <[3] times> <after which this unit is consumed>", "May enter foreign tiles without open borders, but loses [200] religious strength each turn it ends there", "Can be purchased for [200] [Faith] [in all cities in which the majority religion is a major religion]",
+        	"Unbuildable", "Religious Unit", "Only available <when religion is enabled>"],
+        "movement": 5,
+        "religiousStrength": 800
     },
 
 	{
