@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Aksum",
-		"leaderName": "",
+		"leaderName": "Makeda",
 		"adjective": ["Aksumite"],
 		"startBias": ["Coast", "Hill"],
 		"preferredVictoryType": "Diplomatic",
@@ -37,7 +37,7 @@
 	},
 	{
 		"name": "Han",
-		"leaderName": "",
+		"leaderName": "Xuan",
 		"adjective": ["Han"],
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Scientific",
@@ -148,7 +148,7 @@
 	
 	{
 		"name": "Mississipi",
-		"leaderName": "",
+		"leaderName": "Tuskaloosa",
 		"adjective": ["Mississipi"],
 		"startBias": ["River"],
 		"preferredVictoryType": "Diplomatic",
@@ -184,7 +184,7 @@
 	},
 	{
 		"name": "Bulgaria",
-		"leaderName": "",
+		"leaderName": "Khan Krum",
 		"adjective": ["Bulgarian"],
 		"startBias": ["Hill"],
 		"preferredVictoryType": "Domination",
@@ -221,7 +221,7 @@
 
 	{
 		"name": "Chola",
-		"leaderName": "",
+		"leaderName": "Rajaraja I",
 		"adjective": ["Chola"],
 		"startBias": ["Coast","Jungle"],
 		"preferredVictoryType": "Diplomatic",
@@ -372,7 +372,7 @@
 
 	{
 		"name": "Buganda",
-		"leaderName": "",
+		"leaderName": "Namuggala",
 		"adjective": ["Bugandan"],
 		"startBias": ["Lakes","Jungle"],
 		"preferredVictoryType": "Diplomatic",
@@ -410,7 +410,7 @@
 
 	{
 		"name": "Mexico",
-		"leaderName": "",
+		"leaderName": "Benito Juarez",
 		"adjective": ["Mexican"],
 		"startBias": ["Destert","Plains"],
 		"preferredVictoryType": "Cultural",
@@ -486,7 +486,7 @@
 
 	{
 		"name": "Nepal",
-		"leaderName": "",
+		"leaderName": "Jung Bahadur",
 		"adjective": ["Nepalese"],
 		"startBias": ["Mountain","Hill"],
 		"preferredVictoryType": "Cultural",
@@ -524,7 +524,7 @@
 
 	{
 		"name": "Qing",
-		"leaderName": "",
+		"leaderName": "Qianlong",
 		"adjective": ["Qing"],
 		"startBias": ["Tundra"],
 		"preferredVictoryType": "Diplomatic",
