@@ -13,13 +13,14 @@
 		"requiredTech": "Horseback Riding"
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
+		"name": "Vihara",
+		"replaces": "Temple",
+		"uniqueTo": "Maurya",
+		"cost": 100,
 		"hurryCostModifier": 160,
 		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"faith": 2,
+		"uniques": ["[+10]% [Happiness] [in this city]"],
+		"requiredTech": "Philosophy"
 	}
 ]
