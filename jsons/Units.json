@@ -96,8 +96,8 @@
         "cost": 120,
         "requiredTech": "Astronomy",
         "uniques": ["Can move after attacking","[3] additional attacks per turn","[+1] Sight","Withdraws before melee combat <with [80]% chance>"],
-        "upgradesTo": "Caravel",
-        "obsoleteTech": "Astronomy",
+        "upgradesTo": "Ironclad",
+        "obsoleteTech": "Steam Power",
         "attackSound": "nonmetalhit"
     },
 
