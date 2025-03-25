@@ -66,7 +66,7 @@
 		"outerColor": [220,200,100],
 		"innerColor": [110,60,50],
 		"uniqueName": "Nine Provinces",
-		//"uniques": ["[+1] population <in cities with a [Monument]>"],//
+		//"uniques": ["[+1] population <in cities with less than [3] [Population]>"],//
 		"cities": ["Cháng'ān","Luoyang","Línzī","Chengdu","Huáiyáng","Liángzhōu","Jīnyáng","Handan","Pengcheng","Ji",
 			"Guanglíng","Xuchang","Xíngyáng","Shouchun","Linxiang","Dìngtáo","Nanjun","Nanchang","Yángqǔ","Hefei",
 			"Nánzhèng","Yè","Didao","Panyu"],
@@ -247,8 +247,8 @@
 		"afterPeace": "",
 		"tradeRequest": "",
 
-		"outerColor": [200,50,50],
-		"innerColor": [190,155,0],
+		"outerColor": [163,43,43],
+		"innerColor": [203,175,51],
 		"uniqueName": "Samayam",
 		"uniques": ["Gifts of Gold to City-States generate [100]% more Influence"], //Something to do with gold for every city state you are allied with?
 		"cities": ["Gangaikonda Cholapuram","Pazhayarai","Thanjavur","Uraiyuir","Nagapattinam","Kanchipuram","Madurai","Karur","Talakkad","Mahodaiyapuram",
@@ -399,14 +399,14 @@
 		"afterPeace": "",
 		"tradeRequest": "",
 
-		"outerColor": [160,160,70],
-		"innerColor": [197,60,50],
+		"outerColor": [179,179,107],
+		"innerColor": [161,51,43],
 		"uniqueName": "'Nnalubaale",
 		"uniques": [ "[+2 Culture, +2 Food] from every [Lakes]", "[Land] units gain the [Amphibious] promotion"],
 		"cities": ["Kampala","Kasangati","Mukono","Ssentema","Butoolo","Mitiyana","Buzinde","Nakasongola","Kaabasanda","Masaka",
 			"Sembalue","Lakaayi","Kabula","Mwera","Ntenjeru","Mpenja","Kanoni","Kaweeri","Kalangala","Maggyo",
 			"Kibbale","Kakumiro","Jinja","Entebbe"],
-	}
+	},
 
 	{
 		"name": "Mexico",
@@ -444,7 +444,7 @@
 		"cities": ["Ciudad de México","Guadalajara","Puebla","Monterrey","Tampico","Mérida","Tehuacán","León","Toluca","Zacatlán",
 			"Huauchinango","Querétaro","Morelia","San Luis Potosí","Aguascalientes","Chalchicomula","Saltillo","Veracruz","Tacubaya","Torreón",
 			"Culiacán","Culiacán","Cholula","San Pedro"],
-	}
+	},
 
 	{
 		"name": "The Mughals",
@@ -482,7 +482,7 @@
 		"cities": ["Dilī","Āgra","Kābul","Allāhābād","Lahore","Ahmadabad","Banaras","Cambay","Surat","Burhanpur",
 			"Thatta","Aurangabad","Bahkkar","Multan","Patna","Faizabad","Lucknow","Ajmer","Ujjain","Kashmir",
 			"Dhaka","Ellichpur","Bidar","Bijapur"],
-	}
+	},
 
 	{
 		"name": "Nepal",
