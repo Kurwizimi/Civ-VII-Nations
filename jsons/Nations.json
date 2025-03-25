@@ -66,7 +66,7 @@
 		"outerColor": [220,200,100],
 		"innerColor": [110,60,50],
 		"uniqueName": "Nine Provinces",
-		"uniques": ["[+1] population <in cities with a [Monument]>"],
+		//"uniques": ["[+1] population <in cities with a [Monument]>"],//
 		"cities": ["Cháng'ān","Luoyang","Línzī","Chengdu","Huáiyáng","Liángzhōu","Jīnyáng","Handan","Pengcheng","Ji",
 			"Guanglíng","Xuchang","Xíngyáng","Shouchun","Linxiang","Dìngtáo","Nanjun","Nanchang","Yángqǔ","Hefei",
 			"Nánzhèng","Yè","Didao","Panyu"],
