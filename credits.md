@@ -10,7 +10,7 @@ All the following are from [the Noun Project](https://thenounproject.com) licenc
 * (Sourced from Nobles and Merchants)
 * (Sourced from Project AllCiv)
 * (Sourced from Yet Another Civilisation Mod)
-* BUGANDA
+* Shield by Smalllike from <a href="https://thenounproject.com/browse/icons/term/shield/" target="_blank" title="Shield Icons">Noun Project</a> (CC BY 3.0)
 * (Sourced from Project AllCiv)
 * (Sourced fro Rekmod)
 * Nepali Moon by Kemesh Maharjan from <a href="https://thenounproject.com/browse/icons/term/nepali-moon/" target="_blank" title="Nepali Moon Icons">Noun Project</a> (CC BY 3.0)
