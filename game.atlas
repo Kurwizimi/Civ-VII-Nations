@@ -1,103 +1,124 @@
 
 game.png
-size: 2048, 128
+size: 512, 512
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Breeders
   rotate: false
-  xy: 112, 4
+  xy: 4, 90
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Holodeck
   rotate: false
-  xy: 220, 4
+  xy: 112, 198
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Aksum
   rotate: false
-  xy: 1338, 15
+  xy: 416, 103
   size: 89, 89
   orig: 89, 89
   offset: 0, 0
   index: -1
 NationIcons/Aliens
   rotate: false
-  xy: 4, 4
+  xy: 4, 198
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Bulgaria
   rotate: false
-  xy: 652, 14
+  xy: 220, 200
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 NationIcons/Chola
   rotate: false
-  xy: 750, 14
+  xy: 220, 102
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 NationIcons/Han
   rotate: false
-  xy: 848, 14
+  xy: 220, 4
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 NationIcons/Maurya
   rotate: false
-  xy: 946, 14
+  xy: 318, 200
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 NationIcons/Mexico
   rotate: false
-  xy: 328, 4
+  xy: 212, 406
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Ming
   rotate: false
-  xy: 436, 4
+  xy: 112, 90
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Mississipi
   rotate: false
-  xy: 1044, 14
+  xy: 416, 200
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 NationIcons/Nepal
   rotate: false
-  xy: 1142, 14
+  xy: 318, 102
   size: 90, 90
   orig: 90, 90
+  offset: 0, 0
+  index: -1
+NationIcons/Normandy
+  rotate: false
+  xy: 320, 406
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Qing
   rotate: false
-  xy: 1240, 14
+  xy: 318, 4
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
+NationIcons/Shawnee
+  rotate: false
+  xy: 328, 298
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/The Mughals
+  rotate: false
+  xy: 4, 306
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
 UnitIcons/Phasers
   rotate: false
-  xy: 544, 4
+  xy: 220, 298
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
