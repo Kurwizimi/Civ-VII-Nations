@@ -8,8 +8,8 @@ All the following are from [the Noun Project](https://thenounproject.com) licenc
 * horse rider by Dimitri Lupo from <a href="https://thenounproject.com/browse/icons/term/horse-rider/" target="_blank" title="horse rider Icons">Noun Project</a> (CC BY 3.0)
 * tiger head by Yash Gohel from <a href="https://thenounproject.com/browse/icons/term/tiger-head/" target="_blank" title="tiger head Icons">Noun Project</a> (CC BY 3.0)
 * (Sourced from Nobles and Merchants)
-* NORMAN
-* SHAWNEE
+* (Sourced from Project AllCiv)
+* (Sourced from Yet Another Civilisation Mod)
 * BUGANDA
 * (Sourced from Project AllCiv)
 * (Sourced fro Rekmod)
