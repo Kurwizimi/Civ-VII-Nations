@@ -1,5 +1,4 @@
-# Unciv-mod-example
+# Civ-VII-Nations
 
-An example mod for Unciv, that adds one new Civilization.
-
-For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
+This mod adds some of the civs present in Civ VII that are not in UnCiv. 
+If you have any suggestions or find any bugs, please let me know by creating a new Issue or by contacting me on Discord.
