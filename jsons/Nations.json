@@ -66,7 +66,7 @@
 		"outerColor": [220,200,100],
 		"innerColor": [110,60,50],
 		"uniqueName": "Nine Provinces",
-		//"uniques": ["[+1] population <in cities with less than [3] [Population]>"],//
+		"uniques": ["[+1] population <in cities with less than [3] [Population]>"],
 		"cities": ["Cháng'ān","Luoyang","Línzī","Chengdu","Huáiyáng","Liángzhōu","Jīnyáng","Handan","Pengcheng","Ji",
 			"Guanglíng","Xuchang","Xíngyáng","Shouchun","Linxiang","Dìngtáo","Nanjun","Nanchang","Yángqǔ","Hefei",
 			"Nánzhèng","Yè","Didao","Panyu"],
@@ -250,7 +250,7 @@
 		"outerColor": [163,43,43],
 		"innerColor": [203,175,51],
 		"uniqueName": "Samayam",
-		"uniques": ["Gifts of Gold to City-States generate [100]% more Influence"], //Something to do with gold for every city state you are allied with?
+		"uniques": ["Gifts of Gold to City-States generate [100]% more Influence", "Allied City-States provide [Gold] equal to [50]% of what they produce for themselves",],
 		"cities": ["Gangaikonda Cholapuram","Pazhayarai","Thanjavur","Uraiyuir","Nagapattinam","Kanchipuram","Madurai","Karur","Talakkad","Mahodaiyapuram",
 			"Kollam","Kantalur-Salai","Talakadu","Vengi","Mahabalipuram","Vasavasamudram","Arikamedu","Kaveripatnam","Tondi","Periyapattinam",
 			"Rameswaram","Devipattinam","Alagankulam","Korkal"],
@@ -475,8 +475,8 @@
 		"afterPeace": "",
 		"tradeRequest": "",
 
-		"outerColor": [20,90,30],
-		"innerColor": [170,170,10],
+		"outerColor": [0, 109, 33],
+		"innerColor": [255, 215, 0],
 		"uniqueName": "Paradise of Nations",
 		"uniques": [ "[-25]% [Culture] [in all cities]", "[-25]% [Science] [in all cities]", "[-25]% [Production] [in all cities]", "[+100]% [Gold] [in all cities]"],
 		"cities": ["Dilī","Āgra","Kābul","Allāhābād","Lahore","Ahmadabad","Banaras","Cambay","Surat","Burhanpur",
@@ -554,7 +554,7 @@
 		"outerColor": [250,250,0],
 		"innerColor": [10,20,90],
 		"uniqueName": "Kang Qian Shengshi",
-		//"uniques": [ "[+2 Gold, +2 Culture, -2 Science] <for every [resource]>"],
+		//"uniques": [ "[+4 Gold, +4 Culture, -4 Science] <for every [Custom House]>"],
 		"cities": ["Beijing","Guangzhou","Nanjing","Suzhou","Wuchang","Changsha","Shanghai","Shenyang","Lanzhou","Kunming",
 			"Fuzhou","Chengdu","Hankou","Taipei","Qingdao","Guiyang","Shenzhen","Harbin","Hong Kong","Taiyuan",
 			"Tianjin","Foshan","Weihai","Zhenjiang"],
