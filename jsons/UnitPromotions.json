@@ -8,9 +8,30 @@
         "name": "Normannitas",
         "uniques": ["[+20]% Strength <when attacking> <in tiles adjacent to [Coast] tiles>","[+1] Movement <when [Embarked]>"]
     },
+        
         {
         "name": "Trained Sherpas",
         "uniques": ["Can pass through impassable tiles","[This Unit] heals [50] HP <upon ending a turn in a [Mountain] tile>"]
+    },
+
+        {
+        "name": "[Chevler] ability",
+        "uniques": ["[+15]% Strength <vs [Sword] units>"]
+    },
+
+         {
+        "name": "[Abambowa] ability",
+        "uniques": ["[This Unit] heals [25] HP <upon ending a turn in a [pillaged] tile>"]
+    },
+
+        {
+        "name": "[Soldaderas] ability",
+        "uniques": ["All adjacent units heal [10] HP when healing"]
+    },
+
+        {
+        "name": "[Gusa] ability",
+        "uniques": ["[+10]% Strength <when adjacent to a [Gusa] unit>"]
     },
 
 
