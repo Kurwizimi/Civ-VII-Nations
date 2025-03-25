@@ -17,7 +17,8 @@
 		"cost": 200,
 		"hurryCostModifier": 160,
 		"gold": 2,
-		"uniques": ["[25]% [Gold]","[+50]% Production when constructing [Water] units [in this city]"],
+		"percentStatBonus": {"gold": 25},
+		"uniques": ["[+50]% Production when constructing [Water] units [in this city]"],
 		"specialistSlots": {"Merchant": 1},
 		"requiredTech": "Banking"
 	},
@@ -39,7 +40,8 @@
 		"cost": 360,
 		"hurryCostModifier": 160,
 		"gold": 3,
-		"uniques": ["[25]% [Gold]", "[+2 Culture] <after adopting [Tradition Complete]>","[+2 Culture] <after adopting [Liberty Complete]>","[+2 Culture] <after adopting [Honor Complete]>","[+2 Culture] <after adopting [Piety Complete]>","[+2 Culture] <after adopting [Commerce Complete]>","[+2 Culture] <after adopting [Rationalism Complete]>","[+2 Culture] <after adopting [Order Complete]>","[+2 Culture] <after adopting [Freedom Complete]>","[+2 Culture] <after adopting [Autocracy Complete]>","[+2 Culture] <after adopting [Patronage Complete]>"],
+		"percentStatBonus": {"gold": 25},
+		"uniques": ["[+2 Culture] <after adopting [Tradition Complete]>","[+2 Culture] <after adopting [Liberty Complete]>","[+2 Culture] <after adopting [Honor Complete]>","[+2 Culture] <after adopting [Piety Complete]>","[+2 Culture] <after adopting [Commerce Complete]>","[+2 Culture] <after adopting [Rationalism Complete]>","[+2 Culture] <after adopting [Order Complete]>","[+2 Culture] <after adopting [Freedom Complete]>","[+2 Culture] <after adopting [Autocracy Complete]>","[+2 Culture] <after adopting [Patronage Complete]>"],
 		"specialistSlots": {"Merchant": 2},
 		"requiredTech": "Electricity"
 	},
@@ -52,7 +54,7 @@
 		"gold": 2,
 		"science": 2,
 		"culture": 2,
-		"uniques": ["[25]% [Gold]"],
+		"percentStatBonus": {"gold": 25},
 		"specialistSlots": {"Merchant": 1},
 		"requiredTech": "Banking"
 	}
