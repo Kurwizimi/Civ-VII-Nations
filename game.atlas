@@ -1,125 +1,209 @@
 
 game.png
-size: 512, 512
+size: 2048, 256
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Breeders
   rotate: false
-  xy: 4, 90
+  xy: 212, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Holodeck
   rotate: false
-  xy: 112, 198
+  xy: 320, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Aksum
   rotate: false
-  xy: 416, 103
+  xy: 1094, 17
   size: 89, 89
   orig: 89, 89
   offset: 0, 0
   index: -1
-NationIcons/Aliens
-  rotate: false
-  xy: 4, 198
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 NationIcons/Bulgaria
   rotate: false
-  xy: 220, 200
+  xy: 310, 6
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 NationIcons/Chola
   rotate: false
-  xy: 220, 102
+  xy: 1056, 114
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 NationIcons/Han
   rotate: false
-  xy: 220, 4
+  xy: 1252, 114
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 NationIcons/Maurya
   rotate: false
-  xy: 318, 200
+  xy: 1448, 114
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 NationIcons/Mexico
   rotate: false
-  xy: 212, 406
+  xy: 428, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Ming
   rotate: false
-  xy: 112, 90
+  xy: 536, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Mississipi
   rotate: false
-  xy: 416, 200
+  xy: 1546, 114
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 NationIcons/Nepal
   rotate: false
-  xy: 318, 102
+  xy: 1644, 114
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 NationIcons/Normandy
   rotate: false
-  xy: 320, 406
+  xy: 644, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Qing
   rotate: false
-  xy: 318, 4
+  xy: 1840, 114
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 NationIcons/Shawnee
   rotate: false
-  xy: 328, 298
+  xy: 752, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Mughals
   rotate: false
-  xy: 4, 306
+  xy: 4, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Phasers
+UnitIcons/Abambowa
   rotate: false
-  xy: 220, 298
-  size: 100, 100
-  orig: 100, 100
+  xy: 212, 6
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Bolyar
+  rotate: false
+  xy: 860, 114
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Burning Arrow
+  rotate: false
+  xy: 958, 114
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Chevaler
+  rotate: false
+  xy: 408, 6
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Dhow
+  rotate: false
+  xy: 506, 6
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Gurkha
+  rotate: false
+  xy: 1154, 114
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Gusa
+  rotate: false
+  xy: 604, 6
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Hoceepkileni
+  rotate: false
+  xy: 702, 6
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Kalam
+  rotate: false
+  xy: 1350, 114
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Purabhettarah
+  rotate: false
+  xy: 1742, 114
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Sepoy
+  rotate: false
+  xy: 1938, 114
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Soldaderas
+  rotate: false
+  xy: 800, 6
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Xunleichog
+  rotate: false
+  xy: 898, 16
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Yuthahathi
+  rotate: false
+  xy: 996, 16
+  size: 90, 90
+  orig: 90, 90
   offset: 0, 0
   index: -1
