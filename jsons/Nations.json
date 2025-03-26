@@ -30,7 +30,7 @@
 		"outerColor": [255,255,20],
 		"innerColor": [25,120,25],
 		"uniqueName": "Kingdom of Natural Wealth",
-		"uniques": ["[+2 Gold] from [Resource] tiles [in all cities]"],
+		"uniques": ["[+2 Gold] from [resource] tiles [in all cities]"],
 		"cities": ["Aksum","Adulis","Matara","Lalibela","Saba","Koloe","Qohayto","Maste","Tekondo","Zala-Bet-Makeda",
 			"Etchmara","Gulo-Makeda","Haghero-Deragweh","Dergouah","Henzat","Ham","Anza","Hawzien","Degum","Chergos Agula",
 			"Nazret","Yeha","Aden","Hehzat"]
