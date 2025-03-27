@@ -126,12 +126,12 @@
 		
 		"neutralHello": "Welcome, what have you come here for?",
 		"neutralLetsHearIt": ["Yes?"],
-		"neutralNo": ["This is "adharma", an error."],
+		"neutralNo": ["This is 'adharma', an error."],
 		"neutralYes": ["So it is."],
 
 		"hateHello": "Why are you here?",
 		"hateLetsHearIt": ["What?"],
-		"hateNo": ["This is "adharma", an error."],
+		"hateNo": ["This is 'adharma', an error."],
 		"hateYes": ["So be it"],
 		
 		"afterPeace": "The righteous path.",
