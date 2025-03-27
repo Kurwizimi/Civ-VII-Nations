@@ -69,7 +69,7 @@
         "happiness": 2,
         "turnsToBuild": 7,
         "techRequired": "Engineering",
-        "uniques": ["Pillaging this improvement yields approximately [+25 Gold]"],
+        "uniques": ["[+1 Food] for each adjacent [{non-[Fresh water]} {Farm} ]", "Pillaging this improvement yields approximately [+25 Gold]"],
         "shortcutKey": "K"
     },
     {
