@@ -287,10 +287,10 @@
 		"outerColor": [1,1,1],
 		"innerColor": [255,255,255],
 		"uniqueName": "Negara",
-		"uniques": [""],
-		"cities": ["Gangaikonda Cholapuram","Pazhayarai","Thanjavur","Uraiyuir","Nagapattinam","Kanchipuram","Madurai","Karur","Talakkad","Mahodaiyapuram",
-			"Kollam","Kantalur-Salai","Talakadu","Vengi","Mahabalipuram","Vasavasamudram","Arikamedu","Kaveripatnam","Tondi","Periyapattinam",
-			"Rameswaram","Devipattinam","Alagankulam","Korkal"],
+		"uniques": ["[+2 Science, +2 Gold, -2 Food] from every specialist [in all cities]"],
+		"cities": ["Wilwakikta","Lumajang","Daha","Tuban","Hujung Galuh","Pajang","Palembang","Jambi","Berune","Tumasik",
+			"Kalanten","Samudra","Lamuri","Barus","Darmmacraya","Bedahulu","Lwagajah","Lombok Mirah","Gurun","Saksak",
+			"Sukdana","Sampit","Panai","Taliwang"],
 	},
 
 	{
