@@ -591,7 +591,7 @@
 		"outerColor": [250,250,0],
 		"innerColor": [10,20,90],
 		"uniqueName": "Kang Qian Shengshi",
-		"uniques": [ "[+4 Gold, +4 Culture] <for every [Custom House]>", "[ -4 Science ] from each Trade Route"],
+		"uniques": [ "[+4 Gold, +4 Culture] <for every [Custom House]>", "[-4 Science] from each Trade Route"],
 		"cities": ["Beijing","Guangzhou","Nanjing","Suzhou","Wuchang","Changsha","Shanghai","Shenyang","Lanzhou","Kunming",
 			"Fuzhou","Chengdu","Hankou","Taipei","Qingdao","Guiyang","Shenzhen","Harbin","Hong Kong","Taiyuan",
 			"Tianjin","Foshan","Weihai","Zhenjiang"],
