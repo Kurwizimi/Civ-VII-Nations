@@ -20,7 +20,7 @@ BuildingIcons/Holodeck
   index: -1
 NationIcons/Aksum
   rotate: false
-  xy: 1192, 17
+  xy: 1290, 17
   size: 89, 89
   orig: 89, 89
   offset: 0, 0
@@ -53,9 +53,16 @@ NationIcons/Han
   orig: 90, 90
   offset: 0, 0
   index: -1
-NationIcons/Maurya
+NationIcons/Majapahit
   rotate: false
   xy: 1546, 114
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+NationIcons/Maurya
+  rotate: false
+  xy: 1644, 114
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
@@ -76,14 +83,14 @@ NationIcons/Ming
   index: -1
 NationIcons/Mississipi
   rotate: false
-  xy: 1644, 114
+  xy: 1742, 114
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 NationIcons/Nepal
   rotate: false
-  xy: 1742, 114
+  xy: 1840, 114
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
@@ -97,7 +104,7 @@ NationIcons/Normandy
   index: -1
 NationIcons/Qing
   rotate: false
-  xy: 1938, 114
+  xy: 800, 6
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
@@ -181,35 +188,35 @@ UnitIcons/Kalam
   index: -1
 UnitIcons/Purabhettarah
   rotate: false
-  xy: 1840, 114
+  xy: 1938, 114
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Sepoy
   rotate: false
-  xy: 800, 6
+  xy: 898, 16
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Soldaderas
   rotate: false
-  xy: 898, 16
+  xy: 996, 16
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Xunleichong
   rotate: false
-  xy: 996, 16
+  xy: 1094, 16
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Yuthahathi
   rotate: false
-  xy: 1094, 16
+  xy: 1192, 16
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
