@@ -284,8 +284,8 @@
 		"afterPeace": "",
 		"tradeRequest": "",
 
-		"outerColor": [,,],
-		"innerColor": [,,],
+		"outerColor": [1,1,1],
+		"innerColor": [255,255,255],
 		"uniqueName": "Negara",
 		"uniques": [""],
 		"cities": ["Gangaikonda Cholapuram","Pazhayarai","Thanjavur","Uraiyuir","Nagapattinam","Kanchipuram","Madurai","Karur","Talakkad","Mahodaiyapuram",
