@@ -146,7 +146,7 @@
 	"unitType": "Civilian",
 	"replaces": "Missionary",
 	"uniqueTo": "Shawnee",
-	"cost": 100,
+	"cost": -1,
         "uniques": ["Can Spread Religion <for [5] movement> <[3] times> <after which this unit is consumed>", "May enter foreign tiles without open borders, but loses [200] religious strength each turn it ends there", "Can be purchased for [200] [Faith] [in all cities in which the majority religion is a major religion]",
         	"Unbuildable", "Religious Unit", "Only available <when religion is enabled>"],
         "movement": 5,
