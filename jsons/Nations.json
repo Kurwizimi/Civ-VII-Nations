@@ -257,6 +257,43 @@
 	},
 
 	{
+		"name": "Majapahit",
+		"leaderName": "",
+		"adjective": ["Majapahit"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"outerColor": [,,],
+		"innerColor": [,,],
+		"uniqueName": "Negara",
+		"uniques": [""],
+		"cities": ["Gangaikonda Cholapuram","Pazhayarai","Thanjavur","Uraiyuir","Nagapattinam","Kanchipuram","Madurai","Karur","Talakkad","Mahodaiyapuram",
+			"Kollam","Kantalur-Salai","Talakadu","Vengi","Mahabalipuram","Vasavasamudram","Arikamedu","Kaveripatnam","Tondi","Periyapattinam",
+			"Rameswaram","Devipattinam","Alagankulam","Korkal"],
+	},
+
+	{
 		"name": "Ming",
 		"leaderName": "Yongle",
 		"adjective": ["Ming"],
