@@ -27,7 +27,7 @@
         "food": 3,
         "turnsToBuild": 7,
         "techRequired": "Masonry",
-        "uniques": ["[+1 Food] from [Flood plains] tiles", "Pillaging this improvement yields approximately [+25 Gold]"],
+        "uniques": ["[+1 Food] from [Flood plains] tiles","[+1 Food] from [Fresh water] tiles", "Pillaging this improvement yields approximately [+25 Gold]"],
         "shortcutKey": "B"
     },
   {
