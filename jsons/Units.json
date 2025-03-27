@@ -53,7 +53,7 @@
     },
 
 	{
-        "name": "Burning Arrows",
+        "name": "Burning Arrow",
 	"replaces": "Archer",
 	"uniqueTo": "Mississipi",
         "unitType": "Archery",
