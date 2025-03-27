@@ -47,7 +47,7 @@
         "requiredTech": "Horseback Riding",
         "upgradesTo": "Knight",
         "obsoleteTech": "Chivalry",
-        "uniques": ["Can move after attacking","No defensive terrain bonus","[50]% Strength <vs cities> <when attacking>"],
+        "uniques": ["Can move after attacking","No defensive terrain bonus","[+50]% Strength <vs cities> <when attacking>"],
         "hurryCostModifier": 20,
         "attackSound": "elephant"
     },
@@ -98,6 +98,24 @@
         "uniques": ["Can move after attacking","[3] additional attacks per turn","[+1] Sight","Withdraws before melee combat <with [80]% chance>"],
         "upgradesTo": "Ironclad",
         "obsoleteTech": "Steam Power",
+        "attackSound": "nonmetalhit"
+    },
+
+	{
+        "name": "Cetbang",
+        "replaces": "Galleass",
+        "uniqueTo": "Majapahit",
+        "unitType": "Ranged Water",
+        "movement": 4,
+	"rangedStrength": 17,
+        "range": 2,
+        "strength": 16,
+        "cost": 100,
+        "requiredTech": "Compass",
+        "uniques": ["[+15]% Strength <vs [Water] units>"],
+	"promotions": ["Extended Range"],
+        "upgradesTo": "Frigate",
+        "obsoleteTech": "Navigation",
         "attackSound": "nonmetalhit"
     },
 
