@@ -112,7 +112,7 @@
         "strength": 16,
         "cost": 100,
         "requiredTech": "Compass",
-        "uniques": ["[+15]% Strength <vs [Water] units>"],
+        "uniques": ["[+15]% Strength <vs [Water] units>", "Cannot enter ocean tiles"],
 	"promotions": ["Extended Range"],
         "upgradesTo": "Frigate",
         "obsoleteTech": "Navigation",
