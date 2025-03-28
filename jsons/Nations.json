@@ -9,10 +9,10 @@
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 		
-		"declaringWar": "",
-		"attacked": "",
-		"defeated": "",
-		"introduction": "",
+		"declaringWar": "You have tourtued your people long enough! I shall liberate your people from your oppressive rule!",
+		"attacked": "I knew this was coming, the beliefs that you constantly spew at others made clear of your intentions.",
+		"defeated": "How? What marvels of engineering, ...of science, ...of wealth, did you need to conquer me? ",
+		"introduction": "Greetings, strange traveller! I am Queen Makeda, ruler of Aksum and Ethiopia.",
 		
 		"neutralHello": "",
 		"neutralLetsHearIt": [""],
@@ -24,8 +24,8 @@
 		"hateNo": [""],
 		"hateYes": [""],
 		
-		"afterPeace": "",
-		"tradeRequest": "",
+		"afterPeace": "May the trade flow again.",
+		"tradeRequest": "Aksum hold many goods you could not refuse to buy.",
 
 		"outerColor": [255,255,20],
 		"innerColor": [25,120,25],
@@ -45,10 +45,10 @@
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 		
-		"declaringWar": "",
-		"attacked": "",
-		"defeated": "",
-		"introduction": "",
+		"declaringWar": "You are an incompetent ruler, taxing your poor to benefit the rich! I shall put an end to this at once!",
+		"attacked": "I have known many people who have wronged me in the past. This comes with no suprise.",
+		"defeated": "So this is it... Everything I have done was for nothing. I shall die a peasant after all.",
+		"introduction": "Ahh... Welcome. I am Emperor Xuan, the filial and known by many.",
 		
 		"neutralHello": "",
 		"neutralLetsHearIt": [""],
@@ -60,8 +60,8 @@
 		"hateNo": [""],
 		"hateYes": [""],
 		
-		"afterPeace": "",
-		"tradeRequest": "",
+		"afterPeace": "Now lets hope you will care more for your people than your pride from now on.",
+		"tradeRequest": "May this offer seek you well.",
 
 		"outerColor": [220,200,100],
 		"innerColor": [110,60,50],
@@ -156,10 +156,10 @@
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 		
-		"declaringWar": "",
-		"attacked": "",
-		"defeated": "",
-		"introduction": "",
+		"declaringWar": "I shall idle no more! It is time to fight!",
+		"attacked": "Me and my people shall defend to the last man, woman and child. Your tyranny shall not reach our lands!",
+		"defeated": "If I shall die fighting for my peoples freedoms in flames, I shall die a noble death.",
+		"introduction": "I am Tuskaloosa, Chief of the Mississipi. Make your presence known to my people, stranger, and we shall live in peace.",
 		
 		"neutralHello": "",
 		"neutralLetsHearIt": [""],
@@ -171,8 +171,8 @@
 		"hateNo": [""],
 		"hateYes": [""],
 		
-		"afterPeace": "",
-		"tradeRequest": "",
+		"afterPeace": "Now you shall remain inside your own lands forever, and never into ours.",
+		"tradeRequest": "Trade has been good this year, so the Mississipi offer you this deal.",
 
 		"outerColor": [100,40,40],
 		"innerColor": [120,100,230],
@@ -192,10 +192,10 @@
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 		
-		"declaringWar": "",
-		"attacked": "",
-		"defeated": "",
-		"introduction": "",
+		"declaringWar": "You have left your borders weak, and now I shall sieze the opportunity!",
+		"attacked": "Fool! I shall turn your skull into a drinking cup!",
+		"defeated": "You cannot defeat the Bulgars forever! One day we shall rise once again!",
+		"introduction": "I am Krum, Khan of the Bulgars. Watch your step, for this land will soon be Bulgaria ",
 		
 		"neutralHello": "",
 		"neutralLetsHearIt": [""],
@@ -207,8 +207,8 @@
 		"hateNo": [""],
 		"hateYes": [""],
 		
-		"afterPeace": "",
-		"tradeRequest": "",
+		"afterPeace": "These consessions are... enough.",
+		"tradeRequest": "May you accept this offer.",
 
 		"outerColor": [170,20,20],
 		"innerColor": [255,212,212],
@@ -229,10 +229,10 @@
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 		
-		"declaringWar": "",
-		"attacked": "",
-		"defeated": "",
-		"introduction": "",
+		"declaringWar": "Your land holds important points that are essential for the Chola's survival. Prepare for war!",
+		"attacked": "Do you really think you can usurp me? Ha! ",
+		"defeated": "May Shiva strike you and your people down!",
+		"introduction": "Greetings, I am Rajaraja, the Great leader of the Chola. Say, do you have any good you are willing to trade?",
 		
 		"neutralHello": "",
 		"neutralLetsHearIt": [""],
@@ -244,8 +244,8 @@
 		"hateNo": [""],
 		"hateYes": [""],
 		
-		"afterPeace": "",
-		"tradeRequest": "",
+		"afterPeace": "For now, peace.",
+		"tradeRequest": "The Chola has good from far and wide. Would you like to sample them?",
 
 		"outerColor": [163,43,43],
 		"innerColor": [203,175,51],
@@ -258,7 +258,7 @@
 
 	{
 		"name": "Majapahit",
-		"leaderName": "",
+		"leaderName": "Gajah Mada",
 		"adjective": ["Majapahit"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Cultural",
@@ -266,23 +266,23 @@
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 		
-		"declaringWar": "",
-		"attacked": "",
-		"defeated": "",
-		"introduction": "",
+		"declaringWar": "I don't want to stnd in your way, but I shall protect my people!",
+		"attacked": "How dare you! Your insignificant attack shall falter!",
+		"defeated": "You may win, but you cannot win upon my spirit",
+		"introduction": "You came before the great warrior, Gajah Mada of Nusantara!",
 		
-		"neutralHello": "",
-		"neutralLetsHearIt": [""],
-		"neutralNo": [""],
-		"neutralYes": [""],
+		"neutralHello": "Greetings",
+		"neutralLetsHearIt": ["Proceed"],
+		"neutralNo": ["No."],
+		"neutralYes": ["This is good."],
 
 		"hateHello": "",
 		"hateLetsHearIt": [""],
 		"hateNo": [""],
 		"hateYes": [""],
 		
-		"afterPeace": "",
-		"tradeRequest": "",
+		"afterPeace": "And now, we shall stop fighting",
+		"tradeRequest": "What if we make a deal, you and me?",
 
 		"outerColor": [40,240,230],
 		"innerColor": [200,50,0],
@@ -342,10 +342,10 @@
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 		
-		"declaringWar": "",
-		"attacked": "",
-		"defeated": "",
-		"introduction": "",
+		"declaringWar": "Your realm shall be under my rightful rule!",
+		"attacked": "So it shall be! To arms!",
+		"defeated": "This shall be written in the history books, about how I, the great King, have been deposed by a pathetic barbarian.",
+		"introduction": "Welcome! I am William, King of Noermandy and Conquerer of lands beyond. Would you like to join me in a feast, your scouts look very tired.",
 		
 		"neutralHello": "",
 		"neutralLetsHearIt": [""],
@@ -357,8 +357,8 @@
 		"hateNo": [""],
 		"hateYes": [""],
 		
-		"afterPeace": "",
-		"tradeRequest": "",
+		"afterPeace": "Now you shall remember what the Norman people are capable of!",
+		"tradeRequest": "How about this deal?",
 
 		"outerColor": [10,10,135],
 		"innerColor": [190,25,20],
@@ -395,7 +395,7 @@
 		"hateNo": ["No"],
 		"hateYes": ["I'm already starting to regret accepting this deal."],
 		
-		"afterPeace": "",
+		"afterPeace": "Don’t make us regret this peace.",
 		"tradeRequest": "",
 
 		"outerColor": [160,115,185],
