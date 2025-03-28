@@ -179,7 +179,8 @@
 	"strength": 34,
 	"cost": 200,
 	"movement": 2,
-	"obsolete": "Replaceable Parts"
+	"obsolete": "Replaceable Parts",
+	"requiredTech": "Rifling",
 	"promotions": ["[Abambowa] ability"], // <upon ending a turn in a [pillaged] tile>
     },
 
@@ -192,6 +193,7 @@
 	"cost": 225,
 	"movement": 2,
 	"obsolete": "Replaceable Parts"
+	"requiredTech": "Rifling",
 	"promotions": ["[Soldaderas] ability"], // +10 health for adjacent units
     },
 
@@ -205,6 +207,7 @@
 	"range": 1,
 	"cost": 250,
 	"movement": 2,
+	"requiredTech": "Rifling",
 	"obsolete": "Plastics"
     },
 
@@ -216,6 +219,7 @@
 	"strength": 80,
 	"cost": 400,
 	"movement": 3,
+	"requiredTech": "Plastics",
 	"obsolete": "Mobile Tactics"
     },
 
@@ -227,6 +231,7 @@
 	"strength": 34,
 	"cost": 225,
 	"movement": 2,
+	"requiredTech": "Rifling",
 	"obsolete": "Replacable Parts",
 	"promotions": ["[Gusa] ability"],// [+10]% Strength <when adjacent to a [Gusa] unit>//
     },
