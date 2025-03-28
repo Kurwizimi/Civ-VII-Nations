@@ -5,7 +5,6 @@
 		"uniqueTo": "Maurya",
 		"cost": 100,
 		"hurryCostModifier": 160,
-		"happiness": 2,
 		"faith": 2,
 		"uniques": ["[+10]% [Happiness] [in this city]"],
 		"requiredTech": "Philosophy"
@@ -22,6 +21,18 @@
 		"specialistSlots": {"Merchant": 1},
 		"requiredTech": "Banking"
 	},
+
+	{
+		"name": "Pura",
+		"replaces": "Temple",
+		"uniqueTo": "Majapahit",
+		"cost": 70,
+		"hurryCostModifier": 160,
+		"faith": 2,
+		"uniques": ["[-10]% Food consumption by specialists [in this city]"],
+		"requiredTech": "Philosophy"
+	},
+	
 	{
 		"name": "Donjon",
 		"replaces": "Castle",
