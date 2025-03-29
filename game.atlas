@@ -4,114 +4,142 @@ size: 2048, 256
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/Breeders
+BuildingIcons/Anjuvannam
   rotate: false
-  xy: 212, 104
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Holodeck
-  rotate: false
-  xy: 320, 104
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NationIcons/Aksum
-  rotate: false
-  xy: 1486, 17
-  size: 89, 89
-  orig: 89, 89
-  offset: 0, 0
-  index: -1
-NationIcons/Buganda
-  rotate: false
-  xy: 310, 6
+  xy: 644, 114
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
-NationIcons/Bulgaria
+BuildingIcons/Donjon
   rotate: false
-  xy: 958, 114
+  xy: 1232, 114
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
-NationIcons/Chola
+BuildingIcons/Huiguan
   rotate: false
-  xy: 1154, 114
+  xy: 1722, 114
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
-NationIcons/Han
-  rotate: false
-  xy: 1350, 114
-  size: 90, 90
-  orig: 90, 90
-  offset: 0, 0
-  index: -1
-NationIcons/Majapahit
-  rotate: false
-  xy: 1644, 114
-  size: 90, 90
-  orig: 90, 90
-  offset: 0, 0
-  index: -1
-NationIcons/Maurya
-  rotate: false
-  xy: 1840, 114
-  size: 90, 90
-  orig: 90, 90
-  offset: 0, 0
-  index: -1
-NationIcons/Mexico
-  rotate: false
-  xy: 428, 104
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NationIcons/Ming
-  rotate: false
-  xy: 536, 104
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NationIcons/Mississipi
-  rotate: false
-  xy: 1938, 114
-  size: 90, 90
-  orig: 90, 90
-  offset: 0, 0
-  index: -1
-NationIcons/Nepal
-  rotate: false
-  xy: 800, 6
-  size: 90, 90
-  orig: 90, 90
-  offset: 0, 0
-  index: -1
-NationIcons/Normandy
-  rotate: false
-  xy: 644, 104
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NationIcons/Qing
+BuildingIcons/Pura
   rotate: false
   xy: 996, 16
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
+BuildingIcons/Vihara
+  rotate: false
+  xy: 1486, 16
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Zócalo
+  rotate: false
+  xy: 1780, 16
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+NationIcons/Aksum
+  rotate: false
+  xy: 1878, 17
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+NationIcons/Buganda
+  rotate: false
+  xy: 742, 114
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+NationIcons/Bulgaria
+  rotate: false
+  xy: 408, 6
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+NationIcons/Chola
+  rotate: false
+  xy: 1036, 114
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+NationIcons/Han
+  rotate: false
+  xy: 1526, 114
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+NationIcons/Majapahit
+  rotate: false
+  xy: 1918, 114
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+NationIcons/Maurya
+  rotate: false
+  xy: 702, 16
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+NationIcons/Mexico
+  rotate: false
+  xy: 212, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Ming
+  rotate: false
+  xy: 320, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Mississipi
+  rotate: false
+  xy: 800, 16
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+NationIcons/Nepal
+  rotate: false
+  xy: 898, 16
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+NationIcons/Normandy
+  rotate: false
+  xy: 428, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Qing
+  rotate: false
+  xy: 1192, 16
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
 NationIcons/Shawnee
   rotate: false
-  xy: 752, 104
+  xy: 536, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -132,105 +160,105 @@ UnitIcons/Abambowa
   index: -1
 UnitIcons/Bolyar
   rotate: false
-  xy: 860, 114
+  xy: 310, 6
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Burning Arrow
   rotate: false
-  xy: 408, 6
+  xy: 840, 114
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Cetbang
   rotate: false
-  xy: 1056, 114
+  xy: 506, 6
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Chevaler
   rotate: false
-  xy: 506, 6
+  xy: 938, 114
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Dhow
   rotate: false
-  xy: 604, 6
+  xy: 1134, 114
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Gurkha
   rotate: false
-  xy: 1252, 114
+  xy: 1330, 114
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Gusa
   rotate: false
-  xy: 702, 6
+  xy: 1428, 114
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Hoceepkileni
   rotate: false
-  xy: 1448, 114
+  xy: 1624, 114
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Kalam
   rotate: false
-  xy: 1546, 114
+  xy: 1820, 114
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Mandarin
   rotate: false
-  xy: 1742, 114
+  xy: 604, 6
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Purabhettarah
   rotate: false
-  xy: 898, 16
+  xy: 1094, 16
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Sepoy
   rotate: false
-  xy: 1094, 16
+  xy: 1290, 16
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Soldaderas
   rotate: false
-  xy: 1192, 16
+  xy: 1388, 16
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Xunleichong
   rotate: false
-  xy: 1290, 16
+  xy: 1584, 16
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Yuthahathi
   rotate: false
-  xy: 1388, 16
+  xy: 1682, 16
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
