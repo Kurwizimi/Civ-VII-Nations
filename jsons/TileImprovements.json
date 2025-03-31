@@ -11,13 +11,13 @@
         "shortcutKey": "H"
     },
   {
-        "name": "Great Wall",
+        "name": "Han Great Wall",
         "uniqueTo": "Han",
         "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Snow","Hill"],
         "culture": 2,
         "turnsToBuild": 7,
         "techRequired": "Masonry",
-        "uniques": ["[+1 Happiness] for each adjacent [Great Wall]", "Gives a defensive bonus of [50]%", "Pillaging this improvement yields approximately [+25 Gold]"],
+        "uniques": ["[+1 Happiness] for each adjacent [Great Wall]", "Gives a defensive bonus of [50]%","Only available <with [0] to [1] neighboring [Han Great Wall] tiles>", "Pillaging this improvement yields approximately [+25 Gold]"],
         "shortcutKey": "W"
     },
   {
