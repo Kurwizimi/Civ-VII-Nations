@@ -449,7 +449,7 @@
 		"name": "Mexico",
 		"leaderName": "Benito Juarez",
 		"adjective": ["Mexican"],
-		"startBias": ["Destert","Plains"],
+		"startBias": ["Desert","Plains"],
 		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "",
