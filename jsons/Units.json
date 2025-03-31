@@ -95,7 +95,7 @@
         "strength": 20,
         "cost": 120,
         "requiredTech": "Astronomy",
-        "uniques": ["Can move after attacking","[3] additional attacks per turn","[+1] Sight","Withdraws before melee combat <with [80]% chance>"],
+        "uniques": ["Can move after attacking","[1] additional attacks per turn","[+1] Sight","Withdraws before melee combat <with [80]% chance>"],
         "upgradesTo": "Ironclad",
         "obsoleteTech": "Steam Power",
         "attackSound": "nonmetalhit"
