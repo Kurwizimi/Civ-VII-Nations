@@ -1,4 +1,9 @@
 [
+       {
+        "name": "[Han Chu-Ko-Nu] ability",
+        "uniques": ["[+20]% Strength <when adjacent to a [Wounded] unit>"]
+    },
+        
         {
         "name": "[Burning Arrows] ability",
         "uniques": ["[+50]% Strength <when fighting in [Forest] tiles>"]
