@@ -20,35 +20,35 @@ BuildingIcons/Donjon
   index: -1
 BuildingIcons/Huiguan
   rotate: false
-  xy: 604, 408
+  xy: 604, 310
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 BuildingIcons/Pura
   rotate: false
-  xy: 200, 200
+  xy: 200, 102
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 BuildingIcons/Vihara
   rotate: false
-  xy: 298, 16
+  xy: 396, 114
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 BuildingIcons/Zócalo
   rotate: false
-  xy: 396, 16
+  xy: 494, 114
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 NationIcons/Aksum
   rotate: false
-  xy: 494, 115
+  xy: 592, 213
   size: 89, 89
   orig: 89, 89
   offset: 0, 0
@@ -69,7 +69,7 @@ NationIcons/Bulgaria
   index: -1
 NationIcons/Chola
   rotate: false
-  xy: 592, 213
+  xy: 494, 17
   size: 89, 89
   orig: 89, 89
   offset: 0, 0
@@ -90,42 +90,42 @@ NationIcons/Khmer
   index: -1
 NationIcons/Majapahit
   rotate: false
-  xy: 702, 408
+  xy: 702, 310
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 NationIcons/Maurya
   rotate: false
-  xy: 800, 408
+  xy: 800, 310
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 NationIcons/Mexico
   rotate: false
-  xy: 800, 310
+  xy: 898, 408
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 NationIcons/Ming
   rotate: false
-  xy: 898, 408
+  xy: 898, 310
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 NationIcons/Mississipi
   rotate: false
-  xy: 494, 18
+  xy: 592, 116
   size: 89, 89
   orig: 89, 89
   offset: 0, 0
   index: -1
 NationIcons/Nepal
   rotate: false
-  xy: 898, 310
+  xy: 200, 200
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
@@ -139,28 +139,28 @@ NationIcons/Normandy
   index: -1
 NationIcons/Qing
   rotate: false
-  xy: 200, 4
+  xy: 298, 212
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 NationIcons/Shawnee
   rotate: false
-  xy: 786, 213
+  xy: 689, 116
   size: 89, 89
   orig: 89, 89
   offset: 0, 0
   index: -1
 NationIcons/The Mughals
   rotate: false
-  xy: 396, 212
+  xy: 298, 16
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Kabaka's Lake
   rotate: false
-  xy: 883, 246
+  xy: 786, 246
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -221,58 +221,65 @@ UnitIcons/Gusa
   orig: 90, 90
   offset: 0, 0
   index: -1
-UnitIcons/Hoceepkileni
+UnitIcons/Han Chu-Ko-Nu
   rotate: false
   xy: 506, 310
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
+UnitIcons/Hoceepkileni
+  rotate: false
+  xy: 604, 408
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
 UnitIcons/Kalam
   rotate: false
-  xy: 604, 310
+  xy: 702, 408
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Mandarin
   rotate: false
-  xy: 702, 310
+  xy: 800, 408
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Purabhettarah
   rotate: false
-  xy: 200, 102
+  xy: 200, 4
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Sepoy
   rotate: false
-  xy: 298, 212
+  xy: 298, 114
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Soldaderas
   rotate: false
-  xy: 298, 114
+  xy: 396, 212
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Xunleichong
   rotate: false
-  xy: 396, 114
+  xy: 494, 212
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Yuthahathi
   rotate: false
-  xy: 494, 212
+  xy: 396, 16
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
