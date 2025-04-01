@@ -17,7 +17,7 @@
         "culture": 2,
         "turnsToBuild": 7,
         "techRequired": "Masonry",
-        "uniques": ["[+1 Happiness] for each adjacent [Great Wall]", "Gives a defensive bonus of [50]%","Only available <with [0] to [1] neighboring [Han Great Wall] tiles>", "Pillaging this improvement yields approximately [+25 Gold]"],
+        "uniques": ["[+1 Happiness] for each adjacent [Han Great Wall]", "Gives a defensive bonus of [50]%","Only available <with [0] to [1] neighboring [Han Great Wall] tiles>", "Pillaging this improvement yields approximately [+25 Gold]"],
         "shortcutKey": "W"
     },
   {
