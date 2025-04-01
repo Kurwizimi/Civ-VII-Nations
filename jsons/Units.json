@@ -15,10 +15,25 @@
         "obsoleteTech": "Astronomy",
         "attackSound": "nonmetalhit"
     },
-	//Han - Chu Ko Nu already exist in the game
-	//So what UU should be added?
-	//If you are reading this, please end my torment and tell me what you think.
-	//Use the issues tab or tell me on the Unciv Discord server, pls
+
+	{
+        "name": "Han Chu-KO-Nu",
+	"replaces": "Composite Bowman",
+	"uniqueTo": "Han",
+        "unitType": "Archery",
+        "movement": 2,
+        "strength": 7,
+        "rangedStrength": 14,
+	"range": 2,
+        "cost": 72,
+        "requiredTech": "Construction",
+        "upgradesTo": "Crossbowman",
+        "obsoleteTech": "Machinery",
+	"uniques": ["[+50]% Strength <vs cities> <when attacking>"],
+	"promotions": ["[Han Chu-Ko-Nu] ability"],
+        "attackSound": "arrow"
+    },
+
 	
 	{
         "name": "Yuthahathi",
@@ -60,6 +75,7 @@
         "movement": 2,
         "strength": 5,
         "rangedStrength": 7,
+	"range": 2,
         "cost": 40,
         "requiredTech": "Archery",
         "upgradesTo": "Composite Bowman",
