@@ -17,7 +17,7 @@
     },
 
 	{
-        "name": "Han Chu-KO-Nu",
+        "name": "Han Chu-Ko-Nu",
 	"replaces": "Composite Bowman",
 	"uniqueTo": "Han",
         "unitType": "Archery",
@@ -25,7 +25,7 @@
         "strength": 7,
         "rangedStrength": 14,
 	"range": 2,
-        "cost": 72,
+        "cost": 75,
         "requiredTech": "Construction",
         "upgradesTo": "Crossbowman",
         "obsoleteTech": "Machinery",
