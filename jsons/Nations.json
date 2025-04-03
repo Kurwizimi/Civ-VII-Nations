@@ -417,12 +417,11 @@
 		"startIntroPart1": "From the shores of Nnalubaale – Lake Victoria – were launched the deadly war canoes of Buganda. By the late 19th century, Buganda was the most populous place in Africa’s interior, with man-made lakes, a well-ordered city, and envoys from all the surrounding people seeking the king’s ear. And well they should – Bagandan raids were a terrifying force.",
 		"startIntroPart2": "O Great Mwanga II, you have lead the Baganda well. You have settled religious conflict in your natiuon with an iron fist, ensuring the stability of your empire. Eurpean powers were cautiously welcomed during your rule, but they eventually attacked you and your people for their financial gain. You tried to defend Buganda, but the Europeans and the reigious rebels were too much. Even after exile and torture for thge rest of your life, you remained a staunch anti-imperialist, with your spitit never breaking. Now the Baganda call you to lead tham once more. Can you lead you people against the encroaching imperial powers? Can you build a civilization that will stand the test of time?",
 		
-		"declaringWar": "",
-		"attacked": "",
-		
-		"defeated": "",
-		"introduction": "",
-		
+		"declaringWar": "You people are like pythons that swallow each other!",
+		"attacked": "You have come. You have built forts on my land, you have ate the crops of my land; you have made me sign unjust treaties and curtailed my powers. Now I shall enact my revenge.",
+		"defeated": "Now that I shall die, so shall Buganda. Now you will savage my lands, and destroy the Baganda.",
+		"introduction": "I am Mwanga, son of Mutesa. What Mutesa was in Buganda, I am also. Anyone who stands against my people will not have mercy spared upon them.",
+
 		"neutralHello": "",
 		"neutralLetsHearIt": [""],
 		"neutralNo": [""],
@@ -433,8 +432,8 @@
 		"hateNo": [""],
 		"hateYes": [""],
 		
-		"afterPeace": "",
-		"tradeRequest": "",
+		"afterPeace": "I never wanted to give you my land. I want all people of all nations to come to Buganda, to build and to trade as they like.",
+		"tradeRequest": "Would you care to consider this deal?",
 
 		"outerColor": [179,179,107],
 		"innerColor": [161,51,43],
