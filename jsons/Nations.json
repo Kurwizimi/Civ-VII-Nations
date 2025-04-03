@@ -263,8 +263,8 @@
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "",
-		"startIntroPart2": "",
+		"startIntroPart1": "The last great Hindu kingdom of Indonesia arose with the surprise betrayal of Kublai Khan’s navy, paving the way for the Majapahit, who conquered and controlled the spice islands at the dawn of the global era. But after three hundred years of dominance, the winds began to change. Muslim trade networks sidelined the Majapahit state, forcing them to the island of Bali, where their legacy remains.",
+		"startIntroPart2": "Mighty warrior Gajah Mada, your people yearn for a strong leader who can return them to prosperity! Will you set out to conquer the neighboring kingdoms, further expanding your glory of your empire? Will you build a civilization that can stand the test of time?",
 		
 		"declaringWar": "I don't want to stnd in your way, but I shall protect my people!",
 		"attacked": "How dare you! Your insignificant attack shall falter!",
@@ -300,8 +300,8 @@
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "",
-		"startIntroPart2": "",
+		"startIntroPart1": "Emerging from the shadow of Mongol-dominated Yuan, the Ming turned inward, revitalizing Han traditions and fortifying Chinese infrastructure and economy. The Great Wall was expanded and improved, a tributary system of defense and dependency was installed, and Ming goods became the most desired commodities in the global market. But when silver sources collapsed, unpaid Ming armies rebelled, leading to the rise of the Manchu-dominated Qing.",
+		"startIntroPart2": "The world awaits, great Yongle Emperor of Ming China. Stretch out your hand and grasp its riches and its knowledge. Place your nation at the center of all things, and let all come to you in supplication.Can you build a civilization that can stand the test of time?",
 		
 		"declaringWar": "It is not my wish to conquer your realm by force, but there is no other way.",
 		"attacked": "Hahaha... You might as well conquer the heaven itself. Now let us see how high your arrows fly.",
@@ -339,8 +339,8 @@
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "",
-		"startIntroPart2": "",
+		"startIntroPart1": "From distant shores, the Normans sailed with conquest on their minds. Originally from Scandinavia, they sat unquietly in northern France for just over a century before seizing England in 1066. They brought court culture, French language, and weapons of war. Knights rode out from stone castles, pursuing the values of chivalry. The Normans never truly disappeared, but merged with local populations, creating the amalgam we call “English” today.",
+		"startIntroPart2": "All Hail King William of Normandy! You have overcome great challenges in your life, from your illegitamite origins to the ravaging nobility after your fathers death. But you overcame these struggles, and forged a Kingdom that would later become the largest empire to exist. O Great Conquerer, can you lead the Normans once more and remind them of the glory of conquest? Can you centralise your lands once more to ensure your nations longevity? Can you build a civilization that can stand the test of time?",
 		
 		"declaringWar": "Your realm shall be under my rightful rule!",
 		"attacked": "So it shall be! To arms!",
@@ -376,8 +376,8 @@
 		"startBias": ["River","Grassland","Plains"],
 		"preferredVictoryType": "Diplomatic",
 		
-		"startIntroPart1": "",
-		"startIntroPart2": "",
+		"startIntroPart1": "In the Ohio Valley, the Shawnee made their stand on the world stage. The descendants of what archaeologists term the Fort Ancient culture, they built elaborate earthworks, cultivated maize, and built small cities surrounding a central council house, where public debate took place. When the newly-born United States began to expand, they fought battle after battle to keep their lands, and though they lost their Prophetstown, they remain.",
+		"startIntroPart2": "Cheif Tecumseh, you have devoted your liofe to protect your people from the westward expantion of the United States. You and your brother have unified groups of people that were thought to be impossible to unite. With your unbridled urge to defend the freedoms of all Native Americans, you were kiilld in thye war of 1812, a conflict between two colonisers dividing your people. Now the Shawnee call out to you once more. Can yuo stop the expansion of foreign powers onto your land? Can you keep your people united against a common foe? Can you build a civilization that can stand the test of time?",
 		
 		"declaringWar": "We will drive you back to the sea, to the caves, to whatever place you have come from.",
 		"attacked": "Let it be taken, our homes and our land given to us by the Great Spirit? The places we bury the ones who have gone home? Never!",
@@ -409,13 +409,13 @@
 
 	{
 		"name": "Buganda",
-		"leaderName": "Namuggala",
+		"leaderName": "Mwanga II",
 		"adjective": ["Bugandan"],
 		"startBias": ["Lakes","Jungle"],
 		"preferredVictoryType": "Diplomatic",
 		
-		"startIntroPart1": "",
-		"startIntroPart2": "",
+		"startIntroPart1": "From the shores of Nnalubaale – Lake Victoria – were launched the deadly war canoes of Buganda. By the late 19th century, Buganda was the most populous place in Africa’s interior, with man-made lakes, a well-ordered city, and envoys from all the surrounding people seeking the king’s ear. And well they should – Bagandan raids were a terrifying force.",
+		"startIntroPart2": "O Great Mwanga II, you have lead the Baganda well. You have settled religious conflict in your natiuon with an iron fist, ensuring the stability of your empire. Eurpean powers were cautiously welcomed during your rule, but they eventually attacked you and your people for their financial gain. You tried to defend Buganda, but the Europeans and the reigious rebels were too much. Even after exile and torture for thge rest of your life, you remained a staunch anti-imperialist, with your spitit never breaking. Now the Baganda call you to lead tham once more. Can you lead you people against the encroaching imperial powers? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "",
 		"attacked": "",
