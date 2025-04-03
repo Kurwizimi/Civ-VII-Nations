@@ -6,8 +6,8 @@
 		"startBias": ["Coast", "Hill"],
 		"preferredVictoryType": "Diplomatic",
 		
-		"startIntroPart1": "",
-		"startIntroPart2": "",
+		"startIntroPart1": "The African coast of the Red Sea was the domain of Aksum, named by the prophet Mani as one of the four key powers of the ancient world. For most of the first millennium CE, Aksumite merchants bore ivory, gold, spices and other goods from the African interior to India, Persia, and the Mediterranean. Yet these trade routes planted the seeds of Aksum’s fall – when the Arab caliphates took over the Silk Road, Aksum was isolated and fell into decline.",
+		"startIntroPart2": "Great Queen Makeda, your rule has been remembered for a thousand years and more, by being in the Court of Solomon. You have converted your people to the light of Christianity, and from then on your nation remained a bastion of faith and piety since. But now your people are scattered and impoverished, as the trade that once fed your nation has dried up. Can you help your people regain their former wealth and power? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "You have tourtued your people long enough! I shall liberate your people from your oppressive rule!",
 		"attacked": "I knew this was coming, the beliefs that you constantly spew at others made clear of your intentions.",
@@ -42,8 +42,8 @@
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "",
-		"startIntroPart2": "",
+		"startIntroPart1": "The Han were not the first of China’s ancient dynasties, but were its grandest. From Liu Bang’s rebellion against the iron-fisted Qin came a balance between centralized authority and Confucian meritocracy, and a wave of innovation in statecraft, philosophy, and science. With an army of shi dafu, scholar-bureaucrats, at home, and an army of chariots, heavy infantry, and crossbows abroad, for four hundred years the Han held the Mandate of Heaven.",
+		"startIntroPart2": "Oh Xuan Emperor! You have suffered greatly when your Great Grandfather accused your family of witchraft, resulting in your parents being killed when you were a child. By living with the common people, you began to understand their struggles and sacrifices, so when you successfully regained control of the throne, you led a reign of sympathy and progress. But now the Han have far passed their golden age. Can you unify your people under a corruption-free rule? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "You are an incompetent ruler, taxing your poor to benefit the rich! I shall put an end to this at once!",
 		"attacked": "I have known many people who have wronged me in the past. This comes with no suprise.",
@@ -78,8 +78,8 @@
 		"startBias": ["Jungle","Flood plains"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "",
-		"startIntroPart2": "",
+		"startIntroPart1": "Kamboja, the Khmer Empire, was a model of the Hindu-Buddhist heavens in Southeast Asia. From its center, it projected its influence across the region. True Khmer power lay in water, as harnessing the floods of the Mekong fueled some of the largest cities in the world. But as these floods waned, so did Khmer power, leaving its dream in ruins across Cambodia, Thailand, Laos and Vietnam.",
+		"startIntroPart2": "Wise Jayavarman, seventh to hold the name, the Khmer admire your dedication to their well-being. Your command of the land's fresh waters lets you feed your hungry people, just as it brings you ever closer to Heaven. Can you reforge your empire to ensure your people can be eternally happy? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "Your actions reveal your desire for war. The Khmer shall oblige you.",
 		"attacked": "War, then? Fools think fortune is on their side. Who will you blame when yours runs out?",
@@ -115,8 +115,8 @@
 		"startBias": ["Forest"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "",
-		"startIntroPart2": "",
+		"startIntroPart1": "The Maurya arose from a land of incredible cultural diversity, but one reeling from war. From Chandragupta’s conquests of Alexander the Great’s successors, the dynasty reached its height under Ashoka, who embraced nonviolence and tolerance. Balancing open-mindedness with military might, the Maurya built an empire that was as wise as it was glorious – until its fall to an assassin’s blade",
+		"startIntroPart2": "Great King Ashoka, you have been horrified from the cruelty and terror of war, resulting in you conveting to Buhddism to seek inner peace. From being accuesed of going to the depths of hell to discover new torture methods, you now are known as a peaceful pacifist, devoted to spreading the word of Buhddism. Can you spread the message of pacifism to your people, and help stop the horrors of war? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "The path of violence is a path that I swore never to take again. But here we are",
 		"attacked": "Violence echoes across multiple lives, multiple worlds. It will return to you.",
@@ -153,8 +153,8 @@
 		"startBias": ["River"],
 		"preferredVictoryType": "Diplomatic",
 		
-		"startIntroPart1": "",
-		"startIntroPart2": "",
+		"startIntroPart1": "The Mississippians - named for the river near where their earthen mounds stand - leave no writing behind, but archaeology tells of a complex society, a political system where cities waxed and waned in influence, maize farming, and trade in copper, shells, and hides. But by 1400 CE, whether through natural or political means, the Mississippians had already faded into memory.",
+		"startIntroPart2": "Chief Tuskaloosa! You have fought against the spanish colonisers for your peoples freedom. Even when you were captured as a slave by roaming conquistadors, your bravery remained strong. You sacrificed yourself so your followers can live freely and not under a colonisers boot, but all was in vain. O Great Chief, the Mississipi are now divided, with many tribes vanishing without a trace. Can you reunite your people, bringing them back to their former glory? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "I shall idle no more! It is time to fight!",
 		"attacked": "Me and my people shall defend to the last man, woman and child. Your tyranny shall not reach our lands!",
@@ -189,8 +189,8 @@
 		"startBias": ["Hill"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "",
-		"startIntroPart2": "",
+		"startIntroPart1": "In the seventh century, the Bulgars crossed the Danube and made the Balkans their own. Their warriors used the mountains to their advantage, scattering larger armies through skill and stratagems. The First Bulgarian Empire ran on conquest, expansion, and the growth of trade. The Second Empire saw the rise of art, literature, and architecture alongside spirituality and monastic traditions. All came crashing down when the Ottomans invaded.",
+		"startIntroPart2": "Great Khan of the Bulgars! You have struck fear into your enemies hearts, destroying opposing armies and expanding the land of Bulgaria. You killed the Byzantine Emperor Nikephoros after he pillaged antd razed your lands, even arming women to enact revenge on behalf of their murdered children, and continued to terrorise his empire for years to come. Not only that, but you have reformed Bulgarian law to protect the poor, and accepted Serbs into your nation's people. Great Khan Krum, can your just and strong rule bring Bulgaria back to being a continental powerhouse? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "You have left your borders weak, and now I shall sieze the opportunity!",
 		"attacked": "Fool! I shall turn your skull into a drinking cup!",
@@ -226,8 +226,8 @@
 		"startBias": ["Coast","Jungle"],
 		"preferredVictoryType": "Diplomatic",
 		
-		"startIntroPart1": "",
-		"startIntroPart2": "",
+		"startIntroPart1": "Cornering trade across the Indian Ocean, the Chola oversaw a vast network of merchants and naval vessels that brought Indic texts and traditions along with spices, ivory, ebony, and other trade goods. Their dominion extended at times to vassals in Burma and Sumatra. But danger came from home, as neighboring kingdoms drove them into obscurity.",
+		"startIntroPart2": "Great King Rajaraja! You have expanded the Chola's reach beyond previous horizons, conquering Sri Lanka, the Maldives and all lands up the Ganges. You have also invested heavily into the arts and faith, earning you the title of 'Thirumurai Kanda Cholar' after your vast collection of literature and art. But now the Chola have been pushed to obscurity, and the Tamil people are divided. Can you unite your people and lead them into a golden age, where the arts and conquest flourish? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "Your land holds important points that are essential for the Chola's survival. Prepare for war!",
 		"attacked": "Do you really think you can usurp me? Ha! ",
