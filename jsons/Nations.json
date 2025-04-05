@@ -553,7 +553,7 @@
 		"outerColor": [220, 20, 60],
 		"innerColor": [0, 56, 147],
 		"uniqueName": "Roof of the World",
-		"uniques": ["[+1 Food] from [Mountain] tiles <in cities with a [Granary]>", "[+1 Production] from [Mountain] tiles <in cities with a [Workshop]>", "[+1 Food] from [Mountain] tiles <in cities with a [Shrine]>","[+1 Production] from [Mountain] tiles <in cities with a [Amphitheater]>","[Worker] units gain the [Trained Sherpas] promotion"],
+		"uniques": ["[+1 Food] from [Mountain] tiles [in all cities] <in cities with a [Granary]>", "[+1 Food] from [Mountain] tiles [in all cities] <in cities with a [Shrine]>", "[+1 Production] from [Mountain] tiles [in all cities] <in cities with a [Workshop]>","[+1 Production] from [Mountain] tiles [in all cities] <in cities with a [Amphitheater]>","[Worker] units gain the [Trained Sherpas] promotion"],
 		"cities": ["Kathmandu","Pokhara","Lalitpur","Bharatpur","Gahawa","Dharan","Hetauda","Birendranagar","Itahari","Janakpurdham",
 			"Jumla","Biratnagar","Tulsipur","Butwal","Godawari","Nepalgunj","Gorahi","Lumbini","Nagarkot","Dhulikhel",
 			"Kalaiya","Damak","Mustang","Gaighat"],
