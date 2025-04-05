@@ -476,7 +476,7 @@
 		"outerColor": [0,100,5],
 		"innerColor": [200,50,0],
 		"uniqueName": "Revolución",
-		"uniqueText": ["[+20]% [Culture] for 12 turns after starting any policy tree"],
+		"uniqueText": "+20% [Culture] for 12 turns after starting any policy tree",
 		"uniques": ["[+20]% [Culture] <for [12] turns> <after adopting [Tradition]>","[+20]% [Culture] <for [12] turns> <after adopting [Liberty]>","[+20]% [Culture] <for [12] turns> <after adopting [Honor]>","[+20]% [Culture] <for [12] turns> <after adopting [Piety]>","[+20]% [Culture] <for [12] turns> <after adopting [Commerce]>","[+20]% [Culture] <for [12] turns> <after adopting [Rationalism]>","[+20]% [Culture] <for [12] turns> <after adopting [Order]>","[+20]% [Culture] <for [12] turns> <after adopting [Freedom]>","[+20]% [Culture] <for [12] turns> <after adopting [Autocracy]>","[+20]% [Culture] <for [12] turns> <after adopting [Patronage]>"],
 		"cities": ["Ciudad de México","Guadalajara","Puebla","Monterrey","Tampico","Mérida","Tehuacán","León","Toluca","Zacatlán",
 			"Huauchinango","Querétaro","Morelia","San Luis Potosí","Aguascalientes","Chalchicomula","Saltillo","Veracruz","Tacubaya","Torreón",
