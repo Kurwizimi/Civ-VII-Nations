@@ -25,7 +25,7 @@
 		"hateYes": [""],
 		
 		"afterPeace": "May the trade flow again.",
-		"tradeRequest": "Aksum hold many goods you could not refuse to buy.",
+		"tradeRequest": "Aksum holds many goods you could not refuse to buy.",
 
 		"outerColor": [255,255,20],
 		"innerColor": [25,120,25],
@@ -97,7 +97,7 @@
 		"hateYes": ["Very well..."],
 		
 		"afterPeace": "Ending spiritual suffering is just as important as easing physical distress. You understand this.",
-		"tradeRequest": " The Khmer wish to offer you this gift.",
+		"tradeRequest": "The Khmer wish to offer you this gift.",
 
 		"outerColor": [60,10,100],
 		"innerColor": [170,140,10],
@@ -245,7 +245,7 @@
 		"hateYes": [""],
 		
 		"afterPeace": "For now, peace.",
-		"tradeRequest": "The Chola has good from far and wide. Would you like to sample them?",
+		"tradeRequest": "The Chola has goods from far and wide. Would you like to sample them?",
 
 		"outerColor": [163,43,43],
 		"innerColor": [203,175,51],
