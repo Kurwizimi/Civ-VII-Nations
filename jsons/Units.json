@@ -133,6 +133,22 @@
     },
 
 	{
+        "name": "Swordsman",
+	"replaces": "Swordsman",
+        "uniqueTo": "Hawai'i",
+        "unitType": "Sword",
+        "movement": 2,
+        "strength": 14,
+        "cost": 75,
+        "requiredTech": "Iron Working",
+	"uniques": ["Can move after attacking","[1] additional attacks per turn","[+1] Sight","Withdraws before melee combat <with [80]% chance>"],
+        "upgradesTo": "Longswordsman",
+        "obsoleteTech": "Steel",
+        "hurryCostModifier": 20,
+        "attackSound": "metalhit"
+    },
+
+	{
         "name": "Cetbang",
         "replaces": "Galleass",
         "uniqueTo": "Majapahit",
