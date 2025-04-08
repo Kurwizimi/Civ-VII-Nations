@@ -182,6 +182,44 @@
 			"Missouria","Mobilian","Natchez","Osage","Quapaw","Tunica","Yamasee","Yuchi","Quizquiz","Chucalisa",
 			"Nodana","Wapanocca","Chauga","Coste"],
 	},
+
+	{
+		"name": "The Abbasids",
+		"leaderName": "Al-Muktafī bi-Llāh",
+		"adjective": ["Abbasid"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "Bahamut rumbles and sways the jacinth slab of Kuyutha. The Abbasids' weight will realign the balance of the world./nUnified by the new religion of Islam, the early Arab caliphates expanded rapidly across the Mediterranean and eastward into Persia. In this world, Baghdad, the capital of the Abbasid dynasty, thrived as a center of learning and culture. Arab scholars advanced astronomy and mathematics, philosophy and art until, like the fall of night, the Mongols appeared on the eastern horizon.",
+		"startIntroPart2": "O wise Caliph Al-Muktafī bi-Llāh, you have lead the people of Islam well. Your decendents have spent their reign trying to grapple on to whatever power they could get after the devastation and embarrassment of the Ararchy of Samara. However you, with you reforms and your kindness, reformed the Caliphate into a more prosperous and grand empire. The Abbasids managed to retake Egypt and Syria without the need of your fathers brutality and torture, and you destroyed the prisons and the toyrture chambers your father have built across the nation. But after your reign, the Addasid Caliphate declined, only becoming a mere puppet of foreign empires. Now, the Abbasids call for you. Can you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "I never thought I would follow my fathers footsteps, but you need to be put in your place!",
+		"attacked": "Such brutality will never yeild you anything. The soldiers of the Abbasids shall cut you down!",
+		"defeated": "O God! Why must you turn you people into the puppets of tyrants?! Why?!",
+		"introduction": "Peace be on you. I am Al-Muktafī bi-Llāh, Caliph of the Abbasids. It is a pleasure to meet you.",
+		
+		"neutralHello": "Peace be on you.",
+		"neutralLetsHearIt": ["Lets hear it."],
+		"neutralNo": ["Unfortunately, no"],
+		"neutralYes": ["Indeed!"],
+
+		"hateHello": "What is it?",
+		"hateLetsHearIt": ["Hmm..."],
+		"hateNo": ["You are more of a fool than I thought"],
+		"hateYes": ["So it shall be."],
+		
+		"afterPeace": "Now the fields of our lands will not be covered in corpses of our people.",
+		"tradeRequest": "Is this trade deal good for you? If not, we can definitely find a compromise",
+
+		"outerColor": [250,219,2],
+		"innerColor": [26,103,40],
+		"uniqueName": "Medina",
+		"uniques": ["Gain [50] [Gold] <upon building a [All] improvement> <(modified by game speed)>"],
+		"cities": ["Baghdād","Al-Fustāt","Makkah","Al-Mawsil","Ardabil","Hamadān","Shirāz","Zabid","Dimašq","Qairwān",
+			"Sāmarrā","al-Ahwāz","Irānshahr","Shahrastān","as-Sirajān","al-Mansūra","al-Kūfah","al-Madinah","Rāma-hurmuz","al-Basrah",
+			"al-Rayy","Halab","Balkh","Bust"],
+	},
+	
 	{
 		"name": "Bulgaria",
 		"leaderName": "Khan Krum",
