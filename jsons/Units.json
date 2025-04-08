@@ -84,6 +84,22 @@
         "attackSound": "arrow"
     },
 
+	{
+        "name": "Mamluk",
+	"replaces": "Knight",
+	"uniqueTo": "The Abbasids",
+        "unitType": "Mounted",
+        "movement": 4,
+        "strength": 18,
+        "cost": 120,
+        "requiredTech": "Chivalry",
+        "obsoleteTech": "Military Science",
+        "upgradesTo": "Cavalry",
+        "requiredResource": "Horses",
+        "uniques": ["[+25]% Strength <within [2] tiles of a [City center]>", "Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+        "attackSound": "horse"
+    },
+
 	 {
         "name": "Bolyar",
 	"replaces": "Knight",
