@@ -51,6 +51,17 @@
         "shortcutKey": "H"
     },
      {
+        "name": "Lo'i Kalo",
+        "uniqueTo": "Hawai'i",
+        "terrainsCanBeBuiltOn": ["Grassland","Plains"],
+        "food": 1,
+        "production": 1,
+        "turnsToBuild": 7,
+        "uniques": ["[+1 Culture] for each adjacent [Farm]", "[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>", "[+1 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>", "Pillaging this improvement yields approximately [+25 Gold]"],
+        "techRequired": "Construction",
+        "shortcutKey": "F"
+    },
+     {
         "name": "Mawaskawe Skote",
         "uniqueTo": "Shawnee",
         "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Forest","Jungle"],
