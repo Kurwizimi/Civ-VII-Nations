@@ -9,6 +9,20 @@
 		"uniques": ["[+10]% [Happiness] [in this city]"],
 		"requiredTech": "Philosophy"
 	},
+
+	 {
+        	"name": "Madinat",
+        	"maintenance": 2,
+		"replaces": "University",
+		"uniqueTo": "The Abbasids",
+		"cost": 160,
+		"hurryCostModifier": 160,
+        	"percentStatBonus": {"science": 33},
+        	"specialistSlots": {"Scientist": 2},
+        	"requiredBuilding": "Library",
+        	"uniques": ["[+2 Science] from [Jungle] tiles [in this city]","[+2 Science] from every specialist [in this city]"],
+        	"requiredTech": "Education"
+    },
 	{
 		"name": "Anjuvannam",
 		"replaces": "Bank",
