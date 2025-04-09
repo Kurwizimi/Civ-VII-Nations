@@ -200,9 +200,23 @@ NationIcons/The Mughals
   orig: 90, 90
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Kabaka's Lake
+TileSets/HexaRealm/Tiles/Hidden Fortress
   rotate: false
   xy: 4, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Kabaka's Lake
+  rotate: false
+  xy: 1224, 51
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Lo'i Kalo
+  rotate: false
+  xy: 1321, 148
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
