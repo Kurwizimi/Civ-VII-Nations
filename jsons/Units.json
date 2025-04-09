@@ -133,7 +133,7 @@
     },
 
 	{
-        "name": "Swordsman",
+        "name": "Leiomano",
 	"replaces": "Swordsman",
         "uniqueTo": "Hawai'i",
         "unitType": "Sword",
@@ -141,7 +141,7 @@
         "strength": 14,
         "cost": 75,
         "requiredTech": "Iron Working",
-	"uniques": ["Can move after attacking","[1] additional attacks per turn","[+1] Sight","Withdraws before melee combat <with [80]% chance>"],
+	"promotions": ["[Leiomano] ability"],
         "upgradesTo": "Longswordsman",
         "obsoleteTech": "Steel",
         "hurryCostModifier": 20,
