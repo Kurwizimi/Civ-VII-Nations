@@ -58,6 +58,20 @@
 		"uniques": [ "Free [Chevaler] appears"],
 		"requiredTech": "Chivalry"
 	},
+
+	{
+		"name": "Financial Centre",
+		"replaces": "Stock Exchange",
+		"uniqueTo": "Great Britain",
+		"cost": 360,
+		"hurryCostModifier": 160,
+		"gold": 3,
+		"percentStatBonus": {"gold": 25},
+		"uniques": ["[+2 Gold] from each Trade Route", "Comment [Unlocked earlier at [Industrialization]]"],
+		"specialistSlots": {"Merchant": 2},
+		"requiredTech": "Industrialization"
+	},
+	
 	{
 		"name": "Zócalo",
 		"replaces": "Stock Exchange",
