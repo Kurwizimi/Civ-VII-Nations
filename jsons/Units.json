@@ -219,6 +219,24 @@
     },
 
 	{
+        "name": "Revenge",
+	"replaces": "Battleship",
+	"uniqueTo": "Great Britain",
+        "unitType": "Ranged Water",
+        "movement": 5,
+        "strength": 55,
+        "rangedStrength": 55,
+        "range": 3,
+        "cost": 375,
+        "requiredResource": "Oil",
+        "requiredTech": "Electronics",
+        "upgradesTo": "Missile Cruiser",
+        "uniques": ["Never appears as a Barbarian unit","[-25]% Strength for enemy [All] units in adjacent [Water] tiles"],
+        "promotions": ["Indirect Fire"],
+        "attackSound": "shipguns"
+    },
+
+	{
 	"name": "Abambowa",
 	"unitType": "Sword",
 	"uniqueTo": "Buganda",
