@@ -483,6 +483,42 @@
 	},
 
 	{
+		"name": "Great Britain",
+		"leaderName": "Benjamin Disreali",
+		"adjective": ["British"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "Chaos is the absence of order, and the world needs structure. Great Britain ascends. \nThe sun never sets on Great Britain’s vast empire. Its territories spread across all continents, funneling raw materials from colonial holdings to the factories of the metropole. Foreign policy was conducted through economic strategy, extensive diplomacy, and threat of war. The British navy dominated the seas, while at home, society found a new order amid the explosion of industry. Under Pax Britannica, the world followed Britain’s lead.",
+		"startIntroPart2": "",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"outerColor": [0,0,164],
+		"innerColor": [255,255,255],
+		"uniqueName": "Workshop of the World",
+		"uniques": ["[+15]% Production when constructing [All] buildings [in all cities]", "[Gold] cost of purchasing [All] buildings [-25]%"],
+		"cities": ["London","Edinburgh","Cardiff","Liverpool","Manchester","Birmingham","Leeds","Sheffield","Bristol","Bradford",
+			"Stoke-upon-Trent","Hull","Newcastle-upon-Tyne","Plymouth","Portsmouth","Leicester","Sunderland","Nottingham","Oldham","Brighton",
+			"Bolton","Blackburn","Preston","Norwich"],
+	},
+
+	{
 		"name": "Buganda",
 		"leaderName": "Mwanga II",
 		"adjective": ["Bugandan"],
