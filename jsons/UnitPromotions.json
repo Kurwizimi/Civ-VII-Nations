@@ -44,6 +44,17 @@
         "uniques": ["[+10]% Strength <when adjacent to a [Gusa] unit>"]
     },
 
+       {
+        "name": "[Prussian Hussar] ability",
+        "uniques": ["[+50]% Strength <if it hasn't used other actions yet>"]
+    },
+
+       {
+        "name": "Skirmish",
+        "uniques": ["[+20]% to Flank Attack bonuses"]
+    },
+
+
 
 
 
