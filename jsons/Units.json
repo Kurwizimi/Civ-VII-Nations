@@ -291,8 +291,8 @@
 	{
 	"name": "Prussian Hussar",
 	"unitType": "Mounted",
-	"uniqueTo": "Normandy",
-	"replaces": "Knight",
+	"uniqueTo": "Prussia",
+	"replaces": "Cavalry",
 	"movement": 5,
 	"strength": 34,
 	"cost": 225,
