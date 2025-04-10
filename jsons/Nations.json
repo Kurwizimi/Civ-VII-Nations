@@ -671,6 +671,43 @@
 	}
 
 	{
+		"name": "Prussia",
+		"leaderName": "Freidrick",
+		"adjective": ["Prussian"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "A harbinger of change, Prussia ushers in an age of explosive growth and opportunity. \nRelentless in modernization, rationality, and conquest, Prussia brought Germany under its reign. Externally, Prussia waged war against nearly all of the major European powers of the day. Internally, it was an industrial powerhouse, with rail lines stitching together coal mines and steel refineries. By 1866, Prussia had encompassed most of present-day Germany and part of Poland, leading to its transformation from kingdom to empire.",
+		"startIntroPart2": "Friedrich the Great’s rise to power in militarized Prussia at first seems contradictory. He had a proclivity for military theory and a taste for Prussian aggression. Yet from youth, Friedrich was drawn to art and literature. He wrote philosophy, composed music, and hosted the leading artists and intellectuals of the day. But he never lost sight of the battlefield, balancing his creative side with the logical rigor requisite for a military leader.",
+		
+		"declaringWar": "I have been in the theater too long, and hunger for the sound of cannon.",
+		"attacked": "To war, then! You scoundrels, do you want to live forever?",
+		"defeated": "Ha ha ah! And my critics said that my poetry would be my downfall!",
+		"introduction": "Friedrich II, pleased to meet you. I am an angel in the salon, but a demon on the battlefield.",
+		
+		"neutralHello": "Greetings",
+		"neutralLetsHearIt": ["Lets see.."],
+		"neutralNo": ["I afraid not."],
+		"neutralYes": ["'Bien sur,' this is a rational offer!"],
+
+		"hateHello": "Why do you disturb me?",
+		"hateLetsHearIt": ["What?"],
+		"hateNo": ["A ridiculous offer. Send one better, or not at all!"],
+		"hateYes": ["So be it."],
+		
+		"afterPeace": "'Bien sur,' this is a rational offer!",
+		"tradeRequest": "",
+
+		"outerColor": [252,206,24],
+		"innerColor": [0,0,0],
+		"uniqueName": "Blood and Iron",
+		"uniques": [ "[+50]% to Flank Attack bonuses", "[Mounted] units gain the [Skirmish] promotion"],
+		"cities": ["Berlin","Hamburg","München","Dresden","Leipzig","Köln","Frankfurt am Main","Nürnberg","Düsseldorf","Hannover",
+			"Stutgart","Chemnitz","Magdeburg","Charlottenburg","Essen","Königsberg","Bremen","Duisburg","Dortmund","Halle an der Saale",
+			"Altona","Straßburg","Keil","Mannheim"],
+	}
+
+	{
 		"name": "Qing",
 		"leaderName": "Qianlong",
 		"adjective": ["Qing"],
