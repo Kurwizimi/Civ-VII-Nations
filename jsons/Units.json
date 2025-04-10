@@ -303,6 +303,23 @@
 	"promotions": ["[Prussian Hussar] ability"],
     },
 
+	 {
+        "name": "Stuka",
+        "unitType": "Bomber",
+	"uniqueTo": "Prussia",
+	"replaces": "Bomber",
+        "movement": 1,
+        "strength": 75,
+        "rangedStrength": 65,
+        "range": 10,
+        "cost": 375,
+        "requiredTech": "Radar",
+	"uniques":["[+25]% Strength <vs [Land] units>"],
+        "requiredResource": "Oil",
+        "upgradesTo": "Stealth Bomber",
+        "attackSound": "bombing"
+    },
+
 	{
 	"name": "Gusa",
 	"unitType": "Gunpowder",
