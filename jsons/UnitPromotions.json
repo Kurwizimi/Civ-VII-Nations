@@ -1,5 +1,10 @@
 [
        {
+        "name": "[Medjay] ability",
+       "uniques": ["[+15]% Strength <when fighting in [Friendly Land] tiles>", "[+15]% Strength <when fighting in [City center] tiles>"]
+    },
+       
+       {
         "name": "[Han Chu-Ko-Nu] ability",
         "uniques": ["[+20]% Strength <when adjacent to a [Wounded] unit>"]
     },
