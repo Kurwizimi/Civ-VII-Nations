@@ -1,5 +1,16 @@
 [
 	{
+		"name": "Necropolis",
+		"replaces": "Temple",
+		"uniqueTo": "Khmet",
+		"cost": 100,
+		"hurryCostModifier": 160,
+		"faith": 2,
+		"uniques": ["Gain [100] [Gold] <upon constructing [Wonders] [in this city]> <(modified by game speed)>"],
+		"requiredTech": "Philosophy"
+	},
+	
+	{
 		"name": "Vihara",
 		"replaces": "Temple",
 		"uniqueTo": "Maurya",
