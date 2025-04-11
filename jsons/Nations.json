@@ -594,6 +594,42 @@
 	},
 
 	{
+		"name": "Imperial France",
+		"leaderName": "Napoleon III",
+		"adjective": ["French"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "France looks out upon an incomplete world-- a blank canvas waiting to be marked.\nFrom the long shadow of the guillotine, to the bright streamers of the revolutionary cockade, to the thunder of Napoleon’s cannon, to the Belle Epoque’s “City of Light” and the iron needle of the Eiffel Tower – France emerges. In the wake of the Revolution, the nation rocked from monarchy to republic and back again. But the Third French Republic brought a moment of respite, of avenues, industry, and salons…a breath before the coming storms.",
+		"startIntroPart2": "",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"outerColor": [66,100,174],
+		"innerColor": [242,244,183],
+		"uniqueName": "Liberté, Egalité, Fraternité",
+		"uniques": ["[+2 Culture] from all [Happiness] buildings", "[+2 Happiness] from all [Wonders] buildings"],
+		"cities": ["Paris","Lyon","Marseille","Bordeaux","Lille","Nantes","Saint-Étienne","Toulouse","Rouen","Le Havre",
+			"Ajaccio","Brest","Roubaix","Reims","Toulon","Amiens","Nancy","Mulhouse","Nîmes","Limoges",
+			"Rennes","Angers","Montpellier","Besançon"],
+	},
+
+	{
 		"name": "Mexico",
 		"leaderName": "Benito Juarez",
 		"adjective": ["Mexican"],
