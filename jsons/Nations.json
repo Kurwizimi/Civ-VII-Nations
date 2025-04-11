@@ -630,6 +630,42 @@
 	},
 
 	{
+		"name": "Meiji Japan",
+		"leaderName": "Meji",
+		"adjective": ["Japanese"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "The sun rises. The Meiji ascend.\nThe chaos that followed the forced opening of Edo Japan led to a new synthesis: the Meiji. This was an era of profound change and contradiction. Meiji Japan fused Western government and technology onto the bones of Edo, expanding furiously and challenging Europe for dominance. A new dawn had broken upon the Pacific, dramatic and glorious, fiery and terrible.",
+		"startIntroPart2": "",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"outerColor": [255,255,255],
+		"innerColor": [209,19,45],
+		"uniqueName": "Goisshin",
+		"uniques": ["[+50]% Production when constructing [Science] buildings [in all cities]","[+50]% Production when constructing [Production] buildings [in all cities]",],
+		"cities": ["Tokyo","Osaka","Kyoto","Kanazawa","Nagoya","Sendai","Fushimi","Kagoshima","Kumamoto","Sakai",
+			"Fukui","Hirosaki","Matsue","Tottori","Fukuoka","Nagasaki","Morioka","Yonezawa","Hikone","Kochi",
+			"Akita","Niigata","Nara","Wakamatsu"],
+	},
+
+	{
 		"name": "Mexico",
 		"leaderName": "Benito Juarez",
 		"adjective": ["Mexican"],
