@@ -2,7 +2,7 @@
 	{
 		"name": "Necropolis",
 		"replaces": "Temple",
-		"uniqueTo": "Khmet",
+		"uniqueTo": "Khemet",
 		"cost": 100,
 		"hurryCostModifier": 160,
 		"faith": 2,
