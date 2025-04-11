@@ -17,6 +17,23 @@
     },
 
 	{
+        "name": "Medjay",
+	"replaces": "Swordsman",
+        "uniqueTo": "Khemet",
+        "unitType": "Sword",
+        "movement": 2,
+        "strength": 14,
+        "cost": 75,
+        "requiredTech": "Iron Working",
+	"promotions": ["[Medjay] ability"],
+	"requiredResource": "Iron",
+        "upgradesTo": "Longswordsman",
+        "obsoleteTech": "Steel",
+        "hurryCostModifier": 20,
+        "attackSound": "metalhit"
+    },
+
+	{
         "name": "Han Chu-Ko-Nu",
 	"replaces": "Composite Bowman",
 	"uniqueTo": "Han",
