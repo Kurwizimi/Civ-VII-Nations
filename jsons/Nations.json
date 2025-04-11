@@ -35,6 +35,44 @@
 			"Etchmara","Gulo-Makeda","Haghero-Deragweh","Dergouah","Henzat","Ham","Anza","Hawzien","Degum","Chergos Agula",
 			"Nazret","Yeha","Aden","Hehzat"]
 	},
+
+	{
+		"name": "Khemet",
+		"leaderName": "Hatshepsut",
+		"adjective": ["Coptic"],
+		"startBias": ["River", "Desert"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "The waters flood again, preparing the lands for new growth. Here Egypt will compel the world to behold the wonders it works.\nKhemet, the fertile band of the Nile floodplain, is the heart of ancient Egypt. Its over five thousand years of history have been sustained by the river and the life-giving silt that it leaves, building layers of trade, conquest, and the monuments to immortality that were its wonders. Its riches were legendary – and tempting. Egypt fell to Persia in 525 BCE, but the Nile still flows.",
+		"startIntroPart2": "The early 14th century BCE saw Egypt flourish beneath the guiding hand of Hatshepsut. During her long tenure Hatshepsut expanded Egypt’s trading empire, establishing networks and influence in the Mediterranean to the north and the rich land of Punt to the south. She channeled the resulting wealth into immense building projects that captured her people’s rich heritage, ensuring the power she cultivated for both Egypt and herself would be immortal.",
+		
+		"declaringWar": "When we are done, the lone and level sands will be all that remains of you.",
+		"attacked": "The nau-snake is in my belly, and I have not given myself to you, your flame will not be on me.",
+		"defeated": "Open the Netherworld so that I may see my father Osiris and drive away darkness, for I am beloved of him. All you spirits, prepare a path for me.",
+		"introduction": "I am Horus in human flesh — Hatshepsut, pharaoh of the red lands and the black lands.",
+		
+		"neutralHello": "Welcome, friend.",
+		"neutralLetsHearIt": ["Hm?"],
+		"neutralNo": ["We must cast this downstream."],
+		"neutralYes": ["The river brings blessings."],
+
+		"hateHello": "Yes?",
+		"hateLetsHearIt": ["What?"],
+		"hateNo": ["We must cast this downstream."],
+		"hateYes": ["Pathetic"],
+		
+		"afterPeace": "The river brings blessings.",
+		"tradeRequest": "The river brings blessings.",
+
+		"outerColor": [3,80,83],
+		"innerColor": [234,224,159],
+		"uniqueName": "Gifts of Osiris",
+		"uniques": ["[+1 Production] from [River] tiles [in all cities]", "[+1 Food, +1 Culture] from [River] tiles [in all cities] <after discovering [Masonry]>"],
+		"cities": ["Waset","Men-nefer","Akhenaten","Djedet","Djanet","Behdet","Nekheb","Khemenu","Nekhen","Gebtu",
+			"Tjenu","Per-Atum","Abdju","Zau","Ipu","Khito","Swenet","Per-Hathor","Abu","Hut-waret",
+			"Djerty","Per-Bast","Nubt","Thonis"]
+	},
+	
 	{
 		"name": "Han",
 		"leaderName": "Xuan",
