@@ -82,6 +82,29 @@
 		"specialistSlots": {"Merchant": 2},
 		"requiredTech": "Industrialization"
 	},
+
+	{
+        	"name": "Avenue",
+        	"replaces": "Stadium",
+        	"uniqueTo": "Imperial France",
+        	"happiness": 3,
+        	"cost": 500,
+        	"uniques": ["[+2 Happiness] from [Great Improvement] tiles [in this city]"],
+        	"requiredTech": "Refrigeration"
+        },
+
+	{
+		"name": "Zaibatsu",
+		"replaces": "Stock Exchange",
+		"uniqueTo": "Meji Japan",
+		"cost": 360,
+		"hurryCostModifier": 160,
+		"gold": 3,
+		"percentStatBonus": {"gold": 25},
+		"uniques": ["[+1 Gold] from [improved] tiles [in this city]","[+1 Production] from [unimproved] tiles [in this city]"],
+		"specialistSlots": {"Merchant": 2},
+		"requiredTech": "Electricity"
+	},
 	
 	{
 		"name": "Zócalo",
