@@ -292,7 +292,7 @@
         "requiredTech": "Steam Power",
         "requiredResource": "Coal",
         "upgradesTo": "Destroyer",
-        "uniques": [ "Can move after attacking", "[+33]% Strength <vs cities> <when attacking>", "Double movement in [Coast]", "Never appears as a Barbarian unit"],
+        "uniques": ["[+33]% Strength <vs cities>", "Double movement in [Coast]"],
 	"promotions": ["[Mikasa] ability"],
         "attackSound": "shipguns"
     },
