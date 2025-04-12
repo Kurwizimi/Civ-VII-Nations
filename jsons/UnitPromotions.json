@@ -40,6 +40,11 @@
     },
 
         {
+        "name": "[Mikasa] ability",
+        "uniques": ["Free [Ironclad] appears <upon being defeated>"]
+    },
+
+        {
         "name": "[Soldaderas] ability",
         "uniques": ["All adjacent units heal [10] HP when healing"]
     },
