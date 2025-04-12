@@ -96,7 +96,7 @@
 	{
 		"name": "Zaibatsu",
 		"replaces": "Stock Exchange",
-		"uniqueTo": "Meji Japan",
+		"uniqueTo": "Meiji Japan",
 		"cost": 360,
 		"hurryCostModifier": 160,
 		"gold": 3,
