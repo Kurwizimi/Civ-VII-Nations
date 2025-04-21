@@ -24,5 +24,6 @@
 - PURA - pura by alifiyah fitri nurisa from <a href="https://thenounproject.com/browse/icons/term/pura/" target="_blank" title="pura Icons">Noun Project</a> (CC BY 3.0)
 - FINANCIAL CENTRE - Pound by Singlar from <a href="https://thenounproject.com/browse/icons/term/pound/" target="_blank" title="Pound Icons">Noun Project</a> (CC BY 3.0)
 - DONJON - Norman Tower by József Balázs-Hegedüs from <a href="https://thenounproject.com/browse/icons/term/norman-tower/" target="_blank" title="Norman Tower Icons">Noun Project</a> (CC BY 3.0)
+- AVENUE - parisian café by Amethyst Studio from <a href="https://thenounproject.com/browse/icons/term/parisian-cafe/" target="_blank" title="parisian café Icons">Noun Project</a> (CC BY 3.0)
 - ZOCALCO - plaza by Amethyst Studio from <a href="https://thenounproject.com/browse/icons/term/plaza/" target="_blank" title="plaza Icons">Noun Project</a> (CC BY 3.0)
 - HUIGUAN - thirteen tombs of the ming dynasty by tezar tantular from <a href="https://thenounproject.com/browse/icons/term/thirteen-tombs-of-the-ming-dynasty/" target="_blank" title="thirteen tombs of the ming dynasty Icons">Noun Project</a> (CC BY 3.0)
