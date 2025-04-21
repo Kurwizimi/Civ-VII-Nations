@@ -16,6 +16,14 @@
 * NEPAL - Nepali Moon by Kemesh Maharjan from <a href="https://thenounproject.com/browse/icons/term/nepali-moon/" target="_blank" title="Nepali Moon Icons">Noun Project</a> (CC BY 3.0)
 * QING - dragon by Cédric Villain from <a href="https://thenounproject.com/browse/icons/term/dragon/" target="_blank" title="dragon Icons">Noun Project</a> (CC BY 3.0)
 
+* HIDDEN FORTRESS - Fort by Nanik haq from <a href="https://thenounproject.com/browse/icons/term/fort/" target="_blank" title="Fort Icons">Noun Project</a> (CC BY 3.0)
+* HALWIT - aksum by Linseed Studio from <a href="https://thenounproject.com/browse/icons/term/aksum/" target="_blank" title="aksum Icons">Noun Project</a> (CC BY 3.0)
+* HAN GREAT WALL - great wall by Danil Polshin from <a href="https://thenounproject.com/browse/icons/term/great-wall/" target="_blank" title="great wall Icons">Noun Project</a> (CC BY 3.0)
+* MAWASKAWE SKOTE - Fire by Aisyah from <a href="https://thenounproject.com/browse/icons/term/fire/" target="_blank" title="Fire Icons">Noun Project</a> (CC BY 3.0)
+* KABAKA'S LAKE - Lake by Muhammad Nur Auliady Pamungkas from <a href="https://thenounproject.com/browse/icons/term/lake/" target="_blank" title="Lake Icons">Noun Project</a> (CC BY 3.0)
+* STEPWELL - indian stepwell by Line & Dot Studio from <a href="https://thenounproject.com/browse/icons/term/indian-stepwell/" target="_blank" title="indian stepwell Icons">Noun Project</a> (CC BY 3.0)
+* HIGHLAND POWER STATION - Hydroelectric Energy by Kamin Ginkaew from <a href="https://thenounproject.com/browse/icons/term/hydroelectric-energy/" target="_blank" title="Hydroelectric Energy Icons">Noun Project</a> (CC BY 3.0)
+
 
 
 - VIHARA - Pagoda by Ahmad Roaayala from <a href="https://thenounproject.com/browse/icons/term/pagoda/" target="_blank" title="Pagoda Icons">Noun Project</a> (CC BY 3.0)
