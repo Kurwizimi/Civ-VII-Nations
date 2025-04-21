@@ -215,7 +215,7 @@
 		"outerColor": [100,40,40],
 		"innerColor": [120,100,230],
 		"uniqueName": "Goose Societies",
-		"uniques": ["[+1 Food, +1 Production] from [River] tiles [in all cities]"],
+		"uniques": ["[+1 Food] from every [Building] <for every adjacent [resource]>"],
 		"cities": ["Cahokia","Coosa","Chickasaw","Alabama","Apalachee","Choctaw","Creek","Hitchiti","Houma","Kansa",
 			"Missouria","Mobilian","Natchez","Osage","Quapaw","Tunica","Yamasee","Yuchi","Quizquiz","Chucalisa",
 			"Nodana","Wapanocca","Chauga","Coste"],
