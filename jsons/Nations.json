@@ -222,6 +222,43 @@
 	},
 
 	{
+		"name": "Xshaca",
+		"leaderName": "Xerxes",
+		"adjective": ["Persian"],
+		"startBias": ["Plains","Desert"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "“The kingdom,” Xshaca, or what we know as Persia, was the center of the world at its height, reigning over most of Mesopotamia, Egypt, and Anatolia. It was a strong, centralized state with efficient communication and transportation systems and a professional army, and it brought the luxuries of the world together – until the forces of Alexander the Great sent it toppling down.",
+		"startIntroPart2": "Xerxes I inherited the Achaemenid Empire at a time of crisis and guided it to greatness. Swiftly crushing two uprisings upon taking power, he set his sights on Greece and invaded in 480 BCE. After defeat at Salamis ended his European ambitions, Xerxes shifted his attention from expansion to enrichment, devoting his treasury to architectural masterpieces, testaments to the triumph he bestowed on his people and the fear he provoked in his enemies.",
+		
+		"declaringWar": "Your warriors march forward into the flames of their own destruction.",
+		"attacked": "Your raiders would challenge the center of the world? Typical.",
+		"defeated": "I was an emperor; now just a pawn in someone else's game",
+		"introduction": "There is one head alone that sits at the center of the world, and it is mine.",
+		
+		"neutralHello": "Yes?",
+		"neutralLetsHearIt": ["..."],
+		"neutralNo": ["The gates are closed at this time."],
+		"neutralYes": ["Indeed. Now, if you will excuse me."],
+
+		"hateHello": "Under my hand, wherever there is conflict and chaos I strike it down. I will have peace, even amidst ashes.",
+		"hateLetsHearIt": ["What?"],
+		"hateNo": ["The gates are shut."],
+		"hateYes": ["If you insist"],
+		
+		"afterPeace": "Indeed. Now, if you will excuse me.",
+		"tradeRequest": "Trade flows through my lands like water in a river. Would you like to sample some of our goods?",
+
+		"outerColor": [189,125,229],
+		"innerColor": [129,3,13],
+		"uniqueName": "Hamarana Council",
+		"uniques": ["[+10]% Strength <for [All] units> <when attacking>", "[500] units cost no maintenance <hidden from users>", "Comment [All units cost no maintenence]"],
+		"cities": ["Pārsa","Pāthra-gadā","Hagmatana","Çūšā","Sparda","Tarsus","Bactria","Ragā","Tushpa","Harrân",
+			"Gordion","Spahān","Širājiš","Qumis","Dascylium","Mazaca","Anshan","Marguš","Istakhr","Borāzjān",
+			"Pūrā","Matezzish","Arsada","Karmana"],
+	},
+
+	{
 		"name": "The Abbasids",
 		"leaderName": "Al-Muktafī bi-Llāh",
 		"adjective": ["Abbasid"],
