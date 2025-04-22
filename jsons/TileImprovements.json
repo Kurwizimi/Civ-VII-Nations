@@ -42,7 +42,7 @@
     },
     {
         "name": "Pairidaeza",
-        "uniqueTo": "Xshasa",
+        "uniqueTo": "Xshaca",
         "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Snow","Hill"],
         "gold": 1,
         "culture": 1,
