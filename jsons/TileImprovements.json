@@ -40,6 +40,17 @@
         "uniques": ["[+1 Food] for each adjacent [resource]", "Pillaging this improvement yields approximately [+25 Gold]"],
         "shortcutKey": "P"
     },
+    {
+        "name": "Pairidaeza",
+        "uniqueTo": "Xshasa",
+        "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Snow","Hill"],
+        "gold": 1,
+        "culture": 1,
+        "turnsToBuild": 7,
+        "techRequired": "Mathematics",
+        "uniques": ["[+1 Happiness] for each adjacent [Great Improvement]", "Pillaging this improvement yields approximately [+25 Gold]"],
+        "shortcutKey": "P"
+    },
   {
         "name": "Hidden Fortress",
         "uniqueTo": "Bulgaria",
