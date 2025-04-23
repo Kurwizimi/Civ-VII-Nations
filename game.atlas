@@ -41,7 +41,7 @@ BuildingIcons/Huiguan
   index: -1
 BuildingIcons/Madinat
   rotate: false
-  xy: 600, 105
+  xy: 795, 106
   size: 89, 89
   orig: 89, 89
   offset: 0, 0
@@ -69,14 +69,14 @@ BuildingIcons/Vihara
   index: -1
 BuildingIcons/Zaibatsu
   rotate: false
-  xy: 308, 104
+  xy: 308, 6
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 BuildingIcons/Zócalo
   rotate: false
-  xy: 308, 6
+  xy: 406, 104
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
@@ -125,7 +125,7 @@ ImprovementIcons/Kabaka's Lake
   index: -1
 ImprovementIcons/Lo'i Kalo
   rotate: false
-  xy: 503, 8
+  xy: 698, 105
   size: 89, 89
   orig: 89, 89
   offset: 0, 0
@@ -167,7 +167,7 @@ ImprovementIcons/Stepwell
   index: -1
 NationIcons/Aksum
   rotate: false
-  xy: 406, 105
+  xy: 406, 7
   size: 89, 89
   orig: 89, 89
   offset: 0, 0
@@ -195,7 +195,7 @@ NationIcons/Chola
   index: -1
 NationIcons/Great Britain
   rotate: false
-  xy: 406, 8
+  xy: 504, 105
   size: 89, 89
   orig: 89, 89
   offset: 0, 0
@@ -209,7 +209,7 @@ NationIcons/Han
   index: -1
 NationIcons/Hawai'i
   rotate: false
-  xy: 503, 105
+  xy: 601, 105
   size: 89, 89
   orig: 89, 89
   offset: 0, 0
@@ -286,7 +286,7 @@ NationIcons/Nepal
   index: -1
 NationIcons/Normandy
   rotate: false
-  xy: 600, 8
+  xy: 892, 115
   size: 89, 89
   orig: 89, 89
   offset: 0, 0
@@ -307,7 +307,7 @@ NationIcons/Qing
   index: -1
 NationIcons/Shawnee
   rotate: false
-  xy: 697, 105
+  xy: 989, 115
   size: 89, 89
   orig: 89, 89
   offset: 0, 0
@@ -335,21 +335,21 @@ NationIcons/Xshaca
   index: -1
 TileSets/HexaRealm/Tiles/Hidden Fortress
   rotate: false
-  xy: 697, 41
+  xy: 1086, 148
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Kabaka's Lake
   rotate: false
-  xy: 1976, 344
+  xy: 1158, 148
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Lo'i Kalo
   rotate: false
-  xy: 769, 41
+  xy: 1230, 148
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -487,7 +487,7 @@ UnitIcons/Purabhettarah
   orig: 90, 90
   offset: 0, 0
   index: -1
-UnitIcons/Revemge
+UnitIcons/Revenge
   rotate: false
   xy: 1404, 212
   size: 90, 90
@@ -515,16 +515,23 @@ UnitIcons/Stuka
   orig: 90, 90
   offset: 0, 0
   index: -1
-UnitIcons/Xunleichong
+UnitIcons/Xshasan Immortal
   rotate: false
   xy: 210, 102
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
-UnitIcons/Yuthahathi
+UnitIcons/Xunleichong
   rotate: false
   xy: 210, 4
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Yuthahathi
+  rotate: false
+  xy: 308, 104
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
