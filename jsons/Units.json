@@ -400,7 +400,7 @@
 	{
         "name": "Chang Beun",
 	"replaces": "Gatling Gun",
-	"uniqueTo": "Ayutthaya",
+	"uniqueTo": "Rattanakosin",
 	"unitType": "Ranged Gunpowder",
         "movement": 2,
         "strength": 30,
