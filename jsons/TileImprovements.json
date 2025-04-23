@@ -114,6 +114,17 @@
         "uniques": ["[+1 Culture] for each adjacent [Mountain]", "Pillaging this improvement yields approximately [+25 Gold]"],
         "shortcutKey": "P"
     },
+    {
+        "name": "Bang",
+        "uniqueTo": "Ayutthaya",
+        "terrainsCanBeBuiltOn": ["River"],
+        "culture": 3,
+        "happiness": 3,
+        "turnsToBuild": 7,
+        "techRequired": "Engineering",
+        "uniques": ["Pillaging this improvement yields approximately [+25 Gold]"],
+        "shortcutKey": "B"
+    },
 
 
 
