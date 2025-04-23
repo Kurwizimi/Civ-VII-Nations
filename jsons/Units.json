@@ -397,4 +397,22 @@
 	"promotions": ["[Gusa] ability"],// [+10]% Strength <when adjacent to a [Gusa] unit>//
     },
 
+	{
+        "name": "Chang Beun",
+	"replaces": "Gatling Gun",
+	"uniqueTo": "Ayutthaya",
+	"unitType": "Ranged Gunpowder",
+        "movement": 2,
+        "strength": 30,
+	"rangedStrength": 35,
+	"range": 2,
+        "cost": 225,
+        "requiredTech": "Industrialization",
+        "upgradesTo": "Machine Gun",
+        "obsoleteTech": "Ballistics",
+        "uniques": ["Can move after attacking"],
+        "hurryCostModifier": 20,
+        "attackSound": "elephant"
+    },
+
 ]
