@@ -116,7 +116,7 @@
     },
     {
         "name": "Bang",
-        "uniqueTo": "Ayutthaya",
+        "uniqueTo": "Rattanakosin",
         "terrainsCanBeBuiltOn": ["River"],
         "culture": 3,
         "happiness": 3,
