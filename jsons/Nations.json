@@ -886,9 +886,47 @@
 		"outerColor": [250,250,0],
 		"innerColor": [10,20,90],
 		"uniqueName": "Kang Qian Shengshi",
-		"uniques": [ "[+4 Gold, +4 Culture] from every [Customs house]", "[-4 Science] from each Trade Route"],
+		"uniques": [ "[+4 Gold, +3 Culture, +2 Production] from every [Customs house]", "[-1 Science] from each Trade Route"],
 		"cities": ["Beijing","Guangzhou","Nanjing","Suzhou","Wuchang","Changsha","Shanghai","Shenyang","Lanzhou","Kunming",
 			"Fuzhou","Chengdu","Hankou","Taipei","Qingdao","Guiyang","Shenzhen","Harbin","Hong Kong","Taiyuan",
 			"Tianjin","Foshan","Weihai","Zhenjiang"],
+	}
+
+	{
+		"name": "Ayutthaya",
+		"leaderName": "Taksin",
+		"adjective": ["Thai"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "Siam grows like mai pai, like forest bamboo. It bends with the changing winds, it does not break.\nBetween British colonial expansion in India and French claims in Indochina, Siam emerged. It slowly took in and adapted colonial governance, incorporating parts of Laos, Lanna, and Malaya, walking a delicate line between adopting Western norms and maintaining its own Buddhist traditions and developing into the Thailand of today.",
+		"startIntroPart2": "",
+		
+		"declaringWar": "",
+		"attacked": "",
+		
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"outerColor": [1,79,81],
+		"innerColor": [0,192,155],
+		"uniqueName": "Itsaraphab",
+		"uniques": ["Allied City-States provide [Culture] equal to [25]% of what they produce for themselves", "[+2 Culture] from each Trade Route"],
+		"cities": ["Krung Thep","Krung Sri Ayutthaya","Nonthaburi","Nakhon Si Thammarat","Nakhon Chaisi","Chiang Mai","Ratchaburi","Chachoengsao","Chanthanaburi","Chonburi",
+			"Phitsanulok","Khorat","Nakhon Sawan","Phetchaburi","Songkhla","Phuket","Ubon Ratchathani","Buriram","Prachinburi","Tak",
+			"Phetchabun","Chaiyaphum","Chiang Rai","Saraburi"],
 	}
 ]
