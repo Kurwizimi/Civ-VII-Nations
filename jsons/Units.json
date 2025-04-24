@@ -84,6 +84,20 @@
     },
 
 	{
+        "name": "Jaguar Hunter",
+	"replaces": "Scout",
+        "uniqueTo": "Ki'iche",
+        "unitType": "Sword",
+        "movement": 2,
+        "strength": 5,
+        "cost": 25,
+	"uniques": ["May upgrade to [Archer] through ruins-like effects", "Can build [Jaguar Trap] improvements on tiles <once>"],
+	"promotions": ["Ignore terrain cost"],
+        "hurryCostModifier": 19,
+        "attackSound": "metalhit"
+    },
+
+	{
         "name": "Burning Arrow",
 	"replaces": "Archer",
 	"uniqueTo": "Mississipi",
