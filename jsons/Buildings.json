@@ -21,6 +21,17 @@
 		"requiredTech": "Philosophy"
 	},
 
+	{
+		"name": "Uwaybil K'uh",
+		"replaces": "Temple",
+		"uniqueTo": "Ki'iche",
+		"cost": 100,
+		"hurryCostModifier": 160,
+		"faith": 2,
+		"uniques": ["[+5]% [Production] [in this city] <for [5] turns> <after discovering [All]>"],
+		"requiredTech": "Philosophy"
+	},
+
 	 {
         	"name": "Madinat",
         	"maintenance": 2,
