@@ -33,7 +33,7 @@
     {
         "name": "Jaguar Trap",
         "uniqueTo": "Ki'iche",
-        "terrainsCanBeBuiltOn": ["Forest","Jungle"],
+        "terrainsCanBeBuiltOn": ["Plains","Grassland","Tundra","Hill", "Forest","Jungle"],
         "turnsToBuild": 1,
         "uniques": ["Adjacent enemy units ending their turn take [15] damage", "Only available <for [Jaguar Hunter] units>", "Can be built outside your borders", "Does not need removal of [Forest]", "Does not need removal of [Jungle]", "Destroyed when pillaged", "Pillaging this improvement yields approximately [+40 Gold]"],
         "shortcutKey": "T"
