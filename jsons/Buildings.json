@@ -28,7 +28,7 @@
 		"cost": 100,
 		"hurryCostModifier": 160,
 		"faith": 2,
-		"uniques": ["[+5]% [Production] [in this city] <for [5] turns> <after discovering [All]>"],
+		"uniques": ["[+5]% [Production] [in this city] <for [10] turns> <upon discovering [All] technology>"],
 		"requiredTech": "Philosophy"
 	},
 
