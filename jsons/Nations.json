@@ -216,7 +216,7 @@
 		"outerColor": [124,163,248],
 		"innerColor": [2,79,80],
 		"uniqueName": "Skies of Itzamna",
-		"uniques": [  "[+10]% [Culture] [in all cities] <for [10] turns> <upon discovering [All] technology>", "[+10]% [Science] [in all cities] <for [10] turns> <upon discovering [All] technology>"],
+		"uniques": [  "[+10]% [Culture] [in all cities] <for [10] turns> <upon discovering [All] technology>", "[+10]% [Science] [in all cities] <for [10] turns> <after adopting [All]>"],
 		"cities": ["Bàakʼ","Tikal","Chichen Itza","Wak Kab'nal","Uxmal","Copan","Coba","Kaan","Calakmul","Xunantunich",
 			"Yaxchilan","Yokib","Quirigua","Uaxactun","Tonina","Kaminaljuyu","Ucanal","Izapa","Comalcalco","Lamanai",
 			"Dzibilchaltun","Sacul","Becan","Sayil"],
