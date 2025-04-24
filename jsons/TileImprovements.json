@@ -35,9 +35,9 @@
         "uniqueTo": "Ki'iche",
         "terrainsCanBeBuiltOn": ["Plains","Grassland","Tundra","Hill", "Forest","Jungle"],
         "turnsToBuild": 1,
-        "uniques": ["Adjacent enemy units ending their turn take [15] damage", "Only available <for [Jaguar Hunter] units>", "Can be built outside your borders", "Does not need removal of [Forest]", "Does not need removal of [Jungle]", "Destroyed when pillaged", "Pillaging this improvement yields approximately [+40 Gold]"],
+        "uniques": ["Adjacent enemy units ending their turn take [15] damage",  "Can be built outside your borders", "Does not need removal of [Forest]", "Does not need removal of [Jungle]", "Destroyed when pillaged", "Pillaging this improvement yields approximately [+40 Gold]"],
         "shortcutKey": "T"
-    },
+    },//"Only available <for [Jaguar Hunter] units>",
   {
         "name": "Potkop",
         "uniqueTo": "Mississipi",
