@@ -966,5 +966,201 @@
 		"cities": ["Krung Thep","Krung Sri Ayutthaya","Nonthaburi","Nakhon Si Thammarat","Nakhon Chaisi","Chiang Mai","Ratchaburi","Chachoengsao","Chanthanaburi","Chonburi",
 			"Phitsanulok","Khorat","Nakhon Sawan","Phetchaburi","Songkhla","Phuket","Ubon Ratchathani","Buriram","Prachinburi","Tak",
 			"Phetchabun","Chaiyaphum","Chiang Rai","Saraburi"],
-	}
+	},
+
+	//INDEPENDENT POWERS
+
+	{
+		"name": "Cirta",
+		"adjective": ["Numidian"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "To arms! Your pathetic defences shall fall!",
+		"attacked": "You underestimate our troops too much. Such a grave mistake.",
+		"defeated": "Our walls have failed us! Our troops have all surrendered! All hope is lost...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [170, 20, 20],
+		"cities": ["Cirta"]
+	},
+	{
+		"name": "Jieshi",
+		"adjective": ["Jie"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "To arms! Your pathetic defences shall fall!",
+		"attacked": "You underestimate our troops too much. Such a grave mistake.",
+		"defeated": "Our walls have failed us! Our troops have all surrendered! All hope is lost...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [52, 21, 189],
+		"cities": ["Jieshi"]
+	},
+	{
+		"name": "Shengle",
+		"adjective": ["Xianbei"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "To arms! Your pathetic defences shall fall!",
+		"attacked": "You underestimate our troops too much. Such a grave mistake.",
+		"defeated": "Our walls have failed us! Our troops have all surrendered! All hope is lost...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [170, 20, 20],
+		"cities": ["Shengle"]
+	},
+	{
+		"name": "Longcheng",
+		"adjective": ["Xiongnu"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "To arms! Your pathetic defences shall fall!",
+		"attacked": "You underestimate our troops too much. Such a grave mistake.",
+		"defeated": "Our walls have failed us! Our troops have all surrendered! All hope is lost...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [170, 20, 20],
+		"cities": ["Longcheng"]
+	},
+	{
+		"name": "Gutthiuda",
+		"adjective": ["Gothic"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "To arms! Your pathetic defences shall fall!",
+		"attacked": "You underestimate our troops too much. Such a grave mistake.",
+		"defeated": "Our walls have failed us! Our troops have all surrendered! All hope is lost...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [170, 20, 20],
+		"cities": ["Gutthiuda"]
+	},
+	{
+		"name": "Syvash",
+		"adjective": ["Hunnic"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "To arms! Your pathetic defences shall fall!",
+		"attacked": "You underestimate our troops too much. Such a grave mistake.",
+		"defeated": "Our walls have failed us! Our troops have all surrendered! All hope is lost...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [170, 20, 20],
+		"cities": ["Syvash"]
+	},
+	{
+		"name": "Scythian Neapolis",
+		"adjective": ["Scythian"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "To arms! Your pathetic defences shall fall!",
+		"attacked": "You underestimate our troops too much. Such a grave mistake.",
+		"defeated": "Our walls have failed us! Our troops have all surrendered! All hope is lost...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [170, 20, 20],
+		"cities": ["Scythian Neapolis"]
+	},
+	{
+		"name": "Divodurum",
+		"adjective": ["Belgae"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "To arms! Your pathetic defences shall fall!",
+		"attacked": "You underestimate our troops too much. Such a grave mistake.",
+		"defeated": "Our walls have failed us! Our troops have all surrendered! All hope is lost...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [170, 20, 20],
+		"cities": ["Divodurum"]
+	},
+	{
+		"name": "Meroë",
+		"adjective": ["Kushite"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "Our mercenaries shall plunder your nation!",
+		"attacked": "Ha! All we need to do to repel your attack is to hire a couple mercenaries.",
+		"defeated": "All our riches! All our wealth! How did they fail us?!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [170, 150, 12],
+		"cities": ["Meroë"]
+	},
+	{
+		"name": "Opone",
+		"adjective": ["Oponean"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "Our mercenaries shall plunder your nation!",
+		"attacked": "Ha! All we need to do to repel your attack is to hire a couple mercenaries.",
+		"defeated": "All our riches! All our wealth! How did they fail us?!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [170, 150, 12],
+		"cities": ["Opone"]
+	},
+	{
+		"name": "Yilan",
+		"adjective": ["Kavalan"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "Our mercenaries shall plunder your nation!",
+		"attacked": "Ha! All we need to do to repel your attack is to hire a couple mercenaries.",
+		"defeated": "All our riches! All our wealth! How did they fail us?!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [170, 150, 12],
+		"cities": ["Yilan"]
+	},
+	{
+		"name": "Kuaiji",
+		"adjective": ["Yue"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "Our mercenaries shall plunder your nation!",
+		"attacked": "Ha! All we need to do to repel your attack is to hire a couple mercenaries.",
+		"defeated": "All our riches! All our wealth! How did they fail us?!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [170, 150, 12],
+		"cities": ["Kuaiji"]
+	},
+	{
+		"name": "Gungnae",
+		"adjective": ["Goguryeo"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "Our mercenaries shall plunder your nation!",
+		"attacked": "Ha! All we need to do to repel your attack is to hire a couple mercenaries.",
+		"defeated": "All our riches! All our wealth! How did they fail us?!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [170, 150, 12],
+		"cities": ["Gungnae"]
+	},
+	{
+		"name": "Taruga",
+		"adjective": ["Nok"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You disgrace us with your presence. Now begone!",
+		"attacked": "We shall fight till the bitter end",
+		"defeated": "Our people shall now be lost to history, with our works falling to the sands of time.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [170, 50, 180],
+		"cities": ["Taruga"]
+	},
+	{
+		"name": "Ōfunato",
+		"adjective": ["Jomon"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You disgrace us with your presence. Now begone!",
+		"attacked": "We shall fight till the bitter end",
+		"defeated": "Our people shall now be lost to history, with our works falling to the sands of time.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [170, 50, 180],
+		"cities": ["Ōfunato"]
+	},
+	{
+		"name": "Arna",
+		"adjective": ["Lycian"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You disgrace us with your presence. Now begone!",
+		"attacked": "We shall fight till the bitter end",
+		"defeated": "Our people shall now be lost to history, with our works falling to the sands of time.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [170, 50, 180],
+		"cities": ["Arna"]
+	},
+	
 ]
