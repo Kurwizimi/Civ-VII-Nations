@@ -42,7 +42,7 @@
 
          {
         "name": "[Abambowa] ability",
-        "uniques": ["[This Unit] heals [25] HP <upon ending a turn in a [pillaged] tile>"]
+        "uniques": ["[+50]% Health from pillaging tiles"]
     },
 
         {
