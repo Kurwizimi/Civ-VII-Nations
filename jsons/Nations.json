@@ -596,6 +596,43 @@
 	},
 
 	{
+		"name": "The United States",
+		"leaderName": "Benjamin Franklin",
+		"adjective": ["Yankee"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "From the fertile soil of America springs forth a brave new world, driven by passion, ideas, and a desire to shape the future. \nAmerica was a new nation, one founded on Enlightenment ideals of progress and rationality, industry and progress, and ever-expanding horizons. The American Revolution ignited from this demand for expansion: to expand trade independently to the Caribbean, to extend the colonies’ borders westward (into land held by indigenous nations), and freedom from British tariffs and taxes.",
+		"startIntroPart2": "In colonial America, few individuals shone as brightly as Benjamin Franklin. Beginning as a humble printer, he soon established himself as a prominent newspaper publisher. In 1747, he moved into politics and became one of the Founding Fathers, participating in the drafting and signing of the Declaration of Independence. A restless polymath, Franklin also made many contributions to science in fields as diverse as electricity and oceanography.",
+		
+		"declaringWar": "War is always tragedy, the more so that you have forced our hand into this.",
+		"attacked": "So you would waste all the industry of your people on death.",
+		"defeated": "What use are tools without a project? Of what use is a mind without ideas? I shall set these down and move on.",
+		"introduction": "Greetings! I am Benjamin Franklin, doctor, scientist, writer, and full of advice, whether you will listen or not!",
+
+		"neutralHello": "Hellp, my friend!",
+		"neutralLetsHearIt": ["Yes?"],
+		"neutralNo": ["Alas, when we separate what is useful from what is not… well, this is not useful."],
+		"neutralYes": ["A capital proposal — let's make it work!"],
+
+		"hateHello": "What?",
+		"hateLetsHearIt": ["Hmph."],
+		"hateNo": ["Alas, no. Not in your wildest dreams"],
+		"hateYes": ["This will work."],
+		
+		"afterPeace": "A capital proposal — let's make it work!",
+		"tradeRequest": "Let us create a trade agreement so that our nations shall prosper!",
+
+		"outerColor": [249,249,249],
+		"innerColor": [1,42,108],
+		"uniqueName": "Frontier Expansion",
+		"uniques": ["[+25]% Production when constructing [All] units [in all cities] <for [10] turns> <upon declaring war with a major Civilization>", "[Gold] cost of purchasing [Civilian] units [-50]%"],
+		"cities": ["Washington, D.C.","New York City","Philadelphia","Baltimore","Boston","Chicago","New Orleans","St Louis","Cincinnati","Cleveland",
+			"Pittsburgh","Buffalo","San Francisco","Detroit","Charleston","Albany","Newark","Providence","Milwaukee","Los Angeles",
+			"Salem","Louisville","Richmond","Minneapolis"],
+	},
+
+
+	{
 		"name": "Great Britain",
 		"leaderName": "Benjamin Disreali",
 		"adjective": ["British"],
