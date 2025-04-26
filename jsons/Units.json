@@ -266,6 +266,19 @@
     },
 
 	{
+	"name": "Marine Corps",
+	"unitType": "Gunpowder",
+	"uniqueTo": "The United States",
+	"replaces": "Marine",
+	"strength": 65,
+	"cost": 300,
+	"movement": 2,
+	"uniques":["[1] Movement point cost to disembark", "[1] Movement point cost to embark", "Comment [Unlocked Earlier at [Electronics] ]"],
+	"requiredTech": "Electronics",
+	"promotions": ["Amphibious"],
+    },
+
+	{
         "name": "Revenge",
 	"replaces": "Battleship",
 	"uniqueTo": "Great Britain",
