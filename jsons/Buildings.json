@@ -82,6 +82,19 @@
 	},
 
 	{
+        	"name": "Industrial Park",
+        	"replaces": "Factory",
+        	"uniqueTo": "The United States",
+        	"production": 4,
+		"percentStatBonus": {"production": 10},
+       		"specialistSlots": {"Engineer": 2},
+        	"cost": 360,
+		"requiredResource": "Coal",
+        	"uniques": ["[+2 Production] from [resource] tiles [in this city]"],
+        	"requiredTech": "Industrialization"
+        },
+
+	{
 		"name": "Financial Centre",
 		"replaces": "Stock Exchange",
 		"uniqueTo": "Great Britain",
