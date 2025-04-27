@@ -965,7 +965,45 @@
 		"cities": ["Beijing","Guangzhou","Nanjing","Suzhou","Wuchang","Changsha","Shanghai","Shenyang","Lanzhou","Kunming",
 			"Fuzhou","Chengdu","Hankou","Taipei","Qingdao","Guiyang","Shenzhen","Harbin","Hong Kong","Taiyuan",
 			"Tianjin","Foshan","Weihai","Zhenjiang"],
-	}
+	},
+
+	{
+		"name": "Imperial Russia",
+		"leaderName": "Catherine Romanov",
+		"adjective": ["Russian"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "The velikaya dusha - the great Russian soul - emerges upon the world, with its unquenchable appetite for knowledge, poetry... and conquest.\nImperial Russia was known for many things: its vast span across Europe and Asia, luxury and inequality, art and culture. Caught between the eternal question of Russia’s role as part of Europe and the Russian dusha, or soul, the Romanov reign held at the center of its ideology a model of “enlightened absolutism.” With orthodoxy, autocracy, and nationality at its core, Russia brought this rule to bear on populations from Siberia to East Asia.",
+		"startIntroPart2": "Born a German princess, Catherine the Great overthrew her husband in 1762 to become Empress of Russia. Guided by a vision of modernization, she established new models of law and governance, and oversaw an era of rapid expansion through war and diplomacy. Motivated by intellectual curiosity and love of the arts, Catherine also sponsored creatives, scholars, and scientists, fostering the Russian Enlightenment and its environment of innovation.",
+		
+		"declaringWar": "Ha! I am already planning my triumphal parade after your defeat!",
+		"attacked": "Come, then. I will leave you where — as they say — the crayfish sleep.",
+		
+		"defeated": "Look after my palace when I am gone. The Grand Church must be aired regularly, a-and keep the amber dusted. Y-you mu — No. It is ...yours. I leave now.",
+		"introduction": "Yekaterina Alekseyevna, empress and patron of the arts. But you can call me Sophie.",
+		
+		"neutralHello": "Ah, welcome my close friend",
+		"neutralLetsHearIt": ["What do you wish from me?"],
+		"neutralNo": ["Friendship is friendship, but there are times that I must say no."],
+		"neutralYes": ["Lovely. Let us make it so"],
+
+		"hateHello": "Why are you here?",
+		"hateLetsHearIt": ["Yes?"],
+		"hateNo": ["Friendship is friendship, but there are times that I must say no."],
+		"hateYes": ["Let us make it so"],
+		
+		"afterPeace": "Lovely! Let us make it so!",
+		"tradeRequest": "Will my offer to you suffice?",
+
+		"outerColor": [166,0,24],
+		"innerColor": [252,220,3],
+		"uniqueName": "Prosveshchenie",
+		"uniques": ["[+1 Culture] from every [Building]", "[+1 Science] from every [Building] <in [Tundra] tiles>"],
+		"cities": ["St. Petersburg","Moscow","Saratov","Kazan","Rostov na Donu","Astrakhan","Tula","Nijni-Novgorod","Nikolaieff","Samara",
+			"Voronezh","orenburg","Yaroslavl","Orel","Ekaterinodar","Cronstadt","Tsaritsyn","Penza","Tver","Tomsk",
+			"Kursk","Novotcherkask","Irkstk","Ufa"],
+	},
 
 	{
 		"name": "Rattanakosin",
