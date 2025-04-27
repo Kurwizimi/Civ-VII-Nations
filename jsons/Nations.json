@@ -969,7 +969,7 @@
 
 	{
 		"name": "Imperial Russia",
-		"leaderName": "Catherine Romanov",
+		"leaderName": "Catherine Romanova",
 		"adjective": ["Russian"],
 		"startBias": ["Tundra"],
 		"preferredVictoryType": "Scientific",
