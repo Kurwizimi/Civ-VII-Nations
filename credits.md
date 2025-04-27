@@ -26,6 +26,7 @@ Improvements
 - KABAKA'S LAKE - Lake by Muhammad Nur Auliady Pamungkas from <a href="https://thenounproject.com/browse/icons/term/lake/" target="_blank" title="Lake Icons">Noun Project</a> (CC BY 3.0)
 - STEPWELL - indian stepwell by Line & Dot Studio from <a href="https://thenounproject.com/browse/icons/term/indian-stepwell/" target="_blank" title="indian stepwell Icons">Noun Project</a> (CC BY 3.0)
 - HIGHLAND POWER STATION - Hydroelectric Energy by Kamin Ginkaew from <a href="https://thenounproject.com/browse/icons/term/hydroelectric-energy/" target="_blank" title="Hydroelectric Energy Icons">Noun Project</a> (CC BY 3.0)
+- Obshchina - Farm by IconMark from <a href="https://thenounproject.com/browse/icons/term/farm/" target="_blank" title="Farm Icons">Noun Project</a> (CC BY 3.0)
 
 
 Buildings
