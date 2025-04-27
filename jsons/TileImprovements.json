@@ -123,6 +123,15 @@
         "shortcutKey": "P"
     },
     {
+        "name": "Obshchina",
+        "uniqueTo": "Imperial Russia",
+        "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Snow","Hill"],
+        "turnsToBuild": 7,
+        "techRequired": "Civil Service",
+        "uniques": ["[+2 Culture] for each adjacent [Farm]", "[+2 Culture] from [Tundra] tiles", "Pillaging this improvement yields approximately [+25 Gold]"],
+        "shortcutKey": "O"
+    },
+    {
         "name": "Bang",
         "uniqueTo": "Rattanakosin",
         "terrainsCanBeBuiltOn": ["River"],
