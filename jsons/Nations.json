@@ -27,6 +27,8 @@
 		"afterPeace": "May the trade flow again.",
 		"tradeRequest": "Aksum holds many goods you could not refuse to buy.",
 
+		"spyNames": ["Dagnew","Dinqinesh","Iyasu","Menen","Mengesha","Senedu","Sebhat","Tewabech","Wolde","Zewditu"],
+
 		"outerColor": [255,255,20],
 		"innerColor": [25,120,25],
 		"uniqueName": "Kingdom of Natural Wealth",
@@ -63,6 +65,8 @@
 		
 		"afterPeace": "The river brings blessings.",
 		"tradeRequest": "The river brings blessings.",
+
+		"spyNames": ["Ahmes","Berenice","Benipe","Hatasu","Kames","Hotep","Nahab","Merit","Rimes","Titi"],
 
 		"outerColor": [3,80,83],
 		"innerColor": [234,224,159],
@@ -101,6 +105,8 @@
 		"afterPeace": "Now lets hope you will care more for your people than your pride from now on.",
 		"tradeRequest": "May this offer seek you well.",
 
+		"spyNames": ["Chen","Chang","Kong","Huan-Yue","Lei","Li-mei","Shaiming","Qing-yuan","Shing","Xin-qian"],
+		
 		"outerColor": [220,200,100],
 		"innerColor": [110,60,50],
 		"uniqueName": "Nine Provinces",
@@ -137,6 +143,8 @@
 		"afterPeace": "Ending spiritual suffering is just as important as easing physical distress. You understand this.",
 		"tradeRequest": "The Khmer wish to offer you this gift.",
 
+		"spyNames": ["Balarama","Indradevi","Damkhat","Lakshmi","Laksmana","Romchang","Rama","Suryavana","Thomma","Viralakshmi"],
+
 		"outerColor": [60,10,100],
 		"innerColor": [170,140,10],
 		"uniqueName": "Ksekam Chamnon",
@@ -160,7 +168,7 @@
 		"attacked": "Violence echoes across multiple lives, multiple worlds. It will return to you.",
 		
 		"defeated": "And now, the burning wheel passes over me...",
-		"introduction": "I am Ashoka, the great king at the center of the world, and profound sinner.",
+		"introduction": "I am Ashoka, the great king at the center of the world, ...and profound sinner.",
 		
 		"neutralHello": "Welcome, what have you come here for?",
 		"neutralLetsHearIt": ["Yes?"],
@@ -174,6 +182,8 @@
 		
 		"afterPeace": "The righteous path.",
 		"tradeRequest": "I hope this offer will be beneficial for both of us.",
+
+		"spyNames": ["Darshan","Asha","Kuruvilla","Dakshina","Narayan","Lajila","Pulkit","Savatari","Surya","Vineeta"],
 
 		"outerColor": [50,200,200],
 		"innerColor": [50,10,150],
@@ -213,6 +223,8 @@
 		"afterPeace": "",
 		"tradeRequest": "",
 
+		"spyNames": ["Bound-stone Jaguar","Star House","Scroll Serpent","Baby Jaguar","Shield Skull","Scroll-in-hand","Lord Chocolate","Eveningstar","Storm Sky","Lady Crocodile"],
+
 		"outerColor": [124,163,248],
 		"innerColor": [2,79,80],
 		"uniqueName": "Skies of Itzamna",
@@ -250,6 +262,8 @@
 		"afterPeace": "Now you shall remain inside your own lands forever, and never into ours.",
 		"tradeRequest": "Trade has been good this year, so the Mississipi offer you this deal.",
 
+		"spyNames": ["Abit","Biisan","Chahta","Chashwi","Watonathi","Waahih","Chito","Chaliis","Chaan","Achaakatabi"],
+
 		"outerColor": [100,40,40],
 		"innerColor": [120,100,230],
 		"uniqueName": "Goose Societies",
@@ -286,6 +300,8 @@
 		
 		"afterPeace": "Indeed. Now, if you will excuse me.",
 		"tradeRequest": "Trade flows through my lands like water in a river. Would you like to sample some of our goods?",
+
+		"spyNames": ["Ariomardus","Cassandane","Arsites","Parmida","Cambyses","Phaedymia","Hydarnes","Sisygambis","Oxyathres","Amytis"],
 
 		"outerColor": [189,125,229],
 		"innerColor": [129,3,13],
@@ -361,6 +377,8 @@
 		"afterPeace": "These consessions are... enough.",
 		"tradeRequest": "May you accept this offer.",
 
+		"spyNames": ["Boris","Desislava","Radislav","Militsa","Bezmer","Miroslava","Kaloyan","Maria","Peter","Smiltsena"],
+
 		"outerColor": [170,20,20],
 		"innerColor": [255,212,212],
 		"uniqueName": "Krum's Dynasty",
@@ -397,6 +415,8 @@
 		
 		"afterPeace": "For now, peace.",
 		"tradeRequest": "The Chola has goods from far and wide. Would you like to sample them?",
+
+		"spyNames": ["Anasuya","Govind","Bhadraa","Krishna","Kerani","Paramveer","Reeya","Purshotam","Sita","Uday"],
 
 		"outerColor": [163,43,43],
 		"innerColor": [203,175,51],
