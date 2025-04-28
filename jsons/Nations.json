@@ -616,6 +616,45 @@
 	},
 
 	{
+		"name": "Castille",
+		"leaderName": "Isabella",
+		"adjective": ["Castellian"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Militaristic",
+		
+		"startIntroPart1": "Undaunted by the ocean's expanse, Spain will follow the song of gold to unknown lands and make them its own. \nAmong early European colonial powers, Spain was by far the largest and most influential empire. Iberia had been divided between Muslim emirates and Christian kingdoms, but following the unification of Castile and Aragon, and the completion of the Reconquista, Spain dominated the global stage in the name of God, and wealth. The empire faltered as its ambitions were challenged on the continent, and its far-flung colonies sought their own destinies.",
+		"startIntroPart2": "Queen Isabella of Spain had a single vision – the growth of her nation’s power. At home, she dedicated herself to establishing Spain’s next chapter as a bastion of Catholicism and oversaw the violence of the Inquisition and the Reconquista. Abroad, she sponsored the expansion of Spanish might into the New World. Clever and ruthless, Isabella built the groundwork for Spain’s future upon war and wealth.",
+		
+		"declaringWar": "I covet not your lands and your crown for my own sake, but for the sake of God's empire. Which is mine.",
+		"attacked": "You will only make martyrs.",
+		
+		"defeated": "I, who sought to extend God's grace across the land, am to be cast out. To live amongst pig farmers and… ugh, what is the word… bakers!",
+		"introduction": "I am Lady Isabella, queen of these lands. The queen is right. The queen is always right.",
+		
+		"neutralHello": "Good day, my friend.",
+		"neutralLetsHearIt": ["Yes."],
+		"neutralNo": ["No. I have my reasons."],
+		"neutralYes": ["Yes, yes, yes, send it to my scribe and he will put my seal upon it."],
+
+		"hateHello": "Why do you approach me?",
+		"hateLetsHearIt": ["Don't make a fool of yourself."],
+		"hateNo": ["Why would you think that I would accept this?"],
+		"hateYes": ["Now go away."],
+		
+		"afterPeace": "Send it to my secretary and put my seal on it!",
+		"tradeRequest": "Our riches must cause much envy in your people. Here is a deal to satisfy your subjects greed.",
+
+		"outerColor": [196,20,21],
+		"innerColor": [249,218,2],
+		"uniqueName": "Siglo de Oro",
+		"uniques": [ "[+30]% [Gold] [in all cities] <on foreign continents>", "[+10]% [Food] [in all cities] <on foreign continents>", "[+10]% [Production] [in all cities] <on foreign continents>"],
+		"cities": ["Madrid","Sevilla","Barcelona","Toledo","Córdoba","Valencia","Zaragoza","Valladolid","Bilbao","A Coruña",
+			"Cartegena","Cádiz","Salamanca","Las Palmas","Murcia","Pamplona","Vigo","Oran","Vitoria-Gasteiz","Oviedo",
+			"Málaga","Havana","Jaen","Manila"],
+	},
+
+
+	{
 		"name": "The United States",
 		"leaderName": "Benjamin Franklin",
 		"adjective": ["Yankee"],
