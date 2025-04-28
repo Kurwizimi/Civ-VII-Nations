@@ -268,7 +268,7 @@
 	{
 	"name": "Castilian Tercio",
 	"unitType": "Gunpowder",
-	"uniqueTo": "Castille",
+	"uniqueTo": "Castile",
 	"replaces": "Musketman",
 	"strength": 25,
 	"cost": 150,
