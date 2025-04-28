@@ -84,7 +84,7 @@
 	{
         	"name": "Plaza",
 		"replaces": "Opera House",
-		"uniqueTo": "Castille",
+		"uniqueTo": "Castile",
         	"culture": 4,
 		"specialistSlots": {"Artist": 1},
 		"cost": 200,
