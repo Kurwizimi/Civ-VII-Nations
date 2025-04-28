@@ -34,6 +34,7 @@ Buildings
 - AVJUVVANAM - chennai by Lars Meiertoberens from <a href="https://thenounproject.com/browse/icons/term/chennai/" target="_blank" title="chennai Icons">Noun Project</a> (CC BY 3.0)
 - NECROPOLIS - temple of seti by Brickclay from <a href="https://thenounproject.com/browse/icons/term/temple-of-seti/" target="_blank" title="temple of seti Icons">Noun Project</a> (CC BY 3.0)
 - PURA - pura by alifiyah fitri nurisa from <a href="https://thenounproject.com/browse/icons/term/pura/" target="_blank" title="pura Icons">Noun Project</a> (CC BY 3.0)
+- PLAZA - plaza mayor by Brickclay from <a href="https://thenounproject.com/browse/icons/term/plaza-mayor/" target="_blank" title="plaza mayor Icons">Noun Project</a> (CC BY 3.0)
 - FINANCIAL CENTRE - Pound by Singlar from <a href="https://thenounproject.com/browse/icons/term/pound/" target="_blank" title="Pound Icons">Noun Project</a> (CC BY 3.0)
 - DONJON - Norman Tower by József Balázs-Hegedüs from <a href="https://thenounproject.com/browse/icons/term/norman-tower/" target="_blank" title="Norman Tower Icons">Noun Project</a> (CC BY 3.0)
 - AVENUE - parisian café by Amethyst Studio from <a href="https://thenounproject.com/browse/icons/term/parisian-cafe/" target="_blank" title="parisian café Icons">Noun Project</a> (CC BY 3.0)
