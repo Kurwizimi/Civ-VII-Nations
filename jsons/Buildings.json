@@ -82,6 +82,18 @@
 	},
 
 	{
+        	"name": "Plaza",
+		"replaces": "Opera House",
+		"uniqueTo": "Castille",
+        	"culture": 4,
+		"specialistSlots": {"Artist": 1},
+		"cost": 200,
+        	"hurryCostModifier": 100,
+       		"requiredTech": "Acoustics",
+		"uniques": [ "[+2 Gold] from every [Monument] [in all cities] <on foreign continents>"],
+	},
+
+	{
         	"name": "Industrial Park",
         	"replaces": "Factory",
         	"uniqueTo": "The United States",
