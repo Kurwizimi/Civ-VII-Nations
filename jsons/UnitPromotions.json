@@ -70,6 +70,11 @@
         "uniques": ["[+20]% to Flank Attack bonuses"]
     },
 
+       {
+        "name": "[Castilian Tercio] ability",
+        "uniques": ["[-50]% Strength for enemy [Mounted] units in adjacent [All] tiles"]
+    },
+
 
 
 
