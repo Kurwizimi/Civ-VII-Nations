@@ -266,6 +266,18 @@
     },
 
 	{
+	"name": "Castilian Tercio",
+	"unitType": "Gunpowder",
+	"uniqueTo": "Castille",
+	"replaces": "Musketman",
+	"strength": 25,
+	"cost": 150,
+	"movement": 2,
+	"requiredTech": "Gunpowder",
+	"promotions": ["[Castilian Tercio] ability"],
+    },
+
+	{
 	"name": "Marine Corps",
 	"unitType": "Gunpowder",
 	"uniqueTo": "The United States",
