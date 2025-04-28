@@ -90,7 +90,7 @@
 		"cost": 200,
         	"hurryCostModifier": 100,
        		"requiredTech": "Acoustics",
-		"uniques": [ "[+2 Gold] from every [Monument] [in all cities] <on foreign continents>"],
+		"uniques": [ "[+2 Gold, +1 Culture] from [Luxury] tiles [in this city]"],
 	},
 
 	{
