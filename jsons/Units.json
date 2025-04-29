@@ -243,7 +243,7 @@
 	"requiredTech": "Archery",
 	"upgradesTo": "Musketman",
 	"obsoleteTech": "Gunpowder",
-	"promotions": ["Shock I"],
+	"promotions": ["Shock I"]
    },
 
 	{
@@ -251,8 +251,16 @@
       	"unitType": "Civilian",
 	"uniqueTo": "Ming",
 	"replaces": "Great Merchant",
-	"movement": 4
-        "uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence","Can instantly construct a [Customs house] improvement <by consuming this unit>","May enter foreign tiles without open borders", "Can build [All Road] improvements on tiles", "Gain [25] [Gold] <upon building a [All Road] improvement>", "Unbuildable","Uncapturable"],
+	"movement": 4,
+        "uniques": [
+                "Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence",
+                "Can instantly construct a [Customs house] improvement <by consuming this unit>",
+                "May enter foreign tiles without open borders",
+                "Can build [All Road] improvements on tiles",
+                "Gain [25] [Gold] <upon building a [All Road] improvement>",
+                "Unbuildable",
+                "Uncapturable"
+        ]
    },
 
 	{
@@ -263,11 +271,11 @@
 	"movement": 4,
 	"strength": 20,
 	"cost": 120,
-	"obsolete": "Military Science"
+	"obsolete": "Military Science",
 	"requiredTech": "Chivalry",
 	"uniques":["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>"],
 	"requiredResource": "Horses",
-	"promotions": ["[Chevaler] ability"],
+	"promotions": ["[Chevaler] ability"]
     },
 
 	{
@@ -291,7 +299,7 @@
 	"cost": 150,
 	"movement": 2,
 	"requiredTech": "Gunpowder",
-	"promotions": ["[Castilian Tercio] ability"],
+	"promotions": ["[Castilian Tercio] ability"]
     },
 
 	{
@@ -304,7 +312,7 @@
 	"movement": 2,
 	"uniques":["[+1] Sight <when [Embarked]>", "[+100]% Strength <when defending> <when [Embarked]>", "[1] Movement point cost to disembark", "[1] Movement point cost to embark", "Comment [Unlocked Earlier at [Electronics] ]"],
 	"requiredTech": "Electronics",
-	"promotions": ["Amphibious"],
+	"promotions": ["Amphibious"]
     },
 
 	{
@@ -335,7 +343,7 @@
 	"movement": 2,
 	"obsolete": "Replaceable Parts",
 	"requiredTech": "Rifling",
-	"promotions": ["[Abambowa] ability"], // <upon ending a turn in a [pillaged] tile>
+	"promotions": ["[Abambowa] ability"] // <upon ending a turn in a [pillaged] tile>
     },
 
 	{
@@ -377,9 +385,9 @@
 	"strength": 34,
 	"cost": 225,
 	"movement": 2,
-	"obsolete": "Replaceable Parts"
+	"obsolete": "Replaceable Parts",
 	"requiredTech": "Rifling",
-	"promotions": ["[Soldaderas] ability"], // +10 health for adjacent units
+	"promotions": ["[Soldaderas] ability"] // +10 health for adjacent units
     },
 
 	{
@@ -416,11 +424,11 @@
 	"movement": 5,
 	"strength": 34,
 	"cost": 225,
-	"obsolete": "Mobile Tactics"
+	"obsolete": "Mobile Tactics",
 	"requiredTech": "Military Science",
 	"uniques":["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>"],
 	"requiredResource": "Horses",
-	"promotions": ["[Prussian Hussar] ability"],
+	"promotions": ["[Prussian Hussar] ability"]
     },
 
 	 {
@@ -450,7 +458,7 @@
 	"movement": 2,
 	"requiredTech": "Rifling",
 	"obsolete": "Replacable Parts",
-	"promotions": ["[Gusa] ability"],// [+10]% Strength <when adjacent to a [Gusa] unit>//
+	"promotions": ["[Gusa] ability"] // [+10]% Strength <when adjacent to a [Gusa] unit>//
     },
 
 	{
@@ -487,6 +495,6 @@
         "uniques": ["Can move after attacking"],
         "hurryCostModifier": 20,
         "attackSound": "elephant"
-    },
+    }
 
 ]
