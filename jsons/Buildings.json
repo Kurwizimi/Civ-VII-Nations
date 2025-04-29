@@ -20,7 +20,7 @@
 		"culture": 3,
 		"specialistSlots": {"Artist": 1},
         	"requiredBuilding": "Monument",
-		"uniques": ["[+10]% [Happiness] [in this city]"],
+		"uniques": ["[+20]% Happiness from luxury resources gifted by City-States"],
 		"requiredTech": "Philosophy"
 	},
 	
