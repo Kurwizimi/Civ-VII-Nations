@@ -31,6 +31,7 @@ Improvements
 
 Buildings
 - VIHARA - Pagoda by Ahmad Roaayala from <a href="https://thenounproject.com/browse/icons/term/pagoda/" target="_blank" title="Pagoda Icons">Noun Project</a> (CC BY 3.0)
+- ACROPOLIS - acropolis by Wuppdidu from <a href="https://thenounproject.com/browse/icons/term/acropolis/" target="_blank" title="acropolis Icons">Noun Project</a> (CC BY 3.0)
 - AVJUVVANAM - chennai by Lars Meiertoberens from <a href="https://thenounproject.com/browse/icons/term/chennai/" target="_blank" title="chennai Icons">Noun Project</a> (CC BY 3.0)
 - NECROPOLIS - temple of seti by Brickclay from <a href="https://thenounproject.com/browse/icons/term/temple-of-seti/" target="_blank" title="temple of seti Icons">Noun Project</a> (CC BY 3.0)
 - PURA - pura by alifiyah fitri nurisa from <a href="https://thenounproject.com/browse/icons/term/pura/" target="_blank" title="pura Icons">Noun Project</a> (CC BY 3.0)
