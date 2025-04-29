@@ -3,6 +3,11 @@
         "name": "[Medjay] ability",
        "uniques": ["[+15]% Strength <when fighting in [Friendly Land] tiles>", "[+15]% Strength <when fighting in [City center] tiles>"]
     },
+
+       {
+        "name": "[Phalanx] ability",
+        "uniques": ["[+10]% Strength <when adjacent to a [Phalanx] unit>"]
+    },
        
        {
         "name": "[Han Chu-Ko-Nu] ability",
