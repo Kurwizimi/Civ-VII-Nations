@@ -6,7 +6,21 @@
 		"cost": 100,
 		"hurryCostModifier": 160,
 		"faith": 2,
+		"requiredBuilding": "Shrine",
 		"uniques": ["Gain [100] [Gold] <upon constructing [Wonders] [in this city]> <(modified by game speed)>"],
+		"requiredTech": "Philosophy"
+	},
+
+	{
+		"name": "Acropolis",
+		"replaces": "Ampitheater",
+		"uniqueTo": "Hellas",
+		"cost": 100,
+		"hurryCostModifier": 160,
+		"culture": 3,
+		"specialistSlots": {"Artist": 1},
+        	"requiredBuilding": "Monument",
+		"uniques": ["[+10]% [Happiness] [in this city]"],
 		"requiredTech": "Philosophy"
 	},
 	
@@ -17,6 +31,7 @@
 		"cost": 100,
 		"hurryCostModifier": 160,
 		"faith": 2,
+		"requiredBuilding": "Shrine",
 		"uniques": ["[+10]% [Happiness] [in this city]"],
 		"requiredTech": "Philosophy"
 	},
@@ -28,6 +43,7 @@
 		"cost": 100,
 		"hurryCostModifier": 160,
 		"faith": 2,
+		"requiredBuilding": "Shrine",
 		"uniques": ["[+5]% [Production] [in this city] <for [10] turns> <upon discovering [All] technology>"],
 		"requiredTech": "Philosophy"
 	},
@@ -65,6 +81,7 @@
 		"cost": 70,
 		"hurryCostModifier": 160,
 		"faith": 2,
+		"requiredBuilding": "Shrine",
 		"uniques": ["[-10]% Food consumption by specialists [in this city]"],
 		"requiredTech": "Philosophy"
 	},
