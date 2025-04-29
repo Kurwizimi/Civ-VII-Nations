@@ -76,6 +76,45 @@
 			"Tjenu","Per-Atum","Abdju","Zau","Ipu","Khito","Swenet","Per-Hathor","Abu","Hut-waret",
 			"Djerty","Per-Bast","Nubt","Thonis"]
 	},
+
+	{
+		"name": "Hellas",
+		"leaderName": "Xenophon",
+		"adjective": ["Greek"],
+		"startBias": ["Grassland", "Hill"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "The people gather together, debating music and politics, poetry and law--envisioning how to build a Greece that will last for ages. \nThe city-states of Hellas were a constellation of powers, each with a rich history – militaristic Sparta, intellectual Athens, wealthy Corinth, far-off Syracuse. Fractious in their alliances, they were briefly united only once, under Alexander of Macedon. Though subsumed into the Roman Empire, the Greek cities influenced Roman religion and thought, the math and science of the Islamic Golden Age, and even the founding ideas of American democracy.",
+		"startIntroPart2": "",
+		
+		"declaringWar": "The Ten Thousand that follow me shall ravage your lands!",
+		"attacked": "You really think you can outsmart me? No one shall devise such knowledge to surpass my genius!",
+		"defeated": "How can you beat my knowledge of the battlefield? ....If you are truely a better general, philosopher and leader than I am, ...then you are the true ruler of the Greeks, not me.",
+		"introduction": "I am Xenophon, leader of the Ten Thousand, and protector of all Greek states.",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "I expect you have learnt a thing or two from my troops from this war.",
+		"tradeRequest": "My friend, would you kindly accept this deal?",
+
+		"spyNames": ["Agapetos","Chloe","Demokritos","Hypatia","Heracleitos","Ligeia","Nereus","Pelagia","Sosigenes","Xanthe"],
+
+		"outerColor": [124,163,248],
+		"innerColor": [255,255,255],
+		"uniqueName": "Demokratia",
+		"uniques": ["Resting point for Influence with City-States is increased by [30]"],
+		"cities": ["Athênai","Spártā","Thêbai","Kórinthos","Argos","Knōsós","Mykḗnē","Olympia","Chalkís","Mīlētos",
+			"Thera","Phókaia","Lindos","Megara","Pergamon","Eretrea","Tegea","Mantineia","Halikarnāssós","Kérkyra",
+			"Éphesos","Aigai","Pella","Smýrna"]
+	},
 	
 	{
 		"name": "Han",
