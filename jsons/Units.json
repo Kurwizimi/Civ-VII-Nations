@@ -34,6 +34,22 @@
     },
 
 	{
+        "name": "Phalanx",
+	"replaces": "Spearman",
+        "uniqueTo": "Hellas",
+        "unitType": "Sword",
+        "movement": 2,
+        "strength": 11,
+        "cost": 50,
+        "requiredTech": "Bronze Working",
+	"promotions": ["[+50]% Strength <vs [Mounted] units>", "[Phalanx] ability"],
+        "upgradesTo": "Pikeman",
+        "obsoleteTech": "Civil Service",
+        "hurryCostModifier": 20,
+        "attackSound": "metalhit"
+    },
+
+	{
         "name": "Han Chu-Ko-Nu",
 	"replaces": "Composite Bowman",
 	"uniqueTo": "Han",
