@@ -13,7 +13,7 @@
 
 	{
 		"name": "Acropolis",
-		"replaces": "Ampitheater",
+		"replaces": "Amphitheater",
 		"uniqueTo": "Hellas",
 		"cost": 100,
 		"hurryCostModifier": 160,
