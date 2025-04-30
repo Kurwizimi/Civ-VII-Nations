@@ -504,6 +504,43 @@
 	},
 
 	{
+		"name": "Tawantinsuyu",
+		"leaderName": "Pachacútec",
+		"adjective": ["Incan"],
+		"startBias": ["Hill", "Mountain"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "The mountain valleys will sound with hammer and spade as the Inca enrich the land. \nTawantinsuyu, “the empire in four parts,” was ruled by the Inca, and extended across the Andes mountains, building roads and waystations, terraced fields and silver mines - an empire in the sky. Under the Inca was a diverse collection of subjects, languages, and cultures, but no writing or coinage. Yet the empire came to a crashing end upon the arrival of the Spanish, and smallpox.",
+		"startIntroPart2": "Having defended it from invasion, Pachacuti assumed rule over the kingdom of Cuzco around 1438 and soon began to conquer neighboring regions. He had military and political prowess in equal measure — those he could not take by force he plied with gifts, promising autonomy and prosperity in exchange for loyalty. The Inca Empire would only continue for some sixty years after his death, when the Spanish came, but Pachacuti’s legacy endures nonetheless.?",
+		
+		"declaringWar": "The puma, the condor, and the serpent call me to war! I cannot call them back!",
+		"attacked": "Better to strike your weapons against the heart of the mountain; our warriors are stone.",
+		"defeated": "Pachacuti, Lord Cataclysm, will live on in memory, if not in body.",
+		"introduction": "I am Pachacuti, favored of the sun and child of the mountains. Shake in my presence as the earth itself does.",
+		
+		"neutralHello": "Greetings, leader.",
+		"neutralLetsHearIt": ["Will this please the Inca?"],
+		"neutralNo": ["This proposal isnt very good."],
+		"neutralYes": ["I shall live by it"],
+
+		"hateHello": "Your presence is heard",
+		"hateLetsHearIt": ["Hmph..."],
+		"hateNo": ["This proposal lacks substance."],
+		"hateYes": ["...I shall do my best to live with this."],
+		
+		"afterPeace": "A revelation that we will live by.",
+		"tradeRequest": "May this deal shake the world!",
+
+		"outerColor": [120,61,3],
+		"innerColor": [249,218,2],
+		"uniqueName": "Apukuna",
+		"uniques": ["[+2 Food, +1 Production] from [Mountain] tiles [in all cities]", "[+2 Happiness] from [Mountain] tiles [in all cities] <after discovering [Civil Service]>"],
+		"cities": ["Qusqu","Antawaylla","Wanuku","Willka Waman","Machu Pikchu","Ullantaytampu","Sausa","Kashamarka","Chucuito","Kitu",
+			"Ayak’uchu","Chan Chan","Pisac","Huancabamba","Ayaviri","Vitcos","Paria","Chuquiabo","Pachakamaq","Tumbez",
+			"Tumipampa","Inka Pirka","Wankawilka","Ica"],
+	},
+
+	{
 		"name": "Majapahit",
 		"leaderName": "Gajah Mada",
 		"adjective": ["Majapahit"],
