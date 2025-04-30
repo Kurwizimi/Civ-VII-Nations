@@ -222,7 +222,7 @@
 	"rangedStrength": 11,
         "cost": 75,
         "requiredTech": "Construction",
-	"promotions": ["Barrage I", "Ignore terrain cost""],
+	"promotions": ["Barrage I", "Ignore terrain cost"],
         "upgradesTo": "Crossbowman",
         "obsoleteTech": "Machinery",
         "hurryCostModifier": 20,
