@@ -55,7 +55,7 @@ BuildingIcons/Industrial Park
   index: -1
 BuildingIcons/Madinat
   rotate: false
-  xy: 1580, 115
+  xy: 1873, 115
   size: 89, 89
   orig: 89, 89
   offset: 0, 0
@@ -83,28 +83,28 @@ BuildingIcons/Pura
   index: -1
 BuildingIcons/Uwaybil K'uh
   rotate: false
-  xy: 994, 16
+  xy: 1092, 16
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 BuildingIcons/Vihara
   rotate: false
-  xy: 1092, 114
+  xy: 1190, 114
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 BuildingIcons/Zaibatsu
   rotate: false
-  xy: 1288, 114
+  xy: 1386, 16
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 BuildingIcons/Zócalo
   rotate: false
-  xy: 1288, 16
+  xy: 1484, 114
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
@@ -167,7 +167,7 @@ ImprovementIcons/Kabaka's Lake
   index: -1
 ImprovementIcons/Lo'i Kalo
   rotate: false
-  xy: 1483, 18
+  xy: 1776, 115
   size: 89, 89
   orig: 89, 89
   offset: 0, 0
@@ -214,9 +214,16 @@ ImprovementIcons/Stepwell
   orig: 90, 90
   offset: 0, 0
   index: -1
+ImprovementIcons/Terraced Farm
+  rotate: false
+  xy: 896, 16
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
 NationIcons/Aksum
   rotate: false
-  xy: 1386, 115
+  xy: 1484, 17
   size: 89, 89
   orig: 89, 89
   offset: 0, 0
@@ -251,7 +258,7 @@ NationIcons/Chola
   index: -1
 NationIcons/Great Britain
   rotate: false
-  xy: 1386, 18
+  xy: 1582, 115
   size: 89, 89
   orig: 89, 89
   offset: 0, 0
@@ -265,7 +272,7 @@ NationIcons/Han
   index: -1
 NationIcons/Hawai'i
   rotate: false
-  xy: 1483, 115
+  xy: 1679, 115
   size: 89, 89
   orig: 89, 89
   offset: 0, 0
@@ -363,7 +370,7 @@ NationIcons/Nepal
   index: -1
 NationIcons/Normandy
   rotate: false
-  xy: 1580, 18
+  xy: 1581, 17
   size: 89, 89
   orig: 89, 89
   offset: 0, 0
@@ -391,28 +398,35 @@ NationIcons/Rattanakosin
   index: -1
 NationIcons/Shawnee
   rotate: false
-  xy: 1677, 115
+  xy: 1678, 18
   size: 89, 89
   orig: 89, 89
   offset: 0, 0
   index: -1
-NationIcons/The Abbasids
+NationIcons/Tawantinsuyu
   rotate: false
   xy: 896, 114
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
+NationIcons/The Abbasids
+  rotate: false
+  xy: 994, 114
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
 NationIcons/The Mughals
   rotate: false
-  xy: 896, 16
+  xy: 994, 16
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 NationIcons/The United States
   rotate: false
-  xy: 994, 114
+  xy: 1092, 114
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
@@ -426,21 +440,21 @@ NationIcons/Xshaca
   index: -1
 TileSets/HexaRealm/Tiles/Hidden Fortress
   rotate: false
-  xy: 1677, 51
+  xy: 1775, 51
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Kabaka's Lake
   rotate: false
-  xy: 1774, 148
+  xy: 1847, 51
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Lo'i Kalo
   rotate: false
-  xy: 1846, 148
+  xy: 1919, 51
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -648,23 +662,30 @@ UnitIcons/Stuka
   orig: 90, 90
   offset: 0, 0
   index: -1
+UnitIcons/Warak'aq
+  rotate: false
+  xy: 1190, 16
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
 UnitIcons/Xshasan Immortal
   rotate: false
-  xy: 1092, 16
+  xy: 1288, 114
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Xunleichong
   rotate: false
-  xy: 1190, 114
+  xy: 1288, 16
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Yuthahathi
   rotate: false
-  xy: 1190, 16
+  xy: 1386, 114
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
