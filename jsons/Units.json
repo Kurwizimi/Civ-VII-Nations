@@ -213,6 +213,23 @@
     },
 
 	{
+        "name": "Warak'aq",
+	"replaces": "Composite Bowman",
+        "uniqueTo": "Tawantinsuyu",
+        "unitType": "Archery",
+        "movement": 3,
+        "strength": 7,
+	"rangedStrength": 11,
+        "cost": 75,
+        "requiredTech": "Construction",
+	"promotions": ["Barrage I", "Ignore terrain cost""],
+        "upgradesTo": "Crossbowman",
+        "obsoleteTech": "Machinery",
+        "hurryCostModifier": 20,
+        "attackSound": "metalhit"
+    },
+
+	{
         "name": "Cetbang",
         "replaces": "Galleass",
         "uniqueTo": "Majapahit",
@@ -284,8 +301,10 @@
 	"replaces": "Missionary",
 	"uniqueTo": "Shawnee",
 	"cost": -1,
-        "uniques": ["Can Spread Religion <for [5] movement> <[3] times> <after which this unit is consumed>", "May enter foreign tiles without open borders, but loses [200] religious strength each turn it ends there", "Can be purchased for [200] [Faith] [in all cities in which the majority religion is a major religion]",
-        	"Unbuildable", "Religious Unit", "Only available <when religion is enabled>"],
+        "uniques": ["Can Spread Religion <for [5] movement> <[3] times> <after which this unit is consumed>",
+		    "May enter foreign tiles without open borders, but loses [200] religious strength each turn it ends there",
+		    "Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
+        	    "[-1] Sight", "Unbuildable", "Religious Unit", "Only available <when religion is enabled>"],
         "movement": 5,
         "religiousStrength": 800
     },
