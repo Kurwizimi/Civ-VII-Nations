@@ -352,6 +352,45 @@
 	},
 
 	{
+		"name": "Roma",
+		"leaderName": "Octavian",
+		"adjective": ["Roman"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "A new banner unfurls, emblazoned with triumphal laurels. Rome seeks its champions. \nWhen most people think of the classical world, they imagine Rome. From humble beginnings, it grew to span three continents, assimilating the wealth and cultures of those it conquered. During the Republic, ad-hoc statecraft and meritocracy spawned fierce competition, spurring the professionalization of military and bureaucracy of the Empire. But cracks turned to chasms, and a foundering economy and repeated invasions brought Rome to collapse.",
+		"startIntroPart2": "Emerging from Rome’s civil wars, Octavian consolidated the fractious republic into an empire stretching from the North Sea to Egypt. Despite the Roman fear of tyrants, he achieved sole power while outwardly maintaining the old republic’s structures. He expanded Rome’s borders via client states and a reorganized army, reformed the tax code, and inaugurated the imperial cult. The modern image of Imperial Rome is largely the one of Octavian's vision.",
+		
+		"declaringWar": "The die is cast.",
+		"attacked": "Really!? Come, break your swords on our walls!",
+		"defeated": "Have I played the part well? Then, I exit.",
+		"introduction": "I am Octavian, Augustus Caesar, a simple first citizen. And emperor of the world.",
+		
+		"neutralHello": "*Salve*, my good friend",
+		"neutralLetsHearIt": ["Yes?"],
+		"neutralNo": ["I forge my own path here."],
+		"neutralYes": ["I will it."],
+
+		"hateHello": "Under my hand, wherever there is conflict and chaos I strike it down. I will have peace, even amidst ashes.",
+		"hateLetsHearIt": ["What?"],
+		"hateNo": ["Now, I, in every way, am the maker of my fortune."],
+		"hateYes": ["If you will it."],
+		
+		"afterPeace": "I will it.",
+		"tradeRequest": "May this trade turn your cities made of bricks to cities made of marble!",
+
+		"spyNames": ["Acacius","Chloris","Brutus","Eliana","Emidius","Herta","Jovilius","Laetitia","Sophus","Proserpina"],
+
+		"outerColor": [212,20,21],
+		"innerColor": [247,216,1],
+		"uniqueName": "Twelve Tables",
+		"uniques": ["Free Social Policy <upon entering a new era>", "[-15]% Culture cost of adopting new Policies <when at war>"],
+		"cities": ["Roma","Capua","Ostia","Ravenna","Neapolis","Mediolanum","Patavium","Aquileia","Puteoli","Pompeii",
+			"Catana","Burdigala","Narbo Martius","Gades","Lugdunum","Bononia","Corduba","Massilia","Colonia","Caesarea Maritima",
+			"Mogontiacum","Londinium","Caesaraugusta","Sarmizegetusa"],
+	},
+
+	{
 		"name": "The Abbasids",
 		"leaderName": "Al-Muktafī bi-Llāh",
 		"adjective": ["Abbasid"],
