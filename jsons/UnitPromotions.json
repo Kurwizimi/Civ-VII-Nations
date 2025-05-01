@@ -24,6 +24,11 @@
         "uniques": ["Heals [15] damage if it kills a unit"]
     },
 
+       {
+        "name": "[Roman Legion] ability",
+        "uniques": ["[+10]% Strength <for every [Completed Policy branches]>"]
+    },
+
 
         {
         "name": "[Leiomano] ability",
