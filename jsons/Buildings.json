@@ -48,6 +48,19 @@
 		"requiredTech": "Philosophy"
 	},
 
+	{
+		"name": "Forum",
+		"replaces": "Market",
+		"uniqueTo": "Roma",
+		"cost": 100,
+		"hurryCostModifier": 160,
+		"gold": 2,
+		"specialistSlots": {"Merchant": 1},
+        	"percentStatBonus": {"gold": 25},
+		"uniques": ["[+2 Culture, +2 Gold] <for every [Completed Policy branches]>"],
+		"requiredTech": "Currency"
+	},
+
 	 {
         	"name": "Madinat",
         	"maintenance": 2,
