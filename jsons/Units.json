@@ -149,6 +149,23 @@
     },
 
 	{
+        "name": "Roman Legion",
+	"replaces": "Swordsman",
+        "uniqueTo": "Roma",
+        "unitType": "Sword",
+        "movement": 2,
+        "strength": 14,
+        "cost": 75,
+        "requiredTech": "Iron Working",
+	"promotions": ["[Roman Legion] ability"],
+	"requiredResource": "Iron",
+        "upgradesTo": "Longswordsman",
+        "obsoleteTech": "Steel",
+        "hurryCostModifier": 20,
+        "attackSound": "metalhit"
+    },
+
+	{
         "name": "Mamluk",
 	"replaces": "Knight",
 	"uniqueTo": "The Abbasids",
