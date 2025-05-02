@@ -835,7 +835,7 @@
 		"afterPeace": "A capital proposal — let's make it work!",
 		"tradeRequest": "Let us create a trade agreement so that our nations shall prosper!",
 
-		"outerColor": [249,249,249],
+		"outerColor": [116,163,243],
 		"innerColor": [1,42,108],
 		"uniqueName": "Frontier Expansion",
 		"uniques": ["[+25]% Production when constructing [All] units [in all cities] <for [10] turns> <upon declaring war with a major Civilization>", "[Gold] cost of purchasing [Civilian] units [-50]%"],
@@ -1209,8 +1209,8 @@
 		"afterPeace": "Lovely! Let us make it so!",
 		"tradeRequest": "Will my offer to you suffice?",
 
-		"outerColor": [0,79,206],
-		"innerColor": [247,216,1],
+		"outerColor": [249,249,249],
+		"innerColor": [0,79,206],
 		"uniqueName": "Prosveshchenie",
 		"uniques": ["[+1 Culture] from every [Building]", "[+1 Science] from every [Building] <in [Tundra] tiles>"],
 		"cities": ["St. Petersburg","Moscow","Saratov","Kazan","Rostov na Donu","Astrakhan","Tula","Nijni-Novgorod","Nikolaieff","Samara",
