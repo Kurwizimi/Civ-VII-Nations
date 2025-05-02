@@ -17,6 +17,17 @@
     },
 
 	{
+        "name": "Colonist",
+	"replaces": "Settler",
+        "uniqueTo": "Qart Hashdat",
+        "unitType": "Civilian",
+        "movement": 2,
+        "cost": 106,
+        "uniques": ["Founds a new city <by consuming this unit>","Comment [Cities founded by this unit start with 1 extra population]", "Excess Food converted to Production when under construction","Requires at least [2] population"],
+        "hurryCostModifier": 20
+    },
+
+	{
         "name": "Medjay",
 	"replaces": "Swordsman",
         "uniqueTo": "Khemet",
