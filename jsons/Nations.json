@@ -39,6 +39,45 @@
 	},
 
 	{
+		"name": "Qart Hashdat",
+		"leaderName": "Hannibal Barca",
+		"adjective": ["Carthaginian"],
+		"startBias": ["Coast", "Grassland"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "The children of Tyre come from afar to claim their destiny. From the center of the world, they will command an empire that knows no equal. \nFrom humble colony to economic hegemony, Carthage rose from the shores of North Africa to dominate the Mediterranean Sea. Its sleek ships ferried goods and riches all over the known world, while at home, the city of Carthage was famed for its master craftsmen and deep agricultural knowledge. Competition with first Greece, then Rome, honed renowned generals and a powerful navy. But war was Carthage’s undoing, and the city was destroyed in 146 BCE.",
+		"startIntroPart2": "",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"spyNames": ["Hamilcar","Siphonbaal","Mago","Batnoam","Gisgo","Ummashtart","Azarbaal","Amoashtart","Mattanbaal","Zyabqot"],
+
+		"outerColor": [252,225,252],
+		"innerColor": [52,125,40],
+		"uniqueName": "Wisdom of Tanit",
+		"uniques": ["[-999] Production [in all cities]", "[+999] Production [in capital]", "[+50]% [Production] [in capital] <for every [[Cities] - 1]>", "All newly-trained [Settler] units [in your cities] receive the [Punic] promotion"],
+		"cities": ["Carthage","Utica","Hadrumetum","Hippo","Motya","Thenae","Leptis","Tsabratan","Maleth","Rusicade",
+			"Thysdrus","Rusguniae","Tinga","Gadir","Oyat","Kition","Lapathus","Idalion","Ruspina","Ziz",
+			"Karaly","Sexi","Kapara","Rusadir"]
+	},
+
+	{
 		"name": "Khemet",
 		"leaderName": "Hatshepsut",
 		"adjective": ["Coptic"],
