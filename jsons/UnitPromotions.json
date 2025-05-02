@@ -1,7 +1,8 @@
 [
        {
 		"name": "Punic",
-		"uniques": ["Free [Settler] appears  <when [Settler]> "},
+		"uniques": ["Free [Settler] appears  <when [Settler]> "]
+       },
        
        {
         "name": "[Medjay] ability",
