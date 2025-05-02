@@ -71,7 +71,7 @@
 		"outerColor": [252,225,252],
 		"innerColor": [52,125,40],
 		"uniqueName": "Wisdom of Tanit",
-		"uniques": ["[-999] Production [in all cities]", "[+999] Production [in capital]", "[+50]% [Production] [in capital] <for every [[Cities] - 1]>", "All newly-trained [Settler] units [in your cities] receive the [Punic] promotion"],
+		"uniques": ["[-999] Production [in all cities]", "[+999] Production [in capital]", "[+50]% [Production] [in capital] <for every [[Cities] - 1]>", "All newly-trained [Settler] units [in your cities] receive the [Punic] promotion", "[+1] population [in all cities] <hidden from users>"],
 		"cities": ["Carthage","Utica","Hadrumetum","Hippo","Motya","Thenae","Leptis","Tsabratan","Maleth","Rusicade",
 			"Thysdrus","Rusguniae","Tinga","Gadir","Oyat","Kition","Lapathus","Idalion","Ruspina","Ziz",
 			"Karaly","Sexi","Kapara","Rusadir"]
