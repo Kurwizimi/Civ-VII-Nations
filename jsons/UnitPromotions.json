@@ -1,5 +1,9 @@
 [
        {
+		"name": "Punic",
+		"uniques": ["Free [Settler] appears  <when [Settler]> "},
+       
+       {
         "name": "[Medjay] ability",
        "uniques": ["[+15]% Strength <when fighting in [Friendly Land] tiles>", "[+15]% Strength <when fighting in [City center] tiles>"]
     },
