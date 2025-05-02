@@ -68,7 +68,7 @@
 
 		"spyNames": ["Hamilcar","Siphonbaal","Mago","Batnoam","Gisgo","Ummashtart","Azarbaal","Amoashtart","Mattanbaal","Zyabqot"],
 
-		"outerColor": [252,225,252],
+		"outerColor": [252,252,252],
 		"innerColor": [52,125,40],
 		"uniqueName": "Wisdom of Tanit",
 		"uniques": ["Comment [Only able to construct buildings and units in capital]", "[-1000]% [Production] [in all cities] <hidden from users>", "[+950]% [Production] [in capital] <hidden from users>", "[+50]% [Production] [in capital] <for every [Cities]>", "[-50]% Production when constructing [Colonist] units [in capital]"],
