@@ -770,6 +770,44 @@
 	},
 
 	{
+		"name": "Songhay",
+		"leaderName": "Sonni Ali",
+		"adjective": ["Songhay"],
+		"startBias": ["River","Desert","Plains","Coast"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "From the heart of the Sahel, the Songhai will emerge upon the river's waves to take the world by storm. \nAs the Empire of Mali faltered, their Songhai vassals rose up to form one of the largest states in Africa. Songhai revitalized Islam in the region, renewed the academic community in Timbuktu, and controlled the trans-Saharan trade. But the empire’s days were numbered when the Moroccans invaded, armed with gunpowder and seeking new routes for their own prosperity.",
+		"startIntroPart2": "",
+		
+		"declaringWar": "",
+		"attacked": "",
+		
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"outerColor": [250,219,2],
+		"innerColor": [113,20,0],
+		"uniqueName": "Tarikh al-Sudan",
+		"uniques": [ "[+2 Gold] from every [River] <in cities with a [Market]>", "[Civillian] units gain the [Amphibious] promotion"],
+		"cities": ["Gao","Timbuktu","Jenne","Kukiya","Lulami","Tendirma","Kumbi Saleh","Tenenku","Agadez","Tadmekka",
+			"Gobir","Gaya","Katsina","Zaria","Takedda","Kabara","Kano","Walata","Sibiridugu","Segu",
+			"Bamba","Teghazza","Yatemga","Dia"],
+	},
+
+	{
 		"name": "Castile",
 		"leaderName": "Isabella",
 		"adjective": ["Castellian"],
