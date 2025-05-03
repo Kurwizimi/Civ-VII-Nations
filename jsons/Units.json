@@ -338,6 +338,19 @@
     },
 
 	{
+	"name": "Golden Bangles",
+	"unitType": "Sword",
+	"uniqueTo": "Songhay",
+	"replaces": "Pikeman",
+	"strength": 16,
+	"cost": 60,
+	"movement": 2,
+	"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+	"requiredTech": "Gunpowder",
+	"promotions": ["[Golden Bangles] ability"]
+    },
+
+	{
 	"name": "Castilian Tercio",
 	"unitType": "Gunpowder",
 	"uniqueTo": "Castile",
