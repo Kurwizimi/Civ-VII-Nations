@@ -102,6 +102,16 @@
         "shortcutKey": "S"
     },
     {
+        "name": "Caravanaserai",
+        "uniqueTo": "Songhay",
+        "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill"],
+        "gold": 3,
+        "turnsToBuild": 7,
+        "techRequired": "Civil Service",
+        "uniques": ["[+1 Gold] for each adjacent [resource]", "[+1 Gold] from [River] tiles", "Pillaging this improvement yields approximately [+25 Gold]"],
+        "shortcutKey": "C"
+    },
+    {
         "name": "Kabaka's Lake",
         "uniqueTo": "Buganda",
         "terrainsCanBeBuiltOn": ["Plains","Grassland"],
