@@ -51,6 +51,11 @@
         "uniques": ["[+15]% Strength <vs [Sword] units>"]
     },
 
+       {
+        "name": "[Golden Bangles] ability",
+       "uniques": ["[+15]% Strength <for every adjacent [resource]>"]
+    },
+
          {
         "name": "[Abambowa] ability",
         "uniques": ["[+50]% Health from pillaging tiles"]
