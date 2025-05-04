@@ -46,6 +46,11 @@
         "uniques": ["Can pass through impassable tiles","[This Unit] heals [50] HP <upon ending a turn in a [Mountain] tile>"]
     },
 
+       {
+        "name": "[Keshig] ability",
+        "uniques": ["[This Unit] heals [15] HP <upon defeating a [Military] unit>"]
+    },
+
         {
         "name": "[Chevaler] ability",
         "uniques": ["[+15]% Strength <vs [Sword] units>"]
