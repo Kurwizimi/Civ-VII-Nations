@@ -724,7 +724,7 @@
 		"outerColor": [25,65,150],
 		"innerColor": [185,210,155],
 		"uniqueName": "Bokh",
-		"uniques": ["[-10]% Production when constructing [Settler] units [in all cities]","[Gain a free [Courthouse] [in annexed cities]","[Land] units gain the [Normannitas] promotion"],
+		"uniques": ["[-10]% Production when constructing [Settler] units [in all cities]","[Gain a free [Courthouse] [in annexed cities]","[Land] units gain the [Ulus] promotion"],
 		"cities":["Qaraqorum","Qobdo","Khüree","Uliastai","Aurag","Khiagt","Ulaangom","Dulüün Boldog","Khuduu Aral","Sainshand",
 			"Altai","Ayil Qaraqana","Khökh Nuur","Kherlen Bar Khot","Burgi Ereg","Qorqonaq Jubur","Vangiin Khüree","Dalan Nemürges","Tajkal Khorga","Chakirmaut",
 			"Qarabalghasun","Bürgi-ergi","Choir","Burkhan Khaldun"],
