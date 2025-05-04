@@ -91,6 +91,16 @@
         "techRequired": "Construction",
         "shortcutKey": "T"
     },
+    {
+        "name": "Örtöö",
+        "uniqueTo": "Yeke Mongɣol Ulus",
+        "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Snow","Hill"],
+        "gold": 2,
+        "turnsToBuild": 7,
+        "uniques": ["Pillaging this improvement yields approximately [+25 Gold]"],
+        "techRequired": "Civil Service",
+        "shortcutKey": "O"
+    },
      {
         "name": "Mawaskawe Skote",
         "uniqueTo": "Shawnee",
