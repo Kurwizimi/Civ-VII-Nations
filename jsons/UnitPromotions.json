@@ -47,6 +47,11 @@
     },
 
        {
+        "name": "Ulus",
+       "uniques": ["[+1] Movement","[This Unit] gains [2] movement <upon entering a [Örtöö] tile>"]
+    },
+
+       {
         "name": "[Keshig] ability",
         "uniques": ["[This Unit] heals [15] HP <upon defeating a [Military] unit>"]
     },
