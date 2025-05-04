@@ -693,6 +693,43 @@
 			"Xiangyang","Jingzhou","Xiamen","Luoyang"],
 	},
 
+	{
+		"name": "Yeke Mongɣol Ulus",
+		"leaderName": "Chinggis Khaan",
+		"adjective": ["Mongol"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "The steppes brace for a coming storm - one of horses, valor, and endless ambition. The Mongols ride forth. \nIn the steppe of Mongolia, Temüjin – who would become Genghis Khan – united feuding clans and led them across the known world. The Mongols used not only their famed archers, but also debuted gunpowder on the battlefield. Internally, the empire was a tolerant state, permitting freedom of religion, safe roads, and a passport system. But with the great Khan’s passing, the Mongol horde splintered.",
+		"startIntroPart2": "",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": " ",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"outerColor": [25,65,150],
+		"innerColor": [185,210,155],
+		"uniqueName": "Bokh",
+		"uniques": ["[-10]% Production when constructing [Settler] units [in all cities]","[Gain a free [Courthouse] [in annexed cities]","[Land] units gain the [Normannitas] promotion"],
+		"cities":["Qaraqorum","Qobdo","Khüree","Uliastai","Aurag","Khiagt","Ulaangom","Dulüün Boldog","Khuduu Aral","Sainshand",
+			"Altai","Ayil Qaraqana","Khökh Nuur","Kherlen Bar Khot","Burgi Ereg","Qorqonaq Jubur","Vangiin Khüree","Dalan Nemürges","Tajkal Khorga","Chakirmaut",
+			"Qarabalghasun","Bürgi-ergi","Choir","Burkhan Khaldun"],
+	},
+
 
 	{
 		"name": "Normandy",
