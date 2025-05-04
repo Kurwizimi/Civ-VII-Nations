@@ -309,6 +309,24 @@
    },
 
 	{
+        "name": "Keshig",
+        "unitType": "Mounted",
+	"uniqueTo": "Yeke Mongɣol Ulus",
+	"replaces": "Crossbowman",
+        "movement": 3,
+        "strength": 13,
+        "rangedStrength": 18,
+        "cost": 120,
+        "requiredTech": "Machinery",
+        "upgradesTo": "Gatling Gun",
+        "obsoleteTech": "Industrialization",
+	"uniques":["Can move after attacking", "No defensive terrain bonus", "Ignores Zone of Control"],
+	"requiredResource": "Horses",
+	"promotions": ["[Keshig] ability"]
+        "attackSound": "crossbow"
+    },
+
+	{
 	"name": "Chevaler",
 	"unitType": "Mounted",
 	"uniqueTo": "Normandy",
