@@ -97,7 +97,7 @@
         "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Snow","Hill"],
         "gold": 2,
         "turnsToBuild": 7,
-        "uniques": ["Pillaging this improvement yields approximately [+25 Gold]"],
+        "uniques": ["Comment [When a unit moves onto this tile, it gains 2 movement", "Pillaging this improvement yields approximately [+25 Gold]"],
         "techRequired": "Civil Service",
         "shortcutKey": "O"
     },
