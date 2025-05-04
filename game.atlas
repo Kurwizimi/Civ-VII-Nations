@@ -62,63 +62,63 @@ BuildingIcons/Industrial Park
   index: -1
 BuildingIcons/Madinat
   rotate: false
-  xy: 1090, 610
+  xy: 1188, 610
   size: 89, 89
   orig: 89, 89
   offset: 0, 0
   index: -1
 BuildingIcons/Necropolis
   rotate: false
-  xy: 1388, 707
+  xy: 1486, 707
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 BuildingIcons/Plaza
   rotate: false
-  xy: 1878, 707
+  xy: 200, 205
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 BuildingIcons/Punic Port
   rotate: false
-  xy: 209, 303
+  xy: 298, 205
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 BuildingIcons/Pura
   rotate: false
-  xy: 298, 205
+  xy: 298, 107
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 BuildingIcons/Uwaybil K'uh
   rotate: false
-  xy: 504, 403
+  xy: 602, 609
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 BuildingIcons/Vihara
   rotate: false
-  xy: 602, 609
+  xy: 602, 511
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 BuildingIcons/Zaibatsu
   rotate: false
-  xy: 798, 609
+  xy: 798, 511
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 BuildingIcons/Zócalo
   rotate: false
-  xy: 700, 413
+  xy: 896, 609
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
@@ -188,56 +188,63 @@ ImprovementIcons/Kabaka's Lake
   index: -1
 ImprovementIcons/Lo'i Kalo
   rotate: false
-  xy: 993, 610
+  xy: 1091, 610
   size: 89, 89
   orig: 89, 89
   offset: 0, 0
   index: -1
 ImprovementIcons/Mawaskawe Skote
   rotate: false
-  xy: 996, 707
+  xy: 1094, 707
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 ImprovementIcons/Obshchina
   rotate: false
-  xy: 1584, 707
+  xy: 1682, 707
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 ImprovementIcons/Pairidaeza
   rotate: false
-  xy: 1682, 707
+  xy: 1780, 707
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 ImprovementIcons/Potkop
   rotate: false
-  xy: 200, 205
+  xy: 200, 107
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 ImprovementIcons/Stepwell
   rotate: false
-  xy: 406, 599
+  xy: 308, 501
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 ImprovementIcons/Terraced Farm
   rotate: false
-  xy: 406, 501
+  xy: 308, 403
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Örtöö
+  rotate: false
+  xy: 798, 413
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 NationIcons/Aksum
   rotate: false
-  xy: 798, 512
+  xy: 896, 512
   size: 89, 89
   orig: 89, 89
   offset: 0, 0
@@ -272,7 +279,7 @@ NationIcons/Chola
   index: -1
 NationIcons/Great Britain
   rotate: false
-  xy: 896, 610
+  xy: 994, 610
   size: 89, 89
   orig: 89, 89
   offset: 0, 0
@@ -286,7 +293,7 @@ NationIcons/Han
   index: -1
 NationIcons/Hawai'i
   rotate: false
-  xy: 798, 415
+  xy: 896, 415
   size: 89, 89
   orig: 89, 89
   offset: 0, 0
@@ -314,7 +321,7 @@ NationIcons/Imperial Russia
   index: -1
 NationIcons/Khemet
   rotate: false
-  xy: 1584, 805
+  xy: 1682, 805
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
@@ -328,21 +335,21 @@ NationIcons/Khmer
   index: -1
 NationIcons/Ki'iche
   rotate: false
-  xy: 1682, 805
+  xy: 1780, 805
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 NationIcons/Majapahit
   rotate: false
-  xy: 1878, 805
+  xy: 604, 707
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 NationIcons/Maurya
   rotate: false
-  xy: 898, 707
+  xy: 996, 707
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
@@ -363,7 +370,7 @@ NationIcons/Mexico
   index: -1
 NationIcons/Ming
   rotate: false
-  xy: 1290, 707
+  xy: 1388, 707
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
@@ -377,91 +384,91 @@ NationIcons/Mississipi
   index: -1
 NationIcons/Nepal
   rotate: false
-  xy: 1486, 707
+  xy: 1584, 707
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 NationIcons/Normandy
   rotate: false
-  xy: 1187, 610
+  xy: 1285, 610
   size: 89, 89
   orig: 89, 89
   offset: 0, 0
   index: -1
 NationIcons/Prussia
   rotate: false
-  xy: 200, 107
+  xy: 200, 9
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 NationIcons/Qart Hashdat
   rotate: false
-  xy: 298, 9
+  xy: 210, 695
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 NationIcons/Qing
   rotate: false
-  xy: 210, 695
+  xy: 210, 597
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 NationIcons/Rattanakosin
   rotate: false
-  xy: 210, 597
+  xy: 210, 499
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 NationIcons/Roma
   rotate: false
-  xy: 210, 401
+  xy: 308, 697
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 NationIcons/Shawnee
   rotate: false
-  xy: 1284, 610
+  xy: 1382, 610
   size: 89, 89
   orig: 89, 89
   offset: 0, 0
   index: -1
 NationIcons/Songhay
   rotate: false
-  xy: 504, 697
+  xy: 406, 599
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 NationIcons/Tawantinsuyu
   rotate: false
-  xy: 504, 599
+  xy: 406, 501
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 NationIcons/The Abbasids
   rotate: false
-  xy: 308, 403
+  xy: 504, 501
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 NationIcons/The Mughals
   rotate: false
-  xy: 504, 501
+  xy: 406, 403
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 NationIcons/The United States
   rotate: false
-  xy: 406, 403
+  xy: 504, 403
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
@@ -473,6 +480,13 @@ NationIcons/Xshaca
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Yeke Mongɣol Ulus
+  rotate: false
+  xy: 798, 609
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Tiles/Hidden Fortress
   rotate: false
   xy: 4, 4
@@ -482,14 +496,14 @@ TileSets/HexaRealm/Tiles/Hidden Fortress
   index: -1
 TileSets/HexaRealm/Tiles/Kabaka's Lake
   rotate: false
-  xy: 1381, 643
+  xy: 1479, 643
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Lo'i Kalo
   rotate: false
-  xy: 1453, 643
+  xy: 1551, 643
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -620,128 +634,135 @@ UnitIcons/Katyusha
   orig: 90, 90
   offset: 0, 0
   index: -1
+UnitIcons/Keshig
+  rotate: false
+  xy: 1584, 805
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
 UnitIcons/Leiomano
   rotate: false
-  xy: 1780, 805
+  xy: 1878, 805
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Mamluk
   rotate: false
-  xy: 604, 707
+  xy: 702, 707
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Mandarin
   rotate: false
-  xy: 702, 707
+  xy: 800, 707
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Marine Corps
   rotate: false
-  xy: 800, 707
+  xy: 898, 707
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Medjay
   rotate: false
-  xy: 1094, 707
+  xy: 1192, 707
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Mikasa
   rotate: false
-  xy: 1192, 707
+  xy: 1290, 707
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Phalanx
   rotate: false
-  xy: 1780, 707
+  xy: 1878, 707
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Prussian Hussar
   rotate: false
-  xy: 200, 9
+  xy: 209, 303
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Purabhettarah
   rotate: false
-  xy: 298, 107
+  xy: 298, 9
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Revenge
   rotate: false
-  xy: 210, 499
+  xy: 210, 401
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Roman Legion
   rotate: false
-  xy: 308, 697
+  xy: 406, 697
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Sepoy
   rotate: false
-  xy: 406, 697
+  xy: 308, 599
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Soldaderas
   rotate: false
-  xy: 308, 599
+  xy: 504, 697
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Stuka
   rotate: false
-  xy: 308, 501
+  xy: 504, 599
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Warak'aq
   rotate: false
-  xy: 602, 511
+  xy: 700, 609
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Xshasan Immortal
   rotate: false
-  xy: 700, 609
+  xy: 602, 413
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Xunleichong
   rotate: false
-  xy: 602, 413
+  xy: 700, 511
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 UnitIcons/Yuthahathi
   rotate: false
-  xy: 700, 511
+  xy: 700, 413
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
