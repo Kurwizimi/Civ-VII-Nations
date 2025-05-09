@@ -1,1 +1,31 @@
+//Aksum
+  {
+      "name": "Makeda",
+      "culture": 7,
+      "faith": 8,
+      "food": 6,
+      "gold": 8,
+      "happiness": 6,
+      "production": 3,
+      "science": 4,
 
+      "military": 5,
+      "aggressive": 1,
+      "declareWar": 3,
+      "commerce": 9,
+      "diplomacy": 6,
+      "loyal": 7,
+      "expansion": 9,
+
+      "priorities": {
+          "Tradition": 5,
+          "Liberty": 8,
+          "Honor": 3,
+          "Commerce": 9,
+          "Patronage": 7,
+          "Piety": 9,
+          "Rationalism": 4,
+          "Freedom": 8,
+          "Autocracy": 3,
+          "Order": 3,
+      },
