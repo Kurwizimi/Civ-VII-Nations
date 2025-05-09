@@ -223,8 +223,8 @@
 
 		"spyNames": ["Balarama","Indradevi","Damkhat","Lakshmi","Laksmana","Romchang","Rama","Suryavana","Thomma","Viralakshmi"],
 
-		"outerColor": [60,10,100],
-		"innerColor": [170,140,10],
+		"outerColor": [43,47,121],
+		"innerColor": [227,196,23],
 		"uniqueName": "Ksekam Chamnon",
 		"uniques": ["[+100]% growth [in capital]","[-2 Happiness] <in cities without a [Palace]>"],
 		"cities": ["Yasodharapura","Indrapura","Mahendraparvata","Hariharalaya","Stung Treng","Isanapura","Lingapura","Jayendranagari","Angkor Borei","Phum Snay"
@@ -535,8 +535,8 @@
 
 		"spyNames": ["Anasuya","Govind","Bhadraa","Krishna","Kerani","Paramveer","Reeya","Purshotam","Sita","Uday"],
 
-		"outerColor": [163,43,43],
-		"innerColor": [203,175,51],
+		"outerColor": [121,0,2],
+		"innerColor": [252,206,24],
 		"uniqueName": "Samayam",
 		"uniques": ["Gifts of Gold to City-States generate [100]% more Influence", "Allied City-States provide [Gold] equal to [50]% of what they produce for themselves",],
 		"cities": ["Gangaikonda Cholapuram","Pazhayarai","Thanjavur","Uraiyuir","Nagapattinam","Kanchipuram","Madurai","Karur","Talakkad","Mahodaiyapuram",
@@ -646,8 +646,8 @@
 		"afterPeace": "And now, we shall stop fighting",
 		"tradeRequest": "What if we make a deal, you and me?",
 
-		"outerColor": [40,240,230],
-		"innerColor": [200,50,0],
+		"outerColor": [121,0,2],
+		"innerColor": [0,195,140],
 		"uniqueName": "Negara",
 		"uniques": ["[+2 Science, +2 Gold, -2 Food] from every specialist [in all cities]", "[+2 Happiness] in cities on [Coastal] tiles"],
 		"cities": ["Wilwakikta","Lumajang","Daha","Tuban","Hujung Galuh","Pajang","Palembang","Jambi","Berune","Tumasik",
@@ -760,8 +760,8 @@
 		"afterPeace": "Now you shall remember what the Norman people are capable of!",
 		"tradeRequest": "How about this deal?",
 
-		"outerColor": [10,10,135],
-		"innerColor": [190,25,20],
+		"outerColor": [1,42,107],
+		"innerColor": [202,20,19],
 		"uniqueName": "Normannitas",
 		"uniques": [ "[Land] units gain the [Normannitas] promotion", "Comment [+1 [Gold] from every [Farm], doubled in a Golden Age]", "[+1 Gold] from every [Farm] <hidden from users>", "[+1 Gold] from every [Farm] <during a Golden Age> <hidden from users>",],
 		"cities": ["Rouen","Kaem","Bayeux","Falaise","Hastinges","Fecamp","Wyncestre","Lundres","Dovorre","Gisors",
@@ -1247,8 +1247,8 @@
 		"afterPeace": "",
 		"tradeRequest": "",
 
-		"outerColor": [250,250,0],
-		"innerColor": [10,20,90],
+		"outerColor": [250,219,2],
+		"innerColor": [16,41,87],
 		"uniqueName": "Kang Qian Shengshi",
 		"uniques": [ "[+4 Gold, +3 Culture, +2 Production, +2 Food] from every [Customs house]", "[-1 Science] from each Trade Route"],
 		"cities": ["Beijing","Guangzhou","Nanjing","Suzhou","Wuchang","Changsha","Shanghai","Shenyang","Lanzhou","Kunming",
