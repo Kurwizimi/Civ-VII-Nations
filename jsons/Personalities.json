@@ -31,6 +31,7 @@
           "Autocracy": 3,
           "Order": 3,
       },
+    },
     //Qart Hashdat
   {
       "name": "Hannibal Barca",
@@ -62,6 +63,7 @@
           "Autocracy": 8,
           "Order": 8,
       },
+    },
       //Khemet
   {
       "name": "Hatshepsut",
@@ -93,6 +95,7 @@
           "Autocracy": 4,
           "Order": 7,
       },
+    },
       //Hellas
   {
       "name": "Xenophon",
@@ -124,6 +127,7 @@
           "Autocracy": 8,
           "Order": 6,
       },
+    },
       //Han
   {
       "name": "Xuan",
@@ -155,6 +159,7 @@
           "Autocracy": 2,
           "Order": 8,
       },
+    },
       //Khmer
   {
       "name": "Jayavarman II",
@@ -186,6 +191,7 @@
           "Autocracy": 2,
           "Order": 7,
       },
+    },
      //Maurya
   {
       "name": "Ashoka",
@@ -217,6 +223,7 @@
           "Autocracy": 1,
           "Order": 6,
       },
+    },
     //Ki'iche
   {
       "name": "Tecun Uman",
@@ -248,6 +255,7 @@
           "Autocracy": 4,
           "Order": 9,
       },
+    },
      //Mississippi
   {
       "name": "Tuskaloosa",
@@ -278,7 +286,8 @@
           "Freedom": 4,
           "Autocracy": 7,
           "Order": 7,
-      }, 
+      },
+    },
     //Xshaca
   {
       "name": "Xerxes",
@@ -310,6 +319,7 @@
           "Autocracy": 9,
           "Order": 6,
       },
+    },
      //Roma
   {
       "name": "Octavian",
@@ -341,6 +351,7 @@
           "Autocracy": 7,
           "Order": 3,
       },
+    },
      //Abbasid
   {
       "name": "Al-Muktafī bi-Llāh",
@@ -372,6 +383,7 @@
           "Autocracy": 3,
           "Order": 9,
       },
+    },
      //Bulgaria
   {
       "name": "Khan Krum",
@@ -403,6 +415,7 @@
           "Autocracy": 8,
           "Order": 7,
       },
+    },
      //Chola
   {
       "name": "Rajaraja I",
@@ -434,6 +447,7 @@
           "Autocracy": 3,
           "Order": 5,
       },
+    },
     //Hawaii
   {
       "name": "Kamehameha Liholiho",
@@ -465,6 +479,7 @@
           "Autocracy": 4,
           "Order": 5,
       },
+    },
      //Tawinitasyveadsjkska
   {
       "name": "Pachacútec",
@@ -496,6 +511,7 @@
           "Autocracy": 3,
           "Order": 7,
       },
+    },
      //Majapahit
   {
       "name": "Gajah Mada",
@@ -527,6 +543,7 @@
           "Autocracy": 2,
           "Order": 7,
       },
+    },
      //Ming
   {
       "name": "Yongle",
@@ -558,6 +575,7 @@
           "Autocracy": 2,
           "Order": 9,
       },
+    },
     //Mongol
   {
       "name": "Chinggis Khaan",
@@ -589,6 +607,7 @@
           "Autocracy": 9,
           "Order": 7,
       },
+    },
      //Normandy
   {
       "name": "William",
@@ -620,6 +639,7 @@
           "Autocracy": 5,
           "Order": 6,
       },
+    },
     //Shawnee
   {
       "name": "Tecumseh",
@@ -651,6 +671,7 @@
           "Autocracy": 4,
           "Order": 6,
       },
+    },
      //Songhay
   {
       "name": "Sonni Ali",
@@ -682,6 +703,7 @@
           "Autocracy": 6,
           "Order": 5,
       },
+    },
      //Castille
   {
       "name": "Isabella",
@@ -713,6 +735,7 @@
           "Autocracy": 4,
           "Order": 7,
       },
+    },
      //USA
   {
       "name": "Benjamin Franklin",
@@ -744,6 +767,7 @@
           "Autocracy": 5,
           "Order": 2,
       },
+    },
      //GB
   {
       "name": "Benjamin Disreali",
@@ -775,6 +799,7 @@
           "Autocracy": 4,
           "Order": 8,
       },
+    },
      //Buganda
   {
       "name": "Mwanga II",
@@ -806,6 +831,7 @@
           "Autocracy": 9,
           "Order": 7,
       },
+    },
       //France
   {
       "name": "Napoleon III",
@@ -837,6 +863,7 @@
           "Autocracy": 5,
           "Order": 7,
       },
+    },
     //Meiji Japan
   {
       "name": "Meiji",
@@ -868,6 +895,7 @@
           "Autocracy": 8,
           "Order": 9,
       },
+    },
      //Mexico
   {
       "name": "Benito Juarez",
@@ -899,6 +927,7 @@
           "Autocracy": 4,
           "Order": 5,
       },
+    },
     //Mughals
   {
       "name": "Akbar",
@@ -930,6 +959,7 @@
           "Autocracy": 2,
           "Order": 4,
       },
+    },
      //Nepal
   {
       "name": "Jung Bahadur",
@@ -961,6 +991,7 @@
           "Autocracy": 5,
           "Order": 5,
       },
+    },
      //Prussia
   {
       "name": "Freidrick",
@@ -992,6 +1023,7 @@
           "Autocracy": 8,
           "Order": 6,
       },
+    },
      //Qing
   {
       "name": "Qianlong"",
@@ -1023,6 +1055,7 @@
           "Autocracy": 3,
           "Order": 7,
       },
+    },
       //Russia
   {
       "name": "Catherine Romanova",
@@ -1054,6 +1087,7 @@
           "Autocracy": 3,
           "Order": 9,
       },
+    },
     //Rattanakosin
   {
       "name": "Taksin",
@@ -1085,5 +1119,6 @@
           "Autocracy": 1,
           "Order": 7,
       },
+    },
     
 ]
