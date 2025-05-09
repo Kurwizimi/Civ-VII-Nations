@@ -1095,8 +1095,8 @@
 		"afterPeace": "",
 		"tradeRequest": "",
 
-		"outerColor": [0,100,5],
-		"innerColor": [200,50,0],
+		"outerColor": [12,82,56],
+		"innerColor": [249,24,30],
 		"uniqueName": "Revolución",
 		"uniqueText": "+20% [Culture] for 12 turns after starting any policy tree",
 		"uniques": ["[+20]% [Culture] <for [12] turns> <after adopting [Tradition]>","[+20]% [Culture] <for [12] turns> <after adopting [Liberty]>","[+20]% [Culture] <for [12] turns> <after adopting [Honor]>","[+20]% [Culture] <for [12] turns> <after adopting [Piety]>","[+20]% [Culture] <for [12] turns> <after adopting [Commerce]>","[+20]% [Culture] <for [12] turns> <after adopting [Rationalism]>","[+20]% [Culture] <for [12] turns> <after adopting [Order]>","[+20]% [Culture] <for [12] turns> <after adopting [Freedom]>","[+20]% [Culture] <for [12] turns> <after adopting [Autocracy]>","[+20]% [Culture] <for [12] turns> <after adopting [Patronage]>"],
