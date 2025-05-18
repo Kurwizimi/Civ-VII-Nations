@@ -14,15 +14,15 @@
 		"defeated": "How? What marvels of engineering, ...of science, ...of wealth, did you need to conquer me? ",
 		"introduction": "Greetings, strange traveller! I am Queen Makeda, ruler of Aksum and Ethiopia.",
 		
-		"neutralHello": "",
-		"neutralLetsHearIt": [""],
-		"neutralNo": [""],
-		"neutralYes": [""],
+		"neutralHello": "Səm-u la-nəgəśt, In the name of the queen.",
+		"neutralLetsHearIt": ["Go on..."],
+		"neutralNo": ["Nəḥna 'i-nəkl ḥawira, We cannot carry on with this"],
+		"neutralYes": ["Kəbur! Glorious!"],
 
-		"hateHello": "",
-		"hateLetsHearIt": [""],
-		"hateNo": [""],
-		"hateYes": [""],
+		"hateHello": "Səm-u la-nəgəśt!",
+		"hateLetsHearIt": ["We have little interest in what you have to say"],
+		"hateNo": ["Wald-a 'adg!"],
+		"hateYes": ["I see... We shall accept."],
 		
 		"afterPeace": "May the trade flow again.",
 		"tradeRequest": "Aksum holds many goods you could not refuse to buy.",
@@ -48,23 +48,23 @@
 		"startIntroPart1": "The children of Tyre come from afar to claim their destiny. From the center of the world, they will command an empire that knows no equal. \nFrom humble colony to economic hegemony, Carthage rose from the shores of North Africa to dominate the Mediterranean Sea. Its sleek ships ferried goods and riches all over the known world, while at home, the city of Carthage was famed for its master craftsmen and deep agricultural knowledge. Competition with first Greece, then Rome, honed renowned generals and a powerful navy. But war was Carthage’s undoing, and the city was destroyed in 146 BCE.",
 		"startIntroPart2": "",
 		
-		"declaringWar": "",
-		"attacked": "",
-		"defeated": "",
-		"introduction": "",
+		"declaringWar": "You have encroached on our land for far too long! I shall push you back to whatever miserable cave you came from!",
+		"attacked": "Qart Hashdat knows no bounds. You will not be an obstacle.",
+		"defeated": "You may have left my empire to ruins, but mark my words, I shall return to take it back, whether it be under the flag of Qart Hashdat or of another empire.",
+		"introduction": "Greetings! I am Hannibal Barca, profound statesman and general. ",
 		
-		"neutralHello": "",
-		"neutralLetsHearIt": [""],
-		"neutralNo": [""],
-		"neutralYes": [""],
+		"neutralHello": "Welcome Rshadir! Welcome Great Leader!",
+		"neutralLetsHearIt": ["You have my attention"],
+		"neutralNo": ["No."],
+		"neutralYes": ["I accept"],
 
-		"hateHello": "",
-		"hateLetsHearIt": [""],
-		"hateNo": [""],
-		"hateYes": [""],
+		"hateHello": "What do you want, you pathetic leader?",
+		"hateLetsHearIt": ["Spare me your words"],
+		"hateNo": ["I was expecting this from you."],
+		"hateYes": ["You suprise me with your intelligence. Very well."],
 		
-		"afterPeace": "",
-		"tradeRequest": "",
+		"afterPeace": "May these borders hold.",
+		"tradeRequest": "All trade flows through Qart Hashdat, before reaching you ofcourse.",
 
 		"spyNames": ["Hamilcar","Siphonbaal","Mago","Batnoam","Gisgo","Ummashtart","Azarbaal","Amoashtart","Mattanbaal","Zyabqot"],
 
@@ -131,15 +131,15 @@
 		"defeated": "How can you beat my knowledge of the battlefield? ....If you are truely a better general, philosopher and leader than I am, ...then you are the true ruler of the Greeks, not me.",
 		"introduction": "I am Xenophon, leader of the Ten Thousand, and protector of all Greek states.",
 		
-		"neutralHello": "",
-		"neutralLetsHearIt": [""],
-		"neutralNo": [""],
-		"neutralYes": [""],
+		"neutralHello": "Hello, brave leader!",
+		"neutralLetsHearIt": ["Yes?"],
+		"neutralNo": ["No, why would we accept this?"],
+		"neutralYes": ["Ha Ha! A marvellous deal!"],
 
-		"hateHello": "",
-		"hateLetsHearIt": [""],
-		"hateNo": [""],
-		"hateYes": [""],
+		"hateHello": "Scoudrel!",
+		"hateLetsHearIt": ["Hmph."],
+		"hateNo": ["Never!"],
+		"hateYes": ["Lets hope this is an exception."],
 		
 		"afterPeace": "I expect you have learnt a thing or two from my troops from this war.",
 		"tradeRequest": "My friend, would you kindly accept this deal?",
@@ -170,15 +170,15 @@
 		"defeated": "So this is it... Everything I have done was for nothing. I shall die a peasant after all.",
 		"introduction": "Ahh... Welcome. I am Emperor Xuan, the filial and known by many.",
 		
-		"neutralHello": "",
-		"neutralLetsHearIt": [""],
-		"neutralNo": [""],
-		"neutralYes": [""],
+		"neutralHello": "Ahh, how are you today, kind leader?",
+		"neutralLetsHearIt": ["Yes?"],
+		"neutralNo": ["Unfortunately not."],
+		"neutralYes": ["I accept."],
 
-		"hateHello": "",
-		"hateLetsHearIt": [""],
-		"hateNo": [""],
-		"hateYes": [""],
+		"hateHello": "We do not welcome tyrants like you!",
+		"hateLetsHearIt": ["..."],
+		"hateNo": ["Ha! And support your tyrannical rule? Never!"],
+		"hateYes": ["... Very well."],
 		
 		"afterPeace": "Now lets hope you will care more for your people than your pride from now on.",
 		"tradeRequest": "May this offer seek you well.",
@@ -299,7 +299,7 @@
 		"hateYes": ["Very well."],
 		
 		"afterPeace": "",
-		"tradeRequest": "",
+		"tradeRequest": "Will this deal strengthen the ties of our nations?",
 
 		"spyNames": ["Bound-stone Jaguar","Star House","Scroll Serpent","Baby Jaguar","Shield Skull","Scroll-in-hand","Lord Chocolate","Eveningstar","Storm Sky","Lady Crocodile"],
 
