@@ -285,7 +285,7 @@
 	"rangedStrength": 21,
 	"range": 1,
 	"cost": 130,
-	"requiredTech": "Archery",
+	"requiredTech": "Steel",
 	"upgradesTo": "Musketman",
 	"obsoleteTech": "Gunpowder",
 	"promotions": ["Shock I"]
