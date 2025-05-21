@@ -996,30 +996,30 @@
 
 	{
 		"name": "Imperial France",
-		"leaderName": "Napoleon III",
+		"leaderName": "Lafayette",
 		"adjective": ["French"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "France looks out upon an incomplete world-- a blank canvas waiting to be marked.\nFrom the long shadow of the guillotine, to the bright streamers of the revolutionary cockade, to the thunder of Napoleon’s cannon, to the Belle Epoque’s “City of Light” and the iron needle of the Eiffel Tower – France emerges. In the wake of the Revolution, the nation rocked from monarchy to republic and back again. But the Third French Republic brought a moment of respite, of avenues, industry, and salons…a breath before the coming storms.",
-		"startIntroPart2": "",
+		"startIntroPart2": "Gilbert du Motier, the Marquis de Lafayette, made his mark on two continents, leading troops in the American Revolution, and being a voice of reason in France, between the twin horrors of autocracy and revolutionary retribution. While his legacy is impressive, his most skillful feat may simply be survival at the center of some of the greatest tumult of his time.",
 		
-		"declaringWar": "",
-		"attacked": "",
-		"defeated": "",
-		"introduction": "",
+		"declaringWar": "Sic semper tyrannis.",
+		"attacked": "Tyranny is strong. Liberty is stronger.",
+		"defeated": "To go with so much left undone! To depart with a dream yet unfulfilled?",
+		"introduction": "Just Citizen Lafayette, s'il vous plait.",
 
-		"neutralHello": "",
-		"neutralLetsHearIt": [""],
-		"neutralNo": [""],
-		"neutralYes": [""],
+		"neutralHello": "Welcome.",
+		"neutralLetsHearIt": ["Yes?"],
+		"neutralNo": ["Please, this is unreasonable."],
+		"neutralYes": ["Yes, yes, this is sensible."],
 
-		"hateHello": "",
-		"hateLetsHearIt": [""],
-		"hateNo": [""],
-		"hateYes": [""],
+		"hateHello": "You again...",
+		"hateLetsHearIt": ["Go on..."],
+		"hateNo": ["This is unacceptable!"],
+		"hateYes": ["...This is reasonable."],
 		
-		"afterPeace": "",
-		"tradeRequest": "",
+		"afterPeace": "We now walk always between two abysses. Care and moderation is our path forward.",
+		"tradeRequest": "Is this reasonable for you?",
 
 		"outerColor": [66,100,174],
 		"innerColor": [242,244,183],
