@@ -23,11 +23,11 @@
   {
         "name": "Baray",
         "uniqueTo": "Khmer",
-        "terrainsCanBeBuiltOn": ["River","Flood plains","Marsh"],
+        "terrainsCanBeBuiltOn": ["Plains","Grassland","Tundra","Desert"],
         "food": 3,
         "turnsToBuild": 7,
         "techRequired": "Masonry",
-        "uniques": ["[+1 Food] from [Flood plains] tiles","[+1 Food] from [Fresh water] tiles", "Pillaging this improvement yields approximately [+25 Gold]"],
+        "uniques": ["[+1 Food] from [Flood plains] tiles","[+1 Food] from [Fresh water] tiles", "Does not need removal of [Marsh]", "Pillaging this improvement yields approximately [+25 Gold]"],
         "shortcutKey": "B"
     },
     {
@@ -41,7 +41,7 @@
   {
         "name": "Potkop",
         "uniqueTo": "Mississipi",
-        "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Snow","Hill"],
+        "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Snow"],
         "gold": 2,
         "turnsToBuild": 7,
         "techRequired": "Calendar",
@@ -94,7 +94,7 @@
     {
         "name": "Örtöö",
         "uniqueTo": "Yeke Mongɣol Ulus",
-        "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Snow","Hill"],
+        "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Snow"],
         "gold": 2,
         "turnsToBuild": 7,
         "uniques": ["Comment [When a unit moves onto this tile, it gains 2 movement]", "Pillaging this improvement yields approximately [+25 Gold]"],
@@ -104,7 +104,7 @@
      {
         "name": "Mawaskawe Skote",
         "uniqueTo": "Shawnee",
-        "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Forest","Jungle"],
+        "terrainsCanBeBuiltOn": ["Forest","Jungle"],
         "food": 3,
         "turnsToBuild": 7,
         "techRequired": "Civil Service",
@@ -114,7 +114,7 @@
     {
         "name": "Caravanaserai",
         "uniqueTo": "Songhay",
-        "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill"],
+        "terrainsCanBeBuiltOn": ["Plains","Desert","Hill", "River"],
         "gold": 3,
         "turnsToBuild": 7,
         "techRequired": "Civil Service",
@@ -130,7 +130,7 @@
         "happiness": 2,
         "turnsToBuild": 7,
         "techRequired": "Engineering",
-        "uniques": ["[+1 Food] for each adjacent [{non-[Fresh water]} {Farm} ]", "Pillaging this improvement yields approximately [+25 Gold]"],
+        "uniques": ["[+1 Food] for each adjacent [{non-[Fresh water]} {Farm}]", "Only available <with [0] to [0] neighboring [Kabaka's Lake] tiles>", "Pillaging this improvement yields approximately [+25 Gold]"],
         "shortcutKey": "K"
     },
     {
@@ -140,14 +140,14 @@
         "gold": 2,
         "turnsToBuild": 7,
         "techRequired": "Mathematics",
-        "uniques": ["[+1 Food] for each adjacent [Farm]", "Pillaging this improvement yields approximately [+25 Gold]"],
+        "uniques": ["[+2 Food] for each adjacent [Farm]", "Pillaging this improvement yields approximately [+25 Gold]"],
         "shortcutKey": "S"
     },
      {
         "name": "Highland Power Station",
         "uniqueTo": "Nepal",
         "terrainsCanBeBuiltOn": ["Mountain"],
-        "production": 2,
+        "production": 3,
         "turnsToBuild": 7,
         "techRequired": "Electricity",
         "uniques": ["[+1 Culture] for each adjacent [Mountain]", "Pillaging this improvement yields approximately [+25 Gold]"],
@@ -159,7 +159,7 @@
         "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Snow","Hill"],
         "turnsToBuild": 7,
         "techRequired": "Civil Service",
-        "uniques": ["[+2 Food] for each adjacent [Farm]", "[+2 Culture] from [Tundra] tiles", "Pillaging this improvement yields approximately [+25 Gold]"],
+        "uniques": ["[+2 Food] for each adjacent [Farm]", "[+2 Culture] from [Tundra] tiles", "[+2 Culture] from [Snow] tiles", "Only available <with [0] to [0] neighboring [Obshchina] tiles>","Pillaging this improvement yields approximately [+25 Gold]"],
         "shortcutKey": "O"
     },
     {
