@@ -1,6 +1,6 @@
 [
     {
-        "name": "Halwit",
+        "name": "Hawilt",
         "uniqueTo": "Aksum",
         "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Snow","Flood plains"],
         "gold": 2,
