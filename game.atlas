@@ -144,16 +144,16 @@ ImprovementIcons/Caravanaserai
   orig: 90, 90
   offset: 0, 0
   index: -1
-ImprovementIcons/Halwit
+ImprovementIcons/Han Great Wall
   rotate: false
-  xy: 102, 205
+  xy: 102, 9
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
-ImprovementIcons/Han Great Wall
+ImprovementIcons/Hawilt
   rotate: false
-  xy: 511, 795
+  xy: 609, 805
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
@@ -286,14 +286,14 @@ NationIcons/Great Britain
   index: -1
 NationIcons/Han
   rotate: false
-  xy: 102, 107
+  xy: 102, 205
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 NationIcons/Hawai'i
   rotate: false
-  xy: 609, 805
+  xy: 511, 795
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
@@ -501,23 +501,30 @@ TileSets/AbsoluteUnits/Units/Garde Impériale
   orig: 95, 81
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Hidden Fortress
+TileSets/HexaRealm/Tiles/Hawilt
   rotate: false
   xy: 4, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Kabaka's Lake
+TileSets/HexaRealm/Tiles/Hidden Fortress
   rotate: false
   xy: 1285, 643
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Lo'i Kalo
+TileSets/HexaRealm/Tiles/Kabaka's Lake
   rotate: false
   xy: 1357, 643
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Lo'i Kalo
+  rotate: false
+  xy: 1429, 643
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -615,7 +622,7 @@ UnitIcons/Gusa
   index: -1
 UnitIcons/Han Chu-Ko-Nu
   rotate: false
-  xy: 102, 9
+  xy: 102, 107
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
