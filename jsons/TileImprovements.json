@@ -27,7 +27,7 @@
         "food": 3,
         "turnsToBuild": 7,
         "techRequired": "Masonry",
-        "uniques": ["[+1 Food] from [Flood plains] tiles","[+1 Food] from [Fresh water] tiles", "Does not need removal of [Marsh]", "Pillaging this improvement yields approximately [+25 Gold]"],
+        "uniques": ["[+1 Food] from [Flood plains] tiles","[+1 Food] from [Fresh water] tiles", "Does not need removal of [Marsh]", "Only available <with [0] to [0] neighboring [Baray] tiles>", "Pillaging this improvement yields approximately [+25 Gold]"],
         "shortcutKey": "B"
     },
     {
