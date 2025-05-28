@@ -4,7 +4,6 @@
         "uniqueTo": "Aksum",
         "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Snow","Flood plains"],
         "gold": 2,
-        "culture": 1,
         "turnsToBuild": 7,
         "techRequired": "Masonry",
         "uniques": ["[+1 Culture] for each adjacent [Halwit]", "Pillaging this improvement yields approximately [+25 Gold]"],
