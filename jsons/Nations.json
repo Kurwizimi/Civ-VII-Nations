@@ -613,7 +613,7 @@
 		"innerColor": [249,218,2],
 		"uniqueName": "Apukuna",
 		"uniqueText": "Cities bonus Production equal to 10% of that City’s Food",
-		"uniques": ["Gain a free [Tawantinsuyu Ability] [in all cities]"],
+		"uniques": ["Gain a free [Tawantinsuyu Ability] [in all cities]"],//Does this even work? Its hard to tell in the game. Probably not.
 		"cities": ["Qusqu","Antawaylla","Wanuku","Willka Waman","Machu Pikchu","Ullantaytampu","Sausa","Kashamarka","Chucuito","Kitu",
 			"Ayak’uchu","Chan Chan","Pisac","Huancabamba","Ayaviri","Vitcos","Paria","Chuquiabo","Pachakamaq","Tumbez",
 			"Tumipampa","Inka Pirka","Wankawilka","Ica"],
