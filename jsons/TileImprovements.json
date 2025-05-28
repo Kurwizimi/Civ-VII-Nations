@@ -84,10 +84,10 @@
         "name": "Terraced Farm",
         "uniqueTo": "Tawantinsuyu",
         "terrainsCanBeBuiltOn": ["Hill"],
-        "food": 4,
+        "food": 2,
         "production": 1,
         "turnsToBuild": 7,
-        "uniques": [ "[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>", "[+1 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>","Pillaging this improvement yields approximately [+25 Gold]"],
+        "uniques": [ "[+1 Gold] for each adjacent [City center]","[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>", "[+1 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>","Pillaging this improvement yields approximately [+25 Gold]"],
         "techRequired": "Construction",
         "shortcutKey": "T"
     },
