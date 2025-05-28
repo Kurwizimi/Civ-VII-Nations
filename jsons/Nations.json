@@ -613,7 +613,7 @@
 		"innerColor": [249,218,2],
 		"uniqueName": "Apukuna",
 		"uniqueText": "Cities bonus Production equal to 10% of that City’s Food",
-		"uniques": ["[+1] [Production] <for every [10] [Food]>"],
+		"uniques": ["Gain a free [Tawantinsuyu Ability] [in all cities]"],
 		"cities": ["Qusqu","Antawaylla","Wanuku","Willka Waman","Machu Pikchu","Ullantaytampu","Sausa","Kashamarka","Chucuito","Kitu",
 			"Ayak’uchu","Chan Chan","Pisac","Huancabamba","Ayaviri","Vitcos","Paria","Chuquiabo","Pachakamaq","Tumbez",
 			"Tumipampa","Inka Pirka","Wankawilka","Ica"],
