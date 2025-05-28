@@ -56,7 +56,7 @@
         "culture": 1,
         "turnsToBuild": 7,
         "techRequired": "Mathematics",
-        "uniques": ["[+1 Happiness] for each adjacent [Great Improvement]", "Pillaging this improvement yields approximately [+25 Gold]"],
+        "uniques": ["[+1 Happiness] for each adjacent [Great Improvement]","[+1 Happiness] for each adjacent [Pairidaeza]", "Pillaging this improvement yields approximately [+25 Gold]"],
         "shortcutKey": "P"
     },
   {
