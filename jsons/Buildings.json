@@ -117,7 +117,7 @@
 		"hurryCostModifier": 160,
 		"cityStrength": 7,
 		"cityHealth": 25,
-		"uniques": [ "Free [Chevaler] appears"],
+		"uniques": [ "Free [Chevaler] appears", "[+10]% Production when constructing [Mounted] units [in this city]"],
 		"requiredTech": "Chivalry"
 	},
 
