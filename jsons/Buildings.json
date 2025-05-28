@@ -154,7 +154,7 @@
 		"hurryCostModifier": 160,
 		"gold": 3,
 		"percentStatBonus": {"gold": 25},
-		"uniques": ["[+2 Gold] from each Trade Route", "Comment [Unlocked earlier at [Industrialization]]"],
+		"uniques": ["[+2 Gold, +1 Science] from each Trade Route", "Comment [Unlocked earlier at [Industrialization]]"],
 		"specialistSlots": {"Merchant": 2},
 		"requiredTech": "Industrialization"
 	},
