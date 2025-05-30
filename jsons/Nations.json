@@ -912,7 +912,7 @@
 		"afterPeace": "A capital proposal — let's make it work!",
 		"tradeRequest": "Let us create a trade agreement so that our nations shall prosper!",
 
-		"outerColor": [116,163,243],
+		"outerColor": [234,225,158],
 		"innerColor": [1,42,108],
 		"uniqueName": "Frontier Expansion",
 		"uniques": ["[+25]% Production when constructing [All] units [in all cities] <for [10] turns> <upon declaring war with a major Civilization>", "[Gold] cost of purchasing [Civilian] units [-50]%"],
