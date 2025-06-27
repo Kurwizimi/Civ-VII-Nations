@@ -650,7 +650,7 @@
 		"outerColor": [121,0,2],
 		"innerColor": [0,195,140],
 		"uniqueName": "Negara",
-		"uniques": ["Comment [[+2 Science, +2 Gold, -2 Food] from every specialist [in all cities except the capital]]", "[+2 Science, +2 Gold, -2 Food] from every specialist [in all cities] <hidden from users>", "[-2 Science, -2 Gold, +2 Food] from every specialist [in capital] <hidden from users>", "[+2 Happiness] in cities on [Coastal] tiles"],
+		"uniques": ["Comment [[+2 Science, +2 Gold, -1 Food] from every specialist [in all cities except the capital]]", "[+2 Science, +2 Gold, -1 Food] from every specialist [in all cities] <hidden from users>", "[-2 Science, -2 Gold, +1 Food] from every specialist [in capital] <hidden from users>", "[+2 Happiness] in cities on [Coastal] tiles"],
 		"cities": ["Wilwakikta","Lumajang","Daha","Tuban","Hujung Galuh","Pajang","Palembang","Jambi","Berune","Tumasik",
 			"Kalanten","Samudra","Lamuri","Barus","Darmmacraya","Bedahulu","Lwagajah","Lombok Mirah","Gurun","Saksak",
 			"Sukdana","Sampit","Panai","Taliwang"],
