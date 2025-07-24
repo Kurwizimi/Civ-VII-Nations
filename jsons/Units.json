@@ -17,6 +17,22 @@
     },
 
 	{
+	"name": "Magarru",
+	"replaces": "Chariot Archer",
+	"unitType": "Archery",
+	"movement": 4,
+	"strength": 6,
+	"rangedStrength": 10,
+	"cost": 56,
+	"requiredTech": "The Wheel",
+	"upgradesTo": "Knight",
+	"obsoleteTech": "Chivalry",
+	"uniques": ["No defensive terrain bonus", "Rough terrain penalty","Can move after attacking"],
+	"promotions": ["[Magarru] ability"],
+	"attackSound": "arrow"
+	},
+
+	{
         "name": "Colonist",
 	"replaces": "Settler",
         "uniqueTo": "Qart Hashdat",
