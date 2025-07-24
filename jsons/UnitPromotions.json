@@ -1,4 +1,8 @@
 [
+        {
+        "name": "[Magarru] ability",
+       "uniques": ["[This Unit] gains [2] movement <upon damaging a [Land] unit>"]
+    },
        
        {
         "name": "[Medjay] ability",
