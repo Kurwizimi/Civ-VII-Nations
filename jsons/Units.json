@@ -19,6 +19,7 @@
 	{
 	"name": "Magarru",
 	"replaces": "Chariot Archer",
+	"uniqueTo": "Assyria",
 	"unitType": "Archery",
 	"movement": 4,
 	"strength": 6,
