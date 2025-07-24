@@ -39,6 +39,45 @@
 	},
 
 	{
+		"name": "Assyria",
+		"leaderName": "Ashurbanipal",
+		"adjective": ["Assyrian"],
+		"startBias": ["River"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Siege-towers rumble, and iron swords are sharpened as the Assyrian war machine shudders into motion. Under Ashur’s watchful eye, a new order unfolds upon the sun-baked clay: planned cities, skilled engineers, and the implacable march of boots. Set out upon the world, and tolerate no competition.",
+		"startIntroPart2": "",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"spyNames": ["Arda-Mulišši","Libbāli-Šarrat","Mutakkil-Nusku","Sammu-Rāmat","Aššur-Rabi","Zakûtu","Adad-Nīrārī","Ešarra-Hammat","Aššur-Dān","Muballitat-Sherua"],
+
+		"outerColor": [94,149,184],
+		"innerColor": [201,164,24],
+		"uniqueName": "Treasures of Nineveh",
+		"uniques": ["Free Technology <upon conquering a city>","[+10]% [Food] [in annexed cities]","[+10]% [Production] [in annexed cities]","[+10]% [Science] [in annexed cities]"],
+		"cities": ["Ninevel","Kalhu","Aššur","Arrapkha","Karkemiš","Dur-Katlimmu","Kar-Tukulti-Ninurta","Imgur-Enlil","Amida","Nuhadra",
+			"Arbi-Ilu","Khilakku","Huzirina","Kaneš","Mardama","Šinahuttum","Mansuate","Rapiqu","Shareisha","Kahat",
+			"Kar-Šulmānu-Ašarēdu","Hadātu","Tušhan","Kar-Sipar"]
+	},
+
+	{
 		"name": "Qart Hashdat",
 		"leaderName": "Hannibal Barca",
 		"adjective": ["Carthaginian"],
