@@ -584,6 +584,45 @@
 	},
 
 	{
+		"name": "Đại Việt",
+		"leaderName": "Trần Thánh Tông",
+		"adjective": ["Vietnamese"],
+		"startBias": ["Jungle", "River"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "Through the shadow of war and oppression, the people of Đại Việt remain strong. Toiling in the rice field or on elephant-back, the Vietnamese people yearn for their right to determine their own destiny, and to push back would-be invaders to their own shores - or to make conquests of their own. With the beat of the trong com and the trumpeting of elephants, Đại Việt stakes its claim.",
+		"startIntroPart2": "Can you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "We have borne your insults for too long. I will not bow my head when there is injustice.",
+		"attacked": "The land will fight you. The rivers will rise against you. The sky will cast fire down upon you. You will not succeed.",
+		"defeated": "My ancestors await. My voice will be lost to time, but I will dwell with them in paradise.",
+		"introduction": "The breeze from Fan Si Pan was cool this evening, and the Red River flows calm. And here you are.",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": ["My people's interests come first. No."],
+		"neutralYes": ["A harmonious deal!"],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": ["No!"],
+		"hateYes": ["If you insist..."],
+		
+		"afterPeace": "In harmony, like land and water.",
+		"tradeRequest": "",
+
+		"spyNames": ["Lĩnh","Minh","Hoàn","Anh","Phật Mã","Hạnh","Hiếu","Thủy","Định","Phượng"],
+
+		"outerColor": [230,184,45],
+		"innerColor": [137,0,19],
+		"uniqueName": "Hich Tuong Si",
+		"uniques": ["[+2 Culture] from every [Jungle]", "Gain [20] [Culture] <upon building a [Fort] improvement> <(modified by game speed)>"],
+		"cities": ["Thăng Long","Thái Bình","Thanh Hóa","Bắc Giang","Đồng Hới","Hà Tĩnh","Hải Phòng","Hội An","Hoa Lư","Thái Nguyên",
+			"Bắc Ninh","Đường Lâm","Chí Linh","Xứ Đông","Quốc Oai","Từ Sơn","Cao Bằng","Nghệ An","Xứ Đoài","Việt Trì",
+			"Tam Đái","Châu Lạng","Tuyên Quang","Hưng Yên"],
+	},
+
+	{
 		"name": "Hawai'i",
 		"leaderName": "Kamehameha Liholiho",
 		"adjective": ["Hawai'ian"],
