@@ -240,6 +240,21 @@
         "obsoleteTech": "Steam Power",
         "attackSound": "nonmetalhit"
     },
+	{
+        "name": "Voi Chiến",
+        "unitType": "Archery",
+	"uniqueTo": "Đại Việt",
+	"replaces": "Crossbowman",
+        "movement": 3,
+        "strength": 13,
+        "rangedStrength": 23,
+        "cost": 160,
+        "requiredTech": "Machinery",
+        "upgradesTo": "Gatling Gun",
+        "obsoleteTech": "Industrialization",
+	"uniques":["[+1] Sight", "Can move after attacking", "No defensive terrain bonus"],
+        "attackSound": "crossbow"
+    },
 
 	{
         "name": "Leiomano",
