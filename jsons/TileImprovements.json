@@ -68,6 +68,17 @@
         "uniques": ["Gives a defensive bonus of [60]%", "Pillaging this improvement yields approximately [+25 Gold]"],
         "shortcutKey": "H"
     },
+    {
+        "name": "Water Puppet Theater",
+        "uniqueTo": "Đại Việt",
+        "terrainsCanBeBuiltOn": ["River"],
+        "food": 1,
+        "happiness": 2,
+        "turnsToBuild": 7,
+        "techRequired": "Drama and Poetry",
+        "uniques": ["[+1 Culture] for each adjacent [River]", "Only available <with [0] to [0] neighboring [Water Puppet Theater] tiles>", "Pillaging this improvement yields approximately [+25 Gold]"],
+        "shortcutKey": "W"
+    },
      {
         "name": "Lo'i Kalo",
         "uniqueTo": "Hawai'i",
