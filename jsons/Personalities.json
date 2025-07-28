@@ -32,6 +32,38 @@
           "Order": 3,
       },
     },
+  //Assyria
+  {
+      "name": "Ashurbanipal",
+      "culture": 5,
+      "faith": 3,
+      "food": 4,
+      "gold": 7,
+      "happiness": 6,
+      "production": 8,
+      "science": 9,
+
+      "military": 9,
+      "aggressive": 8,
+      "declareWar": 8,
+      "commerce": 3,
+      "diplomacy": 2,
+      "loyal": 3,
+      "expansion": 9,
+
+      "priorities": {
+          "Tradition": 5,
+          "Liberty": 2,
+          "Honor": 7,
+          "Commerce": 7,
+          "Patronage": 3,
+          "Piety": 2,
+          "Rationalism": 9,
+          "Freedom": 2,
+          "Autocracy": 8,
+          "Order": 6,
+      },
+    },
     //Qart Hashdat
   {
       "name": "Hannibal Barca",
@@ -448,6 +480,38 @@
           "Order": 5,
       },
     },
+   //Đại Việt
+  {
+      "name": "Trần Thánh Tông",
+      "culture": 8,
+      "faith": 6,
+      "food": 7,
+      "gold": 4,
+      "happiness": 6,
+      "production": 4,
+      "science": 5,
+
+      "military": 8,
+      "aggressive": 3,
+      "declareWar": 1,
+      "commerce": 6,
+      "diplomacy": 6,
+      "loyal": 9,
+      "expansion": 9,
+
+      "priorities": {
+          "Tradition": 8,
+          "Liberty": 9,
+          "Honor": 5,
+          "Commerce": 4,
+          "Patronage": 6,
+          "Piety": 7,
+          "Rationalism": 6,
+          "Freedom": 8,
+          "Autocracy": 4,
+          "Order": 7,
+      },
+    },
     //Hawaii
   {
       "name": "Kamehameha Liholiho",
@@ -480,7 +544,7 @@
           "Order": 5,
       },
     },
-     //Tawinitasyveadsjkska
+     //Taiwannitsuyyu
   {
       "name": "Pachacútec",
       "culture": 3,
