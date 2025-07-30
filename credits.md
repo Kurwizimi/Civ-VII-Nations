@@ -1,6 +1,16 @@
-Units made by Basil
-- Norman Chevaler
-
+Art made by Basil
+- Chevaler
+- Jaguar Hunter
+- Voi Chien
+- Bolyar
+- Roman Legion
+- Xunleichong
+- Phalanx
+- Medjay
+- Warak'aq
+- Leiomano
+- Lo'i Kalo
+- Water Puppet Theater
 
 
 These credits are for the placeholer icons when the mod was in heavy development. Some of the improvement icons and building icons are however still in use.
