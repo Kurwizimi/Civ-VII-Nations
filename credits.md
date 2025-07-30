@@ -1,3 +1,10 @@
+Units made by Basil
+- Norman Chevaler
+
+
+
+These credits are for the placeholer icons when the mod was in heavy development. Some of the improvement icons and building icons are however still in use.
+
 Civ Icons
 * AKSUM - Coptic Cross by Avana Vana from <a href="https://thenounproject.com/browse/icons/term/coptic-cross/" target="_blank" title="Coptic Cross Icons">Noun Project</a> (CC BY 3.0)
 * HAN- Horse by designer468 from <a href="https://thenounproject.com/browse/icons/term/horse/" target="_blank" title="Horse Icons">Noun Project</a> (CC BY 3.0)
