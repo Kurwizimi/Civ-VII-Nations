@@ -6,7 +6,7 @@
         "gold": 2,
         "turnsToBuild": 7,
         "techRequired": "Masonry",
-        "uniques": ["[+1 Culture] for each adjacent [Halwit]", "Pillaging this improvement yields approximately [+25 Gold]"],
+        "uniques": ["[+1 Culture] for each adjacent [Hawilt]", "Pillaging this improvement yields approximately [+25 Gold]"],
         "shortcutKey": "H"
     },
   {
@@ -22,7 +22,7 @@
   {
         "name": "Baray",
         "uniqueTo": "Khmer",
-        "terrainsCanBeBuiltOn": ["Plains","Grassland","Tundra","Desert"],
+        "terrainsCanBeBuiltOn": ["Plains","Grassland","Tundra","Desert","Flood plains"],
         "food": 3,
         "turnsToBuild": 7,
         "techRequired": "Masonry",
@@ -32,7 +32,7 @@
     {
         "name": "Jaguar Trap",
         "uniqueTo": "Ki'iche",
-        "terrainsCanBeBuiltOn": ["Plains","Grassland","Tundra","Hill", "Forest","Jungle"],
+        "terrainsCanBeBuiltOn": ["Plains","Grassland","Tundra","Hill", "Forest","Jungle", "Desert", "Flood plains"],
         "turnsToBuild": 1,
         "uniques": ["Adjacent enemy units ending their turn take [15] damage",  "Can be built outside your borders", "Does not need removal of [Forest]", "Does not need removal of [Jungle]", "Destroyed when pillaged", "Pillaging this improvement yields approximately [+40 Gold]"],
         "shortcutKey": "T"
@@ -65,18 +65,18 @@
         "production": 4,
         "turnsToBuild": 7,
         "techRequired": "Metal Casting",
-        "uniques": ["Gives a defensive bonus of [60]%", "Pillaging this improvement yields approximately [+25 Gold]"],
+        "uniques": ["Gives a defensive bonus of [50]%", "Pillaging this improvement yields approximately [+25 Gold]"],
         "shortcutKey": "H"
     },
     {
         "name": "Water Puppet Theater",
         "uniqueTo": "Đại Việt",
-        "terrainsCanBeBuiltOn": ["River"],
+        "terrainsCanBeBuiltOn": ["Land"],
         "food": 1,
         "happiness": 2,
         "turnsToBuild": 7,
         "techRequired": "Drama and Poetry",
-        "uniques": ["[+1 Culture] for each adjacent [River]", "Only available <with [0] to [0] neighboring [Water Puppet Theater] tiles>", "Pillaging this improvement yields approximately [+25 Gold]"],
+        "uniques": ["Can only be built on [River] tiles", "[+1 Culture] for each adjacent [River]", "Only available <with [0] to [0] neighboring [Water Puppet Theater] tiles>", "Pillaging this improvement yields approximately [+25 Gold]"],
         "shortcutKey": "W"
     },
      {
@@ -175,12 +175,12 @@
     {
         "name": "Bang",
         "uniqueTo": "Rattanakosin",
-        "terrainsCanBeBuiltOn": ["River"],
+        "terrainsCanBeBuiltOn": ["Land"],
         "culture": 3,
         "happiness": 3,
         "turnsToBuild": 7,
         "techRequired": "Engineering",
-        "uniques": ["Pillaging this improvement yields approximately [+25 Gold]"],
+        "uniques": ["Can only be built on [River] tiles", "Pillaging this improvement yields approximately [+25 Gold]"],
         "shortcutKey": "B"
     },
 
