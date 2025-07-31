@@ -1,4 +1,4 @@
-Art made by Basil
+Art made by Basil, in order of when they were added:
 - Chevaler
 - Jaguar Hunter
 - Voi Chien
@@ -11,6 +11,14 @@ Art made by Basil
 - Leiomano
 - Lo'i Kalo
 - Water Puppet Theater
+- Han Chu Ko Nu
+- Magarru
+- Colonist
+- Kalam
+- Gurkha
+- Soldederas
+- Highland Power Station
+- Jaguar Trap
 
 
 These credits are for the placeholer icons when the mod was in heavy development. Some of the improvement icons and building icons are however still in use.
