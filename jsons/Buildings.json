@@ -201,8 +201,11 @@
 		"hurryCostModifier": 160,
 		"gold": 3,
 		"percentStatBonus": {"gold": 25},
-		"uniqueText": "+2 [Culture] after completing a policy tree",
-		"uniques": ["[+2 Culture] <after adopting [Tradition Complete]>","[+2 Culture] <after adopting [Liberty Complete]>","[+2 Culture] <after adopting [Honor Complete]>","[+2 Culture] <after adopting [Piety Complete]>","[+2 Culture] <after adopting [Commerce Complete]>","[+2 Culture] <after adopting [Rationalism Complete]>","[+2 Culture] <after adopting [Order Complete]>","[+2 Culture] <after adopting [Freedom Complete]>","[+2 Culture] <after adopting [Autocracy Complete]>","[+2 Culture] <after adopting [Patronage Complete]>"],
+		"uniques": ["Comment[+2 [Culture] after completing a policy tree]",
+			"[+2 Culture] <after adopting [Tradition Complete]> <hidden from users>","[+2 Culture] <after adopting [Liberty Complete]> <hidden from users>","[+2 Culture] <after adopting [Honor Complete]> <hidden from users>",
+			"[+2 Culture] <after adopting [Piety Complete]> <hidden from users>","[+2 Culture] <after adopting [Commerce Complete]> <hidden from users>","[+2 Culture] <after adopting [Rationalism Complete]> <hidden from users>",
+			"[+2 Culture] <after adopting [Order Complete]> <hidden from users>","[+2 Culture] <after adopting [Freedom Complete]> <hidden from users>","[+2 Culture] <after adopting [Autocracy Complete]> <hidden from users>",
+			"[+2 Culture] <after adopting [Patronage Complete]> <hidden from users>"],
 		"specialistSlots": {"Merchant": 2},
 		"requiredTech": "Electricity"
 	},
