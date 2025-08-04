@@ -227,7 +227,7 @@
 		"outerColor": [220,200,100],
 		"innerColor": [110,60,50],
 		"uniqueName": "Nine Provinces",
-		"uniques": ["Comment[Newly founded cities start with +1 population]", "[+1] population [in this city] <upon founding a city> <hidden from users>", "[+15]% [Science] [in capital] <after discovering [Civil Service]>"],
+		"uniques": ["Comment [Newly founded cities start with +1 population]", "[+1] population [in this city] <upon founding a city> <hidden from users>", "[+15]% [Science] [in capital] <after discovering [Civil Service]>"],
 		"cities": ["Cháng'ān","Luoyang","Línzī","Chengdu","Huáiyáng","Liángzhōu","Jīnyáng","Handan","Pengcheng","Ji",
 			"Guanglíng","Xuchang","Xíngyáng","Shouchun","Linxiang","Dìngtáo","Nanjun","Nanchang","Yángqǔ","Hefei",
 			"Nánzhèng","Yè","Didao","Panyu"],
