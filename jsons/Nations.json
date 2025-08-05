@@ -98,7 +98,7 @@
 		"neutralYes": ["I accept"],
 
 		"hateHello": "What do you want, you pathetic leader?",
-		"hateLetsHearIt": ["Spare me your words"],
+		"hateLetsHearIt": ["Spare me your words."],
 		"hateNo": ["I was expecting such to come from you."],
 		"hateYes": ["You suprise me with your intelligence. Very well."],
 		
@@ -110,7 +110,8 @@
 		"outerColor": [252,252,252],
 		"innerColor": [52,125,40],
 		"uniqueName": "Wisdom of Tanit",
-		"uniques": ["Comment [Only able to construct buildings and units in capital]", "[-1000]% [Production] [in all cities] <hidden from users>", "[+1000]% [Production] [in capital] <hidden from users>", "[+20]% [Production] [in capital] <for every [Cities]>", "[+50]% Production when constructing [Colonist] units [in capital]"],
+		"uniques": ["Comment [Only able to construct buildings and units in capital]", "Comment [+10% [Production] and [Gold] in capital fro every owned City]", "[+50]% Production when constructing [Colonist] units [in capital]", 
+			"[-1000]% [Production] [in all cities] <hidden from users>", "[+1000]% [Production] [in capital] <hidden from users>", "[+10]% [Production] [in capital] <for every [Cities]> <hidden from users>", "[+10]% [Gold] [in capital] <for every [Cities]> <hidden from users>", "[+1] population [in this city] <upon founding a city> <hidden from users>"],
 		"cities": ["Carthage","Utica","Hadrumetum","Hippo","Motya","Thenae","Leptis","Tsabratan","Maleth","Rusicade",
 			"Thysdrus","Rusguniae","Tinga","Gadir","Oyat","Kition","Lapathus","Idalion","Ruspina","Ziz",
 			"Karaly","Sexi","Kapara","Rusadir"]
@@ -323,7 +324,6 @@
 		
 		"declaringWar": "You encroach on Ki'iche land. Your people shall be removed!",
 		"attacked": "Come, my Nahual! This fool wishes to fight!",
-		
 		"defeated": "The Ki'iche shall remember remember their freedom, and how it shall return to them like the free Quetzal bird.",
 		"introduction": "My name is Tecun, brave warrior and leader of the Ki'iche Maya.",
 		
