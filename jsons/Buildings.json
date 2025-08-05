@@ -16,8 +16,8 @@
 		"uniqueTo": "Qart Hashdat",
        		"cost": 120,
         	"hurryCostModifier": 100,
-        	"uniques": ["Connects trade routes over water", "Must be next to [Coast]", "[+1 Production] from [Water resource] tiles [in this city]", "[+1 Gold, +1 Production] from [Coast] tiles [in this city]", "[+1 Gold, +1 Production] from [Coast] tiles [in this city] <in [Capital] cities>"],
-        "requiredTech": "Compass"
+        	"uniques": ["Connects trade routes over water", "Must be next to [Coast]", "[+1 Production] from [Water resource] tiles [in this city]", "[+2 Gold] from [Coast] tiles [in this city <in [non-[Capital]] cities>]", "[+1 Gold, +1 Production] from [Coast] tiles [in this city] <in [Capital] cities>"],
+        	"requiredTech": "Compass"
     },
 	
 	{
@@ -65,7 +65,7 @@
 		"hurryCostModifier": 160,
 		"faith": 2,
 		"requiredBuilding": "Shrine",
-		"uniques": ["[+5]% [Production] [in this city] <for [10] turns> <upon discovering [All] technology>"],
+		"uniques": ["[+15]% [Production] [in this city] <for [5] turns> <upon discovering [All] technology>"],
 		"requiredTech": "Philosophy"
 	},
 
@@ -201,11 +201,7 @@
 		"hurryCostModifier": 160,
 		"gold": 3,
 		"percentStatBonus": {"gold": 25},
-		"uniques": ["Comment [+2 [Culture] after completing a policy tree]",
-			"[+2 Culture] <after adopting [Tradition Complete]> <hidden from users>","[+2 Culture] <after adopting [Liberty Complete]> <hidden from users>","[+2 Culture] <after adopting [Honor Complete]> <hidden from users>",
-			"[+2 Culture] <after adopting [Piety Complete]> <hidden from users>","[+2 Culture] <after adopting [Commerce Complete]> <hidden from users>","[+2 Culture] <after adopting [Rationalism Complete]> <hidden from users>",
-			"[+2 Culture] <after adopting [Order Complete]> <hidden from users>","[+2 Culture] <after adopting [Freedom Complete]> <hidden from users>","[+2 Culture] <after adopting [Autocracy Complete]> <hidden from users>",
-			"[+2 Culture] <after adopting [Patronage Complete]> <hidden from users>"],
+		"uniques": ["[+2 Culture, +1 Gold] <for every [Completed Policy branches]>"],
 		"specialistSlots": {"Merchant": 2},
 		"requiredTech": "Electricity"
 	},
