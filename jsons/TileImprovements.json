@@ -34,7 +34,8 @@
         "uniqueTo": "Ki'iche",
         "terrainsCanBeBuiltOn": ["Plains","Grassland","Tundra","Hill", "Forest","Jungle", "Desert", "Flood plains"],
         "turnsToBuild": 1,
-        "uniques": ["Adjacent enemy units ending their turn take [15] damage",  "Can be built outside your borders", "Does not need removal of [Forest]", "Does not need removal of [Jungle]", "Destroyed when pillaged", "Pillaging this improvement yields approximately [+40 Gold]"],
+        "uniques": ["Adjacent enemy units ending their turn take [15] damage",  "Can be built outside your borders", "Does not need removal of [Forest]", "Does not need removal of [Jungle]", "Destroyed when pillaged",
+                    "Pillaging this improvement yields approximately [+40 Gold]"],
         "shortcutKey": "T"
     },//"Only available <for [Jaguar Hunter] units>",
   {
@@ -86,7 +87,8 @@
         "food": 1,
         "production": 1,
         "turnsToBuild": 7,
-        "uniques": ["[+1 Culture] for each adjacent [Farm]", "[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>", "[+1 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>", "Pillaging this improvement yields approximately [+25 Gold]"],
+        "uniques": ["[+1 Culture] for each adjacent [Farm]", "[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>", "[+1 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>",   
+                    "Pillaging this improvement yields approximately [+25 Gold]"],
         "techRequired": "Construction",
         "shortcutKey": "L"
     },
@@ -97,7 +99,8 @@
         "food": 2,
         "production": 1,
         "turnsToBuild": 7,
-        "uniques": [ "[+1 Gold] for each adjacent [City center]","[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>", "[+1 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>","Pillaging this improvement yields approximately [+25 Gold]"],
+        "uniques": [ "[+1 Gold] for each adjacent [City center]","[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>", "[+1 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>",
+                    "Pillaging this improvement yields approximately [+25 Gold]"],
         "techRequired": "Construction",
         "shortcutKey": "T"
     },
