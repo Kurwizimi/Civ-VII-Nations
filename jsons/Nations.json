@@ -598,18 +598,18 @@
 		"defeated": "My ancestors await. My voice will be lost to time, but I will dwell with them in paradise.",
 		"introduction": "The breeze from Fan Si Pan was cool this evening, and the Red River flows calm. And here you are.",
 		
-		"neutralHello": "",
-		"neutralLetsHearIt": [""],
+		"neutralHello": "Greetings, fellow leader.",
+		"neutralLetsHearIt": ["Yes?"],
 		"neutralNo": ["My people's interests come first. No."],
 		"neutralYes": ["A harmonious deal!"],
 
-		"hateHello": "",
-		"hateLetsHearIt": [""],
+		"hateHello": "I do not spend time with tyrants like you.",
+		"hateLetsHearIt": ["..."],
 		"hateNo": ["No!"],
 		"hateYes": ["If you insist..."],
 		
 		"afterPeace": "In harmony, like land and water.",
-		"tradeRequest": "",
+		"tradeRequest": "My friend, is this deal good for you?",
 
 		"spyNames": ["Lĩnh","Minh","Hoàn","Anh","Phật Mã","Hạnh","Hiếu","Thủy","Định","Phượng"],
 
@@ -629,7 +629,7 @@
 		"startBias": ["Coast", "Avoid [Tundra]"],
 		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "",
+		"startIntroPart1": "The world’s greatest sailors, the Hawaiians venture forth when all others fail. With the blessing of their kahuna, they brave the blue expanse in search of new lands to sow with taro, new treasures to collect, and new legacies to forge. The conch is blowing, the wind is right - it is time for the oar to bite water.",
 		"startIntroPart2": "Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "Your people are lke parasites to my people, and I will spare no expense to cleanse them from my kingdom!",
@@ -691,7 +691,7 @@
 		"innerColor": [249,218,2],
 		"uniqueName": "Apukuna",
 		"uniqueText": "Cities bonus Production equal to 10% of that City’s Food",
-		"uniques": ["Gain a free [Tawantinsuyu Ability] [in all cities]"],//Does this even work? Its hard to tell in the game. Probably not.
+		"uniques": ["Gain a free [Tawantinsuyu Ability] [in all cities]"],//Doesnt work.
 		"cities": ["Qusqu","Antawaylla","Wanuku","Willka Waman","Machu Pikchu","Ullantaytampu","Sausa","Kashamarka","Chucuito","Kitu",
 			"Ayak’uchu","Chan Chan","Pisac","Huancabamba","Ayaviri","Vitcos","Paria","Chuquiabo","Pachakamaq","Tumbez",
 			"Tumipampa","Inka Pirka","Wankawilka","Ica"],
@@ -1008,23 +1008,23 @@
 		"startIntroPart1": "Chaos is the absence of order, and the world needs structure. Great Britain ascends. \nThe sun never sets on Great Britain’s vast empire. Its territories spread across all continents, funneling raw materials from colonial holdings to the factories of the metropole. Foreign policy was conducted through economic strategy, extensive diplomacy, and threat of war. The British navy dominated the seas, while at home, society found a new order amid the explosion of industry. Under Pax Britannica, the world followed Britain’s lead.",
 		"startIntroPart2": "",
 		
-		"declaringWar": "",
-		"attacked": "",
-		"defeated": "",
-		"introduction": "",
+		"declaringWar": "Your nation lacks the basic properties of civilisation. Her Majesty's governmant therefore will grant you theit greatest favour, to be civilised by the British!",
+		"attacked": "You underestimate the power of our empire! If you are so willing to walk into the mouth of a sleeping lion, then war it is!",
+		"defeated": "Even after rallying the people to fight for their nation, the only thing left loyal to me is my writing, and myself...",
+		"introduction": "On behalf of Her Majesty, I welcome you to the United Kingdom of Great Britain. I am Benjamin Disreali, Prime Minister of this land.",
 
-		"neutralHello": "",
+		"neutralHello": "Greetings.",
 		"neutralLetsHearIt": [""],
 		"neutralNo": [""],
 		"neutralYes": [""],
 
-		"hateHello": "",
+		"hateHello": "We do not accomodate brutes like you.",
 		"hateLetsHearIt": [""],
 		"hateNo": [""],
 		"hateYes": [""],
 		
-		"afterPeace": "",
-		"tradeRequest": "",
+		"afterPeace": "Lets hope you will remember our attempts of civilising you.",
+		"tradeRequest": "Let us maintain the amicable relations between our nations",
 
 		"outerColor": [0,0,164],
 		"innerColor": [255,255,255],
@@ -1050,12 +1050,12 @@
 		"defeated": "Now that I shall die, so shall Buganda. Now you will savage my lands, and destroy the Baganda.",
 		"introduction": "I am Mwanga, son of Mutesa. What Mutesa was in Buganda, I am also. Anyone who stands against my people will not have mercy spared upon them.",
 
-		"neutralHello": "",
+		"neutralHello": "Welcome.",
 		"neutralLetsHearIt": [""],
 		"neutralNo": [""],
 		"neutralYes": [""],
 
-		"hateHello": "",
+		"hateHello": "You dare disturb me?!",
 		"hateLetsHearIt": [""],
 		"hateNo": [""],
 		"hateYes": [""],
@@ -1285,7 +1285,7 @@
 		"hateYes": ["So be it."],
 		
 		"afterPeace": "'Bien sur,' this is a rational offer!",
-		"tradeRequest": "",
+		"tradeRequest": "These gifts shall seek you well, no?",
 
 		"outerColor": [252,206,24],
 		"innerColor": [0,0,0],
