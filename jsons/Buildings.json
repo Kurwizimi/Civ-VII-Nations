@@ -17,7 +17,7 @@
        		"cost": 120,
         	"hurryCostModifier": 100,
         	"uniques": ["Connects trade routes over water", "Must be next to [Coast]", "[+1 Production] from [Water resource] tiles [in this city]",
-				"[+2 Gold] from [Coast] tiles [in this city] <in [non-[Capital]] cities>]", "[+1 Gold, +1 Production] from [Coast] tiles [in this city] <in [Capital] cities>"],
+				"[+2 Gold] from [Coast] tiles [in this city] <in [non-[Capital]] cities>", "[+1 Gold, +1 Production] from [Coast] tiles [in this city] <in [Capital] cities>"],
         	"requiredTech": "Compass"
     },
 	
