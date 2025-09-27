@@ -469,6 +469,46 @@
 	},
 
 	{
+		"name": "Silla",
+		"leaderName": "",
+		"adjective": ["Sillan"],
+		"startBias": ["Hill","Grassland"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "*Salve*, my good friend",
+		"neutralLetsHearIt": ["Yes?"],
+		"neutralNo": ["I forge my own path here."],
+		"neutralYes": ["I will it."],
+
+		"hateHello": "Under my hand, wherever there is conflict and chaos I strike it down. I will have peace, even amidst ashes.",
+		"hateLetsHearIt": ["What?"],
+		"hateNo": ["Now, I, in every way, am the maker of my fortune."],
+		"hateYes": ["If you will it."],
+		
+		"afterPeace": "I will it.",
+		"tradeRequest": "May this trade turn your cities made of bricks to cities made of marble!",
+
+		"spyNames": ["Acacius","Chloris","Brutus","Eliana","Emidius","Herta","Jovilius","Laetitia","Sophus","Proserpina"],
+
+		"outerColor": [212,20,21],
+		"innerColor": [247,216,1],
+		"uniqueName": "Maripgan",
+		"uniques": ["Free Social Policy <upon entering a new era>", "[-15]% Culture cost of adopting new Policies <when at war>"],
+		"cities": ["Roma","Capua","Ostia","Ravenna","Neapolis","Mediolanum","Patavium","Aquileia","Puteoli","Pompeii",
+			"Catana","Burdigala","Narbo Martius","Gades","Lugdunum","Bononia","Corduba","Massilia","Colonia","Caesarea Maritima",
+			"Mogontiacum","Londinium","Caesaraugusta","Sarmizegetusa"],
+	},
+	
+
+	{
 		"name": "The Abbasids",
 		"leaderName": "Al-Muktafī bi-Llāh",
 		"adjective": ["Abbasid"],
