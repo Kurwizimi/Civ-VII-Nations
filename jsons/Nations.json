@@ -14,15 +14,15 @@
 		"defeated": "How? What marvels of engineering, ...of science, ...of wealth, did you need to conquer me? ",
 		"introduction": "Greetings, strange traveller! I am Queen Makeda, ruler of Aksum and Ethiopia.",
 		
-		"neutralHello": "",
-		"neutralLetsHearIt": [""],
-		"neutralNo": [""],
-		"neutralYes": [""],
+		"neutralHello": "Səm-u la-nəgəśt, In the name of the queen.",
+		"neutralLetsHearIt": ["Go on..."],
+		"neutralNo": ["Nəḥna 'i-nəkl ḥawira, We cannot carry on with this"],
+		"neutralYes": ["Kəbur! Glorious!"],
 
-		"hateHello": "",
-		"hateLetsHearIt": [""],
-		"hateNo": [""],
-		"hateYes": [""],
+		"hateHello": "Səm-u la-nəgəśt!",
+		"hateLetsHearIt": ["We have little interest in what you have to say"],
+		"hateNo": ["Wald-a 'adg!"],
+		"hateYes": ["I see... We shall accept."],
 		
 		"afterPeace": "May the trade flow again.",
 		"tradeRequest": "Aksum holds many goods you could not refuse to buy.",
@@ -36,6 +36,85 @@
 		"cities": ["Aksum","Adulis","Matara","Lalibela","Saba","Koloe","Qohayto","Maste","Tekondo","Zala-Bet-Makeda",
 			"Etchmara","Gulo-Makeda","Haghero-Deragweh","Dergouah","Henzat","Ham","Anza","Hawzien","Degum","Chergos Agula",
 			"Nazret","Yeha","Aden","Hehzat"]
+	},
+
+	{
+		"name": "Assyria",
+		"leaderName": "Ashurbanipal",
+		"adjective": ["Assyrian"],
+		"startBias": ["River"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Siege-towers rumble, and iron swords are sharpened as the Assyrian war machine shudders into motion. Under Ashur’s watchful eye, a new order unfolds upon the sun-baked clay: planned cities, skilled engineers, and the implacable march of boots. Set out upon the world, and tolerate no competition.",
+		"startIntroPart2": "",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"spyNames": ["Arda-Mulišši","Libbāli-Šarrat","Mutakkil-Nusku","Sammu-Rāmat","Aššur-Rabi","Zakûtu","Adad-Nīrārī","Ešarra-Hammat","Aššur-Dān","Muballitat-Sherua"],
+
+		"outerColor": [94,149,184],
+		"innerColor": [201,164,24],
+		"uniqueName": "Treasures of Nineveh",
+		"uniques": ["Free Technology <upon conquering a city>","[+10]% [Food] [in annexed cities]","[+10]% [Production] [in annexed cities]","[+10]% [Science] [in annexed cities]"],
+		"cities": ["Ninevel","Kalhu","Aššur","Arrapkha","Karkemiš","Dur-Katlimmu","Kar-Tukulti-Ninurta","Imgur-Enlil","Amida","Nuhadra",
+			"Arbi-Ilu","Khilakku","Huzirina","Kaneš","Mardama","Šinahuttum","Mansuate","Rapiqu","Shareisha","Kahat",
+			"Kar-Šulmānu-Ašarēdu","Hadātu","Tušhan","Kar-Sipar"]
+	},
+
+	{
+		"name": "Qart Hashdat",
+		"leaderName": "Hannibal Barca",
+		"adjective": ["Carthaginian"],
+		"startBias": ["Coast", "Grassland"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "The children of Tyre come from afar to claim their destiny. From the center of the world, they will command an empire that knows no equal. \nFrom humble colony to economic hegemony, Carthage rose from the shores of North Africa to dominate the Mediterranean Sea. Its sleek ships ferried goods and riches all over the known world, while at home, the city of Carthage was famed for its master craftsmen and deep agricultural knowledge. Competition with first Greece, then Rome, honed renowned generals and a powerful navy. But war was Carthage’s undoing, and the city was destroyed in 146 BCE.",
+		"startIntroPart2": "",
+		
+		"declaringWar": "You have encroached on our land for far too long! I shall push you back to whatever miserable cave you came from!",
+		"attacked": "Qart Hashdat knows no bounds. You will not be an obstacle.",
+		"defeated": "You may have left my empire to ruins, but mark my words, I shall return to take it back, whether it be under the flag of Qart Hashdat or of another empire.",
+		"introduction": "Greetings! I am Hannibal Barca, profound statesman and general. ",
+		
+		"neutralHello": "Welcome Rshadir! Welcome Great Leader!",
+		"neutralLetsHearIt": ["You have my attention"],
+		"neutralNo": ["No."],
+		"neutralYes": ["I accept"],
+
+		"hateHello": "What do you want, you pathetic leader?",
+		"hateLetsHearIt": ["Spare me your words."],
+		"hateNo": ["I was expecting such to come from you."],
+		"hateYes": ["You suprise me with your intelligence. Very well."],
+		
+		"afterPeace": "May these borders hold.",
+		"tradeRequest": "All trade flows through Qart Hashdat, before reaching you ofcourse.",
+
+		"spyNames": ["Hamilcar","Siphonbaal","Mago","Batnoam","Gisgo","Ummashtart","Azarbaal","Amoashtart","Mattanbaal","Zyabqot"],
+
+		"outerColor": [252,252,252],
+		"innerColor": [52,125,40],
+		"uniqueName": "Wisdom of Tanit",
+		"uniques": ["Comment [Only able to construct buildings and units in capital]", "Comment [+10% [Production] and [Gold] in capital fro every owned City]", "[+50]% Production when constructing [Colonist] units [in capital]", 
+			"[-1000]% [Production] [in all cities] <hidden from users>", "[+1000]% [Production] [in capital] <hidden from users>", "[+10]% [Production] [in capital] <for every [Cities]> <hidden from users>", "[+10]% [Gold] [in capital] <for every [Cities]> <hidden from users>", "[+1] population [in this city] <upon founding a city> <hidden from users>"],
+		"cities": ["Carthage","Utica","Hadrumetum","Hippo","Motya","Thenae","Leptis","Tsabratan","Maleth","Rusicade",
+			"Thysdrus","Rusguniae","Tinga","Gadir","Oyat","Kition","Lapathus","Idalion","Ruspina","Ziz",
+			"Karaly","Sexi","Kapara","Rusadir"]
 	},
 
 	{
@@ -92,18 +171,18 @@
 		"defeated": "How can you beat my knowledge of the battlefield? ....If you are truely a better general, philosopher and leader than I am, ...then you are the true ruler of the Greeks, not me.",
 		"introduction": "I am Xenophon, leader of the Ten Thousand, and protector of all Greek states.",
 		
-		"neutralHello": "",
-		"neutralLetsHearIt": [""],
-		"neutralNo": [""],
-		"neutralYes": [""],
+		"neutralHello": "Hello, brave leader!",
+		"neutralLetsHearIt": ["Yes?"],
+		"neutralNo": ["No, why would we accept this?"],
+		"neutralYes": ["Ha Ha! A marvellous deal!"],
 
-		"hateHello": "",
-		"hateLetsHearIt": [""],
-		"hateNo": [""],
-		"hateYes": [""],
+		"hateHello": "Scoudrel!",
+		"hateLetsHearIt": ["Hmph."],
+		"hateNo": ["Never!"],
+		"hateYes": ["Lets hope this is an exception."],
 		
 		"afterPeace": "I expect you have learnt a thing or two from my troops from this war.",
-		"tradeRequest": "My friend, would you kindly accept this deal?",
+		"tradeRequest": "My friend, would you kindly accept this offer?",
 
 		"spyNames": ["Agapetos","Chloe","Demokritos","Hypatia","Heracleitos","Ligeia","Nereus","Pelagia","Sosigenes","Xanthe"],
 
@@ -131,15 +210,15 @@
 		"defeated": "So this is it... Everything I have done was for nothing. I shall die a peasant after all.",
 		"introduction": "Ahh... Welcome. I am Emperor Xuan, the filial and known by many.",
 		
-		"neutralHello": "",
-		"neutralLetsHearIt": [""],
-		"neutralNo": [""],
-		"neutralYes": [""],
+		"neutralHello": "Ahh, how are you today, kind leader?",
+		"neutralLetsHearIt": ["Yes?"],
+		"neutralNo": ["Unfortunately not."],
+		"neutralYes": ["I accept."],
 
-		"hateHello": "",
-		"hateLetsHearIt": [""],
-		"hateNo": [""],
-		"hateYes": [""],
+		"hateHello": "We do not welcome tyrants like you!",
+		"hateLetsHearIt": ["..."],
+		"hateNo": ["Ha! And support your tyrannical rule? Never!"],
+		"hateYes": ["... Very well."],
 		
 		"afterPeace": "Now lets hope you will care more for your people than your pride from now on.",
 		"tradeRequest": "May this offer seek you well.",
@@ -149,7 +228,7 @@
 		"outerColor": [220,200,100],
 		"innerColor": [110,60,50],
 		"uniqueName": "Nine Provinces",
-		"uniques": ["[+1] population [in this city] <upon founding a city>", "[+15]% [Science] [in capital] <after discovering [Civil Service]>"],
+		"uniques": ["Comment [Newly founded cities start with +1 population]", "[+1] population [in this city] <upon founding a city> <hidden from users>", "[+15]% [Science] [in capital] <after discovering [Civil Service]>"],
 		"cities": ["Cháng'ān","Luoyang","Línzī","Chengdu","Huáiyáng","Liángzhōu","Jīnyáng","Handan","Pengcheng","Ji",
 			"Guanglíng","Xuchang","Xíngyáng","Shouchun","Linxiang","Dìngtáo","Nanjun","Nanchang","Yángqǔ","Hefei",
 			"Nánzhèng","Yè","Didao","Panyu"],
@@ -184,10 +263,10 @@
 
 		"spyNames": ["Balarama","Indradevi","Damkhat","Lakshmi","Laksmana","Romchang","Rama","Suryavana","Thomma","Viralakshmi"],
 
-		"outerColor": [60,10,100],
-		"innerColor": [170,140,10],
+		"outerColor": [43,47,121],
+		"innerColor": [227,196,23],
 		"uniqueName": "Ksekam Chamnon",
-		"uniques": ["[+100]% growth [in capital]","[-3 Happiness] <in cities without a [Palace]>"],
+		"uniques": ["[+100]% growth [in capital]","[-2 Happiness] <in cities without a [Palace]>"],
 		"cities": ["Yasodharapura","Indrapura","Mahendraparvata","Hariharalaya","Stung Treng","Isanapura","Lingapura","Jayendranagari","Angkor Borei","Phum Snay"
 			,"Ou Kaev","Phimai","Sdok Kok Thom","Beng Mealea","Banteay Srei","Banteay Chhmar","Preah Vihear","Kompong Thom","Longvek","Oudong",
 			"Kampot","Phnom Penh","Battambang","Siem Reap"],
@@ -243,11 +322,10 @@
 		"startIntroPart1": "The people lay these stones as a pathway to the heavens. Come, k'uhul ajaw, and assume the world's throne. \nIn the Central American jungles grew a series of city-states bound by alliances and a common culture – the Maya. They transformed a seemingly inhospitable landscape into a paradise of plazas, ball courts, and pyramids that rose out of the jungle to greet the open sky. But struck by climate and political crises, the Maya declined, and the land was once more covered by forest.",
 		"startIntroPart2": "Can you build a civilization that will stand the test of time?",
 		
-		"declaringWar": "",
-		"attacked": "",
-		
-		"defeated": "",
-		"introduction": "",
+		"declaringWar": "You encroach on Ki'iche land. Your people shall be removed!",
+		"attacked": "Come, my Nahual! This fool wishes to fight!",
+		"defeated": "The Ki'iche shall remember remember their freedom, and how it shall return to them like the free Quetzal bird.",
+		"introduction": "My name is Tecun, brave warrior and leader of the Ki'iche Maya.",
 		
 		"neutralHello": "Yes?",
 		"neutralLetsHearIt": ["Go on..."],
@@ -259,8 +337,8 @@
 		"hateNo": ["No!"],
 		"hateYes": ["Very well."],
 		
-		"afterPeace": "",
-		"tradeRequest": "",
+		"afterPeace": "Now the Ki'iche shall remain free from your people.",
+		"tradeRequest": "Will this deal strengthen the ties of our nations?",
 
 		"spyNames": ["Bound-stone Jaguar","Star House","Scroll Serpent","Baby Jaguar","Shield Skull","Scroll-in-hand","Lord Chocolate","Eveningstar","Storm Sky","Lady Crocodile"],
 
@@ -288,15 +366,15 @@
 		"defeated": "If I shall die fighting for my peoples freedoms in flames, I shall die a noble death.",
 		"introduction": "I am Tuskaloosa, Chief of the Mississipi. Make your presence known to my people, stranger, and we shall live in peace.",
 		
-		"neutralHello": "",
-		"neutralLetsHearIt": [""],
-		"neutralNo": [""],
-		"neutralYes": [""],
+		"neutralHello": "The Mississipi wlcome you.",
+		"neutralLetsHearIt": ["Go on"],
+		"neutralNo": ["No."],
+		"neutralYes": ["Wonderful!"],
 
-		"hateHello": "",
-		"hateLetsHearIt": [""],
-		"hateNo": [""],
-		"hateYes": [""],
+		"hateHello": "I see you approach me?!",
+		"hateLetsHearIt": ["Hmm."],
+		"hateNo": ["I shall only accept this when the Mississipi dries up!"],
+		"hateYes": ["My hand is forced into this."],
 		
 		"afterPeace": "Now you shall remain inside your own lands forever, and never into ours.",
 		"tradeRequest": "Trade has been good this year, so the Mississipi offer you this deal.",
@@ -306,7 +384,7 @@
 		"outerColor": [100,40,40],
 		"innerColor": [120,100,230],
 		"uniqueName": "Goose Societies",
-		"uniques": ["[+1 Food] from every [Building] <for every adjacent [resource]>"],
+		"uniques": ["[+1 Food] from [resource] tiles [in all cities]"],
 		"cities": ["Cahokia","Coosa","Chickasaw","Alabama","Apalachee","Choctaw","Creek","Hitchiti","Houma","Kansa",
 			"Missouria","Mobilian","Natchez","Osage","Quapaw","Tunica","Yamasee","Yuchi","Quizquiz","Chucalisa",
 			"Nodana","Wapanocca","Chauga","Coste"],
@@ -345,10 +423,49 @@
 		"outerColor": [189,125,229],
 		"innerColor": [129,3,13],
 		"uniqueName": "Hamarana Council",
-		"uniques": ["[+10]% Strength <for [All] units> <when attacking>", "[500] units cost no maintenance <hidden from users>", "Comment [All units cost no maintenence]"],
+		"uniques": ["[+10]% Strength <for [All] units> <when attacking>", "[5000] units cost no maintenance <hidden from users>", "Comment [All units cost no maintenence]"],
 		"cities": ["Pārsa","Pāthra-gadā","Hagmatana","Çūšā","Sparda","Tarsus","Bactria","Ragā","Tushpa","Harrân",
 			"Gordion","Spahān","Širājiš","Qumis","Dascylium","Mazaca","Anshan","Marguš","Istakhr","Borāzjān",
 			"Pūrā","Matezzish","Arsada","Karmana"],
+	},
+
+	{
+		"name": "Roma",
+		"leaderName": "Octavian",
+		"adjective": ["Roman"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "A new banner unfurls, emblazoned with triumphal laurels. Rome seeks its champions. \nWhen most people think of the classical world, they imagine Rome. From humble beginnings, it grew to span three continents, assimilating the wealth and cultures of those it conquered. During the Republic, ad-hoc statecraft and meritocracy spawned fierce competition, spurring the professionalization of military and bureaucracy of the Empire. But cracks turned to chasms, and a foundering economy and repeated invasions brought Rome to collapse.",
+		"startIntroPart2": "Emerging from Rome’s civil wars, Octavian consolidated the fractious republic into an empire stretching from the North Sea to Egypt. Despite the Roman fear of tyrants, he achieved sole power while outwardly maintaining the old republic’s structures. He expanded Rome’s borders via client states and a reorganized army, reformed the tax code, and inaugurated the imperial cult. The modern image of Imperial Rome is largely the one of Octavian's vision.",
+		
+		"declaringWar": "The die is cast.",
+		"attacked": "Really!? Come, break your swords on our walls!",
+		"defeated": "Have I played the part well? Then, I exit.",
+		"introduction": "I am Octavian, Augustus Caesar, a simple first citizen. And emperor of the world.",
+		
+		"neutralHello": "*Salve*, my good friend",
+		"neutralLetsHearIt": ["Yes?"],
+		"neutralNo": ["I forge my own path here."],
+		"neutralYes": ["I will it."],
+
+		"hateHello": "Under my hand, wherever there is conflict and chaos I strike it down. I will have peace, even amidst ashes.",
+		"hateLetsHearIt": ["What?"],
+		"hateNo": ["Now, I, in every way, am the maker of my fortune."],
+		"hateYes": ["If you will it."],
+		
+		"afterPeace": "I will it.",
+		"tradeRequest": "May this trade turn your cities made of bricks to cities made of marble!",
+
+		"spyNames": ["Acacius","Chloris","Brutus","Eliana","Emidius","Herta","Jovilius","Laetitia","Sophus","Proserpina"],
+
+		"outerColor": [212,20,21],
+		"innerColor": [247,216,1],
+		"uniqueName": "Twelve Tables",
+		"uniques": ["Free Social Policy <upon entering a new era>", "[-15]% Culture cost of adopting new Policies <when at war>"],
+		"cities": ["Roma","Capua","Ostia","Ravenna","Neapolis","Mediolanum","Patavium","Aquileia","Puteoli","Pompeii",
+			"Catana","Burdigala","Narbo Martius","Gades","Lugdunum","Bononia","Corduba","Massilia","Colonia","Caesarea Maritima",
+			"Mogontiacum","Londinium","Caesaraugusta","Sarmizegetusa"],
 	},
 
 	{
@@ -403,15 +520,15 @@
 		"defeated": "You cannot defeat the Bulgars forever! One day we shall rise once again!",
 		"introduction": "I am Krum, Khan of the Bulgars. Watch your step, for this land will soon be Bulgaria ",
 		
-		"neutralHello": "",
-		"neutralLetsHearIt": [""],
-		"neutralNo": [""],
-		"neutralYes": [""],
+		"neutralHello": "Bulgaria welcomes you.",
+		"neutralLetsHearIt": ["Lets see..."],
+		"neutralNo": ["Bah!"],
+		"neutralYes": ["Let it be."],
 
-		"hateHello": "",
-		"hateLetsHearIt": [""],
-		"hateNo": [""],
-		"hateYes": [""],
+		"hateHello": "I have no words to say to you.",
+		"hateLetsHearIt": ["..."],
+		"hateNo": ["..."],
+		"hateYes": ["..."],
 		
 		"afterPeace": "These consessions are... enough.",
 		"tradeRequest": "May you accept this offer.",
@@ -421,7 +538,7 @@
 		"outerColor": [170,20,20],
 		"innerColor": [255,212,212],
 		"uniqueName": "Krum's Dynasty",
-		"uniques": ["Gain control over [pillaged] tiles in a [6]-tile radius <upon declaring war with a major Civilization>", "[+1 Food] [in all cities] <for every [Owned [pillaged] Tiles]>"],
+		"uniques": ["Gain control over [pillaged] tiles in a [10]-tile radius <upon declaring war on [Major] Civilizations>", "[+2 Food] [in all cities] <for every [Owned [pillaged] Tiles]>"],
 		"cities": ["Preslav","Tarnovo","Ohrid","Pliska","Drastar","Pleven","Badin","Sredets","Karvuna","Plovdiv",
 			"Borui","Skopie","Belograd","Varna","Breznik","Devina","Pernik","Lipjan","Deultum","Bitolja",
 			"Drembitsa","Drembitsa","Prilep","Kossovo"],
@@ -442,23 +559,23 @@
 		"defeated": "May Shiva strike you and your people down!",
 		"introduction": "Greetings, I am Rajaraja, the Great leader of the Chola. Say, do you have any good you are willing to trade?",
 		
-		"neutralHello": "",
-		"neutralLetsHearIt": [""],
-		"neutralNo": [""],
-		"neutralYes": [""],
+		"neutralHello": "Vaṇakkam, welcome.",
+		"neutralLetsHearIt": ["You have my attention."],
+		"neutralNo": ["No."],
+		"neutralYes": ["Absolutely!"],
 
-		"hateHello": "",
-		"hateLetsHearIt": [""],
-		"hateNo": [""],
-		"hateYes": [""],
+		"hateHello": "Mīṇṭum nīṅkaḷ... ",
+		"hateLetsHearIt": ["What do you want?"],
+		"hateNo": ["No!"],
+		"hateYes": ["Aṭaṭā, very well."],
 		
 		"afterPeace": "For now, peace.",
 		"tradeRequest": "The Chola has goods from far and wide. Would you like to sample them?",
 
 		"spyNames": ["Anasuya","Govind","Bhadraa","Krishna","Kerani","Paramveer","Reeya","Purshotam","Sita","Uday"],
 
-		"outerColor": [163,43,43],
-		"innerColor": [203,175,51],
+		"outerColor": [121,0,2],
+		"innerColor": [252,206,24],
 		"uniqueName": "Samayam",
 		"uniques": ["Gifts of Gold to City-States generate [100]% more Influence", "Allied City-States provide [Gold] equal to [50]% of what they produce for themselves",],
 		"cities": ["Gangaikonda Cholapuram","Pazhayarai","Thanjavur","Uraiyuir","Nagapattinam","Kanchipuram","Madurai","Karur","Talakkad","Mahodaiyapuram",
@@ -467,40 +584,117 @@
 	},
 
 	{
+		"name": "Đại Việt",
+		"leaderName": "Trần Thánh Tông",
+		"adjective": ["Vietnamese"],
+		"startBias": ["Jungle", "River"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "Through the shadow of war and oppression, the people of Đại Việt remain strong. Toiling in the rice field or on elephant-back, the Vietnamese people yearn for their right to determine their own destiny, and to push back would-be invaders to their own shores - or to make conquests of their own. With the beat of the trong com and the trumpeting of elephants, Đại Việt stakes its claim.",
+		"startIntroPart2": "Can you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "We have borne your insults for too long. I will not bow my head when there is injustice.",
+		"attacked": "The land will fight you. The rivers will rise against you. The sky will cast fire down upon you. You will not succeed.",
+		"defeated": "My ancestors await. My voice will be lost to time, but I will dwell with them in paradise.",
+		"introduction": "The breeze from Fan Si Pan was cool this evening, and the Red River flows calm. And here you are.",
+		
+		"neutralHello": "Greetings, fellow leader.",
+		"neutralLetsHearIt": ["Yes?"],
+		"neutralNo": ["My people's interests come first. No."],
+		"neutralYes": ["A harmonious deal!"],
+
+		"hateHello": "I do not spend time with tyrants like you.",
+		"hateLetsHearIt": ["..."],
+		"hateNo": ["No!"],
+		"hateYes": ["If you insist..."],
+		
+		"afterPeace": "In harmony, like land and water.",
+		"tradeRequest": "My friend, is this deal good for you?",
+
+		"spyNames": ["Lĩnh","Minh","Hoàn","Anh","Phật Mã","Hạnh","Hiếu","Thủy","Định","Phượng"],
+
+		"outerColor": [230,184,45],
+		"innerColor": [137,0,19],
+		"uniqueName": "Hich Tuong Si",
+		"uniques": ["[+2 Culture] from every [Jungle]", "Gain [20] [Culture] <upon building a [Fort] improvement> <(modified by game speed)>"],
+		"cities": ["Thăng Long","Thái Bình","Thanh Hóa","Bắc Giang","Đồng Hới","Hà Tĩnh","Hải Phòng","Hội An","Hoa Lư","Thái Nguyên",
+			"Bắc Ninh","Đường Lâm","Chí Linh","Xứ Đông","Quốc Oai","Từ Sơn","Cao Bằng","Nghệ An","Xứ Đoài","Việt Trì",
+			"Tam Đái","Châu Lạng","Tuyên Quang","Hưng Yên"],
+	},
+
+	{
 		"name": "Hawai'i",
 		"leaderName": "Kamehameha Liholiho",
 		"adjective": ["Hawai'ian"],
-		"startBias": ["Coast"],
+		"startBias": ["Coast", "Avoid [Tundra]"],
 		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "",
+		"startIntroPart1": "The world’s greatest sailors, the Hawaiians venture forth when all others fail. With the blessing of their kahuna, they brave the blue expanse in search of new lands to sow with taro, new treasures to collect, and new legacies to forge. The conch is blowing, the wind is right - it is time for the oar to bite water.",
 		"startIntroPart2": "Can you build a civilization that will stand the test of time?",
 		
-		"declaringWar": "",
-		"attacked": "",
-		"defeated": "",
-		"introduction": "",
+		"declaringWar": "Your people are lke parasites to my people, and I will spare no expense to cleanse them from my kingdom!",
+		"attacked": "This petty attempt to my people shall be crushed!",
+		"defeated": "Your scourge and kapu will be erased from this world, mark my words!",
+		"introduction": "Greetings, stranger. I am Kamehameha III, grandson of the grand unifire on our people. But, if you seek peace with my kingdom, call me Liholiho.",
 		
-		"neutralHello": "",
-		"neutralLetsHearIt": [""],
-		"neutralNo": [""],
-		"neutralYes": [""],
+		"neutralHello": "Hello friend! Want to go surfing?",
+		"neutralLetsHearIt": ["Ooh, I'm interested"],
+		"neutralNo": ["Ah... maybe not this time..."],
+		"neutralYes": ["Yes! Whatever for you, my friend."],
 
-		"hateHello": "",
-		"hateLetsHearIt": [""],
-		"hateNo": [""],
-		"hateYes": [""],
+		"hateHello": "Dont muddy our waters with your presence...",
+		"hateLetsHearIt": ["I'm barely interested..."],
+		"hateNo": ["Go spill your nonsence somewhere else..."],
+		"hateYes": ["...Very well."],
 		
-		"afterPeace": "",
-		"tradeRequest": "",
+		"afterPeace": "Now the balance of Mana has been restored, and the waves have finally settled.",
+		"tradeRequest": "Fancy going surfing after this?",
 
 		"outerColor": [64,156,39],
 		"innerColor": [255,230,0],
 		"uniqueName": "Moananuiākea",
-		"uniques": ["[+1 Happiness] from every [Fishing Boats]", "Gain [25] [Culture] <upon building a [Fishing Boats] improvement> <(modified by game speed)>"],
+		"uniques": ["[+1 Happiness] from every [Fishing Boats]", "Gain [20] [Culture] <upon building a [Fishing Boats] improvement> <(modified by game speed)>"],
 		"cities": ["Lā-hainā","Kou","Hilo","Wai-luku","Lihu'e","'Ewa","Kai-lua","Wai-pahū","Lāna'i","Ka-hului",
 			"Kihei","Wai-kolu","Ka-pa'a","Pearl City","Kona","Kauna-kahakai","Nānākuli","Wai-lua","Pāpa'i-kou","Kaha-lu'u",
 			"Wai-mea","Mākaha","Hāna","Wai-he'e"],
+	},
+
+	{
+		"name": "Tawantinsuyu",
+		"leaderName": "Pachacútec",
+		"adjective": ["Incan"],
+		"startBias": ["Hill", "Mountain"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "The mountain valleys will sound with hammer and spade as the Inca enrich the land. \nTawantinsuyu, “the empire in four parts,” was ruled by the Inca, and extended across the Andes mountains, building roads and waystations, terraced fields and silver mines - an empire in the sky. Under the Inca was a diverse collection of subjects, languages, and cultures, but no writing or coinage. Yet the empire came to a crashing end upon the arrival of the Spanish, and smallpox.",
+		"startIntroPart2": "Having defended it from invasion, Pachacuti assumed rule over the kingdom of Cuzco around 1438 and soon began to conquer neighboring regions. He had military and political prowess in equal measure — those he could not take by force he plied with gifts, promising autonomy and prosperity in exchange for loyalty. The Inca Empire would only continue for some sixty years after his death, when the Spanish came, but Pachacuti’s legacy endures nonetheless.?",
+		
+		"declaringWar": "The puma, the condor, and the serpent call me to war! I cannot call them back!",
+		"attacked": "Better to strike your weapons against the heart of the mountain; our warriors are stone.",
+		"defeated": "Pachacuti, Lord Cataclysm, will live on in memory, if not in body.",
+		"introduction": "I am Pachacuti, favored of the sun and child of the mountains. Shake in my presence as the earth itself does.",
+		
+		"neutralHello": "Greetings, leader.",
+		"neutralLetsHearIt": ["Will this please the Inca?"],
+		"neutralNo": ["This proposal isnt very good."],
+		"neutralYes": ["I shall live by it"],
+
+		"hateHello": "Your presence is heard",
+		"hateLetsHearIt": ["Hmph..."],
+		"hateNo": ["This proposal lacks substance."],
+		"hateYes": ["...I shall do my best to live with this."],
+		
+		"afterPeace": "A revelation that we will live by.",
+		"tradeRequest": "May this deal shake the world!",
+
+		"outerColor": [120,61,3],
+		"innerColor": [249,218,2],
+		"uniqueName": "Apukuna",
+		"uniqueText": "Cities bonus Production equal to 10% of that City’s Food",
+		"uniques": ["Gain a free [Tawantinsuyu Ability] [in all cities]"],//Doesnt work.
+		"cities": ["Qusqu","Antawaylla","Wanuku","Willka Waman","Machu Pikchu","Ullantaytampu","Sausa","Kashamarka","Chucuito","Kitu",
+			"Ayak’uchu","Chan Chan","Pisac","Huancabamba","Ayaviri","Vitcos","Paria","Chuquiabo","Pachakamaq","Tumbez",
+			"Tumipampa","Inka Pirka","Wankawilka","Ica"],
 	},
 
 	{
@@ -523,19 +717,19 @@
 		"neutralNo": ["No."],
 		"neutralYes": ["This is good."],
 
-		"hateHello": "",
-		"hateLetsHearIt": [""],
-		"hateNo": [""],
-		"hateYes": [""],
+		"hateHello": "You again...",
+		"hateLetsHearIt": ["Speak up!"],
+		"hateNo": ["Are you a plank?"],
+		"hateYes": ["Even morons like you sometimes make sense."],
 		
 		"afterPeace": "And now, we shall stop fighting",
 		"tradeRequest": "What if we make a deal, you and me?",
 
-		"outerColor": [40,240,230],
-		"innerColor": [200,50,0],
+		"outerColor": [121,0,2],
+		"innerColor": [0,195,140],
 		"uniqueName": "Negara",
-		"uniques": ["[+2 Science, +2 Gold, -2 Food] from every specialist [in all cities]"],
-		"cities": ["Wilwakikta","Lumajang","Daha","Tuban","Hujung Galuh","Pajang","Palembang","Jambi","Berune","Tumasik",
+		"uniques": ["Comment [[+2 Science, +2 Gold, -1 Food] from every specialist [in all cities except the capital]]", "[+2 Science, +2 Gold, -1 Food] from every specialist [in all cities] <hidden from users>", "[-2 Science, -2 Gold, +1 Food] from every specialist [in capital] <hidden from users>", "[+2 Happiness] in cities on [Coastal] tiles"],
+		"cities": ["Wilwatikta","Lumajang","Daha","Tuban","Hujung Galuh","Pajang","Palembang","Jambi","Berune","Tumasik",
 			"Kalanten","Samudra","Lamuri","Barus","Darmmacraya","Bedahulu","Lwagajah","Lombok Mirah","Gurun","Saksak",
 			"Sukdana","Sampit","Panai","Taliwang"],
 	},
@@ -555,8 +749,8 @@
 		"defeated": "The road ahead is dark, the surrounding pines are dense like walls. Above I cannot see the heavens, and below I cannot see the earth.",
 		"introduction": "I am the Yongle Emperor, friend to those who would steer their trade ships in my direction, and terrible to those who oppose me.",
 		
-		"neutralHello": "",
-		"neutralLetsHearIt": [""],
+		"neutralHello": "I welcome you.",
+		"neutralLetsHearIt": ["Go on..."],
 		"neutralNo": ["We cannot accept, unfortunately"],
 		"neutralYes": ["Let both benefit"],
 
@@ -571,11 +765,49 @@
 		"outerColor": [50,140,70],
 		"innerColor": [200,200,160],
 		"uniqueName": "Great Canon of Yongle",
+		"uniqueText":"+10% [Science] after starting a Policy tree\n-10 [Science] after completing a Policy Tree",
 		"uniques": ["[+10]% [Science]  <after adopting [Tradition]>","[+10]% [Science] <after adopting [Liberty]>","[+10]% [Science] <after adopting [Honor]>","[+10]% [Science] <after adopting [Piety]>","[+10]% [Science] <after adopting [Commerce]>","[+10]% [Science] <after adopting [Rationalism]>","[+10]% [Science]  <after adopting [Order]>","[+10]% [Science] <after adopting [Freedom]>","[+10]% [Science] <after adopting [Autocracy]>","[+10]% [Science] <after adopting [Patronage]>",
 			"[-10 Science] <after adopting [Tradition Complete]>","[-10 Science] <after adopting [Liberty Complete]>","[-10 Science] <after adopting [Honor Complete]>","[-10 Science] <after adopting [Piety Complete]>","[-10 Science] <after adopting [Commerce Complete]>","[-10 Science] <after adopting [Rationalism Complete]>","[-10 Science] <after adopting [Order Complete]>","[-10 Science] <after adopting [Freedom Complete]>","[-10 Science] <after adopting [Autocracy Complete]>","[-10 Science] <after adopting [Patronage Complete]>"],
 		"cities":["Yingtian","Beiping","Fuzhou","Guangzhou","Hangzhou","Guilin","Guiyang","Kaifeng","Hankou","Nanchang",
 			"Jinan","Taiyuan","Chengdu","Yunnan","Nanning","Luzhou","Wuchang","Quanzhou","Changsha","Hangyang",
 			"Xiangyang","Jingzhou","Xiamen","Luoyang"],
+	},
+
+	{
+		"name": "Yeke Mongɣol Ulus",
+		"leaderName": "Chinggis Khaan",
+		"adjective": ["Mongol"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "A name whispered in the nightmares of the settled lands, the Mongols stand poised to shatter the world – and remake it in a new image. With the thunder of bombards and roll of hooves, the hordes come. Lead them, and sow destruction among your enemies.",
+		"startIntroPart2": "You were born Temujin - but the world knows you as Chinggis Khaan, the Universal Ruler, the terror of the steppe. At your word, the hordes ride, armies flee, walls crumble, and hopes fail. Take up your bow, Khagan - the world has gone soft. Let it know fear.",
+		
+		"declaringWar": "My enemy, I will not defeat you. I will annihilate your entire bloodline",
+		"attacked": "Ha! You attack me? You seek your own demise",
+		"defeated": "Tengri, have you forsaken me!? Has my destiny failed!?",
+		"introduction": "I am Chinggis Khaan. Are you friend or foe? For your sake, I hope a peace-seeking friend",
+		
+		"neutralHello": "Greetings, friend.",
+		"neutralLetsHearIt": ["Lets see..."],
+		"neutralNo": ["Your vision hinders my own"],
+		"neutralYes": ["Your words hold the wisdom of the divine"],
+
+		"hateHello": "Get this filth away from me.",
+		"hateLetsHearIt": ["What could you possibly want from me?"],
+		"hateNo": ["Your vision is pathetic compared to my own."],
+		"hateYes": ["Maybe your words some wisdom after all..."],
+		
+		"afterPeace": "The Eternal Blue Sky commands all.",
+		"tradeRequest": "I hope this offer seeks you well.",
+
+		"outerColor": [25,65,150],
+		"innerColor": [185,210,155],
+		"uniqueName": "Bokh",
+		"uniques": ["[-10]% Production when constructing [Settler] units [in all cities]","Gain a free [Courthouse] [in annexed cities]", "Comment [+1 [Movement] for all units]", "[Land] units gain the [Ulus] promotion <hidden from users>"],
+		"cities":["Qaraqorum","Qobdo","Khüree","Uliastai","Aurag","Khiagt","Ulaangom","Dulüün Boldog","Khuduu Aral","Sainshand",
+			"Altai","Ayil Qaraqana","Khökh Nuur","Kherlen Bar Khot","Burgi Ereg","Qorqonaq Jubur","Vangiin Khüree","Dalan Nemürges","Tajkal Khorga","Chakirmaut",
+			"Qarabalghasun","Bürgi-ergi","Choir","Burkhan Khaldun"],
 	},
 
 
@@ -592,25 +824,25 @@
 		"declaringWar": "Your realm shall be under my rightful rule!",
 		"attacked": "So it shall be! To arms!",
 		"defeated": "This shall be written in the history books, about how I, the great King, have been deposed by a pathetic barbarian.",
-		"introduction": "Welcome! I am William, King of Noermandy and Conquerer of lands beyond. Would you like to join me in a feast, your scouts look very tired.",
+		"introduction": "Welcome! I am William, King of Normandy and Conquerer of lands beyond. Would you like to join me in a feast? Your scouts look very tired.",
 		
-		"neutralHello": "",
-		"neutralLetsHearIt": [""],
-		"neutralNo": [""],
-		"neutralYes": [""],
+		"neutralHello": "Good to see you, friend!",
+		"neutralLetsHearIt": ["Yes?"],
+		"neutralNo": ["No."],
+		"neutralYes": ["Yes!"],
 
-		"hateHello": "",
-		"hateLetsHearIt": [""],
-		"hateNo": [""],
-		"hateYes": [""],
+		"hateHello": "What do you want, fool?",
+		"hateLetsHearIt": ["Go on..."],
+		"hateNo": ["Do you have an arrow stuck in your eye?"],
+		"hateYes": ["SO be it."],
 		
 		"afterPeace": "Now you shall remember what the Norman people are capable of!",
 		"tradeRequest": "How about this deal?",
 
-		"outerColor": [10,10,135],
-		"innerColor": [190,25,20],
+		"outerColor": [1,42,107],
+		"innerColor": [202,20,19],
 		"uniqueName": "Normannitas",
-		"uniques": [ "[Land] units gain the [Normannitas] promotion"],
+		"uniques": [ "[Land] units gain the [Normannitas] promotion", "Comment [+1 [Gold] from every [Farm], doubled in a Golden Age]", "[+1 Gold] from every [Farm] <hidden from users>", "[+1 Gold] from every [Farm] <during a Golden Age> <hidden from users>",],
 		"cities": ["Rouen","Kaem","Bayeux","Falaise","Hastinges","Fecamp","Wyncestre","Lundres","Dovorre","Gisors",
 			"Everwyk","Cheregugh","Cantorbire","Dives","Colcestre","Norwiche","Mortaigne","Diepe","Lincoln","Evrous",
 			"Boseham","Avraunches","Melfi","Avraunches"],
@@ -633,17 +865,17 @@
 		"introduction": "You see a star that crosses the night sky like a bolt of lightning? That is me, Tecumseh, the one who leaps great distances.",
 		
 		"neutralHello": "Good day, my friend.",
-		"neutralLetsHearIt": ["Yes."],
+		"neutralLetsHearIt": ["Yes?"],
 		"neutralNo": ["No"],
 		"neutralYes": ["Deal. Don’t make us regret it."],
 
 		"hateHello": "Why do you approach me?",
 		"hateLetsHearIt": ["Don't make a fool of yourself."],
 		"hateNo": ["No"],
-		"hateYes": ["I'm already starting to regret accepting this deal."],
+		"hateYes": ["I'm already starting to regret this deal."],
 		
 		"afterPeace": "Don’t make us regret this peace.",
-		"tradeRequest": "",
+		"tradeRequest": "Let us assess this deal over these peace pipes.",
 
 		"outerColor": [160,115,185],
 		"innerColor": [230,230,0],
@@ -652,6 +884,43 @@
 		"cities": ["Cilakofa","Pikawiiki","Thuthy's Hotewe","Penfekim'teko","White Oak","Little Axe","Prophet's Town","Sekakwis","Wakacaalli","Yetakapewaki",
 			"Ikan'hatki","Wapa'konetta","Cornstalk's Town","Nonhelema's Town","Nepipemi Hotaapata","Saawanwa Hotewe","Wapatomica","Makacheki","Mawaskawewiikiwa","New Pekowiki",
 			"Chillicothe Old Town","Bluejacket's Town","Wicita","Eskalapia"],
+	},
+
+	{
+		"name": "Songhay",
+		"leaderName": "Sonni Ali",
+		"adjective": ["Songhay"],
+		"startBias": ["River","Desert","Plains","Coast"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "From the heart of the Sahel, the Songhai will emerge upon the river's waves to take the world by storm. \nAs the Empire of Mali faltered, their Songhai vassals rose up to form one of the largest states in Africa. Songhai revitalized Islam in the region, renewed the academic community in Timbuktu, and controlled the trans-Saharan trade. But the empire’s days were numbered when the Moroccans invaded, armed with gunpowder and seeking new routes for their own prosperity.",
+		"startIntroPart2": "",
+		
+		"declaringWar": "You have served no purpose other than being a burden to my kingdom. You shall pay the ultimate price.",
+		"attacked": "You underestimate the power of the Songhay. Our riches can be used to do much more than be used for ornaments... much, much more.",
+		"defeated": "To be drowned in faliure this size is an embarassment to my ancestors, ...my dynasty, ...my people. I shall be the last of my dynasty, and die of shame....",
+		"introduction": "I am Sonni Ali, the Great leader of the Songhay. Make sure you tread in these waters carefully.",
+		
+		"neutralHello": "May you hae peace.",
+		"neutralLetsHearIt": ["A trade?"],
+		"neutralNo": ["No... thts not it..."],
+		"neutralYes": ["This is greatly favourable."],
+
+		"hateHello": "Well?",
+		"hateLetsHearIt": ["What makes you think we will accept this?"],
+		"hateNo": ["I told you."],
+		"hateYes": ["..."],
+		
+		"afterPeace": "Let the terror of the Songhay haunt your dreams.",
+		"tradeRequest": "Lets make the trade caraans between our nations flourish!",
+
+		"outerColor": [250,219,2],
+		"innerColor": [113,20,0],
+		"uniqueName": "Tarikh al-Sudan",
+		"uniques": [ "[+2 Gold] from every [River] <in cities with a [Market]>", "[Civillian] units gain the [Amphibious] promotion"],
+		"cities": ["Gao","Timbuktu","Jenne","Kukiya","Lulami","Tendirma","Kumbi Saleh","Tenenku","Agadez","Tadmekka",
+			"Gobir","Gaya","Katsina","Zaria","Takedda","Kabara","Kano","Walata","Sibiridugu","Segu",
+			"Bamba","Teghazza","Yatemga","Dia"],
 	},
 
 	{
@@ -683,8 +952,8 @@
 		"afterPeace": "Send it to my secretary and put my seal on it!",
 		"tradeRequest": "Our riches must cause much envy in your people. Here is a deal to satisfy your subjects greed.",
 
-		"outerColor": [196,20,21],
-		"innerColor": [249,218,2],
+		"outerColor": [255,178,60],
+		"innerColor": [212,20,21],
 		"uniqueName": "Siglo de Oro",
 		"uniques": [ "[+30]% [Gold] [in all cities] <on foreign continents>", "[+10]% [Food] [in all cities] <on foreign continents>", "[+10]% [Production] [in all cities] <on foreign continents>"],
 		"cities": ["Madrid","Sevilla","Barcelona","Toledo","Córdoba","Valencia","Zaragoza","Valladolid","Bilbao","A Coruña",
@@ -720,10 +989,10 @@
 		"afterPeace": "A capital proposal — let's make it work!",
 		"tradeRequest": "Let us create a trade agreement so that our nations shall prosper!",
 
-		"outerColor": [249,249,249],
+		"outerColor": [234,225,158],
 		"innerColor": [1,42,108],
 		"uniqueName": "Frontier Expansion",
-		"uniques": ["[+25]% Production when constructing [All] units [in all cities] <for [10] turns> <upon declaring war with a major Civilization>", "[Gold] cost of purchasing [Civilian] units [-50]%"],
+		"uniques": ["[+25]% Production when constructing [All] units [in all cities] <for [10] turns> <upon declaring war on [Major] Civilizations>", "[Gold] cost of purchasing [Civilian] units [-50]%"],
 		"cities": ["Washington, D.C.","New York City","Philadelphia","Baltimore","Boston","Chicago","New Orleans","St Louis","Cincinnati","Cleveland",
 			"Pittsburgh","Buffalo","San Francisco","Detroit","Charleston","Albany","Newark","Providence","Milwaukee","Los Angeles",
 			"Salem","Louisville","Richmond","Minneapolis"],
@@ -739,23 +1008,23 @@
 		"startIntroPart1": "Chaos is the absence of order, and the world needs structure. Great Britain ascends. \nThe sun never sets on Great Britain’s vast empire. Its territories spread across all continents, funneling raw materials from colonial holdings to the factories of the metropole. Foreign policy was conducted through economic strategy, extensive diplomacy, and threat of war. The British navy dominated the seas, while at home, society found a new order amid the explosion of industry. Under Pax Britannica, the world followed Britain’s lead.",
 		"startIntroPart2": "",
 		
-		"declaringWar": "",
-		"attacked": "",
-		"defeated": "",
-		"introduction": "",
+		"declaringWar": "Your nation lacks the basic properties of civilisation. Her Majesty's governmant therefore will grant you theit greatest favour, to be civilised by the British!",
+		"attacked": "You underestimate the power of our empire! If you are so willing to walk into the mouth of a sleeping lion, then war it is!",
+		"defeated": "Even after rallying the people to fight for their nation, the only thing left loyal to me is my writing, and myself...",
+		"introduction": "On behalf of Her Majesty, I welcome you to the United Kingdom of Great Britain. I am Benjamin Disreali, Prime Minister of this land.",
 
-		"neutralHello": "",
+		"neutralHello": "Greetings.",
 		"neutralLetsHearIt": [""],
 		"neutralNo": [""],
 		"neutralYes": [""],
 
-		"hateHello": "",
+		"hateHello": "We do not accomodate brutes like you.",
 		"hateLetsHearIt": [""],
 		"hateNo": [""],
 		"hateYes": [""],
 		
-		"afterPeace": "",
-		"tradeRequest": "",
+		"afterPeace": "Lets hope you will remember our attempts of civilising you.",
+		"tradeRequest": "Let us maintain the amicable relations between our nations",
 
 		"outerColor": [0,0,164],
 		"innerColor": [255,255,255],
@@ -781,12 +1050,12 @@
 		"defeated": "Now that I shall die, so shall Buganda. Now you will savage my lands, and destroy the Baganda.",
 		"introduction": "I am Mwanga, son of Mutesa. What Mutesa was in Buganda, I am also. Anyone who stands against my people will not have mercy spared upon them.",
 
-		"neutralHello": "",
+		"neutralHello": "Welcome.",
 		"neutralLetsHearIt": [""],
 		"neutralNo": [""],
 		"neutralYes": [""],
 
-		"hateHello": "",
+		"hateHello": "You dare disturb me?!",
 		"hateLetsHearIt": [""],
 		"hateNo": [""],
 		"hateYes": [""],
@@ -797,7 +1066,7 @@
 		"outerColor": [179,179,107],
 		"innerColor": [161,51,43],
 		"uniqueName": "'Nnalubaale",
-		"uniques": [ "[+2 Culture, +2 Food] from every [Lakes]", "[Land] units gain the [Amphibious] promotion"],
+		"uniques": [ "[+2 Culture, +2 Food] from every [Lakes]", "[Military] units gain the [Amphibious] promotion"],
 		"cities": ["Kampala","Kasangati","Mukono","Ssentema","Butoolo","Mitiyana","Buzinde","Nakasongola","Kaabasanda","Masaka",
 			"Sembalue","Lakaayi","Kabula","Mwera","Ntenjeru","Mpenja","Kanoni","Kaweeri","Kalangala","Maggyo",
 			"Kibbale","Kakumiro","Jinja","Entebbe"],
@@ -805,30 +1074,30 @@
 
 	{
 		"name": "Imperial France",
-		"leaderName": "Napoleon III",
+		"leaderName": "Lafayette",
 		"adjective": ["French"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "France looks out upon an incomplete world-- a blank canvas waiting to be marked.\nFrom the long shadow of the guillotine, to the bright streamers of the revolutionary cockade, to the thunder of Napoleon’s cannon, to the Belle Epoque’s “City of Light” and the iron needle of the Eiffel Tower – France emerges. In the wake of the Revolution, the nation rocked from monarchy to republic and back again. But the Third French Republic brought a moment of respite, of avenues, industry, and salons…a breath before the coming storms.",
-		"startIntroPart2": "",
+		"startIntroPart2": "Gilbert du Motier, the Marquis de Lafayette, made his mark on two continents, leading troops in the American Revolution, and being a voice of reason in France, between the twin horrors of autocracy and revolutionary retribution. While his legacy is impressive, his most skillful feat may simply be survival at the center of some of the greatest tumult of his time.",
 		
-		"declaringWar": "",
-		"attacked": "",
-		"defeated": "",
-		"introduction": "",
+		"declaringWar": "Sic semper tyrannis.",
+		"attacked": "Tyranny is strong. Liberty is stronger.",
+		"defeated": "To go with so much left undone! To depart with a dream yet unfulfilled?",
+		"introduction": "Just Citizen Lafayette, s'il vous plait.",
 
-		"neutralHello": "",
-		"neutralLetsHearIt": [""],
-		"neutralNo": [""],
-		"neutralYes": [""],
+		"neutralHello": "Welcome.",
+		"neutralLetsHearIt": ["Yes?"],
+		"neutralNo": ["Please, this is unreasonable."],
+		"neutralYes": ["Yes, yes, this is sensible."],
 
-		"hateHello": "",
-		"hateLetsHearIt": [""],
-		"hateNo": [""],
-		"hateYes": [""],
+		"hateHello": "You again...",
+		"hateLetsHearIt": ["Go on..."],
+		"hateNo": ["This is unacceptable!"],
+		"hateYes": ["...This is reasonable."],
 		
-		"afterPeace": "",
-		"tradeRequest": "",
+		"afterPeace": "We now walk always between two abysses. Care and moderation is our path forward.",
+		"tradeRequest": "Is this reasonable for you?",
 
 		"outerColor": [66,100,174],
 		"innerColor": [242,244,183],
@@ -869,7 +1138,7 @@
 		"outerColor": [255,255,255],
 		"innerColor": [209,19,45],
 		"uniqueName": "Goisshin",
-		"uniques": ["[+50]% Production when constructing [Science] buildings [in all cities]","[+50]% Production when constructing [Production] buildings [in all cities]",],
+		"uniques": ["[+50]% Production when constructing [Science] buildings [in all cities]","[+50]% Production when constructing [Production] buildings [in all cities]"],
 		"cities": ["Tokyo","Osaka","Kyoto","Kanazawa","Nagoya","Sendai","Fushimi","Kagoshima","Kumamoto","Sakai",
 			"Fukui","Hirosaki","Matsue","Tottori","Fukuoka","Nagasaki","Morioka","Yonezawa","Hikone","Kochi",
 			"Akita","Niigata","Nara","Wakamatsu"],
@@ -904,8 +1173,8 @@
 		"afterPeace": "",
 		"tradeRequest": "",
 
-		"outerColor": [0,100,5],
-		"innerColor": [200,50,0],
+		"outerColor": [12,82,56],
+		"innerColor": [249,24,30],
 		"uniqueName": "Revolución",
 		"uniqueText": "+20% [Culture] for 12 turns after starting any policy tree",
 		"uniques": ["[+20]% [Culture] <for [12] turns> <after adopting [Tradition]>","[+20]% [Culture] <for [12] turns> <after adopting [Liberty]>","[+20]% [Culture] <for [12] turns> <after adopting [Honor]>","[+20]% [Culture] <for [12] turns> <after adopting [Piety]>","[+20]% [Culture] <for [12] turns> <after adopting [Commerce]>","[+20]% [Culture] <for [12] turns> <after adopting [Rationalism]>","[+20]% [Culture] <for [12] turns> <after adopting [Order]>","[+20]% [Culture] <for [12] turns> <after adopting [Freedom]>","[+20]% [Culture] <for [12] turns> <after adopting [Autocracy]>","[+20]% [Culture] <for [12] turns> <after adopting [Patronage]>"],
@@ -946,7 +1215,7 @@
 		"outerColor": [0, 109, 33],
 		"innerColor": [255, 215, 0],
 		"uniqueName": "Paradise of Nations",
-		"uniques": [ "[-25]% [Culture] [in all cities]", "[-25]% [Science] [in all cities]", "[-25]% [Production] [in all cities]", "[+100]% [Gold] [in all cities]"],
+		"uniques": [ "[-20]% [Culture] [in all cities]", "[-20]% [Science] [in all cities]", "[-20]% [Production] [in all cities]", "[+100]% [Gold] [in all cities]"],
 		"cities": ["Dilī","Āgra","Kābul","Allāhābād","Lahore","Ahmadabad","Banaras","Cambay","Surat","Burhanpur",
 			"Thatta","Aurangabad","Bahkkar","Multan","Patna","Faizabad","Lucknow","Ajmer","Ujjain","Kashmir",
 			"Dhaka","Ellichpur","Bidar","Bijapur"],
@@ -1016,12 +1285,21 @@
 		"hateYes": ["So be it."],
 		
 		"afterPeace": "'Bien sur,' this is a rational offer!",
-		"tradeRequest": "",
+		"tradeRequest": "These gifts shall seek you well, no?",
 
 		"outerColor": [252,206,24],
 		"innerColor": [0,0,0],
 		"uniqueName": "Blood and Iron",
-		"uniques": [ "[+50]% to Flank Attack bonuses", "[Mounted] units gain the [Skirmish] promotion"],
+		"uniqueText": "2 free Melee units appear after contructing [Science] buildings\n[Mounted] units gain the [Skirmish] promotion",
+		"uniques": [ "[2] free [Warrior] units appear <before discovering [Iron Working]> <upon constructing [Science]>",
+			"[2] free [Swordsman] units appear <after discovering [Iron Working]> <before discovering [Steel]> <upon constructing [Science]>",
+			"[2] free [Longswordsman] units appear <after discovering [Steel]> <before discovering [Gunpowder]> <upon constructing [Science]>",
+			"[2] free [Musketman] units appear <after discovering [Gunpowder]> <before discovering [Steel]> <upon constructing [Science]>",
+			"[2] free [Rifleman] units appear <after discovering [Rifling]> <before discovering [Replaceable Parts]> <upon constructing [Science]>",
+			"[2] free [Great War Infantry] units appear <after discovering [Replaceable Parts]> <before discovering [Plastics]> <upon constructing [Science]>",
+			"[2] free [Infantry] units appear <after discovering [Plastics]> <before discovering [Mobile Tactics]> <upon constructing [Science]>",
+			"[2] free [Mechanized Infantry] units appear <after discovering [Mobile Tactics]> <upon constructing [Science]>",
+			"[Mounted] units gain the [Skirmish] promotion"],
 		"cities": ["Berlin","Hamburg","München","Dresden","Leipzig","Köln","Frankfurt am Main","Nürnberg","Düsseldorf","Hannover",
 			"Stutgart","Chemnitz","Magdeburg","Charlottenburg","Essen","Königsberg","Bremen","Duisburg","Dortmund","Halle an der Saale",
 			"Altona","Straßburg","Keil","Mannheim"],
@@ -1056,10 +1334,10 @@
 		"afterPeace": "",
 		"tradeRequest": "",
 
-		"outerColor": [250,250,0],
-		"innerColor": [10,20,90],
+		"outerColor": [250,219,2],
+		"innerColor": [16,41,87],
 		"uniqueName": "Kang Qian Shengshi",
-		"uniques": [ "[+4 Gold, +3 Culture, +2 Production] from every [Customs house]", "[-1 Science] from each Trade Route"],
+		"uniques": [ "[+4 Gold, +3 Culture, +2 Production, +2 Food] from every [Customs house]", "[-1 Science] from each Trade Route"],
 		"cities": ["Beijing","Guangzhou","Nanjing","Suzhou","Wuchang","Changsha","Shanghai","Shenyang","Lanzhou","Kunming",
 			"Fuzhou","Chengdu","Hankou","Taipei","Qingdao","Guiyang","Shenzhen","Harbin","Hong Kong","Taiyuan",
 			"Tianjin","Foshan","Weihai","Zhenjiang"],
@@ -1094,10 +1372,10 @@
 		"afterPeace": "Lovely! Let us make it so!",
 		"tradeRequest": "Will my offer to you suffice?",
 
-		"outerColor": [166,0,24],
-		"innerColor": [252,220,3],
+		"outerColor": [249,249,249],
+		"innerColor": [0,79,206],
 		"uniqueName": "Prosveshchenie",
-		"uniques": ["[+1 Culture] from every [Building]", "[+1 Science] from every [Building] <in [Tundra] tiles>"],
+		"uniques": ["[+4]% [Culture] [in all cities] <for every [Cities]>", "[+1 Science] from every [Building] <in [Tundra] tiles>"],
 		"cities": ["St. Petersburg","Moscow","Saratov","Kazan","Rostov na Donu","Astrakhan","Tula","Nijni-Novgorod","Nikolaieff","Samara",
 			"Voronezh","orenburg","Yaroslavl","Orel","Ekaterinodar","Cronstadt","Tsaritsyn","Penza","Tver","Tomsk",
 			"Kursk","Novotcherkask","Irkstk","Ufa"],

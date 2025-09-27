@@ -1,3 +1,28 @@
+Art made by Basil, in order of when they were added:
+- Chevaler
+- Jaguar Hunter
+- Voi Chien
+- Bolyar
+- Roman Legion
+- Xunleichong
+- Phalanx
+- Medjay
+- Warak'aq
+- Leiomano
+- Lo'i Kalo
+- Water Puppet Theater
+- Han Chu Ko Nu
+- Magarru
+- Colonist
+- Kalam
+- Gurkha
+- Soldederas
+- Highland Power Station
+- Jaguar Trap
+
+
+These credits are for the placeholer icons when the mod was in heavy development. Some of the improvement icons and building icons are however still in use.
+
 Civ Icons
 * AKSUM - Coptic Cross by Avana Vana from <a href="https://thenounproject.com/browse/icons/term/coptic-cross/" target="_blank" title="Coptic Cross Icons">Noun Project</a> (CC BY 3.0)
 * HAN- Horse by designer468 from <a href="https://thenounproject.com/browse/icons/term/horse/" target="_blank" title="Horse Icons">Noun Project</a> (CC BY 3.0)
@@ -22,6 +47,7 @@ Improvements
 - HALWIT - aksum by Linseed Studio from <a href="https://thenounproject.com/browse/icons/term/aksum/" target="_blank" title="aksum Icons">Noun Project</a> (CC BY 3.0)
 - Pairidaeza - violet by parkjisun from <a href="https://thenounproject.com/browse/icons/term/violet/" target="_blank" title="violet Icons">Noun Project</a> (CC BY 3.0)
 - HAN GREAT WALL - great wall by Danil Polshin from <a href="https://thenounproject.com/browse/icons/term/great-wall/" target="_blank" title="great wall Icons">Noun Project</a> (CC BY 3.0)
+- ORTOO - horse rider by Dimitri Lupo from <a href="https://thenounproject.com/browse/icons/term/horse-rider/" target="_blank" title="horse rider Icons">Noun Project</a> (CC BY 3.0)
 - MAWASKAWE SKOTE - Fire by Aisyah from <a href="https://thenounproject.com/browse/icons/term/fire/" target="_blank" title="Fire Icons">Noun Project</a> (CC BY 3.0)
 - KABAKA'S LAKE - Lake by Muhammad Nur Auliady Pamungkas from <a href="https://thenounproject.com/browse/icons/term/lake/" target="_blank" title="Lake Icons">Noun Project</a> (CC BY 3.0)
 - STEPWELL - indian stepwell by Line & Dot Studio from <a href="https://thenounproject.com/browse/icons/term/indian-stepwell/" target="_blank" title="indian stepwell Icons">Noun Project</a> (CC BY 3.0)
@@ -31,6 +57,9 @@ Improvements
 
 Buildings
 - VIHARA - Pagoda by Ahmad Roaayala from <a href="https://thenounproject.com/browse/icons/term/pagoda/" target="_blank" title="Pagoda Icons">Noun Project</a> (CC BY 3.0)
+- PUNIC PORT - Harbor by Andhi Yulianto from <a href="https://thenounproject.com/browse/icons/term/harbor/" target="_blank" title="Harbor Icons">Noun Project</a> (CC BY 3.0)
+- ACROPOLIS - acropolis by Wuppdidu from <a href="https://thenounproject.com/browse/icons/term/acropolis/" target="_blank" title="acropolis Icons">Noun Project</a> (CC BY 3.0)
+- FORUM - Pillar by Anton from <a href="https://thenounproject.com/browse/icons/term/pillar/" target="_blank" title="Pillar Icons">Noun Project</a> (CC BY 3.0)
 - AVJUVVANAM - chennai by Lars Meiertoberens from <a href="https://thenounproject.com/browse/icons/term/chennai/" target="_blank" title="chennai Icons">Noun Project</a> (CC BY 3.0)
 - NECROPOLIS - temple of seti by Brickclay from <a href="https://thenounproject.com/browse/icons/term/temple-of-seti/" target="_blank" title="temple of seti Icons">Noun Project</a> (CC BY 3.0)
 - PURA - pura by alifiyah fitri nurisa from <a href="https://thenounproject.com/browse/icons/term/pura/" target="_blank" title="pura Icons">Noun Project</a> (CC BY 3.0)

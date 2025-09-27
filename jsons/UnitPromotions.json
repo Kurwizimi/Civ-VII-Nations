@@ -1,7 +1,17 @@
 [
+        {
+        "name": "[Magarru] ability",
+       "uniques": ["[This Unit] gains [2] movement <upon damaging a [Land] unit>"]
+    },
+       
        {
         "name": "[Medjay] ability",
        "uniques": ["[+15]% Strength <when fighting in [Friendly Land] tiles>", "[+15]% Strength <when fighting in [City center] tiles>"]
+    },
+
+       {
+        "name": "[Phalanx] ability",
+        "uniques": ["[+10]% Strength <when adjacent to a [Phalanx] unit>"]
     },
        
        {
@@ -17,6 +27,11 @@
         {
         "name": "[Xshasan Immortal] ability",
         "uniques": ["Heals [15] damage if it kills a unit"]
+    },
+
+       {
+        "name": "[Roman Legion] ability",
+        "uniques": ["[+10]% Strength <for every [Completed Policy branches]>"]
     },
 
 
@@ -35,9 +50,24 @@
         "uniques": ["Can pass through impassable tiles","[This Unit] heals [50] HP <upon ending a turn in a [Mountain] tile>"]
     },
 
+       {
+        "name": "Ulus",
+       "uniques": ["[+1] Movement","[This Unit] gains [2] movement <upon entering a [Örtöö] tile>"]
+    },
+
+       {
+        "name": "[Keshig] ability",
+        "uniques": ["[This Unit] heals [15] HP <upon defeating a [Military] unit>"]
+    },
+
         {
         "name": "[Chevaler] ability",
         "uniques": ["[+15]% Strength <vs [Sword] units>"]
+    },
+
+       {
+        "name": "[Golden Bangles] ability",
+       "uniques": ["[+15]% Strength <for every adjacent [resource]>"]
     },
 
          {

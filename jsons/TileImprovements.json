@@ -1,13 +1,12 @@
 [
     {
-        "name": "Halwit",
+        "name": "Hawilt",
         "uniqueTo": "Aksum",
         "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Snow","Flood plains"],
         "gold": 2,
-        "culture": 1,
         "turnsToBuild": 7,
         "techRequired": "Masonry",
-        "uniques": ["[+1 Culture] for each adjacent [Halwit]", "Pillaging this improvement yields approximately [+25 Gold]"],
+        "uniques": ["[+1 Culture] for each adjacent [Hawilt]", "Pillaging this improvement yields approximately [+25 Gold]"],
         "shortcutKey": "H"
     },
   {
@@ -23,25 +22,26 @@
   {
         "name": "Baray",
         "uniqueTo": "Khmer",
-        "terrainsCanBeBuiltOn": ["River","Flood plains","Marsh"],
+        "terrainsCanBeBuiltOn": ["Plains","Grassland","Tundra","Desert","Flood plains"],
         "food": 3,
         "turnsToBuild": 7,
         "techRequired": "Masonry",
-        "uniques": ["[+1 Food] from [Flood plains] tiles","[+1 Food] from [Fresh water] tiles", "Pillaging this improvement yields approximately [+25 Gold]"],
+        "uniques": ["[+1 Food] from [Flood plains] tiles","[+1 Food] from [Fresh water] tiles", "Does not need removal of [Marsh]", "Only available <with [0] to [0] neighboring [Baray] tiles>", "Pillaging this improvement yields approximately [+25 Gold]"],
         "shortcutKey": "B"
     },
     {
         "name": "Jaguar Trap",
         "uniqueTo": "Ki'iche",
-        "terrainsCanBeBuiltOn": ["Plains","Grassland","Tundra","Hill", "Forest","Jungle"],
+        "terrainsCanBeBuiltOn": ["Plains","Grassland","Tundra","Hill", "Forest","Jungle", "Desert", "Flood plains"],
         "turnsToBuild": 1,
-        "uniques": ["Adjacent enemy units ending their turn take [15] damage",  "Can be built outside your borders", "Does not need removal of [Forest]", "Does not need removal of [Jungle]", "Destroyed when pillaged", "Pillaging this improvement yields approximately [+40 Gold]"],
+        "uniques": ["Adjacent enemy units ending their turn take [15] damage",  "Can be built outside your borders", "Does not need removal of [Forest]", "Does not need removal of [Jungle]", "Destroyed when pillaged",
+                    "Pillaging this improvement yields approximately [+40 Gold]"],
         "shortcutKey": "T"
     },//"Only available <for [Jaguar Hunter] units>",
   {
         "name": "Potkop",
         "uniqueTo": "Mississipi",
-        "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Snow","Hill"],
+        "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Snow"],
         "gold": 2,
         "turnsToBuild": 7,
         "techRequired": "Calendar",
@@ -56,7 +56,7 @@
         "culture": 1,
         "turnsToBuild": 7,
         "techRequired": "Mathematics",
-        "uniques": ["[+1 Happiness] for each adjacent [Great Improvement]", "Pillaging this improvement yields approximately [+25 Gold]"],
+        "uniques": ["[+1 Happiness] for each adjacent [Great Improvement]","[+1 Happiness] for each adjacent [Pairidaeza]", "Pillaging this improvement yields approximately [+25 Gold]"],
         "shortcutKey": "P"
     },
   {
@@ -66,8 +66,19 @@
         "production": 4,
         "turnsToBuild": 7,
         "techRequired": "Metal Casting",
-        "uniques": ["Gives a defensive bonus of [60]%", "Pillaging this improvement yields approximately [+25 Gold]"],
+        "uniques": ["Gives a defensive bonus of [50]%", "Pillaging this improvement yields approximately [+25 Gold]"],
         "shortcutKey": "H"
+    },
+    {
+        "name": "Water Puppet Theater",
+        "uniqueTo": "Đại Việt",
+        "terrainsCanBeBuiltOn": ["Land"],
+        "food": 1,
+        "happiness": 2,
+        "turnsToBuild": 7,
+        "techRequired": "Drama and Poetry",
+        "uniques": ["Can only be built on [River] tiles", "[+1 Culture] for each adjacent [River]", "Only available <with [0] to [0] neighboring [Water Puppet Theater] tiles>", "Pillaging this improvement yields approximately [+25 Gold]"],
+        "shortcutKey": "W"
     },
      {
         "name": "Lo'i Kalo",
@@ -76,19 +87,52 @@
         "food": 1,
         "production": 1,
         "turnsToBuild": 7,
-        "uniques": ["[+1 Culture] for each adjacent [Farm]", "[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>", "[+1 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>", "Pillaging this improvement yields approximately [+25 Gold]"],
+        "uniques": ["[+1 Culture] for each adjacent [Farm]", "[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>", "[+1 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>",   
+                    "Pillaging this improvement yields approximately [+25 Gold]"],
         "techRequired": "Construction",
-        "shortcutKey": "F"
+        "shortcutKey": "L"
+    },
+    {
+        "name": "Terraced Farm",
+        "uniqueTo": "Tawantinsuyu",
+        "terrainsCanBeBuiltOn": ["Hill"],
+        "food": 2,
+        "production": 1,
+        "turnsToBuild": 7,
+        "uniques": [ "[+1 Gold] for each adjacent [City center]","[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>", "[+1 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>",
+                    "Pillaging this improvement yields approximately [+25 Gold]"],
+        "techRequired": "Construction",
+        "shortcutKey": "T"
+    },
+    {
+        "name": "Örtöö",
+        "uniqueTo": "Yeke Mongɣol Ulus",
+        "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Snow"],
+        "gold": 2,
+        "turnsToBuild": 7,
+        "uniques": ["Comment [When a unit moves onto this tile, it gains 2 movement]", "Pillaging this improvement yields approximately [+25 Gold]"],
+        "techRequired": "Civil Service",
+        "shortcutKey": "O"
     },
      {
         "name": "Mawaskawe Skote",
         "uniqueTo": "Shawnee",
-        "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Forest","Jungle"],
+        "terrainsCanBeBuiltOn": ["Forest","Jungle"],
         "food": 3,
         "turnsToBuild": 7,
         "techRequired": "Civil Service",
         "uniques": ["[+1 Gold] for each adjacent [resource]", "Pillaging this improvement yields approximately [+25 Gold]"],
         "shortcutKey": "S"
+    },
+    {
+        "name": "Caravanaserai",
+        "uniqueTo": "Songhay",
+        "terrainsCanBeBuiltOn": ["Plains","Desert","Hill", "River"],
+        "gold": 3,
+        "turnsToBuild": 7,
+        "techRequired": "Civil Service",
+        "uniques": ["[+1 Gold] for each adjacent [resource]", "[+1 Gold] from [River] tiles", "Pillaging this improvement yields approximately [+25 Gold]"],
+        "shortcutKey": "C"
     },
     {
         "name": "Kabaka's Lake",
@@ -99,7 +143,7 @@
         "happiness": 2,
         "turnsToBuild": 7,
         "techRequired": "Engineering",
-        "uniques": ["[+1 Food] for each adjacent [{non-[Fresh water]} {Farm} ]", "Pillaging this improvement yields approximately [+25 Gold]"],
+        "uniques": ["[+1 Food] for each adjacent [{non-[Fresh water]} {Farm}]", "Only available <with [0] to [0] neighboring [Kabaka's Lake] tiles>", "Pillaging this improvement yields approximately [+25 Gold]"],
         "shortcutKey": "K"
     },
     {
@@ -109,14 +153,14 @@
         "gold": 2,
         "turnsToBuild": 7,
         "techRequired": "Mathematics",
-        "uniques": ["[+1 Food] for each adjacent [Farm]", "Pillaging this improvement yields approximately [+25 Gold]"],
+        "uniques": ["[+2 Food] for each adjacent [Farm]", "Pillaging this improvement yields approximately [+25 Gold]"],
         "shortcutKey": "S"
     },
      {
         "name": "Highland Power Station",
         "uniqueTo": "Nepal",
         "terrainsCanBeBuiltOn": ["Mountain"],
-        "production": 2,
+        "production": 3,
         "turnsToBuild": 7,
         "techRequired": "Electricity",
         "uniques": ["[+1 Culture] for each adjacent [Mountain]", "Pillaging this improvement yields approximately [+25 Gold]"],
@@ -128,18 +172,18 @@
         "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Snow","Hill"],
         "turnsToBuild": 7,
         "techRequired": "Civil Service",
-        "uniques": ["[+2 Food] for each adjacent [Farm]", "[+2 Culture] from [Tundra] tiles", "Pillaging this improvement yields approximately [+25 Gold]"],
+        "uniques": ["[+2 Food] for each adjacent [Farm]", "[+2 Culture] from [Tundra] tiles", "[+2 Culture] from [Snow] tiles", "Only available <with [0] to [0] neighboring [Obshchina] tiles>","Pillaging this improvement yields approximately [+25 Gold]"],
         "shortcutKey": "O"
     },
     {
         "name": "Bang",
         "uniqueTo": "Rattanakosin",
-        "terrainsCanBeBuiltOn": ["River"],
+        "terrainsCanBeBuiltOn": ["Land"],
         "culture": 3,
         "happiness": 3,
         "turnsToBuild": 7,
         "techRequired": "Engineering",
-        "uniques": ["Pillaging this improvement yields approximately [+25 Gold]"],
+        "uniques": ["Can only be built on [River] tiles", "Pillaging this improvement yields approximately [+25 Gold]"],
         "shortcutKey": "B"
     },
 

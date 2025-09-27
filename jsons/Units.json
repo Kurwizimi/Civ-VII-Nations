@@ -17,6 +17,34 @@
     },
 
 	{
+	"name": "Magarru",
+	"replaces": "Chariot Archer",
+	"uniqueTo": "Assyria",
+	"unitType": "Archery",
+	"movement": 4,
+	"strength": 6,
+	"rangedStrength": 10,
+	"cost": 56,
+	"requiredTech": "The Wheel",
+	"upgradesTo": "Knight",
+	"obsoleteTech": "Chivalry",
+	"uniques": ["No defensive terrain bonus", "Rough terrain penalty","Can move after attacking"],
+	"promotions": ["[Magarru] ability"],
+	"attackSound": "arrow"
+	},
+
+	{
+        "name": "Colonist",
+	"replaces": "Settler",
+        "uniqueTo": "Qart Hashdat",
+        "unitType": "Civilian",
+        "movement": 2,
+        "cost": 106,
+        "uniques": ["Founds a new city <by consuming this unit>","Comment [Cities founded by this unit start with 1 extra population]", "Excess Food converted to Production when under construction","Requires at least [2] population"],
+        "hurryCostModifier": 20
+    },
+
+	{
         "name": "Medjay",
 	"replaces": "Swordsman",
         "uniqueTo": "Khemet",
@@ -42,7 +70,8 @@
         "strength": 11,
         "cost": 50,
         "requiredTech": "Bronze Working",
-	"promotions": ["[+50]% Strength <vs [Mounted] units>", "[Phalanx] ability"],
+	"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+	"promotions": ["[Phalanx] ability"],
         "upgradesTo": "Pikeman",
         "obsoleteTech": "Civil Service",
         "hurryCostModifier": 20,
@@ -148,6 +177,23 @@
     },
 
 	{
+        "name": "Roman Legion",
+	"replaces": "Swordsman",
+        "uniqueTo": "Roma",
+        "unitType": "Sword",
+        "movement": 2,
+        "strength": 14,
+        "cost": 75,
+        "requiredTech": "Iron Working",
+	"promotions": ["[Roman Legion] ability"],
+	"requiredResource": "Iron",
+        "upgradesTo": "Longswordsman",
+        "obsoleteTech": "Steel",
+        "hurryCostModifier": 20,
+        "attackSound": "metalhit"
+    },
+
+	{
         "name": "Mamluk",
 	"replaces": "Knight",
 	"uniqueTo": "The Abbasids",
@@ -194,6 +240,21 @@
         "obsoleteTech": "Steam Power",
         "attackSound": "nonmetalhit"
     },
+	{
+        "name": "Voi Chiến",
+        "unitType": "Archery",
+	"uniqueTo": "Đại Việt",
+	"replaces": "Crossbowman",
+        "movement": 3,
+        "strength": 13,
+        "rangedStrength": 23,
+        "cost": 160,
+        "requiredTech": "Machinery",
+        "upgradesTo": "Gatling Gun",
+        "obsoleteTech": "Industrialization",
+	"uniques":["[+1] Sight", "Can move after attacking", "No defensive terrain bonus"],
+        "attackSound": "crossbow"
+    },
 
 	{
         "name": "Leiomano",
@@ -207,6 +268,23 @@
 	"promotions": ["[Leiomano] ability"],
         "upgradesTo": "Longswordsman",
         "obsoleteTech": "Steel",
+        "hurryCostModifier": 20,
+        "attackSound": "metalhit"
+    },
+
+	{
+        "name": "Warak'aq",
+	"replaces": "Composite Bowman",
+        "uniqueTo": "Tawantinsuyu",
+        "unitType": "Archery",
+        "movement": 3,
+        "strength": 7,
+	"rangedStrength": 11,
+        "cost": 75,
+        "requiredTech": "Construction",
+	"promotions": ["Barrage I", "Ignore terrain cost"],
+        "upgradesTo": "Crossbowman",
+        "obsoleteTech": "Machinery",
         "hurryCostModifier": 20,
         "attackSound": "metalhit"
     },
@@ -239,10 +317,10 @@
 	"rangedStrength": 21,
 	"range": 1,
 	"cost": 130,
-	"requiredTech": "Archery",
+	"requiredTech": "Steel",
 	"upgradesTo": "Musketman",
 	"obsoleteTech": "Gunpowder",
-	"promotions": ["Shock I"],
+	"promotions": ["Shock I"]
    },
 
 	{
@@ -250,9 +328,35 @@
       	"unitType": "Civilian",
 	"uniqueTo": "Ming",
 	"replaces": "Great Merchant",
-	"movement": 4
-        "uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence","Can instantly construct a [Customs house] improvement <by consuming this unit>","May enter foreign tiles without open borders", "Can build [All Road] improvements on tiles", "Gain [25] [Gold] <upon building a [All Road] improvement>", "Unbuildable","Uncapturable"],
+	"movement": 4,
+        "uniques": [
+                "Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence",
+                "Can instantly construct a [Customs house] improvement <by consuming this unit>",
+                "May enter foreign tiles without open borders",
+                "Can build [All Road] improvements on tiles",
+                "Gain [25] [Gold] <upon building a [All Road] improvement>",
+                "Unbuildable",
+                "Uncapturable"
+        ]
    },
+
+	{
+        "name": "Keshig",
+        "unitType": "Mounted",
+	"uniqueTo": "Yeke Mongɣol Ulus",
+	"replaces": "Crossbowman",
+        "movement": 3,
+        "strength": 13,
+        "rangedStrength": 18,
+        "cost": 120,
+        "requiredTech": "Machinery",
+        "upgradesTo": "Gatling Gun",
+        "obsoleteTech": "Industrialization",
+	"uniques":["Can move after attacking", "No defensive terrain bonus", "Ignores Zone of Control"],
+	"requiredResource": "Horses",
+	"promotions": ["[Keshig] ability"],
+        "attackSound": "crossbow"
+    },
 
 	{
 	"name": "Chevaler",
@@ -262,11 +366,11 @@
 	"movement": 4,
 	"strength": 20,
 	"cost": 120,
-	"obsolete": "Military Science"
+	"obsolete": "Military Science",
 	"requiredTech": "Chivalry",
 	"uniques":["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>"],
 	"requiredResource": "Horses",
-	"promotions": ["[Chevaler] ability"],
+	"promotions": ["[Chevaler] ability"]
     },
 
 	{
@@ -275,10 +379,25 @@
 	"replaces": "Missionary",
 	"uniqueTo": "Shawnee",
 	"cost": -1,
-        "uniques": ["Can Spread Religion <for [5] movement> <[3] times> <after which this unit is consumed>", "May enter foreign tiles without open borders, but loses [200] religious strength each turn it ends there", "Can be purchased for [200] [Faith] [in all cities in which the majority religion is a major religion]",
-        	"Unbuildable", "Religious Unit", "Only available <when religion is enabled>"],
+        "uniques": ["Can Spread Religion <for [5] movement> <[3] times> <after which this unit is consumed>",
+		    "May enter foreign tiles without open borders, but loses [200] religious strength each turn it ends there",
+		    "Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
+        	    "[-1] Sight", "Unbuildable", "Religious Unit", "Only available <when religion is enabled>"],
         "movement": 5,
         "religiousStrength": 800
+    },
+
+	{
+	"name": "Golden Bangles",
+	"unitType": "Sword",
+	"uniqueTo": "Songhay",
+	"replaces": "Pikeman",
+	"strength": 16,
+	"cost": 60,
+	"movement": 2,
+	"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+	"requiredTech": "Gunpowder",
+	"promotions": ["[Golden Bangles] ability"]
     },
 
 	{
@@ -290,7 +409,7 @@
 	"cost": 150,
 	"movement": 2,
 	"requiredTech": "Gunpowder",
-	"promotions": ["[Castilian Tercio] ability"],
+	"promotions": ["[Castilian Tercio] ability"]
     },
 
 	{
@@ -303,7 +422,7 @@
 	"movement": 2,
 	"uniques":["[+1] Sight <when [Embarked]>", "[+100]% Strength <when defending> <when [Embarked]>", "[1] Movement point cost to disembark", "[1] Movement point cost to embark", "Comment [Unlocked Earlier at [Electronics] ]"],
 	"requiredTech": "Electronics",
-	"promotions": ["Amphibious"],
+	"promotions": ["Amphibious"]
     },
 
 	{
@@ -334,7 +453,7 @@
 	"movement": 2,
 	"obsolete": "Replaceable Parts",
 	"requiredTech": "Rifling",
-	"promotions": ["[Abambowa] ability"], // <upon ending a turn in a [pillaged] tile>
+	"promotions": ["[Abambowa] ability"] // <upon ending a turn in a [pillaged] tile>
     },
 
 	{
@@ -376,9 +495,9 @@
 	"strength": 34,
 	"cost": 225,
 	"movement": 2,
-	"obsolete": "Replaceable Parts"
+	"obsolete": "Replaceable Parts",
 	"requiredTech": "Rifling",
-	"promotions": ["[Soldaderas] ability"], // +10 health for adjacent units
+	"promotions": ["[Soldaderas] ability"] // +10 health for adjacent units
     },
 
 	{
@@ -415,11 +534,11 @@
 	"movement": 5,
 	"strength": 34,
 	"cost": 225,
-	"obsolete": "Mobile Tactics"
+	"obsolete": "Mobile Tactics",
 	"requiredTech": "Military Science",
 	"uniques":["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>"],
 	"requiredResource": "Horses",
-	"promotions": ["[Prussian Hussar] ability"],
+	"promotions": ["[Prussian Hussar] ability"]
     },
 
 	 {
@@ -449,7 +568,7 @@
 	"movement": 2,
 	"requiredTech": "Rifling",
 	"obsolete": "Replacable Parts",
-	"promotions": ["[Gusa] ability"],// [+10]% Strength <when adjacent to a [Gusa] unit>//
+	"promotions": ["[Gusa] ability"] // [+10]% Strength <when adjacent to a [Gusa] unit>//
     },
 
 	{
@@ -486,6 +605,6 @@
         "uniques": ["Can move after attacking"],
         "hurryCostModifier": 20,
         "attackSound": "elephant"
-    },
+    }
 
 ]
