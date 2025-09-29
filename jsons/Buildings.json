@@ -223,7 +223,6 @@
 		"name": "Tawantinsuyu Ability",
 		"cost": 1,
 		"hurryCostModifier": 160000000,
-		"uniques": ["Gain [1] [Production] <for every [10] [Food]> <in this city>", "Unbuildable", "Destroyed when the city is captured", "Will not be displayed in Civilopedia", "Unsellable"],
-		"requiredTech": "Agriculture"
+		"uniques": ["[+1 Production] per [2] population [in this city]", "Unbuildable <hidden from users>", "Destroyed when the city is captured <hidden from users>", "Will not be displayed in Civilopedia <hidden from users>", "Unsellable <hidden from users>"],
 	}
 ]
