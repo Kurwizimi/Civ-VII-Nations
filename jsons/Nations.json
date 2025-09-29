@@ -792,7 +792,7 @@
 		"neutralHello": "I welcome you.",
 		"neutralLetsHearIt": ["Go on..."],
 		"neutralNo": ["We cannot accept, unfortunately"],
-		"neutralYes": ["Let both benefit"],
+		"neutralYes": ["Lets both benefit"],
 
 		"hateHello": " I have told you again and again to refrain from evil. Soon I will tire of the telling.",
 		"hateLetsHearIt": ["What do you have to say?"],
@@ -1237,7 +1237,7 @@
 		"attacked": "",
 		
 		"defeated": "",
-		"introduction": "",
+		"introduction": "Salaam, welcome ",
 		
 		"neutralHello": "",
 		"neutralLetsHearIt": [""],
