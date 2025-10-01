@@ -34,6 +34,11 @@
         "uniques": ["[+10]% Strength <for every [Completed Policy branches]>"]
     },
 
+        {
+        "name": "[Hwarang] ability",
+        "uniques": ["[+25]% Strength <vs cities> "]
+    },
+
 
         {
         "name": "[Leiomano] ability",
@@ -83,6 +88,11 @@
         {
         "name": "[Soldaderas] ability",
         "uniques": ["All adjacent units heal [10] HP when healing"]
+    },
+
+        {
+        "name": "[Gholām] ability",
+        "uniques": ["[+15]% Strength <when adjacent to a [Great General] unit>", "[+20] HP when healing <when adjacent to a [Great General] unit>"]
     },
 
         {
