@@ -483,28 +483,28 @@
 		"defeated": "",
 		"introduction": "",
 		
-		"neutralHello": "*Salve*, my good friend",
-		"neutralLetsHearIt": ["Yes?"],
-		"neutralNo": ["I forge my own path here."],
-		"neutralYes": ["I will it."],
+		"neutralHello": "",
+		"neutralLetsHearIt": "",
+		"neutralNo": "",
+		"neutralYes": "",
 
-		"hateHello": "Under my hand, wherever there is conflict and chaos I strike it down. I will have peace, even amidst ashes.",
-		"hateLetsHearIt": ["What?"],
-		"hateNo": ["Now, I, in every way, am the maker of my fortune."],
-		"hateYes": ["If you will it."],
+		"hateHello": "",
+		"hateLetsHearIt": "",
+		"hateNo": "",
+		"hateYes": "",
 		
-		"afterPeace": "I will it.",
-		"tradeRequest": "May this trade turn your cities made of bricks to cities made of marble!",
+		"afterPeace": "",
+		"tradeRequest": "",
 
 		"spyNames": ["Acacius","Chloris","Brutus","Eliana","Emidius","Herta","Jovilius","Laetitia","Sophus","Proserpina"],
 
 		"outerColor": [212,20,21],
 		"innerColor": [247,216,1],
 		"uniqueName": "Maripgan",
-		"uniques": ["Free Social Policy <upon entering a new era>", "[-15]% Culture cost of adopting new Policies <when at war>"],
-		"cities": ["Roma","Capua","Ostia","Ravenna","Neapolis","Mediolanum","Patavium","Aquileia","Puteoli","Pompeii",
-			"Catana","Burdigala","Narbo Martius","Gades","Lugdunum","Bononia","Corduba","Massilia","Colonia","Caesarea Maritima",
-			"Mogontiacum","Londinium","Caesaraugusta","Sarmizegetusa"],
+		"uniques": ["[+10]% [Gold] <for every [{major} {Friendly}]>", "[+10]% [Gold] <for every [{major} {Open Borders}]>", "[-15]% [Gold] <for every [{major} {Hostile}]>"],
+		"cities": ["Seorabeol","Daegu","Yeodam","Ulsan","Horo","Gamno","Yeomhae","Geun-gi","Dongo","Bulsa",
+			"Anya","Ballo","Mioyama","Gosunsi","Juseong","Andong","Gijeo","Geochilsan","Jinhae","Pohang",
+			"Yeongdeok","Cheongsong","Uiseong","Miryang"],
 	},
 	
 
@@ -1342,7 +1342,46 @@
 		"cities": ["Berlin","Hamburg","München","Dresden","Leipzig","Köln","Frankfurt am Main","Nürnberg","Düsseldorf","Hannover",
 			"Stutgart","Chemnitz","Magdeburg","Charlottenburg","Essen","Königsberg","Bremen","Duisburg","Dortmund","Halle an der Saale",
 			"Altona","Straßburg","Keil","Mannheim"],
-	}
+	},
+
+	
+	{
+		"name": "Qajar Iran",
+		"leaderName": "Agha Mohammad Khan Qajar",
+		"adjective": ["Qajar"],
+		"startBias": ["Desert","Plains"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "",
+		"attacked": "",
+		
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"outerColor": [250,219,2],
+		"innerColor": [16,41,87],
+		"uniqueName": "Kayānī Crown",
+		"uniques": [ "[+4 Gold, +3 Culture, +2 Production, +2 Food] from every [Customs house]", "[-1 Science] from each Trade Route"],
+		"cities": ["Tehran","Isfahan","Shiraz","Tabriz","Mashad","Karaj","Herat","Yazd","Rasht","Arāk",
+			"Qazvim","Qom","Ardabīl","Semnān","Astarābād","Kermanshah","Senneh","Ahvāz","Sanandaj","Būšehr",
+			"Moḥammara","Zāhedān","Bandar 'Abbās","Nishapur"],
+	},
 
 	{
 		"name": "Qing",
