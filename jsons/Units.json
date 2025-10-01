@@ -194,6 +194,23 @@
     },
 
 	{
+		"name": "Hwarang",
+		"replaces": "Composite Bowman",
+		"uniqueTo": "Silla",
+		"unitType": "Archery",
+		"movement": 3,
+		"strength": 7,
+		"rangedStrength": 11,
+		"cost": 75,
+		"requiredTech": "Construction",
+		"uniques": ["Can move after attacking","No defensive terrain bonus"],
+		"promotions": ["[Hwarang] ability"],
+		"obsoleteTech": "Machinery",
+		"upgradesTo": "Crossbowman",
+		"attackSound": "arrow"
+	},
+
+	{
         "name": "Mamluk",
 	"replaces": "Knight",
 	"uniqueTo": "The Abbasids",
@@ -557,6 +574,23 @@
         "upgradesTo": "Stealth Bomber",
         "attackSound": "bombing"
     },
+
+{
+		"name": "Gholām",
+		"replaces": "Cavalry",
+		"uniqueTo": "Qajar Iran",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 34,
+		"cost": 225,
+		"requiredTech": "Military Science",
+		"obsoleteTech": "Combustion",
+		"requiredResource": "Horses",
+		"upgradesTo": "Landship",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"promotions": ["[Gholām] ability"],
+		"attackSound": "horse"
+	},
 
 	{
 	"name": "Gusa",
