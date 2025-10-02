@@ -501,7 +501,7 @@
 		"outerColor": [212,20,21],
 		"innerColor": [247,216,1],
 		"uniqueName": "Maripgan",
-		"uniques": ["[+10]% [Gold] <for every [{major} {Friendly}]>", "[+10]% [Gold] <for every [{major} {Open Borders}]>", "[-15]% [Gold] <for every [{major} {Hostile}]>"],
+		"uniques": ["[+10]% [Gold] <for every [{Major} {Friendly}]>", "[+10]% [Gold] <for every [{Major} {Open Borders}]>", "[-15]% [Gold] <for every [{Major} {Hostile}]>"],
 		"cities": ["Seorabeol","Daegu","Yeodam","Ulsan","Horo","Gamno","Yeomhae","Geun-gi","Dongo","Bulsa",
 			"Anya","Ballo","Mioyama","Gosunsi","Juseong","Andong","Gijeo","Geochilsan","Jinhae","Pohang",
 			"Yeongdeok","Cheongsong","Uiseong","Miryang"],
