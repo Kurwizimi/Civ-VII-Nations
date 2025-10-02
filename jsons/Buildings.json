@@ -7,7 +7,7 @@
 		"cityHealth": 50,
 		"hurryCostModifier": 25,
 		"requiredTech": "Masonry",
-		"uniques": ["[+1 Production] from every [Culture] <in this city> <hidden from users>", "Comment [+1 [Production] from every [Culture] building in this city]"]
+		"uniques": ["[+1 Production] from every [Culture] <in this city> <hidden from users>", "Comment [+1 [Production] from every [Culture] building in this city]", "Destroyed when the city is captured"]
 	},
 	
 	{
@@ -29,7 +29,7 @@
 		"hurryCostModifier": 160,
 		"faith": 2,
 		"requiredBuilding": "Shrine",
-		"uniques": ["Gain [100] [Gold] <upon constructing [Wonders] [in this city]> <(modified by game speed)>"],
+		"uniques": ["Gain [100] [Gold] <upon constructing [Wonders] [in this city]> <(modified by game speed)>", "Destroyed when the city is captured"],
 		"requiredTech": "Philosophy"
 	},
 
@@ -42,7 +42,7 @@
 		"culture": 3,
 		"specialistSlots": {"Artist": 1},
         	"requiredBuilding": "Monument",
-		"uniques": ["[+10]% Happiness from luxury resources gifted by City-States"],
+		"uniques": ["[+10]% Happiness from luxury resources gifted by City-States", "Destroyed when the city is captured"],
 		"requiredTech": "Drama and Poetry"
 	},
 	
@@ -76,9 +76,10 @@
 		"uniqueTo": "Roma",
 		"cost": 100,
 		"hurryCostModifier": 160,
-		"specialistSlots": {"Merchant": 1},
+		"gold": 2,
+		"specialistSlots": {"Merchant": 2},
         	"percentStatBonus": {"gold": 25},
-		"uniques": ["[+2 Culture, +2 Gold] <for every [Completed Policy branches]>"],
+		"uniques": ["[+3 Culture, +2 Gold] <for every [Completed Policy branches]>"],
 		"requiredTech": "Currency"
 	},
 
@@ -92,7 +93,7 @@
         	"percentStatBonus": {"science": 33},
         	"specialistSlots": {"Scientist": 2},
         	"requiredBuilding": "Library",
-        	"uniques": ["[+2 Science] from [Jungle] tiles [in this city]","[+2 Science] from every specialist [in this city]"],
+        	"uniques": ["[+2 Science] from [Jungle] tiles [in this city]","[+2 Science, +1 Gold] from every specialist [in this city]"],
         	"requiredTech": "Education"
     },
 	{
@@ -128,7 +129,7 @@
 		"hurryCostModifier": 160,
 		"cityStrength": 7,
 		"cityHealth": 25,
-		"uniques": [ "Free [Chevaler] appears", "[+10]% Production when constructing [Mounted] units [in this city]"],
+		"uniques": [ "Free [Chevaler] appears", "[+10]% Production when constructing [Mounted] units [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Chivalry"
 	},
 
@@ -141,7 +142,7 @@
 		"cost": 200,
         	"hurryCostModifier": 100,
        		"requiredTech": "Acoustics",
-		"uniques": [ "[+2 Gold, +1 Culture] from [Luxury] tiles [in this city]"],
+		"uniques": [ "[+2 Gold, +1 Culture] from [Luxury] tiles [in this city]", "Destroyed when the city is captured"],
 	},
 
 	{
@@ -153,7 +154,8 @@
        		"specialistSlots": {"Engineer": 2},
         	"cost": 360,
 		"requiredResource": "Coal",
-        	"uniques": ["[+2 Production] from [resource] tiles [in this city]"],
+        	"uniques": ["[+2 Production] from [Bonus resource] tiles [in this city]", "[+4 Production] from [Strategic resource] tiles [in this city]",
+				"[+1 Production, +1 Gold] from [Luxury resource] tiles [in this city]"],
         	"requiredTech": "Industrialization"
         },
 
@@ -164,7 +166,7 @@
 		"cost": 360,
 		"hurryCostModifier": 160,
 		"gold": 3,
-		"percentStatBonus": {"gold": 25},
+		"percentStatBonus": {"gold": 33},
 		"uniques": ["[+2 Gold, +1 Science] from each Trade Route", "Comment [Unlocked earlier at [Industrialization]]"],
 		"specialistSlots": {"Merchant": 2},
 		"requiredTech": "Industrialization"
@@ -200,7 +202,7 @@
 		"cost": 360,
 		"hurryCostModifier": 160,
 		"gold": 3,
-		"percentStatBonus": {"gold": 25},
+		"percentStatBonus": {"gold": 33},
 		"uniques": ["[+2 Culture, +1 Gold] <for every [Completed Policy branches]>"],
 		"specialistSlots": {"Merchant": 2},
 		"requiredTech": "Electricity"
@@ -213,8 +215,8 @@
 		"hurryCostModifier": 160,
 		"gold": 2,
 		"science": 2,
-		"culture": 2,
 		"percentStatBonus": {"gold": 25},
+		"uniques": ["[+10]% [Culture] [in this city]"],
 		"specialistSlots": {"Merchant": 1},
 		"requiredTech": "Banking"
 	}
@@ -223,6 +225,7 @@
 		"name": "Tawantinsuyu Ability",
 		"cost": 1,
 		"hurryCostModifier": 160000000,
-		"uniques": ["[+1 Production] per [2] population [in this city]", "Unbuildable <hidden from users>", "Destroyed when the city is captured <hidden from users>", "Will not be displayed in Civilopedia <hidden from users>", "Unsellable <hidden from users>"],
+		"uniques": ["[+1 Production] per [2] population [in this city]", "Unbuildable <hidden from users>",
+			"Destroyed when the city is captured <hidden from users>", "Will not be displayed in Civilopedia <hidden from users>", "Unsellable <hidden from users>"],
 	}
 ]
