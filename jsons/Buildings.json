@@ -54,7 +54,7 @@
 		"hurryCostModifier": 160,
 		"faith": 2,
 		"requiredBuilding": "Shrine",
-		"uniques": ["[+10]% [Happiness] [in this city]"],
+		"uniques": ["[+10]% [Happiness] [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Philosophy"
 	},
 
@@ -66,7 +66,7 @@
 		"hurryCostModifier": 160,
 		"faith": 2,
 		"requiredBuilding": "Shrine",
-		"uniques": ["[+15]% [Production] [in this city] <for [5] turns> <upon discovering [All] technology>"],
+		"uniques": ["[+15]% [Production] [in this city] <for [5] turns> <upon discovering [All] technology>", "Destroyed when the city is captured"],
 		"requiredTech": "Philosophy"
 	},
 
@@ -117,7 +117,7 @@
 		"hurryCostModifier": 160,
 		"faith": 2,
 		"requiredBuilding": "Shrine",
-		"uniques": ["[-15]% Food consumption by specialists [in this city]"],
+		"uniques": ["[-15]% Food consumption by specialists [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Philosophy"
 	},
 	
