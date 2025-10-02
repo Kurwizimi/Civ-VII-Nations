@@ -4,13 +4,13 @@
         "replaces": "Trireme",
         "uniqueTo": "Aksum",
         "unitType": "Ranged Water",
-        "movement": 3,
+        "movement": 4,
         "strength": 10,
 	"rangedStrength": 6,
         "range": 2,
         "cost": 45,
         "requiredTech": "Sailing",
-        "uniques": ["Cannot enter ocean tiles","Can move after attacking","[-33]% Strength <vs cities> <when attacking>"],
+        "uniques": ["Cannot enter ocean tiles","Can move after attacking"],
         "upgradesTo": "Caravel",
         "obsoleteTech": "Astronomy",
         "attackSound": "nonmetalhit"
@@ -134,7 +134,7 @@
         "uniqueTo": "Ki'iche",
         "unitType": "Sword",
         "movement": 2,
-        "strength": 5,
+        "strength": 6,
         "cost": 25,
 	"uniques": ["May upgrade to [Archer] through ruins-like effects", "Can instantly construct a [Jaguar Trap] improvement <once>"],
 	"promotions": ["Ignore terrain cost"],
@@ -162,14 +162,15 @@
 
 	{
         "name": "Xshasan Immortal",
-	"replaces": "Spearman",
+		"replaces": "Spearman",
         "uniqueTo": "Xshaca",
         "unitType": "Sword",
         "movement": 2,
         "strength": 11,
         "cost": 56,
         "requiredTech": "Bronze Working",
-	"promotions": ["[Xshasan Immortal] ability"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"promotions": ["[Xshasan Immortal] ability"],
         "upgradesTo": "Pikeman",
         "obsoleteTech": "Civil Service",
         "hurryCostModifier": 19,
@@ -353,7 +354,9 @@
                 "Can build [All Road] improvements on tiles",
                 "Gain [25] [Gold] <upon building a [All Road] improvement>",
                 "Unbuildable",
-                "Uncapturable"
+                "Uncapturable",
+				"Is part of Great Person group [Great Person]",
+				"Great Person - [Gold]"
         ]
    },
 
@@ -455,7 +458,7 @@
         "requiredResource": "Oil",
         "requiredTech": "Electronics",
         "upgradesTo": "Missile Cruiser",
-        "uniques": ["Never appears as a Barbarian unit","[-25]% Strength for enemy [All] units in adjacent [Water] tiles"],
+        "uniques": ["Never appears as a Barbarian unit","[-25]% Strength for enemy [Military] units in adjacent [All] tiles"],
         "promotions": ["Indirect Fire"],
         "attackSound": "shipguns"
     },
