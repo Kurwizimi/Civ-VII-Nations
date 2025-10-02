@@ -39,7 +39,6 @@
         "uniques": ["[+25]% Strength <vs cities> "]
     },
 
-
         {
         "name": "[Leiomano] ability",
         "uniques": ["[+10]% Strength <vs [Mounted] units>","[+10]% Strength <vs [Sword] units>"]
@@ -67,17 +66,17 @@
 
         {
         "name": "[Chevaler] ability",
-        "uniques": ["[+15]% Strength <vs [Sword] units>"]
+        "uniques": ["[+20]% Strength <vs [Sword] units>"]
     },
 
        {
         "name": "[Golden Bangles] ability",
-       "uniques": ["[+15]% Strength <for every adjacent [resource]>"]
+       "uniques": ["[+15]% Strength <for every adjacent [Luxury resource]>", "[+10]% Strength <for every adjacent [Strategic resource]>", "[+5]% Strength <for every adjacent [Bonus resource]>"]
     },
 
          {
         "name": "[Abambowa] ability",
-        "uniques": ["[+50]% Health from pillaging tiles"]
+        "uniques": ["[+75]% Health from pillaging tiles"]
     },
 
         {
@@ -97,22 +96,22 @@
 
         {
         "name": "[Gusa] ability",
-        "uniques": ["[+10]% Strength <when adjacent to a [Gusa] unit>"]
+        "uniques": ["[+15]% Strength <when adjacent to a [Gusa] unit>"]
     },
 
        {
         "name": "[Prussian Hussar] ability",
-        "uniques": ["[+50]% Strength <if it hasn't used other actions yet>"]
+        "uniques": ["[+60]% Strength <if it hasn't used other actions yet>"]
     },
 
        {
         "name": "Skirmish",
-        "uniques": ["[+20]% to Flank Attack bonuses"]
+        "uniques": ["[+25]% to Flank Attack bonuses"]
     },
 
        {
         "name": "[Castilian Tercio] ability",
-        "uniques": ["[-50]% Strength for enemy [Mounted] units in adjacent [All] tiles"]
+        "uniques": ["[-20]% Strength for enemy [Mounted] units in adjacent [All] tiles"]
     },
 
 
