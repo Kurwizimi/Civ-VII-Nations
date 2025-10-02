@@ -76,10 +76,10 @@
 		"uniqueTo": "Roma",
 		"cost": 100,
 		"hurryCostModifier": 160,
-		"gold": 2,
+		"gold": 3,
 		"specialistSlots": {"Merchant": 2},
         	"percentStatBonus": {"gold": 25},
-		"uniques": ["[+3 Culture, +2 Gold] <for every [Completed Policy branches]>"],
+		"uniques": ["[+1 Culture] <for every [Completed Policy branches]>", "Comment [+1 Merchant slot]"],
 		"requiredTech": "Currency"
 	},
 
