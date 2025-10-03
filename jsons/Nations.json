@@ -470,12 +470,12 @@
 
 	{
 		"name": "Silla",
-		"leaderName": "",
+		"leaderName": "Jindeok",
 		"adjective": ["Sillan"],
 		"startBias": ["Hill","Grassland"],
 		"preferredVictoryType": "Diplomatic",
 		
-		"startIntroPart1": "",
+		"startIntroPart1": "The temple bell rings out across Korea, and Silla responds. In their palaces, the seonggol pursue a life of luxury, lending inspiration to the craftsman’s hands, the poet’s brush, and the soldier’s step. Guide Silla now, and bring an enlightened hand to a darkened world.",
 		"startIntroPart2": "",
 		
 		"declaringWar": "",
@@ -496,13 +496,13 @@
 		"afterPeace": "",
 		"tradeRequest": "",
 
-		"spyNames": ["Acacius","Chloris","Brutus","Eliana","Emidius","Herta","Jovilius","Laetitia","Sophus","Proserpina"],
+		"spyNames": ["Makdong","Geuru","Olmadae","Nana","Omadae","Noeul","Omidi","Miru","Madin","Mira"],
 
 		"outerColor": [1,79,205],
-		"innerColor": [247,216,1],
+		"inner colour":[255,255,255],
 		"uniqueName": "Maripgan",
-		"uniqueText": "+10% [Gold] for every Friendly Civ \n+10% [Gold] for every Civ with Open Borders \n-15% [Gold] for every Hostile Civ",
-		"uniques": ["[+10]% [Gold] <for every [{Major} {Friendly}]>", "[+10]% [Gold] <for every [{Major} {Open Borders}]>", "[-15]% [Gold] <for every [{Major} {Hostile}]>"],
+		"uniqueText": "+10% [Gold] in capital for every Friendly Civ \n+10% [Gold] in capital for every Civ with Open Borders \n-15% [Gold] in capital for every Hostile Civ",
+		"uniques": ["[+10]% [Gold] [in capital] <for every [{Major} {Friendly}]>", "[+10]% [Gold] [in capital] <for every [{Major} {Open Borders}]>", "[-15]% [Gold] [in capital] <for every [{Major} {Hostile}]>"],
 		"cities": ["Seorabeol","Daegu","Yeodam","Ulsan","Horo","Gamno","Yeomhae","Geun-gi","Dongo","Bulsa",
 			"Anya","Ballo","Mioyama","Gosunsi","Juseong","Andong","Gijeo","Geochilsan","Jinhae","Pohang",
 			"Yeongdeok","Cheongsong","Uiseong","Miryang"],
@@ -1353,7 +1353,7 @@
 		"startBias": ["Desert","Plains"],
 		"preferredVictoryType": "Diplomatic",
 		
-		"startIntroPart1": "",
+		"startIntroPart1": "The Guarded Domains of Iran are known for the dynasty that rules them - Qajar. Defying the great powers of the world, Qajar Iran remains, building a legacy of art and architecture that places a Persian stamp upon modernity. Rule by beauty or the rifle, but carve for Qajar its place upon the world",
 		"startIntroPart2": "",
 		
 		"declaringWar": "",
@@ -1374,6 +1374,8 @@
 		
 		"afterPeace": "",
 		"tradeRequest": "",
+
+		"spyNames": ["Abbas","Farah","Mahmoud","Maryam","Rostam","Shokouh","Ezzat","Hossein","Azadeh","Asadollah"],
 
 		"outerColor": [7,110,39],
 		"innerColor": [254,177,70],
