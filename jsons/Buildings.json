@@ -83,6 +83,17 @@
 		"requiredTech": "Currency"
 	},
 
+	{
+		"name": "Sachal",
+		"replaces": "Shrine",
+		"uniqueTo": "Silla",
+		"faith": 1,
+		"cost": 40,
+		"maintenance": 1,
+		"requiredTech": "Pottery",
+		"uniques": ["[+2 Gold] from [{Hill} {resource}] tiles [in this city]", "Only available <when religion is enabled>"]
+	},
+
 	 {
         	"name": "Madinat",
         	"maintenance": 2,
@@ -207,6 +218,19 @@
 		"specialistSlots": {"Merchant": 2},
 		"requiredTech": "Electricity"
 	},
+
+	{
+		"name": "G",
+		"replaces": "Garden",
+		"uniqueTo": "Qajar Iran",
+		"culture": 2,
+		"happiness": 1,
+		"uniques": ["[+25]% Great Person generation [in this city]"],
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"requiredTech": "Theology"
+	},
+	
 	{
 		"name": "Huiguan",
 		"replaces": "Bank",
