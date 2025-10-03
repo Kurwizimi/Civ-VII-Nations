@@ -110,7 +110,7 @@
 		"outerColor": [252,252,252],
 		"innerColor": [52,125,40],
 		"uniqueName": "Wisdom of Tanit",
-		"uniques": ["Comment [Only able to construct buildings and units in capital]", "Comment [+10% [Production] and [Gold] in capital fro every owned City]", "[+50]% Production when constructing [Colonist] units [in capital]", 
+		"uniques": ["Comment [Only able to construct buildings and units in capital]", "Comment [+10% [Production] and [Gold] in capital for every owned City]", "[+50]% Production when constructing [Colonist] units [in capital]", 
 			"[-1000]% [Production] [in all cities] <hidden from users>", "[+1000]% [Production] [in capital] <hidden from users>", "[+10]% [Production] [in capital] <for every [Cities]> <hidden from users>", "[+10]% [Gold] [in capital] <for every [Cities]> <hidden from users>", "[+1] population [in this city] <upon founding a city> <hidden from users>"],
 		"cities": ["Carthage","Utica","Hadrumetum","Hippo","Motya","Thenae","Leptis","Tsabratan","Maleth","Rusicade",
 			"Thysdrus","Rusguniae","Tinga","Gadir","Oyat","Kition","Lapathus","Idalion","Ruspina","Ziz",
