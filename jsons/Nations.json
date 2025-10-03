@@ -929,7 +929,7 @@
 		"name": "Songhay",
 		"leaderName": "Sonni Ali",
 		"adjective": ["Songhay"],
-		"startBias": ["River","Desert","Plains","Coast"],
+		"startBias": ["River","Desert","Plains"],
 		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "From the heart of the Sahel, the Songhai will emerge upon the river's waves to take the world by storm. \nAs the Empire of Mali faltered, their Songhai vassals rose up to form one of the largest states in Africa. Songhai revitalized Islam in the region, renewed the academic community in Timbuktu, and controlled the trans-Saharan trade. But the empire’s days were numbered when the Moroccans invaded, armed with gunpowder and seeking new routes for their own prosperity.",
@@ -994,7 +994,7 @@
 		"outerColor": [255,178,60],
 		"innerColor": [212,20,21],
 		"uniqueName": "Siglo de Oro",
-		"uniques": [ "[+30]% [Gold] [in all cities] <on foreign continents>", "[+10]% [Food] [in all cities] <on foreign continents>", "[+10]% [Production] [in all cities] <on foreign continents>"],
+		"uniques": [ "[+30]% [Gold] [in all cities] <on foreign continents>", "[+15]% [Food] [in all cities] <on foreign continents>", "[+10]% [Production] [in all cities] <on foreign continents>"],
 		"cities": ["Madrid","Sevilla","Barcelona","Toledo","Córdoba","Valencia","Zaragoza","Valladolid","Bilbao","A Coruña",
 			"Cartegena","Cádiz","Salamanca","Las Palmas","Murcia","Pamplona","Vigo","Oran","Vitoria-Gasteiz","Oviedo",
 			"Málaga","Havana","Jaen","Manila"],
@@ -1078,8 +1078,8 @@
 		"name": "Buganda",
 		"leaderName": "Mwanga II",
 		"adjective": ["Bugandan"],
-		"startBias": ["Lakes","Jungle"],
-		"preferredVictoryType": "Diplomatic",
+		"startBias": ["Lakes"],
+		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "From the shores of Nnalubaale – Lake Victoria – were launched the deadly war canoes of Buganda. By the late 19th century, Buganda was the most populous place in Africa’s interior, with man-made lakes, a well-ordered city, and envoys from all the surrounding people seeking the king’s ear. And well they should – Bagandan raids were a terrifying force.",
 		"startIntroPart2": "O Great Mwanga II, you have lead the Baganda well. You have settled religious conflict in your natiuon with an iron fist, ensuring the stability of your empire. European powers were cautiously welcomed during your rule, but they eventually attacked you and your people for their financial gain. You tried to defend Buganda, but the Europeans and the reigious rebels were too much. Even after exile and torture for thge rest of your life, you remained a staunch anti-imperialist, with your spitit never breaking. Now the Baganda call you to lead tham once more. Can you lead you people against the encroaching imperial powers? Can you build a civilization that will stand the test of time?",
