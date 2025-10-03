@@ -384,6 +384,38 @@
           "Order": 3,
       },
     },
+    //Silla
+  {
+      "name": "Jindeok",
+      "culture": 9,
+      "faith": 6,
+      "food": 7,
+      "gold": 9,
+      "happiness": 4,
+      "production": 3,
+      "science": 2,
+
+      "military": 4,
+      "aggressive": 1,
+      "declareWar": 3,
+      "commerce": 9,
+      "diplomacy": 8,
+      "loyal": 4,
+      "expansion": 6,
+
+      "priorities": {
+          "Tradition": 7,
+          "Liberty": 9,
+          "Honor": 2,
+          "Commerce": 9,
+          "Patronage": 8,
+          "Piety": 7,
+          "Rationalism": 6,
+          "Freedom": 7,
+          "Autocracy": 2,
+          "Order": 9,
+      },
+    },
      //Abbasid
   {
       "name": "Al-Muktafī bi-Llāh",
@@ -1086,6 +1118,39 @@
           "Freedom": 2,
           "Autocracy": 8,
           "Order": 6,
+      },
+    },
+
+    //Qajar Iran
+  {
+      "name": "Agha Mohammad Khan Qajar",
+      "culture": 4,
+      "faith": 6,
+      "food": 9,
+      "gold": 3,
+      "happiness": 8,
+      "production": 9,
+      "science": 6,
+
+      "military": 8,
+      "aggressive": 6,
+      "declareWar": 6,
+      "commerce": 4,
+      "diplomacy": 8,
+      "loyal": 4,
+      "expansion": 1,
+
+      "priorities": {
+          "Tradition": 8,
+          "Liberty": 1,
+          "Honor": 5,
+          "Commerce": 4,
+          "Patronage": 7,
+          "Piety": 5,
+          "Rationalism": 6,
+          "Freedom": 6,
+          "Autocracy": 7,
+          "Order": 3,
       },
     },
      //Qing

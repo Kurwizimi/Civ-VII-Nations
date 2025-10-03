@@ -110,7 +110,7 @@
 		"outerColor": [252,252,252],
 		"innerColor": [52,125,40],
 		"uniqueName": "Wisdom of Tanit",
-		"uniques": ["Comment [Only able to construct buildings and units in capital]", "Comment [+10% [Production] and [Gold] in capital fro every owned City]", "[+50]% Production when constructing [Colonist] units [in capital]", 
+		"uniques": ["Comment [Only able to construct buildings and units in capital]", "Comment [+10% [Production] and [Gold] in capital for every owned City]", "[+50]% Production when constructing [Colonist] units [in capital]", 
 			"[-1000]% [Production] [in all cities] <hidden from users>", "[+1000]% [Production] [in capital] <hidden from users>", "[+10]% [Production] [in capital] <for every [Cities]> <hidden from users>", "[+10]% [Gold] [in capital] <for every [Cities]> <hidden from users>", "[+1] population [in this city] <upon founding a city> <hidden from users>"],
 		"cities": ["Carthage","Utica","Hadrumetum","Hippo","Motya","Thenae","Leptis","Tsabratan","Maleth","Rusicade",
 			"Thysdrus","Rusguniae","Tinga","Gadir","Oyat","Kition","Lapathus","Idalion","Ruspina","Ziz",
@@ -469,6 +469,47 @@
 	},
 
 	{
+		"name": "Silla",
+		"leaderName": "Jindeok",
+		"adjective": ["Sillan"],
+		"startBias": ["Hill","Grassland"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "The temple bell rings out across Korea, and Silla responds. In their palaces, the seonggol pursue a life of luxury, lending inspiration to the craftsman’s hands, the poet’s brush, and the soldier’s step. Guide Silla now, and bring an enlightened hand to a darkened world.",
+		"startIntroPart2": "",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": "",
+		"neutralNo": "",
+		"neutralYes": "",
+
+		"hateHello": "",
+		"hateLetsHearIt": "",
+		"hateNo": "",
+		"hateYes": "",
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"spyNames": ["Makdong","Geuru","Olmadae","Nana","Omadae","Noeul","Omidi","Miru","Madin","Mira"],
+
+		"outerColor": [1,79,205],
+		"inner colour":[255,255,255],
+		"uniqueName": "Maripgan",
+		"uniqueText": "+10% [Gold] in capital for every Friendly Civ \n+10% [Gold] in capital for every Civ with Open Borders \n-15% [Gold] in capital for every Hostile Civ",
+		"uniques": ["[+10]% [Gold] [in capital] <for every [{Major} {Friendly}]>", "[+10]% [Gold] [in capital] <for every [{Major} {Open Borders}]>", "[-15]% [Gold] [in capital] <for every [{Major} {Hostile}]>"],
+		"cities": ["Seorabeol","Daegu","Yeodam","Ulsan","Horo","Gamno","Yeomhae","Geun-gi","Dongo","Bulsa",
+			"Anya","Ballo","Mioyama","Gosunsi","Juseong","Andong","Gijeo","Geochilsan","Jinhae","Pohang",
+			"Yeongdeok","Cheongsong","Uiseong","Miryang"],
+	},
+	
+
+	{
 		"name": "The Abbasids",
 		"leaderName": "Al-Muktafī bi-Llāh",
 		"adjective": ["Abbasid"],
@@ -653,7 +694,7 @@
 		"outerColor": [64,156,39],
 		"innerColor": [255,230,0],
 		"uniqueName": "Moananuiākea",
-		"uniques": ["[+1 Happiness] from every [Fishing Boats]", "Gain [20] [Culture] <upon building a [Fishing Boats] improvement> <(modified by game speed)>"],
+		"uniques": ["[+1 Happiness] from every [Fishing Boats]", "Gain [30] [Culture] <upon building a [Fishing Boats] improvement> <(modified by game speed)>"],
 		"cities": ["Lā-hainā","Kou","Hilo","Wai-luku","Lihu'e","'Ewa","Kai-lua","Wai-pahū","Lāna'i","Ka-hului",
 			"Kihei","Wai-kolu","Ka-pa'a","Pearl City","Kona","Kauna-kahakai","Nānākuli","Wai-lua","Pāpa'i-kou","Kaha-lu'u",
 			"Wai-mea","Mākaha","Hāna","Wai-he'e"],
@@ -690,8 +731,7 @@
 		"outerColor": [120,61,3],
 		"innerColor": [249,218,2],
 		"uniqueName": "Apukuna",
-		"uniqueText": "Cities bonus Production equal to 10% of that City’s Food",
-		"uniques": ["Gain a free [Tawantinsuyu Ability] [in all cities]"],//Doesnt work.
+		"uniques": ["Gain a free [Tawantinsuyu Ability] [in all cities] <hidden from users>", "[+15]% [Food] [in all cities] <within [2] tiles of a [Mountain]>", "Comment [+1 [Production] per 2 population in all cities]"],
 		"cities": ["Qusqu","Antawaylla","Wanuku","Willka Waman","Machu Pikchu","Ullantaytampu","Sausa","Kashamarka","Chucuito","Kitu",
 			"Ayak’uchu","Chan Chan","Pisac","Huancabamba","Ayaviri","Vitcos","Paria","Chuquiabo","Pachakamaq","Tumbez",
 			"Tumipampa","Inka Pirka","Wankawilka","Ica"],
@@ -752,7 +792,7 @@
 		"neutralHello": "I welcome you.",
 		"neutralLetsHearIt": ["Go on..."],
 		"neutralNo": ["We cannot accept, unfortunately"],
-		"neutralYes": ["Let both benefit"],
+		"neutralYes": ["Lets both benefit"],
 
 		"hateHello": " I have told you again and again to refrain from evil. Soon I will tire of the telling.",
 		"hateLetsHearIt": ["What do you have to say?"],
@@ -804,7 +844,7 @@
 		"outerColor": [25,65,150],
 		"innerColor": [185,210,155],
 		"uniqueName": "Bokh",
-		"uniques": ["[-10]% Production when constructing [Settler] units [in all cities]","Gain a free [Courthouse] [in annexed cities]", "Comment [+1 [Movement] for all units]", "[Land] units gain the [Ulus] promotion <hidden from users>"],
+		"uniques": ["[-15]% Production when constructing [Settler] units [in all cities]","Gain a free [Courthouse] [in annexed cities]", "Comment [+1 [Movement] for all units]", "[Land] units gain the [Ulus] promotion <hidden from users>"],
 		"cities":["Qaraqorum","Qobdo","Khüree","Uliastai","Aurag","Khiagt","Ulaangom","Dulüün Boldog","Khuduu Aral","Sainshand",
 			"Altai","Ayil Qaraqana","Khökh Nuur","Kherlen Bar Khot","Burgi Ereg","Qorqonaq Jubur","Vangiin Khüree","Dalan Nemürges","Tajkal Khorga","Chakirmaut",
 			"Qarabalghasun","Bürgi-ergi","Choir","Burkhan Khaldun"],
@@ -890,7 +930,7 @@
 		"name": "Songhay",
 		"leaderName": "Sonni Ali",
 		"adjective": ["Songhay"],
-		"startBias": ["River","Desert","Plains","Coast"],
+		"startBias": ["River","Desert","Plains"],
 		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "From the heart of the Sahel, the Songhai will emerge upon the river's waves to take the world by storm. \nAs the Empire of Mali faltered, their Songhai vassals rose up to form one of the largest states in Africa. Songhai revitalized Islam in the region, renewed the academic community in Timbuktu, and controlled the trans-Saharan trade. But the empire’s days were numbered when the Moroccans invaded, armed with gunpowder and seeking new routes for their own prosperity.",
@@ -955,7 +995,7 @@
 		"outerColor": [255,178,60],
 		"innerColor": [212,20,21],
 		"uniqueName": "Siglo de Oro",
-		"uniques": [ "[+30]% [Gold] [in all cities] <on foreign continents>", "[+10]% [Food] [in all cities] <on foreign continents>", "[+10]% [Production] [in all cities] <on foreign continents>"],
+		"uniques": [ "[+30]% [Gold] [in all cities] <on foreign continents>", "[+15]% [Food] [in all cities] <on foreign continents>", "[+10]% [Production] [in all cities] <on foreign continents>"],
 		"cities": ["Madrid","Sevilla","Barcelona","Toledo","Córdoba","Valencia","Zaragoza","Valladolid","Bilbao","A Coruña",
 			"Cartegena","Cádiz","Salamanca","Las Palmas","Murcia","Pamplona","Vigo","Oran","Vitoria-Gasteiz","Oviedo",
 			"Málaga","Havana","Jaen","Manila"],
@@ -1039,8 +1079,8 @@
 		"name": "Buganda",
 		"leaderName": "Mwanga II",
 		"adjective": ["Bugandan"],
-		"startBias": ["Lakes","Jungle"],
-		"preferredVictoryType": "Diplomatic",
+		"startBias": ["Lakes"],
+		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "From the shores of Nnalubaale – Lake Victoria – were launched the deadly war canoes of Buganda. By the late 19th century, Buganda was the most populous place in Africa’s interior, with man-made lakes, a well-ordered city, and envoys from all the surrounding people seeking the king’s ear. And well they should – Bagandan raids were a terrifying force.",
 		"startIntroPart2": "O Great Mwanga II, you have lead the Baganda well. You have settled religious conflict in your natiuon with an iron fist, ensuring the stability of your empire. European powers were cautiously welcomed during your rule, but they eventually attacked you and your people for their financial gain. You tried to defend Buganda, but the Europeans and the reigious rebels were too much. Even after exile and torture for thge rest of your life, you remained a staunch anti-imperialist, with your spitit never breaking. Now the Baganda call you to lead tham once more. Can you lead you people against the encroaching imperial powers? Can you build a civilization that will stand the test of time?",
@@ -1197,7 +1237,7 @@
 		"attacked": "",
 		
 		"defeated": "",
-		"introduction": "",
+		"introduction": "Salaam, welcome ",
 		
 		"neutralHello": "",
 		"neutralLetsHearIt": [""],
@@ -1212,8 +1252,8 @@
 		"afterPeace": "",
 		"tradeRequest": "",
 
-		"outerColor": [0, 109, 33],
-		"innerColor": [255, 215, 0],
+		"outerColor": [0, 66, 33],
+		"innerColor": [253, 208, 22],
 		"uniqueName": "Paradise of Nations",
 		"uniques": [ "[-20]% [Culture] [in all cities]", "[-20]% [Science] [in all cities]", "[-20]% [Production] [in all cities]", "[+100]% [Gold] [in all cities]"],
 		"cities": ["Dilī","Āgra","Kābul","Allāhābād","Lahore","Ahmadabad","Banaras","Cambay","Surat","Burhanpur",
@@ -1303,7 +1343,71 @@
 		"cities": ["Berlin","Hamburg","München","Dresden","Leipzig","Köln","Frankfurt am Main","Nürnberg","Düsseldorf","Hannover",
 			"Stutgart","Chemnitz","Magdeburg","Charlottenburg","Essen","Königsberg","Bremen","Duisburg","Dortmund","Halle an der Saale",
 			"Altona","Straßburg","Keil","Mannheim"],
-	}
+	},
+
+	
+	{
+		"name": "Qajar Iran",
+		"leaderName": "Agha Mohammad Khan Qajar",
+		"adjective": ["Qajar"],
+		"startBias": ["Desert","Plains"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "The Guarded Domains of Iran are known for the dynasty that rules them - Qajar. Defying the great powers of the world, Qajar Iran remains, building a legacy of art and architecture that places a Persian stamp upon modernity. Rule by beauty or the rifle, but carve for Qajar its place upon the world",
+		"startIntroPart2": "",
+		
+		"declaringWar": "",
+		"attacked": "",
+		
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"spyNames": ["Abbas","Farah","Mahmoud","Maryam","Rostam","Shokouh","Ezzat","Hossein","Azadeh","Asadollah"],
+
+		"outerColor": [7,110,39],
+		"innerColor": [254,177,70],
+		"uniqueName": "Kayānī Crown",
+		"uniqueText": "+20% [Food] and [Production] in all cities when the number of cities is less than the era number, multiplied by the difference between the number of cities and the era number \n+20% [Science] and [Cuilture] in capital for every city being razed",
+		"uniques": ["[+20]% [Production] [in all cities] <when number of [Cities] is less than [Era number]>",
+					"[+20]% [Production] [in all cities] <when number of [Cities] is less than [[Era number] - 1]>",
+					"[+20]% [Production] [in all cities] <when number of [Cities] is less than [[Era number] - 2]>",
+					"[+20]% [Production] [in all cities] <when number of [Cities] is less than [[Era number] - 3]>",
+					"[+20]% [Production] [in all cities] <when number of [Cities] is less than [[Era number] - 4]>",
+					"[+20]% [Production] [in all cities] <when number of [Cities] is less than [[Era number] - 5]>",
+					"[+20]% [Production] [in all cities] <when number of [Cities] is less than [[Era number] - 6]>",
+					"[+20]% [Production] [in all cities] <when number of [Cities] is less than [[Era number] - 7]>",
+					"[+20]% [Production] [in all cities] <when number of [Cities] is less than [[Era number] - 8]>",
+			
+					"[+20]% [Food] [in all cities] <when number of [Cities] is less than [Era number]>",
+					"[+20]% [Food] [in all cities] <when number of [Cities] is less than [[Era number] - 1]>",
+					"[+20]% [Food] [in all cities] <when number of [Cities] is less than [[Era number] - 2]>",
+					"[+20]% [Food] [in all cities] <when number of [Cities] is less than [[Era number] - 3]>",
+					"[+20]% [Food] [in all cities] <when number of [Cities] is less than [[Era number] - 4]>",
+					"[+20]% [Food] [in all cities] <when number of [Cities] is less than [[Era number] - 5]>",
+					"[+20]% [Food] [in all cities] <when number of [Cities] is less than [[Era number] - 6]>",
+					"[+20]% [Food] [in all cities] <when number of [Cities] is less than [[Era number] - 7]>",
+					"[+20]% [Food] [in all cities] <when number of [Cities] is less than [[Era number] - 8]>",
+		
+					"[+20]% [Science] [in capital] <for every [[Razing] Cities]>",
+					"[+20]% [Culture] [in capital] <for every [[Razing] Cities]>",
+		],
+		"cities": ["Tehran","Isfahan","Shiraz","Tabriz","Mashad","Karaj","Herat","Yazd","Rasht","Arāk",
+			"Qazvim","Qom","Ardabīl","Semnān","Astarābād","Kermanshah","Senneh","Ahvāz","Sanandaj","Būšehr",
+			"Moḥammara","Zāhedān","Bandar 'Abbās","Nishapur"],
+	},
 
 	{
 		"name": "Qing",

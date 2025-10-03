@@ -2,17 +2,17 @@
     {
         "name": "Hawilt",
         "uniqueTo": "Aksum",
-        "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Snow","Flood plains"],
+        "terrainsCanBeBuiltOn": ["Land"],
         "gold": 2,
         "turnsToBuild": 7,
         "techRequired": "Masonry",
-        "uniques": ["[+1 Culture] for each adjacent [Hawilt]", "Pillaging this improvement yields approximately [+25 Gold]"],
+        "uniques": ["Cannot be built on [Hill] tiles", "[+1 Culture] for each adjacent [Hawilt]", "Pillaging this improvement yields approximately [+25 Gold]"],
         "shortcutKey": "H"
     },
   {
         "name": "Han Great Wall",
         "uniqueTo": "Han",
-        "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Snow","Hill"],
+        "terrainsCanBeBuiltOn": ["Land"],
         "culture": 2,
         "turnsToBuild": 7,
         "techRequired": "Masonry",
@@ -32,7 +32,7 @@
     {
         "name": "Jaguar Trap",
         "uniqueTo": "Ki'iche",
-        "terrainsCanBeBuiltOn": ["Plains","Grassland","Tundra","Hill", "Forest","Jungle", "Desert", "Flood plains"],
+        "terrainsCanBeBuiltOn": ["Land"],
         "turnsToBuild": 1,
         "uniques": ["Adjacent enemy units ending their turn take [15] damage",  "Can be built outside your borders", "Does not need removal of [Forest]", "Does not need removal of [Jungle]", "Destroyed when pillaged",
                     "Pillaging this improvement yields approximately [+40 Gold]"],
@@ -52,7 +52,7 @@
         "name": "Pairidaeza",
         "uniqueTo": "Xshaca",
         "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Snow","Hill"],
-        "gold": 1,
+        "gold": 2,
         "culture": 1,
         "turnsToBuild": 7,
         "techRequired": "Mathematics",
@@ -88,7 +88,7 @@
         "production": 1,
         "turnsToBuild": 7,
         "uniques": ["[+1 Culture] for each adjacent [Farm]", "[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>", "[+1 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>",   
-                    "Pillaging this improvement yields approximately [+25 Gold]"],
+                    "Only available <with [0] to [0] neighboring [Lo'i Kalo] tiles>", "Pillaging this improvement yields approximately [+25 Gold]"],
         "techRequired": "Construction",
         "shortcutKey": "L"
     },
@@ -99,8 +99,8 @@
         "food": 2,
         "production": 1,
         "turnsToBuild": 7,
-        "uniques": [ "[+1 Gold] for each adjacent [City center]","[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>", "[+1 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>",
-                    "Pillaging this improvement yields approximately [+25 Gold]"],
+        "uniques": [ "[+1 Gold] for each adjacent [City center] <hidden from users>","Comment [+1 [Gold] when adjacent to a [City center]]", "[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>",
+            "[+1 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>", "Pillaging this improvement yields approximately [+25 Gold]"],
         "techRequired": "Construction",
         "shortcutKey": "T"
     },
@@ -150,7 +150,7 @@
         "name": "Stepwell",
         "uniqueTo": "The Mughals",
         "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert"],
-        "gold": 2,
+        "gold": 3,
         "turnsToBuild": 7,
         "techRequired": "Mathematics",
         "uniques": ["[+2 Food] for each adjacent [Farm]", "Pillaging this improvement yields approximately [+25 Gold]"],
@@ -172,7 +172,8 @@
         "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra","Snow","Hill"],
         "turnsToBuild": 7,
         "techRequired": "Civil Service",
-        "uniques": ["[+2 Food] for each adjacent [Farm]", "[+2 Culture] from [Tundra] tiles", "[+2 Culture] from [Snow] tiles", "Only available <with [0] to [0] neighboring [Obshchina] tiles>","Pillaging this improvement yields approximately [+25 Gold]"],
+        "uniques": ["[+2 Food] for each adjacent [Farm]", "[+2 Culture] from [Tundra] tiles", "[+2 Culture] from [Snow] tiles", "Only available <with [0] to [0] neighboring [Obshchina] tiles>",
+            "Pillaging this improvement yields approximately [+25 Gold]"],
         "shortcutKey": "O"
     },
     {
