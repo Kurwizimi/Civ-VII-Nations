@@ -306,7 +306,7 @@
 		"outerColor": [50,200,200],
 		"innerColor": [50,10,150],
 		"uniqueName": "Dhamma Lipi",
-		"uniques": [  "Gain a free [Pantheon] belief <upon discovering [Philosophy] technology>", "[+1 Science] <for every [5] [[Happiness] Per Turn]>"],
+		"uniques": [  "Gain a free [Pantheon] belief <upon discovering [Philosophy] technology>", "[+1 Science] <for every [5] [Happiness]>"],
 		"cities": ["Pataliputra","Ujjayini","Tosali","Suvarnagiri","Taksasila","Kausambi","Samapa","Risila","Pudanagala","Girinagara",
 			"Sopara","Kandahar","Kopbal","Virata","Brahmagiri","Vidisa","Varanasi","Kalsi","Rampurva","Banavasi",
 			"Erragudi","Shahbazgarhi","Lauriya Araraj","Sannathi"],
