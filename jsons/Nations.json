@@ -502,7 +502,7 @@
 		"inner colour":[255,255,255],
 		"uniqueName": "Maripgan",
 		"uniqueText": "+10% [Gold] in capital for every Friendly Civ \n+10% [Gold] in capital for every Civ with Open Borders \n-15% [Gold] in capital for every Hostile Civ",
-		"uniques": ["[+10]% [Gold] [in capital] <for every [Friendly]>", "[+10]% [Gold] [in capital] <for every [Open Borders]>", "[-15]% [Gold] [in capital] <for every [Hostile]>"],
+		"uniques": ["[+10]% [Gold] [in capital] <for every [Remaining [Friendly] Civilizations]>", "[+10]% [Gold] [in capital] <for every [Remaining [Open Borders] Civilizations]>", "[-15]% [Gold] [in capital] <for every [Remaining [Hostile] Civilizations]>"],
 		"cities": ["Seorabeol","Daegu","Yeodam","Ulsan","Horo","Gamno","Yeomhae","Geun-gi","Dongo","Bulsa",
 			"Anya","Ballo","Mioyama","Gosunsi","Juseong","Andong","Gijeo","Geochilsan","Jinhae","Pohang",
 			"Yeongdeok","Cheongsong","Uiseong","Miryang"],
