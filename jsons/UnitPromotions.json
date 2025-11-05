@@ -41,7 +41,7 @@
 
         {
         "name": "[Tehina] ability",
-        "uniques": ["Gain [100] [Gold] <<upon discovering a [{City-State} {City center}] tile>"]
+        "uniques": ["Gain [100] [Gold] <upon discovering a [{City-State} {City center}] tile>"]
     },
 
         {
