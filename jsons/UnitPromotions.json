@@ -43,6 +43,11 @@
         "name": "[Leiomano] ability",
         "uniques": ["[+10]% Strength <vs [Mounted] units>","[+10]% Strength <vs [Sword] units>"]
     },
+        
+        {
+        "name": "[Tehina] ability",
+        "uniques": ["Gain [100] [Gold] <<upon discovering a [{City-State} {City center}] tile>>"]
+    },
 
         {
         "name": "Normannitas",
