@@ -1,8 +1,6 @@
-"name": "Global uniques",
+{
+  "name": "Global uniques",
 "unitUniques": [
-  "[This unit] takes [10] damage <upon turn end> <when adjacent to a [{Water} {The Republic of Pirates}] units> <for [non-[The Republic of Pirates]] Civilizations>"
-
-
-
-
-]
+  "[This unit] takes [10] damage <upon turn end> <when adjacent to a [{Water} {The Republic of Pirates}] units> <for [non-[The Republic of Pirates]] Civilizations>"]
+  
+}
