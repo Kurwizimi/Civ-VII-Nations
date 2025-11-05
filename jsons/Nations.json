@@ -541,7 +541,7 @@
 		"outerColor": [1,79,205],
 		"innerColor":[255,255,255],
 		"uniqueName": "Lords of the South",
-		"uniques": ["[+1 Production] from every [Fishing Boats]", "[+3 Gold] from every [Atoll] [in all cities] <on foreign continents>","Enables [Scout] units to enter ocean tiles <hidden from users>"],
+		"uniques": ["[+2 Production] from every [Fishing Boats]","Enables [Scout] units to enter ocean tiles <hidden from users>"],
 		"cities": ["Lapaha","Toloa","Heketā","Mu'a","Tatakamotonga","Nukuleka","Fakatefenga","Mele Havea","Vaipuna","Tongoleleka",
 			"Faleloa","Pukotala","Falevai","Ha'ateiho","Holopeka","'Atele","Fotua","Lotofoa","Koulo","Felemea",
 			"Kolonga","Fua'amotu","Folaha","Malapo"],
