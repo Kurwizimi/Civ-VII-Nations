@@ -145,6 +145,18 @@
 	},
 
 	{
+		"name": "Haven",
+		"replaces": "Seaport",
+		"uniqueTo": "The Republic of Pirates",
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Harbor",
+		"uniques": ["[+1 Production, +1 Gold] from [Water resource] tiles [in this city]",
+			"Must be next to [Coast]", "[+50]% Production when constructing [Water] units [in this city]",
+		"[Water] Units adjacent to this city heal [50] HP per turn when healing"],
+		"requiredTech": "Navigation"
+	},
+
+	{
         	"name": "Plaza",
 		"replaces": "Opera House",
 		"uniqueTo": "Castile",
