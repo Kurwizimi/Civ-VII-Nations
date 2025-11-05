@@ -212,6 +212,36 @@
 	},
 
 	{
+		"name": "Tehina",
+		"replaces": "Scout"
+		"uniqueTo": "Tonga",
+		"unitType": "Scout",
+		"movement": 2,
+		"strength": 5,
+		"cost": 25,
+		"obsoleteTech": "Scientific Theory",
+		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
+		"promotions": ["Ignore terrain cost", "[Tehina] ability"],
+		"attackSound": "nonmetalhit"
+	},
+
+	{
+		"name": "Kalia",
+		"unitType": "Melee Water",
+		"replaces": "Trireme"
+		"uniqueTo": "Tonga",
+		"movement": 4,
+		"strength": 10,
+		"cost": 45,
+		"requiredTech": "Sailing",
+		"uniques": ["Cannot enter ocean tiles", "Never appears as a Barbarian unit"],
+		"promotions": ["Volley"],
+		"upgradesTo": "Caravel",
+		"obsoleteTech": "Astronomy",
+		"attackSound": "nonmetalhit"
+	},
+
+	{
         "name": "Mamluk",
 	"replaces": "Knight",
 	"uniqueTo": "The Abbasids",
@@ -392,6 +422,23 @@
 	"requiredResource": "Horses",
 	"promotions": ["[Chevaler] ability"]
     },
+
+	{
+		"name": "Buccaneer",
+		"unitType": "Civilian",
+		"replaces": "Great Admiral",
+		"uniqueTo": "The Republic of Pirates",
+		"uniques": [
+            // TODO: "[Every adjacent [{Friendly} {Water}] unit] heals [100] HP <by consuming this unit>",
+            "May Paradrop to [{your} {Coastal} {City center}] tiles up to [25] tiles away <in [City center] tiles>", // Change Port
+            "[+15]% Strength bonus for [{Military} {Water}] units within [2] tiles",
+			"[+10]% Strength bonus for [Military] units within [2] tiles <during a Golden Age>",
+			"Can be earned through combat <for [Water] units>",
+            "Is part of Great Person group [Admiral]",
+            "Great Person - [War]", "Unbuildable", "Uncapturable",
+		"Founds a new city <once>"],
+		"movement": 4
+	},
 
 	{
         "name": "Hoceepkileni",
