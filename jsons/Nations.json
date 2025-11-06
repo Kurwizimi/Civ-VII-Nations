@@ -541,7 +541,7 @@
 		"outerColor": [164,3,6],
 		"innerColor": [255,240,230],
 		"uniqueName": "Lords of the South",
-		"uniques": ["Comment [Gain 30 [Culture] upon discovering a [City center], increasing by 20 [Culture] each age <modified by game speed>]", "[All] units gain the [Tu'i Tonga] promotion <hidden from users>","Enables [Scout] units to enter ocean tiles <hidden from users>"],
+		"uniques": ["Comment [Gain 30 [Culture] upon discovering a [City center], increasing by 20 [Culture] each age <(modified by game speed)>]", "[All] units gain the [Tu'i Tonga] promotion <hidden from users>","Enables [Scout] units to enter ocean tiles <hidden from users>"],
 		"cities": ["Lapaha","Toloa","Heketā","Mu'a","Tatakamotonga","Nukuleka","Fakatefenga","Mele Havea","Vaipuna","Tongoleleka",
 			"Faleloa","Pukotala","Falevai","Ha'ateiho","Holopeka","'Atele","Fotua","Lotofoa","Koulo","Felemea",
 			"Kolonga","Fua'amotu","Folaha","Malapo"],
