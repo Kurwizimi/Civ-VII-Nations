@@ -45,7 +45,7 @@
     },
         {
         "name": "Tu'i Tonga",
-       "uniques": ["Comment [Gain 30 [Culture] upon discovering a [City center], increasing by 20 [Culture] each age <modified by game speed>]",
+       "uniques": ["Comment [Gain 30 [Culture] upon discovering a [City center], increasing by 20 [Culture] each age <(modified by game speed)>]",
         "Gain [30] [Culture] <upon discovering a [City center] tile> <during the [Ancient era]> <(modified by game speed)> <hidden from users>",
        "Gain [50] [Culture] <upon discovering a [City center] tile> <during the [Ancient era]> <(modified by game speed)> <hidden from users>",
        "Gain [70] [Culture] <upon discovering a [City center] tile> <during the [Classical era]> <(modified by game speed)> <hidden from users>",
