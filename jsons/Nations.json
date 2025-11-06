@@ -538,8 +538,8 @@
 
 		"spyNames": ["Takalaua","Kaloafutonga","Havea","Fatafehi","Kaloa","Mataukipa","Ma'uhau","Vaelaveamata","Momo","Fefafa"],
 
-		"outerColor": [1,79,205],
-		"innerColor":[255,255,255],
+		"outerColor": [164,3,6],
+		"innerColor": [255,240,230],
 		"uniqueName": "Lords of the South",
 		"uniques": ["[+2 Production] from every [Fishing Boats]","Enables [Scout] units to enter ocean tiles <hidden from users>"],
 		"cities": ["Lapaha","Toloa","Heketā","Mu'a","Tatakamotonga","Nukuleka","Fakatefenga","Mele Havea","Vaipuna","Tongoleleka",
@@ -615,8 +615,8 @@
 
 		"spyNames": ["Boris","Desislava","Radislav","Militsa","Bezmer","Miroslava","Kaloyan","Maria","Peter","Smiltsena"],
 
-		"outerColor": [170,20,20],
-		"innerColor": [255,212,212],
+		"outerColor": [0,79,206], //170 20 20
+		"innerColor": [234,225,157], //255 212 212
 		"uniqueName": "Krum's Dynasty",
 		"uniques": ["Gain control over [pillaged] tiles in a [10]-tile radius <upon declaring war on [Major] Civilizations>", "[+2 Food] [in all cities] <for every [Owned [pillaged] Tiles]>"],
 		"cities": ["Preslav","Tarnovo","Ohrid","Pliska","Drastar","Pleven","Badin","Sredets","Karvuna","Plovdiv",
@@ -957,8 +957,8 @@
 
 		"spyNames": ["Edward","Mary","William","Charlotte","Charles","Jacquotte","John","Martha","Benjamin","Christina"],
 
-		"outerColor": [1,42,107],
-		"innerColor": [202,20,19],
+		"outerColor": [72,2,101],
+		"innerColor": [255,255,255],
 		"uniqueName": "Flying Gang",
 		"uniques": [ "Comment [Water units deal 10 damage to adjacent Enemy units, regardless of relationship status]", "Earn [250]% of the damage done to [Water] units as [Gold]", "Cannot build [Settler] units", "May buy [Settler] units for [500] [Gold] [in capital]"],
 		"cities": ["Nassau","Port Royal","Tortuga","Providence","Port-au-Prince","Charlotte Amalie","Newport","Havana","San Juan","Santo Domingo",
