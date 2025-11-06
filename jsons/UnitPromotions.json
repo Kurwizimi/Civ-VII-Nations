@@ -46,16 +46,16 @@
         {
         "name": "Tu'i Tonga",
        "uniques": ["Comment [Gain 30 [Culture] upon discovering a [City center], increasing by 20 [Culture] each age <modified by game speed>]",
-        "Gain [30] [Culture] <upon discovering a [City center] tile> <during the [Ancient era]> <(modified by game speed)> <hidden from users>"",
-       "Gain [50] [Culture] <upon discovering a [City center] tile> <during the [Ancient era]> <(modified by game speed)> <hidden from users>"",
-       "Gain [70] [Culture] <upon discovering a [City center] tile> <during the [Classical era]> <(modified by game speed)> <hidden from users>"",
+        "Gain [30] [Culture] <upon discovering a [City center] tile> <during the [Ancient era]> <(modified by game speed)> <hidden from users>",
+       "Gain [50] [Culture] <upon discovering a [City center] tile> <during the [Ancient era]> <(modified by game speed)> <hidden from users>",
+       "Gain [70] [Culture] <upon discovering a [City center] tile> <during the [Classical era]> <(modified by game speed)> <hidden from users>",
        "Gain [90] [Culture] <upon discovering a [City center] tile> <during the [Medieval era]> <(modified by game speed)> <hidden from users>"",
-       "Gain [110] [Culture] <upon discovering a [City center] tile> <during the [Renaissance era]> <(modified by game speed)> <hidden from users>"",
-       "Gain [130] [Culture] <upon discovering a [City center] tile> <during the [Industrial era]> <(modified by game speed)> <hidden from users>"",
-       "Gain [150] [Culture] <upon discovering a [City center] tile> <during the [Modern era]> <(modified by game speed)> <hidden from users>"",
-       "Gain [170] [Culture] <upon discovering a [City center] tile> <during the [Atomic era]> <(modified by game speed)> <hidden from users>"",
-       "Gain [190] [Culture] <upon discovering a [City center] tile> <during the [Information era]> <(modified by game speed)> <hidden from users>"",
-       "Gain [210] [Culture] <upon discovering a [City center] tile> <during the [Future era]> <(modified by game speed)> <hidden from users>""]
+       "Gain [110] [Culture] <upon discovering a [City center] tile> <during the [Renaissance era]> <(modified by game speed)> <hidden from users>",
+       "Gain [130] [Culture] <upon discovering a [City center] tile> <during the [Industrial era]> <(modified by game speed)> <hidden from users>",
+       "Gain [150] [Culture] <upon discovering a [City center] tile> <during the [Modern era]> <(modified by game speed)> <hidden from users>",
+       "Gain [170] [Culture] <upon discovering a [City center] tile> <during the [Atomic era]> <(modified by game speed)> <hidden from users>",
+       "Gain [190] [Culture] <upon discovering a [City center] tile> <during the [Information era]> <(modified by game speed)> <hidden from users>",
+       "Gain [210] [Culture] <upon discovering a [City center] tile> <during the [Future era]> <(modified by game speed)> <hidden from users>"]
     },
 
         {
