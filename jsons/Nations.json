@@ -72,7 +72,7 @@
 		"innerColor": [201,164,24],
 		"uniqueName": "Treasures of Nineveh",
 		"uniques": ["Free Technology <upon conquering a city>","[+10]% [Food] [in annexed cities]","[+10]% [Production] [in annexed cities]","[+10]% [Science] [in annexed cities]"],
-		"cities": ["Ninevel","Kalhu","Aššur","Arrapkha","Karkemiš","Dur-Katlimmu","Kar-Tukulti-Ninurta","Imgur-Enlil","Amida","Nuhadra",
+		"cities": ["Nineveh","Kalhu","Aššur","Arrapkha","Karkemiš","Dur-Katlimmu","Kar-Tukulti-Ninurta","Imgur-Enlil","Amida","Nuhadra",
 			"Arbi-Ilu","Khilakku","Huzirina","Kaneš","Mardama","Šinahuttum","Mansuate","Rapiqu","Shareisha","Kahat",
 			"Kar-Šulmānu-Ašarēdu","Hadātu","Tušhan","Kar-Sipar"]
 	},
@@ -499,13 +499,52 @@
 		"spyNames": ["Makdong","Geuru","Olmadae","Nana","Omadae","Noeul","Omidi","Miru","Madin","Mira"],
 
 		"outerColor": [1,79,205],
-		"inner colour":[255,255,255],
+		"innerColor":[0,0,0],
 		"uniqueName": "Maripgan",
 		"uniqueText": "+10% [Gold] in capital for every Friendly Civ \n+10% [Gold] in capital for every Civ with Open Borders \n-15% [Gold] in capital for every Hostile Civ",
 		"uniques": ["[+10]% [Gold] [in capital] <for every [Remaining [Friendly] Civilizations]>", "[+10]% [Gold] [in capital] <for every [Remaining [Open Borders] Civilizations]>", "[-15]% [Gold] [in capital] <for every [Remaining [Hostile] Civilizations]>"],
 		"cities": ["Seorabeol","Daegu","Yeodam","Ulsan","Horo","Gamno","Yeomhae","Geun-gi","Dongo","Bulsa",
 			"Anya","Ballo","Mioyama","Gosunsi","Juseong","Andong","Gijeo","Geochilsan","Jinhae","Pohang",
 			"Yeongdeok","Cheongsong","Uiseong","Miryang"],
+	},
+
+	{
+		"name": "Tonga",
+		"leaderName": "Kau'ulufonua",
+		"adjective": ["Tongan"],
+		"startBias": ["Coast","Jungle"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "Across the trackless seas the double-hulled Tongan ships sail, guided by nothing but the stars. The singer’s chant drives them forward, to seek new sea-stone harbors, new atolls and new fishing grounds. Listen to the slit-drum, and the rush of waves on the hull - a new shore await",
+		"startIntroPart2": "",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": "",
+		"neutralNo": "",
+		"neutralYes": "",
+
+		"hateHello": "",
+		"hateLetsHearIt": "",
+		"hateNo": "",
+		"hateYes": "",
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"spyNames": ["Takalaua","Kaloafutonga","Havea","Fatafehi","Kaloa","Mataukipa","Ma'uhau","Vaelaveamata","Momo","Fefafa"],
+
+		"outerColor": [164,3,6],
+		"innerColor": [255,240,230],
+		"uniqueName": "Lords of the South",
+		"uniques": ["[+2 Production] from every [Fishing Boats]","Enables [Scout] units to enter ocean tiles <hidden from users>"],
+		"cities": ["Lapaha","Toloa","Heketā","Mu'a","Tatakamotonga","Nukuleka","Fakatefenga","Mele Havea","Vaipuna","Tongoleleka",
+			"Faleloa","Pukotala","Falevai","Ha'ateiho","Holopeka","'Atele","Fotua","Lotofoa","Koulo","Felemea",
+			"Kolonga","Fua'amotu","Folaha","Malapo"],
 	},
 	
 
@@ -576,8 +615,8 @@
 
 		"spyNames": ["Boris","Desislava","Radislav","Militsa","Bezmer","Miroslava","Kaloyan","Maria","Peter","Smiltsena"],
 
-		"outerColor": [170,20,20],
-		"innerColor": [255,212,212],
+		"outerColor": [0,79,206], //170 20 20
+		"innerColor": [234,225,157], //255 212 212
 		"uniqueName": "Krum's Dynasty",
 		"uniques": ["Gain control over [pillaged] tiles in a [10]-tile radius <upon declaring war on [Major] Civilizations>", "[+2 Food] [in all cities] <for every [Owned [pillaged] Tiles]>"],
 		"cities": ["Preslav","Tarnovo","Ohrid","Pliska","Drastar","Pleven","Badin","Sredets","Karvuna","Plovdiv",
@@ -883,9 +922,48 @@
 		"innerColor": [202,20,19],
 		"uniqueName": "Normannitas",
 		"uniques": [ "[Land] units gain the [Normannitas] promotion", "Comment [+1 [Gold] from every [Farm], doubled in a Golden Age]", "[+1 Gold] from every [Farm] <hidden from users>", "[+1 Gold] from every [Farm] <during a Golden Age> <hidden from users>",],
-		"cities": ["Rouen","Kaem","Bayeux","Falaise","Hastinges","Fecamp","Wyncestre","Lundres","Dovorre","Gisors",
-			"Everwyk","Cheregugh","Cantorbire","Dives","Colcestre","Norwiche","Mortaigne","Diepe","Lincoln","Evrous",
+		"cities": ["Rouen","Kaem","Bayeux","Falaise","Hastinges","Fécamp","Wyncester","Lundres","Dovorre","Gisors",
+			"Everwyk","Chereburgh","Cantorbire","Dives","Colcestre","Norwiche","Mortaigne","Diepe","Lincoln","Evrous",
 			"Boseham","Avraunches","Melfi","Avraunches"],
+	},
+
+	{
+		"name": "The Republic of Pirates",
+		"leaderName": "Edward Teach",
+		"adjective": ["Pirate"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Ahoy, bucko! Ye’ve gone on account with those who ken no lord but the sea and the salt. Weigh anchor, then, an see if it be gold or Jack Ketch at the end of yer gangway. The writ’s been signed, an the devil’s afoot.",
+		"startIntroPart2": "Admiral of the Black, you know well that it is the name, not the gun, that is the deadliest bullet, and though you were born Edward Teach, it is the name Blackbeard that caused sailors to quail. Cast off now, as there are ships and caravans alike heavy with plunder. Prepare the Queen Anne’s Revenge again for war - there’s booty to be had!",
+		
+		"declaringWar": "Bring a spring on her cable, hearties! There's blood to be had!",
+		"attacked": "Damnation seize my soul if I give you quarter or take any from ye!",
+		"defeated": "This shall be written in the history books, about how I, the great King, have been deposed by a pathetic barbarian.",
+		"introduction": "Hark ye to the Admiral of the Black, the scourge of the seven seas - Edward Teach, Blackbeard in the flesh.",
+		
+		"neutralHello": "Good to see you, friend!",
+		"neutralLetsHearIt": ["Yes?"],
+		"neutralNo": ["No."],
+		"neutralYes": ["Yes!"],
+
+		"hateHello": "What do you want, fool?",
+		"hateLetsHearIt": ["Go on..."],
+		"hateNo": ["Do you have an arrow stuck in your eye?"],
+		"hateYes": ["SO be it."],
+		
+		"afterPeace": "Done handsomely.",
+		"tradeRequest": "How about this deal?",
+
+		"spyNames": ["Edward","Mary","William","Charlotte","Charles","Jacquotte","John","Martha","Benjamin","Christina"],
+
+		"outerColor": [72,2,101],
+		"innerColor": [255,255,255],
+		"uniqueName": "Flying Gang",
+		"uniques": [ "Comment [Water units deal 10 damage to adjacent Enemy units, regardless of relationship status]", "Earn [250]% of the damage done to [Water] units as [Gold]", "Cannot build [Settler] units", "May buy [Settler] units for [500] [Gold] [in capital]"],
+		"cities": ["Nassau","Port Royal","Tortuga","Providence","Port-au-Prince","Charlotte Amalie","Newport","Havana","San Juan","Santo Domingo",
+			"Road Town","New Haven","Petit-Goâve","Île Sainte-Marie","Umhaille","Fort Saint Louis","Brigdetown","Île-à-Vache","Ocracoke","Eleuthera",
+			"St John's","Portobelo","Campeche","St George's"],
 	},
 
 	{
