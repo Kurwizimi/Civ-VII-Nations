@@ -63,7 +63,7 @@
         "name": "Hidden Fortress",
         "uniqueTo": "Bulgaria",
         "terrainsCanBeBuiltOn": ["Hill"],
-        "production": 4,
+        "production": 2,
         "turnsToBuild": 7,
         "techRequired": "Metal Casting",
         "uniques": ["Gives a defensive bonus of [50]%", "Pillaging this improvement yields approximately [+25 Gold]"],
