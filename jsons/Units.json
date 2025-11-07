@@ -596,7 +596,6 @@
 	"uniqueTo": "The Mughals",
 	"replaces": "Rifleman",
 	"strength": 34,
-	"range": 1,
 	"cost": 225,
 	"movement": 2,
 	"requiredTech": "Rifling",
