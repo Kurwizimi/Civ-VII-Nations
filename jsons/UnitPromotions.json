@@ -110,7 +110,7 @@
 
         {
         "name": "[Sepoy] ability",
-        "uniques": ["[This unit] heals [10] HP <upon defeating a [Military] unit>"]
+        "uniques": ["[This Unit] heals [10] HP <upon defeating a [Military] unit>"]
     },
 
         {
