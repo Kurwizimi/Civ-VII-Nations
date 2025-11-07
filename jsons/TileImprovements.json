@@ -66,7 +66,7 @@
         "production": 2,
         "turnsToBuild": 7,
         "techRequired": "Metal Casting",
-        "uniques": ["Gives a defensive bonus of [50]%", "Pillaging this improvement yields approximately [+25 Gold]"],
+        "uniques": ["Comment [Units gain the [Hidden] status when stationed on this improvement]", "Gives a defensive bonus of [50]%", "Pillaging this improvement yields approximately [+25 Gold]"],
         "shortcutKey": "H"
     },
     {
