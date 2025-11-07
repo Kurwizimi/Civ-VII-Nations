@@ -109,13 +109,18 @@
     },
 
         {
+        "name": "[Sepoy] ability",
+        "uniques": ["[This unit] heals [10] HP <upon defeating a [Military] unit>"]
+    },
+
+        {
         "name": "[Gholām] ability",
         "uniques": ["[+15]% Strength <when adjacent to a [Great General] unit>", "[+20] HP when healing <when adjacent to a [Great General] unit>"]
     },
 
         {
         "name": "[Gusa] ability",
-        "uniques": ["[+15]% Strength <when adjacent to a [Gusa] unit>"]
+        "uniques": ["[+3]% Strength <for every [Remaining [{Friendly} {Major}] Civilizations]>", "[+2]% Strength <for every [Remaining [{Friendly} {City-State}] Civilizations]>"]
     },
 
        {
