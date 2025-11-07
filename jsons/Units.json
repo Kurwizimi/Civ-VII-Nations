@@ -378,7 +378,7 @@
 	"range": 2,
 	"cost": 130,
 	"uniques": ["Unbuildable","Cannot be purchased", "Can transform to [Xunleichong (Anti-Mounted)]", "Can transform to [Xunleichong]", "Only available <for [Ming] Civilizations>"],
-	"upgradesTo": "Gatling Gun",
+	"upgradesTo": "Musketman",
 	"obsoleteTech": "Gunpowder"
    },
 
@@ -389,7 +389,7 @@
 	"strength": 17,
 	"cost": 130,
 	"uniques": ["[+50]% Strength <vs [Mounted] units>", "Unbuildable","Cannot be purchased", "Can transform to [Xunleichong (Ranged)]", "Can transform to [Xunleichong]", "Only available <for [Ming] Civilizations>"],
-	"upgradesTo": "Lancer",
+	"upgradesTo": "Musketman",
 	"obsoleteTech": "Gunpowder"
    },
 
