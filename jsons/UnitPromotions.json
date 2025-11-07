@@ -137,6 +137,11 @@
         "name": "[Castilian Tercio] ability",
         "uniques": ["[-20]% Strength for enemy [Mounted] units in adjacent [All] tiles"]
     },
+        
+        {
+        "name": "Hidden",
+        "uniques": ["Invisible to others", "[+10]% Strength <if it hasn't used other actions yet>"]
+    },
 
 
 
