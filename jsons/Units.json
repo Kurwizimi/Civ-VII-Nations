@@ -219,7 +219,6 @@
 		"movement": 2,
 		"strength": 5,
 		"cost": 25,
-		"obsoleteTech": "Scientific Theory",
 		"uniques": ["Comment [May enter [Ocean] tiles]", "May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
 		"promotions": ["Ignore terrain cost", "[Tehina] ability"],
 		"attackSound": "nonmetalhit"
@@ -234,7 +233,7 @@
 		"strength": 10,
 		"cost": 45,
 		"requiredTech": "Sailing",
-		"uniques": ["Cannot enter ocean tiles", "Never appears as a Barbarian unit"],
+		"uniques": ["Cannot enter ocean tiles"],
 		"promotions": ["Coastal Raider I"],
 		"upgradesTo": "Caravel",
 		"obsoleteTech": "Astronomy",
@@ -253,7 +252,7 @@
         "obsoleteTech": "Military Science",
         "upgradesTo": "Cavalry",
         "requiredResource": "Horses",
-        "uniques": ["[+25]% Strength <within [2] tiles of a [City center]>", "Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+        "uniques": ["[+25]% Strength <within [2] tiles of a [City center]>", "Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>",],
         "attackSound": "horse"
     },
 
@@ -357,18 +356,41 @@
 
 	{
 	"name": "Xunleichong",
-	"unitType": "Ranged Gunpowder",
+	"unitType": "Gunpowder",
 	"uniqueTo": "Ming",
 	"replaces": "Longswordsman",
 	"movement": 2,
-	"strength": 17,
-	"rangedStrength": 21,
-	"range": 1,
+	"strength": 21,
 	"cost": 130,
 	"requiredTech": "Steel",
 	"upgradesTo": "Musketman",
 	"obsoleteTech": "Gunpowder",
+	"uniques": ["Can transform to [Xunleichong (Ranged)]", "Can transform to [Xunleichong (Anti-Mounted)]"],
 	"promotions": ["Shock I"]
+   },
+
+	{
+	"name": "Xunleichong (Ranged)",
+	"unitType": "Ranged Gunpowder",
+	"movement": 2,
+	"strength": 17,
+	"rangedStrength": 12,
+	"range": 2,
+	"cost": 130,
+	"uniques": ["Unbuildable","Cannot be purchased", "Can transform to [Xunleichong (Anti-Mounted)]", "Can transform to [Xunleichong]", "Only available <for [Ming] Civilizations>"],
+	"upgradesTo": "Gatling Gun",
+	"obsoleteTech": "Gunpowder"
+   },
+
+	{
+	"name": "Xunleichong (Anti-Mounted)",
+	"unitType": "Sword",
+	"movement": 2,
+	"strength": 17,
+	"cost": 130,
+	"uniques": ["[+50]% Strength <vs [Mounted] units>", "Unbuildable","Cannot be purchased", "Can transform to [Xunleichong (Ranged)]", "Can transform to [Xunleichong]", "Only available <for [Ming] Civilizations>"],
+	"upgradesTo": "Lancer",
+	"obsoleteTech": "Gunpowder"
    },
 
 	{
@@ -487,7 +509,8 @@
 	"strength": 65,
 	"cost": 300,
 	"movement": 2,
-	"uniques":["[+1] Sight <when [Embarked]>", "[+100]% Strength <when defending> <when [Embarked]>", "[1] Movement point cost to disembark", "[1] Movement point cost to embark", "Comment [Unlocked Earlier at [Electronics] ]"],
+	"uniques":["[+1] Sight <when [Embarked]>", "[+100]% Strength <when defending> <when [Embarked]>",
+		"[1] Movement point cost to disembark", "[1] Movement point cost to embark", "Comment [Unlocked Earlier at [Electronics]]"],
 	"requiredTech": "Electronics",
 	"promotions": ["Amphibious"]
     },
@@ -572,13 +595,13 @@
 	"unitType": "Gunpowder",
 	"uniqueTo": "The Mughals",
 	"replaces": "Rifleman",
-	"strength": 40,
-	"rangedStrength": 35,
+	"strength": 34,
 	"range": 1,
-	"cost": 250,
+	"cost": 225,
 	"movement": 2,
 	"requiredTech": "Rifling",
-	"obsolete": "Plastics"
+	"obsolete": "Plastics",
+	"promotions": ["[Sepoy] ability", "Besiege"]
     },
 
 	{
