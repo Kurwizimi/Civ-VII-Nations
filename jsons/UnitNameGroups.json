@@ -24,6 +24,10 @@
         "name": "Merchant",
         "unitNames": ["Shang Yang", "Shen Buhai", "Al-Maqdisi", "Al-Shaybani", "Hernando de Soto"]
     },
+   {
+        "name": "Buccaneer",
+        "unitNames": ["Blackbeard", "Anne Bonny", "Henry Every", "Samuel Bellamy", "Mary Critchett", "Nicholas de Concepcion", "Joseph Faro", "Richard Frowd", "William Kidd", "Francis Leslie", "John Rackam", "Emanuel Wynn", "Richard Worley"]
+    },
 
 
 
