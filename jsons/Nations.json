@@ -913,7 +913,7 @@
 		"hateHello": "What do you want, fool?",
 		"hateLetsHearIt": ["Go on..."],
 		"hateNo": ["Do you have an arrow stuck in your eye?"],
-		"hateYes": ["SO be it."],
+		"hateYes": ["So be it."],
 		
 		"afterPeace": "Now you shall remember what the Norman people are capable of!",
 		"tradeRequest": "How about this deal?",
@@ -960,7 +960,7 @@
 		"outerColor": [72,2,101],
 		"innerColor": [255,255,255],
 		"uniqueName": "Flying Gang",
-		"uniques": [ "Comment [Water units deal 10 damage to adjacent Enemy units, regardless of relationship status]", "Earn [250]% of the damage done to [Water] units as [Gold]", "Cannot build [Settler] units", "May buy [Settler] units for [500] [Gold] [in capital]"],
+		"uniques": [ "May capture killed [{non-[Barbarian]} {Water}] units", "Earn [250]% of the damage done to [Water] units as [Gold]", "Cannot build [Settler] units <in [non-[Capital]] cities>"],
 		"cities": ["Nassau","Port Royal","Tortuga","Providence","Port-au-Prince","Charlotte Amalie","Newport","Havana","San Juan","Santo Domingo",
 			"Road Town","New Haven","Petit-Goâve","Île Sainte-Marie","Umhaille","Fort Saint Louis","Brigdetown","Île-à-Vache","Ocracoke","Eleuthera",
 			"St John's","Portobelo","Campeche","St George's"],
