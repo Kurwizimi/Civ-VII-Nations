@@ -960,7 +960,7 @@
 		"outerColor": [72,2,101],
 		"innerColor": [255,255,255],
 		"uniqueName": "Flying Gang",
-		"uniques": ["May capture killed [Embarked] units", "Earn [250]% of the damage done to [Water] units as [Gold]", "Cannot build [Settler] units <in [non-[Capital]] cities>"],
+		"uniques": ["Comment [May capture killed Embarked and Water units with 50% chance]", "Earn [250]% of the damage done to [Water] units as [Gold]", "Cannot build [Settler] units <in [non-[Capital]] cities>"],
 		"cities": ["Nassau","Port Royal","Tortuga","Providence","Port-au-Prince","Charlotte Amalie","Newport","Havana","San Juan","Santo Domingo",
 			"Road Town","New Haven","Petit-Goâve","Île Sainte-Marie","Umhaille","Fort Saint Louis","Brigdetown","Île-à-Vache","Ocracoke","Eleuthera",
 			"St John's","Portobelo","Campeche","St George's"],
