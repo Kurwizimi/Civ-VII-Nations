@@ -408,6 +408,7 @@
                 "Unbuildable",
                 "Uncapturable",
 				"Is part of Great Person group [Great Person]",
+				"[This Unit] gets a name from the [Merchant] group",
 				"Great Person - [Gold]"
         ]
    },
@@ -457,6 +458,7 @@
 			"[+10]% Strength bonus for [Military] units within [2] tiles <during a Golden Age>",
 			"Can be earned through combat <for [Water] units>",
             "Is part of Great Person group [Admiral]",
+			"[This Unit] gets a name from the [Buccaneer] group",
             "Great Person - [War]", "Unbuildable", "Uncapturable",
 		"Founds a new city <once>"],
 		"movement": 4
