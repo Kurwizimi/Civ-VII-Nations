@@ -179,15 +179,15 @@
 
 	{
         "name": "Roman Legion",
-	"replaces": "Swordsman",
+		"replaces": "Swordsman",
         "uniqueTo": "Roma",
         "unitType": "Sword",
         "movement": 2,
         "strength": 14,
         "cost": 75,
         "requiredTech": "Iron Working",
-	"promotions": ["[Roman Legion] ability"],
-	"requiredResource": "Iron",
+		"promotions": ["[Roman Legion] ability"],
+		"requiredResource": "Iron",
         "upgradesTo": "Longswordsman",
         "obsoleteTech": "Steel",
         "hurryCostModifier": 20,
@@ -393,14 +393,13 @@
 	"obsoleteTech": "Gunpowder"
    },
 
-	{
-	"name": "Mandarin",
+		{
+		"name": "Mandarin",
       	"unitType": "Civilian",
-	"uniqueTo": "Ming",
-	"replaces": "Great Merchant",
-	"movement": 4,
-        "uniques": [
-                "Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence",
+		"uniqueTo": "Ming",
+		"replaces": "Great Merchant",
+		"movement": 4,
+        "uniques": [  "Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence",
                 "Can instantly construct a [Customs house] improvement <by consuming this unit>",
                 "May enter foreign tiles without open borders",
                 "Can build [All Road] improvements on tiles",
@@ -409,15 +408,14 @@
                 "Uncapturable",
 				"Is part of Great Person group [Great Person]",
 				"[This Unit] gets a name from the [Merchant] group",
-				"Great Person - [Gold]"
-        ]
+				"Great Person - [Gold]"]
    },
 
 	{
         "name": "Keshig",
         "unitType": "Mounted",
-	"uniqueTo": "Yeke Mongɣol Ulus",
-	"replaces": "Crossbowman",
+		"uniqueTo": "Yeke Mongɣol Ulus",
+		"replaces": "Crossbowman",
         "movement": 3,
         "strength": 13,
         "rangedStrength": 18,
@@ -425,9 +423,9 @@
         "requiredTech": "Machinery",
         "upgradesTo": "Gatling Gun",
         "obsoleteTech": "Industrialization",
-	"uniques":["Can move after attacking", "No defensive terrain bonus", "Ignores Zone of Control"],
-	"requiredResource": "Horses",
-	"promotions": ["[Keshig] ability"],
+		"uniques":["Can move after attacking", "No defensive terrain bonus", "Ignores Zone of Control"],
+		"requiredResource": "Horses",
+		"promotions": ["[Keshig] ability"],
         "attackSound": "crossbow"
     },
 
@@ -442,6 +440,7 @@
 	"obsolete": "Military Science",
 	"requiredTech": "Chivalry",
 	"uniques":["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>"],
+	"upgradesTo": "Knight",
 	"requiredResource": "Horses",
 	"promotions": ["[Chevaler] ability"]
     },
@@ -488,6 +487,7 @@
 	"movement": 2,
 	"uniques": ["[+50]% Strength <vs [Mounted] units>"],
 	"requiredTech": "Gunpowder",
+	"upgradesTo": "Lancer",
 	"promotions": ["[Golden Bangles] ability"]
     },
 
@@ -500,6 +500,7 @@
 	"cost": 150,
 	"movement": 2,
 	"requiredTech": "Gunpowder",
+	"upgradesTo": "Rifleman",
 	"promotions": ["[Castilian Tercio] ability"]
     },
 
@@ -519,8 +520,8 @@
 
 	{
         "name": "Revenge",
-	"replaces": "Battleship",
-	"uniqueTo": "Great Britain",
+		"replaces": "Battleship",
+		"uniqueTo": "Great Britain",
         "unitType": "Ranged Water",
         "movement": 5,
         "strength": 55,
@@ -545,6 +546,7 @@
 	"movement": 2,
 	"obsolete": "Replaceable Parts",
 	"requiredTech": "Rifling",
+	"upgradesTo": "Great War Infantry",
 	"promotions": ["[Abambowa] ability"] // <upon ending a turn in a [pillaged] tile>
     },
 
@@ -559,6 +561,7 @@
 	"cost": 225,
 	"movement": 2,
 	"uniques": ["[+50]% Strength <when adjacent to a [Great General] unit>"],
+	"upgradesTo": "Great War Infantry",
 	"requiredTech": "Rifling",
 	"obsolete": "Replaceable Parts"
     },	
@@ -566,8 +569,8 @@
 	{
         "name": "Mikasa",
         "unitType": "Melee Water",
-	"uniqueTo": "Meiji Japan",
-	"replaces": "Ironclad",
+		"uniqueTo": "Meiji Japan",
+		"replaces": "Ironclad",
         "movement": 3,
         "strength": 45,
         "cost": 250,
@@ -575,7 +578,7 @@
         "requiredResource": "Coal",
         "upgradesTo": "Destroyer",
         "uniques": ["[+33]% Strength <vs cities>", "Double movement in [Coast]"],
-	"promotions": ["[Mikasa] ability"],
+		"promotions": ["[Mikasa] ability"],
         "attackSound": "shipguns"
     },
 
@@ -589,6 +592,7 @@
 	"movement": 2,
 	"obsolete": "Replaceable Parts",
 	"requiredTech": "Rifling",
+	"upgradesTo": "Great War Infantry",
 	"promotions": ["[Soldaderas] ability"] // +10 health for adjacent units
     },
 
@@ -602,6 +606,7 @@
 	"movement": 2,
 	"requiredTech": "Rifling",
 	"obsolete": "Plastics",
+	"upgradesTo": "Great War Infantry",
 	"promotions": ["[Sepoy] ability", "Besiege"]
     },
 
@@ -613,6 +618,7 @@
 	"strength": 80,
 	"cost": 400,
 	"movement": 3,
+	"upgradesTo": "Mechanised Infantry",
 	"requiredTech": "Plastics",
 	"obsolete": "Mobile Tactics"
     },
@@ -627,6 +633,7 @@
 	"cost": 225,
 	"obsolete": "Mobile Tactics",
 	"requiredTech": "Military Science",
+	"upgradesTo": "Landship",
 	"uniques":["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>"],
 	"requiredResource": "Horses",
 	"promotions": ["[Prussian Hussar] ability"]
@@ -635,15 +642,15 @@
 	 {
         "name": "Stuka",
         "unitType": "Bomber",
-	"uniqueTo": "Prussia",
-	"replaces": "Bomber",
+		"uniqueTo": "Prussia",
+		"replaces": "Bomber",
         "movement": 1,
         "strength": 75,
         "rangedStrength": 65,
         "range": 10,
         "cost": 375,
         "requiredTech": "Radar",
-	"uniques":["[+25]% Strength <vs [Land] units>"],
+		"uniques":["[+25]% Strength <vs [Land] units>"],
         "requiredResource": "Oil",
         "upgradesTo": "Stealth Bomber",
         "attackSound": "bombing"
@@ -675,14 +682,15 @@
 	"cost": 225,
 	"movement": 2,
 	"requiredTech": "Rifling",
+	"upgradesTo": "Great War Infantry",
 	"obsolete": "Replacable Parts",
 	"promotions": ["[Gusa] ability"] // [+10]% Strength <when adjacent to a [Gusa] unit>//
     },
 
 	{
         "name": "Katyusha",
-	"replaces": "Artillery",
-	"uniqueTo": "Imperial Russia",
+		"replaces": "Artillery",
+		"uniqueTo": "Imperial Russia",
         "unitType": "Siege",
         "movement": 4,
         "strength": 17,
@@ -699,13 +707,13 @@
 
 	{
         "name": "Chang Beun",
-	"replaces": "Gatling Gun",
-	"uniqueTo": "Rattanakosin",
-	"unitType": "Ranged Gunpowder",
+		"replaces": "Gatling Gun",
+		"uniqueTo": "Rattanakosin",
+		"unitType": "Ranged Gunpowder",
         "movement": 2,
         "strength": 30,
-	"rangedStrength": 35,
-	"range": 2,
+		"rangedStrength": 35,
+		"range": 2,
         "cost": 225,
         "requiredTech": "Industrialization",
         "upgradesTo": "Machine Gun",
