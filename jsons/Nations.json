@@ -1311,24 +1311,24 @@
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 		
-		"declaringWar": "",
-		"attacked": "",
+		"declaringWar": "You are clearly not fit for an agent of God. In Gods name I shall end your rule! Allah u Akbar!",
+		"attacked": "Rulers that lead their people into the pits of Hell shall neer be redeemed by God, not me. Jalla Jalaluhu!",
 		
-		"defeated": "",
-		"introduction": "Salaam, welcome ",
+		"defeated": "My hope for a united world, a united people, is over. I hope you enjoy your sour victory, because in the next life, God shall not be forgiving.",
+		"introduction": "Salaam, I am Akbar, Shahenshah-e-Hind. From one agent of God to another, I welcome you to my empire.",
 		
-		"neutralHello": "",
+		"neutralHello": "I wish you well",
 		"neutralLetsHearIt": [""],
 		"neutralNo": [""],
 		"neutralYes": [""],
 
-		"hateHello": "",
+		"hateHello": "Why are you here?",
 		"hateLetsHearIt": [""],
 		"hateNo": [""],
 		"hateYes": [""],
 		
-		"afterPeace": "",
-		"tradeRequest": "",
+		"afterPeace": "Now this slaughter can finally ends, and prosperity can breathe once more.",
+		"tradeRequest": "This offer shall hopefully see you well.",
 
 		"outerColor": [0, 66, 33],
 		"innerColor": [253, 208, 22],
