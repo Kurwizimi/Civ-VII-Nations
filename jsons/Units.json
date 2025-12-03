@@ -440,7 +440,7 @@
 	"obsolete": "Military Science",
 	"requiredTech": "Chivalry",
 	"uniques":["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>"],
-	"upgradesTo": "Knight",
+	"upgradesTo": "Cavalry",
 	"requiredResource": "Horses",
 	"promotions": ["[Chevaler] ability"]
     },
@@ -618,7 +618,7 @@
 	"strength": 80,
 	"cost": 400,
 	"movement": 3,
-	"upgradesTo": "Mechanised Infantry",
+	"upgradesTo": "Mechanized Infantry",
 	"requiredTech": "Plastics",
 	"obsolete": "Mobile Tactics"
     },
