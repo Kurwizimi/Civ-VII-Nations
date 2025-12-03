@@ -15,17 +15,10 @@
 		"introduction": "Greetings, strange traveller! I am Queen Makeda, ruler of Aksum and Ethiopia.",
 		
 		"neutralHello": "Səm-u la-nəgəśt, In the name of the queen.",
-		"neutralLetsHearIt": ["Go on..."],
-		"neutralNo": ["Nəḥna 'i-nəkl ḥawira, We cannot carry on with this"],
-		"neutralYes": ["Kəbur! Glorious!"],
-
 		"hateHello": "Səm-u la-nəgəśt!",
-		"hateLetsHearIt": ["We have little interest in what you have to say"],
-		"hateNo": ["Wald-a 'adg!"],
-		"hateYes": ["I see... We shall accept."],
-		
-		"afterPeace": "May the trade flow again.",
 		"tradeRequest": "Aksum holds many goods you could not refuse to buy.",
+		"denounced": "Nəḥna 'i-nəkl ḥawira. Your jealousy of Aksum is worth more than gold to me!",
+		"declaringfriendship": "Hagar əḫəw! Shall we declare the friendship of our empires?",
 
 		"spyNames": ["Dagnew","Dinqinesh","Iyasu","Menen","Mengesha","Senedu","Sebhat","Tewabech","Wolde","Zewditu"],
 
@@ -54,17 +47,11 @@
 		"introduction": "",
 		
 		"neutralHello": "",
-		"neutralLetsHearIt": [""],
-		"neutralNo": [""],
-		"neutralYes": [""],
-
 		"hateHello": "",
-		"hateLetsHearIt": [""],
-		"hateNo": [""],
-		"hateYes": [""],
-		
 		"afterPeace": "",
 		"tradeRequest": "",
+		"denounced": "",
+		"declaringfriendship": "",
 
 		"spyNames": ["Arda-Mulišši","Libbāli-Šarrat","Mutakkil-Nusku","Sammu-Rāmat","Aššur-Rabi","Zakûtu","Adad-Nīrārī","Ešarra-Hammat","Aššur-Dān","Muballitat-Sherua"],
 
@@ -93,17 +80,11 @@
 		"introduction": "Greetings! I am Hannibal Barca, profound statesman and general. ",
 		
 		"neutralHello": "Welcome Rshadir! Welcome Great Leader!",
-		"neutralLetsHearIt": ["You have my attention"],
-		"neutralNo": ["No."],
-		"neutralYes": ["I accept"],
-
 		"hateHello": "What do you want, you pathetic leader?",
-		"hateLetsHearIt": ["Spare me your words."],
-		"hateNo": ["I was expecting such to come from you."],
-		"hateYes": ["You suprise me with your intelligence. Very well."],
-		
 		"afterPeace": "May these borders hold.",
 		"tradeRequest": "All trade flows through Qart Hashdat, before reaching you ofcourse.",
+		"denounced": "This insult shall be remembered by Qart Hashdat.",
+		"declaringfriendship": "Shall we tie our nation sin allegiance?",
 
 		"spyNames": ["Hamilcar","Siphonbaal","Mago","Batnoam","Gisgo","Ummashtart","Azarbaal","Amoashtart","Mattanbaal","Zyabqot"],
 
@@ -133,17 +114,10 @@
 		"introduction": "I am Horus in human flesh — Hatshepsut, pharaoh of the red lands and the black lands.",
 		
 		"neutralHello": "Welcome, friend.",
-		"neutralLetsHearIt": ["Hm?"],
-		"neutralNo": ["We must cast this downstream."],
-		"neutralYes": ["The river brings blessings."],
-
 		"hateHello": "Yes?",
-		"hateLetsHearIt": ["What?"],
-		"hateNo": ["We must cast this downstream."],
-		"hateYes": ["Pathetic"],
-		
-		"afterPeace": "The river brings blessings.",
 		"tradeRequest": "The river brings blessings.",
+		"denounced": "Tossing our relationship downstream will only give you regret.",
+		"declaringfriendship": "Shall we bind our nations in friendship?",
 
 		"spyNames": ["Ahmes","Berenice","Benipe","Hatasu","Kames","Hotep","Nahab","Merit","Rimes","Titi"],
 
@@ -172,17 +146,10 @@
 		"introduction": "I am Xenophon, leader of the Ten Thousand, and protector of all Greek states.",
 		
 		"neutralHello": "Hello, brave leader!",
-		"neutralLetsHearIt": ["Yes?"],
-		"neutralNo": ["No, why would we accept this?"],
-		"neutralYes": ["Ha Ha! A marvellous deal!"],
-
 		"hateHello": "Scoudrel!",
-		"hateLetsHearIt": ["Hmph."],
-		"hateNo": ["Never!"],
-		"hateYes": ["Lets hope this is an exception."],
-		
-		"afterPeace": "I expect you have learnt a thing or two from my troops from this war.",
 		"tradeRequest": "My friend, would you kindly accept this offer?",
+		"denounced": "Really? Have you not seen the might of my armies? Do you really want to test your luck against me?",
+		//"declaringfriendship": "",
 
 		"spyNames": ["Agapetos","Chloe","Demokritos","Hypatia","Heracleitos","Ligeia","Nereus","Pelagia","Sosigenes","Xanthe"],
 
@@ -211,17 +178,10 @@
 		"introduction": "Ahh... Welcome. I am Emperor Xuan, the filial and known by many.",
 		
 		"neutralHello": "Ahh, how are you today, kind leader?",
-		"neutralLetsHearIt": ["Yes?"],
-		"neutralNo": ["Unfortunately not."],
-		"neutralYes": ["I accept."],
-
 		"hateHello": "We do not welcome tyrants like you!",
-		"hateLetsHearIt": ["..."],
-		"hateNo": ["Ha! And support your tyrannical rule? Never!"],
-		"hateYes": ["... Very well."],
-		
-		"afterPeace": "Now lets hope you will care more for your people than your pride from now on.",
 		"tradeRequest": "May this offer seek you well.",
+		"denounced": "I guess I shouldn't have expected much from you. Your tyranny shall end one day.",
+		//"declaringfriendship": "",
 
 		"spyNames": ["Chen","Chang","Kong","Huan-Yue","Lei","Li-mei","Shaiming","Qing-yuan","Shing","Xin-qian"],
 		
@@ -249,17 +209,10 @@
 		"introduction": "I am Jayavarman VII, and the Khmer allow me to lead them. Their suffering is my suffering.",
 		
 		"neutralHello": " Heaven smiles upon you - as do the Khmer.",
-		"neutralLetsHearIt": ["Yes?"],
-		"neutralNo": [" I must refuse"],
-		"neutralYes": [" Perhaps... yes"],
-
 		"hateHello": "You must know how to live a divine life—how else could you teach your people to do the opposite?",
-		"hateLetsHearIt": ["Hmm... Go on."],
-		"hateNo": ["Why did I expect any better from you?"],
-		"hateYes": ["Very well..."],
-		
-		"afterPeace": "Ending spiritual suffering is just as important as easing physical distress. You understand this.",
 		"tradeRequest": "The Khmer wish to offer you this gift.",
+		"denounced": "",
+		//"declaringfriendship": "",
 
 		"spyNames": ["Balarama","Indradevi","Damkhat","Lakshmi","Laksmana","Romchang","Rama","Suryavana","Thomma","Viralakshmi"],
 
@@ -284,22 +237,14 @@
 		
 		"declaringWar": "The path of violence is a path that I swore never to take again. But here we are",
 		"attacked": "Violence echoes across multiple lives, multiple worlds. It will return to you.",
-		
 		"defeated": "And now, the burning wheel passes over me...",
 		"introduction": "I am Ashoka, the great king at the center of the world, ...and profound sinner.",
 		
 		"neutralHello": "Welcome, what have you come here for?",
-		"neutralLetsHearIt": ["Yes?"],
-		"neutralNo": ["This is 'adharma', an error."],
-		"neutralYes": ["So it is."],
-
 		"hateHello": "Why are you here?",
-		"hateLetsHearIt": ["What?"],
-		"hateNo": ["This is 'adharma', an error."],
-		"hateYes": ["So be it"],
-		
-		"afterPeace": "The righteous path.",
 		"tradeRequest": "I hope this offer will be beneficial for both of us.",
+		"denounced": "This must be a mistake, no? If not, then you have made a grand error, my friend.",
+		//"declaringfriendship": "",
 
 		"spyNames": ["Darshan","Asha","Kuruvilla","Dakshina","Narayan","Lajila","Pulkit","Savatari","Surya","Vineeta"],
 
@@ -328,17 +273,10 @@
 		"introduction": "My name is Tecun, brave warrior and leader of the Ki'iche Maya.",
 		
 		"neutralHello": "Yes?",
-		"neutralLetsHearIt": ["Go on..."],
-		"neutralNo": ["No."],
-		"neutralYes": ["Absolutely!"],
-
-		"hateHello": "Your presence sickens me",
-		"hateLetsHearIt": ["What?"],
-		"hateNo": ["No!"],
-		"hateYes": ["Very well."],
-		
-		"afterPeace": "Now the Ki'iche shall remain free from your people.",
+		"hateHello": "Watch where you step...",
 		"tradeRequest": "Will this deal strengthen the ties of our nations?",
+		"denounced": "Your words mean nothing to me. Like the Quetzal, the Ki'iche shall never be bound to your petty actions.",
+		//"declaringfriendship": "",
 
 		"spyNames": ["Bound-stone Jaguar","Star House","Scroll Serpent","Baby Jaguar","Shield Skull","Scroll-in-hand","Lord Chocolate","Eveningstar","Storm Sky","Lady Crocodile"],
 
@@ -1205,17 +1143,10 @@
 		"introduction": "Just Citizen Lafayette, s'il vous plait.",
 
 		"neutralHello": "Welcome.",
-		"neutralLetsHearIt": ["Yes?"],
-		"neutralNo": ["Please, this is unreasonable."],
-		"neutralYes": ["Yes, yes, this is sensible."],
-
 		"hateHello": "You again...",
-		"hateLetsHearIt": ["Go on..."],
-		"hateNo": ["This is unacceptable!"],
-		"hateYes": ["...This is reasonable."],
-		
-		"afterPeace": "We now walk always between two abysses. Care and moderation is our path forward.",
 		"tradeRequest": "Is this reasonable for you?",
+		"denounced": "",
+		//"declaringfriendship": "",
 
 		"outerColor": [66,100,174],
 		"innerColor": [242,244,183],
@@ -1375,6 +1306,33 @@
 		"cities": ["Kathmandu","Pokhara","Lalitpur","Bharatpur","Gahawa","Dharan","Hetauda","Birendranagar","Itahari","Janakpurdham",
 			"Jumla","Biratnagar","Tulsipur","Butwal","Godawari","Nepalgunj","Gorahi","Lumbini","Nagarkot","Dhulikhel",
 			"Kalaiya","Damak","Mustang","Gaighat"],
+	},
+
+	{
+		"name": "Devlet-i ʿAlīye-i ʿOsmānīye",
+		"leaderName": "Hurram Sultan",
+		"adjective": ["Ottoman"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"hateHello": "",
+		"tradeRequest": "",
+		"denounced": "",
+		"declaringfriendship": "",
+
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "Harbiye Nezâreti",
+		"uniques": [""],
+		"cities": ["İstanbul",""]
 	}
 
 	{
