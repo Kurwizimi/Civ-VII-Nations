@@ -43,6 +43,20 @@
         "name": "[Tehina] ability",
         "uniques": ["Gain [100] [Gold] <upon discovering a [{City-State} {City center}] tile>"]
     },
+        {
+        "name": "Tu'i Tonga",
+       "uniques": ["Comment [Gain 30 [Culture] upon discovering a [City center], increasing by 20 [Culture] each age <(modified by game speed)>]",
+        "Gain [30] [Culture] <upon discovering a [City center] tile> <during the [Ancient era]> <(modified by game speed)> <hidden from users>",
+       "Gain [50] [Culture] <upon discovering a [City center] tile> <during the [Ancient era]> <(modified by game speed)> <hidden from users>",
+       "Gain [70] [Culture] <upon discovering a [City center] tile> <during the [Classical era]> <(modified by game speed)> <hidden from users>",
+       "Gain [90] [Culture] <upon discovering a [City center] tile> <during the [Medieval era]> <(modified by game speed)> <hidden from users>",
+       "Gain [110] [Culture] <upon discovering a [City center] tile> <during the [Renaissance era]> <(modified by game speed)> <hidden from users>",
+       "Gain [130] [Culture] <upon discovering a [City center] tile> <during the [Industrial era]> <(modified by game speed)> <hidden from users>",
+       "Gain [150] [Culture] <upon discovering a [City center] tile> <during the [Modern era]> <(modified by game speed)> <hidden from users>",
+       "Gain [170] [Culture] <upon discovering a [City center] tile> <during the [Atomic era]> <(modified by game speed)> <hidden from users>",
+       "Gain [190] [Culture] <upon discovering a [City center] tile> <during the [Information era]> <(modified by game speed)> <hidden from users>",
+       "Gain [210] [Culture] <upon discovering a [City center] tile> <during the [Future era]> <(modified by game speed)> <hidden from users>"]
+    },
 
         {
         "name": "[Leiomano] ability",
@@ -95,13 +109,18 @@
     },
 
         {
+        "name": "[Sepoy] ability",
+        "uniques": ["[This Unit] heals [10] HP <upon defeating a [Military] unit>"]
+    },
+
+        {
         "name": "[Gholām] ability",
         "uniques": ["[+15]% Strength <when adjacent to a [Great General] unit>", "[+20] HP when healing <when adjacent to a [Great General] unit>"]
     },
 
         {
         "name": "[Gusa] ability",
-        "uniques": ["[+15]% Strength <when adjacent to a [Gusa] unit>"]
+        "uniques": ["[+3]% Strength <for every [Remaining [{Friendly} {Major}] Civilizations]>", "[+2]% Strength <for every [Remaining [{Friendly} {City-State}] Civilizations]>"]
     },
 
        {
@@ -117,6 +136,11 @@
        {
         "name": "[Castilian Tercio] ability",
         "uniques": ["[-20]% Strength for enemy [Mounted] units in adjacent [All] tiles"]
+    },
+        
+        {
+        "name": "Hidden",
+        "uniques": ["Invisible to others", "[+10]% Strength <if it hasn't used other actions yet>"]
     },
 
 

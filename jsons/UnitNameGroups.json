@@ -1,0 +1,50 @@
+[
+  
+    {
+        "name": "General",
+        "unitNames": ["Aperel", "Khay", "Xemophon", "Alexander the Great", "Hugo Qubing", "Álvar Núñez Cabeza de Vaca", "Francisco Pizarro", "Miguel López de Legazpi"]
+    },
+  {
+        "name": "Admiral",
+        "unitNames": ["Ibn Fadlan", "Francisco de Orellana", "Inés Suárez", "Juan Ponce de León"]
+    },
+  {
+        "name": "Artist",
+        "unitNames": ["Amhose", "Nebet", "Ramose", "Useramen", "Rabia of Basra"]
+    },
+  {
+        "name": "Engineer",
+        "unitNames": ["Hemiunu", "Imohtep", "Paser"]
+    },
+  {
+        "name": "Scientist",
+        "unitNames": ["Ptahhotep", "Arete of Cyrene", "Aristotle", "Aspasia", "Hypatia", "Plato", "Pythagoras", "Sappho", "Socrates", "Thales of Miletus", "Ban Zhao", "Han Fei", "Laozi", "Mencius", "Mozi", "Xun Kuang", "Zhang Heng", "Al-Farabi", "Al-Farghani", "Al-Jahiz", "Al-Jahari", "Al-Khwarizmi", "Ibn Sina"]
+    },
+  {
+        "name": "Merchant",
+        "unitNames": ["Shang Yang", "Shen Buhai", "Al-Maqdisi", "Al-Shaybani", "Hernando de Soto"]
+    },
+   {
+        "name": "Buccaneer",
+        "unitNames": ["Blackbeard", "Anne Bonny", "Henry Every", "Samuel Bellamy", "Mary Critchett", "Nicholas de Concepcion", "Joseph Faro", "Richard Frowd", "William Kidd", "Francis Leslie", "John Rackam", "Emanuel Wynn", "Richard Worley"]
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
