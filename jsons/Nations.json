@@ -622,6 +622,38 @@
 	},
 
 	{
+		"name": "Iceland",
+		"leaderName": "",
+		"adjective": ["Icelandic"],
+		"startBias": ["Coast", "Tundra", "Grassland"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"hateHello": "",
+		"tradeRequest": "",
+		"denounced": "",
+		"declaringfriendship": "",
+
+		"spyNames": ["Dagnew","Dinqinesh","Iyasu","Menen","Mengesha","Senedu","Sebhat","Tewabech","Wolde","Zewditu"],
+
+		"outerColor": [255,255,20],
+		"innerColor": [25,120,25],
+		"uniqueName": "Kringla Heimsins",
+		"uniques": ["[+2 Gold] from [resource] tiles [in all cities]"],
+		"cities": ["Aksum","Adulis","Matara","Lalibela","Saba","Koloe","Qohayto","Maste","Tekondo","Zala-Bet-Makeda",
+			"Etchmara","Gulo-Makeda","Haghero-Deragweh","Dergouah","Henzat","Ham","Anza","Hawzien","Degum","Chergos Agula",
+			"Nazret","Yeha","Aden","Hehzat"]
+	},
+
+	{
 		"name": "Tawantinsuyu",
 		"leaderName": "Pachacútec",
 		"adjective": ["Incan"],
