@@ -142,6 +142,10 @@
         "name": "Hidden",
         "uniques": ["Invisible to others", "[+10]% Strength <if it hasn't used other actions yet>"]
     },
+        {
+        "name": "Siege Train",
+        "uniques": ["[=2] Movement"]
+    },
 
 
 
