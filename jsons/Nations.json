@@ -647,7 +647,8 @@
 		"outerColor": [255,255,20],
 		"innerColor": [25,120,25],
 		"uniqueName": "Kringla Heimsins",
-		"uniques": ["[+2 Gold] from [resource] tiles [in all cities]"],
+		"uniques": ["Comment [Gain 70 [Culture] upon discovering a [City center], increasing by 30 [Culture] each age <(modified by game speed)>]", "[All] units gain the [Þjóðveldið] promotion <hidden from users>",
+					"Comment [Water units gain the [Supply] status for 5 turns upon losing at least 20 HP in a single attack "],
 		"cities": ["Aksum","Adulis","Matara","Lalibela","Saba","Koloe","Qohayto","Maste","Tekondo","Zala-Bet-Makeda",
 			"Etchmara","Gulo-Makeda","Haghero-Deragweh","Dergouah","Henzat","Ham","Anza","Hawzien","Degum","Chergos Agula",
 			"Nazret","Yeha","Aden","Hehzat"]
