@@ -76,7 +76,7 @@
     },
         {
         "name": "[Víkingr] ability",
-        "uniques": ["Unit will heal every turn, even if it performs an action <within [1] tiles of a [pillaged]> <hidden from users", "Comment [Unit will heal every turn, even if it performs an action within 1 tile of a pillaged tile]"]
+        "uniques": ["Unit will heal every turn, even if it performs an action <within [1] tiles of a [pillaged]> <hidden from users>", "Comment [Unit will heal every turn, even if it performs an action within 1 tile of a pillaged tile]"]
     },
 
         {
