@@ -92,6 +92,17 @@
         "techRequired": "Construction",
         "shortcutKey": "L"
     },
+     {
+        "name": "Þingstaðr",
+        "uniqueTo": "Iceland",
+        "terrainsCanBeBuiltOn": ["Tundra","Grassland"],
+        "happiness": 2,
+        "turnsToBuild": 7,
+        "uniques": ["[+1 Culture] for each adjacent [Forest]", "[+2 Culture] from [Fresh water] tiles",
+                    "Only available <with [0] to [0] neighboring [Þingstaðr] tiles>", "Pillaging this improvement yields approximately [+25 Gold]"],
+        "techRequired": "Education",
+        "shortcutKey": "P"
+    },
     {
         "name": "Terraced Farm",
         "uniqueTo": "Tawantinsuyu",
