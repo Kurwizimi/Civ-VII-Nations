@@ -1,6 +1,6 @@
 [
     {
-		"name": "Defences Destroyed",
+		"name": "Destroyed Defences",
 		"resourceType": "Strategic",
 		"uniques": ["Cannot be traded", "Stockpiled", "Excluded from map editor", "Not shown on world screen", "Doesn't generate naturally"],
 	},
