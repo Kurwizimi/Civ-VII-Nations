@@ -238,7 +238,7 @@
 		"maintenance": 1,
 		"cost": 150,
 		"hurryCostModifier": 0,
-		"uniques": ["[40]% Food is carried over after population increases [in this city]"],
+		"uniques": ["[40]% Food is carried over after population increases [in this city]", "[+1 Culture, +2 Gold] from every specialist [in this city]"],
 		"requiredTech": "Engineering"
 	},
 	{
@@ -246,13 +246,13 @@
 		"replaces": "Museum",
 		"uniqueTo": "Devlet-i ʿAlīye-i ʿOsmānīye",
 		"culture": 5,
-		"production": 2,
+		"production": 3,
 		"specialistSlots": {"Artist": 2},
 		"requiredBuilding": "Opera House",
 		"maintenance": 3,
 		"hurryCostModifier": 0,
 		"requiredTech": "Architecture",
-		"uniques": ["Destroyed when the city is captured", "Comment [Unlocked earlier at [Architecture] vs [Archaeology]"]
+		"uniques": ["Destroyed when the city is captured", "Comment [Unlocked earlier at [Architecture] vs [Archaeology]]"]
 	},
 
 	{
