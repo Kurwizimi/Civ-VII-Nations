@@ -246,7 +246,7 @@
 		"replaces": "Museum",
 		"uniqueTo": "Devlet-i ʿAlīye-i ʿOsmānīye",
 		"culture": 5,
-		"production" 2,
+		"production": 2,
 		"specialistSlots": {"Artist": 2},
 		"requiredBuilding": "Opera House",
 		"maintenance": 3,
