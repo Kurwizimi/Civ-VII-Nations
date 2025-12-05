@@ -58,7 +58,7 @@
     },
 
         {
-        "name": "[Leimono] anility",
+        "name": "[Leiomano] anility",
         "uniques": ["[+10]% Strength <vs [Mounted] units>","[+10]% Strength <vs [Sword] units>"]
     },
          {
@@ -156,7 +156,7 @@
     },
         {
         "name": "Siege Train",
-        "uniques": ["[=2] Movement"]
+        "uniques": ["[+2] Movement"]
     },
 
 
