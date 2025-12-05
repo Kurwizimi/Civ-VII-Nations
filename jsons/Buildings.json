@@ -190,7 +190,7 @@
 		"hurryCostModifier": 160,
 		"gold": 3,
 		"percentStatBonus": {"gold": 33},
-		"uniques": ["[+2 Gold, +1 Science] from each Trade Route", "Comment [Unlocked earlier at [Industrialization]]"],
+		"uniques": ["[+2 Gold, +1 Science] from each Trade Route", "Comment [Unlocked earlier at [Industrialization] vs [Electricity]]"],
 		"specialistSlots": {"Merchant": 2},
 		"requiredTech": "Industrialization"
 	},
@@ -251,8 +251,8 @@
 		"hurryCostModifier": 160,
 		"gold": 2,
 		"science": 2,
+		"culture": 2,
 		"percentStatBonus": {"gold": 25},
-		"uniques": ["[+10]% [Culture] [in this city]"],
 		"specialistSlots": {"Merchant": 1},
 		"requiredTech": "Banking"
 	}
