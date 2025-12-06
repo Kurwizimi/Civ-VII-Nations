@@ -507,7 +507,8 @@
 		"outerColor": [0,79,206], //170 20 20
 		"innerColor": [234,225,157], //255 212 212
 		"uniqueName": "Krum's Dynasty",
-		"uniques": ["Gain control over [pillaged] tiles in a [10]-tile radius <upon declaring war on [Major] Civilizations>", "[+2 Food] [in all cities] <for every [Owned [pillaged] Tiles]>"],
+		"uniques": ["Gain control over [pillaged] tiles in a [10]-tile radius <upon declaring war on [Major] Civilizations>", "[+2 Food] [in all cities] <for every [Owned [pillaged] Tiles]>",
+					 "[All] units gain the [Tsarstive] promotion <hidden from users>"],
 		"cities": ["Preslav","Tarnovo","Ohrid","Pliska","Drastar","Pleven","Badin","Sredets","Karvuna","Plovdiv",
 			"Borui","Skopie","Belograd","Varna","Breznik","Devina","Pernik","Lipjan","Deultum","Bitolja",
 			"Drembitsa","Drembitsa","Prilep","Kossovo"],
