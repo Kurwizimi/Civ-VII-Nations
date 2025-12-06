@@ -153,15 +153,24 @@
         "name": "[Castilian Tercio] ability",
         "uniques": ["[-20]% Strength for enemy [Mounted] units in adjacent [All] tiles"]
     },
-        
+        {
+        "name": "Tsarstive",
+        "uniques": [ "[This Unit] gains the [Hidden] status for [1] turn(s) <in [Hidden Fortress] tiles>"]
+    },
         {
         "name": "Hidden",
         "uniques": ["Invisible to others", "[+10]% Strength <if it hasn't used other actions yet>"]
+    },
+         {
+        "name": "Erkân-ı Harbiye Mektebi",
+        "uniques": ["[This Unit] gains the [Siege Train] status for [2] turn(s) <when number of [Destroyed Defences] is more than [0]>""]
     },
         {
         "name": "Siege Train",
         "uniques": ["[+2] Movement"]
     },
+        
+        
 
 
 
