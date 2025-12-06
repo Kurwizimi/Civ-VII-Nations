@@ -163,7 +163,7 @@
     },
          {
         "name": "Erkân-ı Harbiye Mektebi",
-        "uniques": ["[This Unit] gains the [Siege Train] status for [2] turn(s) <when number of [Destroyed Defences] is more than [0]>""]
+        "uniques": ["[This Unit] gains the [Siege Train] status for [2] turn(s) <when number of [Destroyed Defences] is more than [0]>"]
     },
         {
         "name": "Siege Train",
