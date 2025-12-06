@@ -1308,7 +1308,7 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"uniqueName": "Harbiye Nezâreti",
-		"uniques": ["Instantly gain [1] [Destroyed Defences] <upon conquering a city> <hidden from users>","Instantly consumes [1] [Destroyed Defences] <when number of [Destroyed Defences] is more than [0]> <hidden from users>",
+		"uniques": ["Instantly gain [2] [Destroyed Defences] <upon conquering a city> <hidden from users>","Instantly consumes [1] [Destroyed Defences] <upon turn end> <when number of [Destroyed Defences] is more than [0]> <hidden from users>",
 					"Comment [Siege, Sword and Gunpowder units gain +2 Movement for 2 turns after conquering a city.]",],
 		"cities": ["İstanbul",""]
 	}
