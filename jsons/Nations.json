@@ -41,10 +41,10 @@
 		"startIntroPart1": "Siege-towers rumble, and iron swords are sharpened as the Assyrian war machine shudders into motion. Under Ashur’s watchful eye, a new order unfolds upon the sun-baked clay: planned cities, skilled engineers, and the implacable march of boots. Set out upon the world, and tolerate no competition.",
 		"startIntroPart2": "",
 		
-		"declaringWar": "",
-		"attacked": "",
-		"defeated": "",
-		"introduction": "",
+		"declaringWar": "Qaṭālum! The armies of Assyria shall trample over all your lands!",
+		"attacked": "Ha! Salīmātum šarr-at-am kalab, Assyria shall hold against your petty attacks!",
+		"defeated": "To you, it may seem like the Greatness of Nineveh has ended, but in reality, you have started a curse. A curse that you have inherited, one that can never be rude of. Prepare, or suffer eternal torture.",
+		"introduction": "Greetings, I am the Beloved of all Assyrians, inheritor of the Four Corners of the World, Destroyer of Arpad, Shammuramat. May Ashur bless this meeting.",
 		
 		"neutralHello": "",
 		"hateHello": "",
