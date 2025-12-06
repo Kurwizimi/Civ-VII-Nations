@@ -155,16 +155,12 @@
     },
         {
         "name": "Tsarstive",
-        "uniques": [ "[This Unit] gains the [Hidden] status for [1] turn(s) <in [Hidden Fortress] tiles>"]
+        "uniques": [ "[This unit] gains the [Hidden] promotion <upon entering a [Hidden Fortress] tile>", "[This unit] loses the [Hidden] promotion <upon entering a [non- [Hidden Fortress]] tile>"]
     },
         {
         "name": "Hidden",
         "uniques": ["Invisible to others", "[+10]% Strength <if it hasn't used other actions yet>"]
     },
-        // {
-    //    "name": "Erkân-ı Harbiye Mektebi",
-   //     "uniques": ["[This Unit] gains the [Siege Train] status for [2] turn(s)"]
-  //  },
         {
         "name": "Siege Train",
         "uniques": ["[+2] Movement <when number of [Destroyed Defences] is more than [0]>"]
