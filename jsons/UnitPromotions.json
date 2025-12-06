@@ -161,13 +161,13 @@
         "name": "Hidden",
         "uniques": ["Invisible to others", "[+10]% Strength <if it hasn't used other actions yet>"]
     },
-         {
-        "name": "Erkân-ı Harbiye Mektebi",
-        "uniques": ["[This Unit] gains the [Siege Train] status for [2] turn(s) <when number of [Destroyed Defences] is more than [0]>"]
-    },
+        // {
+    //    "name": "Erkân-ı Harbiye Mektebi",
+   //     "uniques": ["[This Unit] gains the [Siege Train] status for [2] turn(s)"]
+  //  },
         {
         "name": "Siege Train",
-        "uniques": ["[+2] Movement"]
+        "uniques": ["[+2] Movement <when number of [Destroyed Defences] is more than [0]>""]
     },
         
         
