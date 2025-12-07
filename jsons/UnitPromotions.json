@@ -155,7 +155,7 @@
     },
         {
         "name": "Tsarstive",
-        "uniques": [ "[This unit] gains the [Hidden] promotion <upon entering a [Hidden Fortress] tile>", "[This unit] loses the [Hidden] promotion <upon entering a [non- [Hidden Fortress]] tile>"]
+        "uniques": [ "[This Unit] gains the [Hidden] promotion <upon entering a [Hidden Fortress] tile>", "[This Unit] loses the [Hidden] promotion <upon entering a [non-[Hidden Fortress]] tile>"]
     },
         {
         "name": "Hidden",
