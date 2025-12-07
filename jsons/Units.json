@@ -219,7 +219,7 @@
 		"movement": 2,
 		"strength": 5,
 		"cost": 25,
-		"uniques": ["Comment [May enter [Ocean] tiles]", "May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
+		"uniques": ["Comment [May enter [Ocean] tiles after discovering [Optics]]", "May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
 		"promotions": ["Ignore terrain cost", "[Tehina] ability"],
 		"attackSound": "nonmetalhit"
 	},
