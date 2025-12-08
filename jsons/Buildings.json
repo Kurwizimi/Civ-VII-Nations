@@ -232,7 +232,7 @@
 	},
 
 	{
-		"name": "Külliye",
+		"name": "Cami",
 		"replaces": "Aqueduct",
 		"uniqueTo": "Devlet-i ʿAlīye-i ʿOsmānīye",
 		"maintenance": 1,
@@ -242,7 +242,7 @@
 		"requiredTech": "Engineering"
 	},
 	{
-		"name": "Cami",
+		"name": "Külliye",
 		"replaces": "Museum",
 		"uniqueTo": "Devlet-i ʿAlīye-i ʿOsmānīye",
 		"culture": 5,
