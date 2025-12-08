@@ -1,24 +1,24 @@
 Art made by Basil, in order of when they were added:
-- Chevaler
-- Jaguar Hunter
-- Voi Chien
-- Bolyar
-- Roman Legion
-- Xunleichong
-- Phalanx
-- Medjay
-- Warak'aq
-- Leiomano
-- Lo'i Kalo
-- Water Puppet Theater
-- Han Chu Ko Nu
+* Chevaler
+* Jaguar Hunter
+* Voi Chien
+* Bolyar
+* Roman Legion
+* Xunleichong
+* Phalanx
+* Medjay
+* Warak'aq
+* Leiomano
+* Lo'i Kalo
+* Water Puppet Theater
+* Han Chu Ko Nu
 - Magarru
-- Colonist
-- Kalam
-- Gurkha
-- Soldederas
-- Highland Power Station
-- Jaguar Trap
+* Colonist
+* Kalam
+* Gurkha
+* Soldederas
+* Highland Power Station
+* Jaguar Trap
 
 
 These credits are for the placeholer icons when the mod was in heavy development. Some of the improvement icons and building icons are however still in use.
@@ -26,7 +26,6 @@ These credits are for the placeholer icons when the mod was in heavy development
 Civ Icons
 * AKSUM - Coptic Cross by Avana Vana from <a href="https://thenounproject.com/browse/icons/term/coptic-cross/" target="_blank" title="Coptic Cross Icons">Noun Project</a> (CC BY 3.0)
 * HAN- Horse by designer468 from <a href="https://thenounproject.com/browse/icons/term/horse/" target="_blank" title="Horse Icons">Noun Project</a> (CC BY 3.0)
-* KHMER - 
 * MAURYA - Lotus by leins from <a href="https://thenounproject.com/browse/icons/term/lotus/" target="_blank" title="Lotus Icons">Noun Project</a> (CC BY 3.0)
 * MISSISSIPI - paganism - sun cross by Gavin Muhammad Isa from <a href="https://thenounproject.com/browse/icons/term/paganism-sun-cross/" target="_blank" title="paganism - sun cross Icons">Noun Project</a> (CC BY 3.0)
 * BULGARIA - horse rider by Dimitri Lupo from <a href="https://thenounproject.com/browse/icons/term/horse-rider/" target="_blank" title="horse rider Icons">Noun Project</a> (CC BY 3.0)
@@ -45,14 +44,14 @@ Civ Icons
 Improvements
 - HIDDEN FORTRESS - Fort by Nanik haq from <a href="https://thenounproject.com/browse/icons/term/fort/" target="_blank" title="Fort Icons">Noun Project</a> (CC BY 3.0)
 - HALWIT - aksum by Linseed Studio from <a href="https://thenounproject.com/browse/icons/term/aksum/" target="_blank" title="aksum Icons">Noun Project</a> (CC BY 3.0)
-- Pairidaeza - violet by parkjisun from <a href="https://thenounproject.com/browse/icons/term/violet/" target="_blank" title="violet Icons">Noun Project</a> (CC BY 3.0)
+- PAIRIDAEZA - violet by parkjisun from <a href="https://thenounproject.com/browse/icons/term/violet/" target="_blank" title="violet Icons">Noun Project</a> (CC BY 3.0)
 - HAN GREAT WALL - great wall by Danil Polshin from <a href="https://thenounproject.com/browse/icons/term/great-wall/" target="_blank" title="great wall Icons">Noun Project</a> (CC BY 3.0)
 - ORTOO - horse rider by Dimitri Lupo from <a href="https://thenounproject.com/browse/icons/term/horse-rider/" target="_blank" title="horse rider Icons">Noun Project</a> (CC BY 3.0)
 - MAWASKAWE SKOTE - Fire by Aisyah from <a href="https://thenounproject.com/browse/icons/term/fire/" target="_blank" title="Fire Icons">Noun Project</a> (CC BY 3.0)
 - KABAKA'S LAKE - Lake by Muhammad Nur Auliady Pamungkas from <a href="https://thenounproject.com/browse/icons/term/lake/" target="_blank" title="Lake Icons">Noun Project</a> (CC BY 3.0)
 - STEPWELL - indian stepwell by Line & Dot Studio from <a href="https://thenounproject.com/browse/icons/term/indian-stepwell/" target="_blank" title="indian stepwell Icons">Noun Project</a> (CC BY 3.0)
 - HIGHLAND POWER STATION - Hydroelectric Energy by Kamin Ginkaew from <a href="https://thenounproject.com/browse/icons/term/hydroelectric-energy/" target="_blank" title="Hydroelectric Energy Icons">Noun Project</a> (CC BY 3.0)
-- Obshchina - Farm by IconMark from <a href="https://thenounproject.com/browse/icons/term/farm/" target="_blank" title="Farm Icons">Noun Project</a> (CC BY 3.0)
+- OBSHCHINA - Farm by IconMark from <a href="https://thenounproject.com/browse/icons/term/farm/" target="_blank" title="Farm Icons">Noun Project</a> (CC BY 3.0)
 
 
 Buildings
