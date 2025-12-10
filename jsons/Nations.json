@@ -1312,7 +1312,7 @@
 		"innerColor": [255,178,60],
 		"uniqueName": "Harbiye Nezâreti",
 		"uniqueText": "Siege, Sword and Gunpowder units gain +2 Movement for 2 turns after conquering a city \n+20% [Science] when researching techs that grant Siege units",
-		"uniques": ["Instantly gain [2] [Destroyed Defences] <upon conquering a city>",
+		"uniques": ["Instantly gain [3] [Destroyed Defences] <upon conquering a city>",
 					"Instantly consumes [1] [Destroyed Defences] <upon turn end> <when number of [Destroyed Defences] is more than [0]>",
 					"[Siege] units gain the [Siege Train] promotion",
 					"[Sword] units gain the [Siege Train] promotion",
