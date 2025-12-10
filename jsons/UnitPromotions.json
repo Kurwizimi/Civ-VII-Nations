@@ -163,7 +163,7 @@
     },
         {
         "name": "Siege Train",
-        "uniques": ["[+2] Movement <when number of [Destroyed Defences] is more than [0]>"]
+        "uniques": ["[+2] Movement <when number of [Destroyed Defences] is more than [0]> <hidden from users>", "Comment [+2 Movement for 2 turns after conquering a city]"]
     },
         
         
