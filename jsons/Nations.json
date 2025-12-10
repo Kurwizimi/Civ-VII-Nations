@@ -648,7 +648,7 @@
 		"outerColor": [92,77,217],
 		"innerColor": [195,195,195],
 		"uniqueName": "Kringla Heimsins",
-		"uniques": ["Comment [Gain 70 [Culture] upon discovering a [City center], increasing by 30 [Culture] each age <(modified by game speed)>]", "[All] units gain the [Þjóðveldið] promotion <hidden from users>",
+		"uniques": ["Comment [Gain 70 [Culture] upon discovering a [Natural Wonder], increasing by 30 [Culture] each age <(modified by game speed)>]", "[All] units gain the [Þjóðveldið] promotion <hidden from users>",
 					"Comment [Water units gain the [Supply] status for 5 turns upon losing at least 20 HP in a single attack]"],
 		"cities": ["Skálaholt","Hólar","Borg","Hof","Tung","Möðruvellir","Oddi","Mosfell","Helgafell","Hjarðarholt",
 			"Laugar","Höskuldsstaðir","Bergþórshvoll","Hlíðarendi","Glaumbær","Miklabær","Hagi","Eiríksstaðir","Hóll","Sæból",
