@@ -3,10 +3,6 @@
 "unitUniques": [
   "May capture killed [Embarked] units <with [50]% chance> <for [The Republic of Pirates] Civilizations>",
   "May capture killed [Water] units <with [50]% chance> <for [The Republic of Pirates] Civilizations>",
-  "[This Unit] gains the [Hidden] status for [1] turn(s) <for [Bulgaria] Civilizations> <upon entering a [Hidden Fortress] tile>",
-  "[This Unit] gains the [Supply] status for [5] turn(s) <for [Iceland] Civilizations> <for [Water] units> <upon losing at least [20] HP in a single attack>",
-  "[This Unit] gains the [Siege Train] status for [2] turn(s) <for [Devlet-i ʿAlīye-i ʿOsmānīye] Civilizations> <for [Siege] units> <when number of [Destroyed Defences] is more than [0]>",
-  "[This Unit] gains the [Siege Train] status for [2] turn(s) <for [Devlet-i ʿAlīye-i ʿOsmānīye] Civilizations> <for [Gunpowder] units> <when number of [Destroyed Defences] is more than [0]>",
-  "[This Unit] gains the [Siege Train] status for [2] turn(s) <for [Devlet-i ʿAlīye-i ʿOsmānīye] Civilizations> <for [Sword] units> <when number of [Destroyed Defences] is more than [0]>"]
+  "[This Unit] gains the [Supply] status for [5] turn(s) <for [Iceland] Civilizations> <for [Water] units> <upon losing at least [20] HP in a single attack>"
   
 }
