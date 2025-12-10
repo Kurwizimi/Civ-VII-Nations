@@ -643,16 +643,16 @@
 		"denounced": "",
 		"declaringfriendship": "",
 
-		"spyNames": ["Dagnew","Dinqinesh","Iyasu","Menen","Mengesha","Senedu","Sebhat","Tewabech","Wolde","Zewditu"],
+		"spyNames": ["Þorsteinn","Vigdís","Óláfr","Bergþora","Helgi","Hrefna","Skarphéðinn","Þorgerðr","Vesteinn","Gunnhildr"],
 
-		"outerColor": [255,255,20],
-		"innerColor": [25,120,25],
+		"outerColor": [92,77,217],
+		"innerColor": [195,195,195],
 		"uniqueName": "Kringla Heimsins",
 		"uniques": ["Comment [Gain 70 [Culture] upon discovering a [City center], increasing by 30 [Culture] each age <(modified by game speed)>]", "[All] units gain the [Þjóðveldið] promotion <hidden from users>",
 					"Comment [Water units gain the [Supply] status for 5 turns upon losing at least 20 HP in a single attack]"],
-		"cities": ["Aksum","Adulis","Matara","Lalibela","Saba","Koloe","Qohayto","Maste","Tekondo","Zala-Bet-Makeda",
-			"Etchmara","Gulo-Makeda","Haghero-Deragweh","Dergouah","Henzat","Ham","Anza","Hawzien","Degum","Chergos Agula",
-			"Nazret","Yeha","Aden","Hehzat"]
+		"cities": ["Skálaholt","Hólar","Borg","Hof","Tung","Möðruvellir","Oddi","Mosfell","Helgafell","Hjarðarholt",
+			"Laugar","Höskuldsstaðir","Bergþórshvoll","Hlíðarendi","Glaumbær","Miklabær","Hagi","Eiríksstaðir","Hóll","Sæból",
+			"Hvammur","Aðalból","Hrafnkelsstaðir","Bjarg", "Eyri", "Kársstaðir", "Baki", "Másstaðir", "Mörk", "Svínafell"]
 	},
 
 	{
@@ -1306,12 +1306,16 @@
 		"denounced": "",
 		"declaringfriendship": "",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"spyNames": ["Osman","Zeynep","Betül","Süleyman","Meryem","Salih","Gülsüm","Kemal","Hanife","Burak"],
+
+		"outerColor": [21,108,48],
+		"innerColor": [255,178,60],
 		"uniqueName": "Harbiye Nezâreti",
 		"uniques": ["Instantly gain [2] [Destroyed Defences] <upon conquering a city> <hidden from users>","Instantly consumes [1] [Destroyed Defences] <upon turn end> <when number of [Destroyed Defences] is more than [0]> <hidden from users>",
 					"[Siege] units gain the [Siege Train] promotion", "[Sword] units gain the [Siege Train] promotion", "[Gunpowder] units gain the [Siege Train] promotion","Comment [Siege, Sword and Gunpowder units gain +2 Movement for 2 turns after conquering a city.]",],
-		"cities": ["İstanbul",""]
+		"cities": ["Kostantiniyye", "Bursa", "Erdine", "Engürü", "Adana", "Konya", "Sivas", "Mersin", "İzmit", "Sinop",
+					"Trazbon", "Aintab", "Kayseri", "İzmir", "Manisa", "İznik", "Samsun", "Eskişehir", "Amasya", "Denizli",
+					"Çanak Kalesi", "Bolu", "Aksaray", "Karaman", "Tokat", "Çorum", "Afyonkarahisar", "Muğla", "Tekfurdağı"]
 	}
 
 	{
