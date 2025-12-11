@@ -236,7 +236,7 @@
 		"replaces": "Aqueduct",
 		"uniqueTo": "Devlet-i ʿAlīye-i ʿOsmānīye",
 		"maintenance": 1,
-		"cost": 150,
+		"cost": 125,
 		"hurryCostModifier": 0,
 		"uniques": ["[40]% Food is carried over after population increases [in this city]", "[+1 Culture, +2 Gold] from every specialist [in this city]"],
 		"requiredTech": "Engineering"
@@ -246,7 +246,8 @@
 		"replaces": "Museum",
 		"uniqueTo": "Devlet-i ʿAlīye-i ʿOsmānīye",
 		"culture": 5,
-		"production": 3,
+		"production": 4,
+		"cost": 225,
 		"specialistSlots": {"Artist": 2},
 		"requiredBuilding": "Opera House",
 		"maintenance": 3,
