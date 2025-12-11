@@ -219,7 +219,7 @@
 		"movement": 2,
 		"strength": 5,
 		"cost": 25,
-		"uniques": ["Comment [May enter [Ocean] tiles]", "May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
+		"uniques": ["Comment [May enter [Ocean] tiles after discovering [Optics]]", "May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
 		"promotions": ["Ignore terrain cost", "[Tehina] ability"],
 		"attackSound": "nonmetalhit"
 	},
@@ -305,19 +305,35 @@
 
 	{
         "name": "Leiomano",
-	"replaces": "Swordsman",
+		"replaces": "Swordsman",
         "uniqueTo": "Hawai'i",
         "unitType": "Sword",
         "movement": 2,
         "strength": 14,
         "cost": 75,
         "requiredTech": "Iron Working",
-	"promotions": ["[Leiomano] ability"],
+		"promotions": ["[Leiomano] ability"],
         "upgradesTo": "Longswordsman",
         "obsoleteTech": "Steel",
         "hurryCostModifier": 20,
         "attackSound": "metalhit"
     },
+	{
+		"name": "Víkingr",
+		"replaces": "Caravel",
+		"uniqueTo": "Iceland",
+		"unitType": "Melee Water",
+		"movement": 4,
+		"strength": 15,
+		"cost": 100,
+		"requiredTech": "Metal Casting",
+		"upgradesTo": "Ironclad",
+		"obsoleteTech": "Combustion",
+		"uniques": ["[+1] Sight", "Withdraws before melee combat <with [80]% chance>", "Comment [Unlocked earlier at [Metal Casting] vs [Astronomy]]"],
+		"promotions": ["[Víkingr] ability"],
+		"hurryCostModifier": 30,
+		"attackSound": "cannon"
+	},
 
 	{
         "name": "Warak'aq",
@@ -513,7 +529,7 @@
 	"cost": 300,
 	"movement": 2,
 	"uniques":["[+1] Sight <when [Embarked]>", "[+100]% Strength <when defending> <when [Embarked]>",
-		"[1] Movement point cost to disembark", "[1] Movement point cost to embark", "Comment [Unlocked Earlier at [Electronics]]"],
+		"[1] Movement point cost to disembark", "[1] Movement point cost to embark", "Comment [Unlocked Earlier at [Electronics] vs [Pharmaceuticals]]"],
 	"requiredTech": "Electronics",
 	"promotions": ["Amphibious"]
     },

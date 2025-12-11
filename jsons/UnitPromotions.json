@@ -47,24 +47,40 @@
         "name": "Tu'i Tonga",
        "uniques": ["Comment [Gain 30 [Culture] upon discovering a [City center], increasing by 20 [Culture] each age <(modified by game speed)>]",
         "Gain [30] [Culture] <upon discovering a [City center] tile> <during the [Ancient era]> <(modified by game speed)> <hidden from users>",
-       "Gain [50] [Culture] <upon discovering a [City center] tile> <during the [Ancient era]> <(modified by game speed)> <hidden from users>",
-       "Gain [70] [Culture] <upon discovering a [City center] tile> <during the [Classical era]> <(modified by game speed)> <hidden from users>",
-       "Gain [90] [Culture] <upon discovering a [City center] tile> <during the [Medieval era]> <(modified by game speed)> <hidden from users>",
-       "Gain [110] [Culture] <upon discovering a [City center] tile> <during the [Renaissance era]> <(modified by game speed)> <hidden from users>",
-       "Gain [130] [Culture] <upon discovering a [City center] tile> <during the [Industrial era]> <(modified by game speed)> <hidden from users>",
-       "Gain [150] [Culture] <upon discovering a [City center] tile> <during the [Modern era]> <(modified by game speed)> <hidden from users>",
-       "Gain [170] [Culture] <upon discovering a [City center] tile> <during the [Atomic era]> <(modified by game speed)> <hidden from users>",
-       "Gain [190] [Culture] <upon discovering a [City center] tile> <during the [Information era]> <(modified by game speed)> <hidden from users>",
-       "Gain [210] [Culture] <upon discovering a [City center] tile> <during the [Future era]> <(modified by game speed)> <hidden from users>"]
+       "Gain [50] [Culture] <upon discovering a [City center] tile> <during the [Classical era]> <(modified by game speed)> <hidden from users>",
+       "Gain [70] [Culture] <upon discovering a [City center] tile> <during the [Medieval era]> <(modified by game speed)> <hidden from users>",
+       "Gain [90] [Culture] <upon discovering a [City center] tile> <during the [Renaissance era]> <(modified by game speed)> <hidden from users>",
+       "Gain [110] [Culture] <upon discovering a [City center] tile> <during the [Industrial era]> <(modified by game speed)> <hidden from users>",
+       "Gain [130] [Culture] <upon discovering a [City center] tile> <during the [Modern era]> <(modified by game speed)> <hidden from users>",
+       "Gain [150] [Culture] <upon discovering a [City center] tile> <during the [Atomic era]> <(modified by game speed)> <hidden from users>",
+       "Gain [170] [Culture] <upon discovering a [City center] tile> <during the [Information era]> <(modified by game speed)> <hidden from users>",
+       "Gain [190] [Culture] <upon discovering a [City center] tile> <during the [Future era]> <(modified by game speed)> <hidden from users>"]
     },
 
         {
         "name": "[Leiomano] ability",
         "uniques": ["[+10]% Strength <vs [Mounted] units>","[+10]% Strength <vs [Sword] units>"]
     },
+         {
+        "name": "Þjóðveldið",
+       "uniques": ["Comment [Gain 70 [Culture] upon discovering a [Natural Wonder], increasing by 30 [Culture] each age <(modified by game speed)>]",
+        "Gain [70] [Culture] <upon discovering a [Natural Wonder] tile> <during the [Ancient era]> <(modified by game speed)> <hidden from users>",
+       "Gain [100] [Culture] <upon discovering a [Natural Wonder] tile> <during the [Classical era]> <(modified by game speed)> <hidden from users>",
+       "Gain [130] [Culture] <upon discovering a [Natural Wonder] tile> <during the [Medieval era]> <(modified by game speed)> <hidden from users>",
+       "Gain [160] [Culture] <upon discovering a [Natural Wonder] tile> <during the [Renaissance era]> <(modified by game speed)> <hidden from users>",
+       "Gain [180] [Culture] <upon discovering a [Natural Wonder] tile> <during the [Industrial era]> <(modified by game speed)> <hidden from users>",
+       "Gain [210] [Culture] <upon discovering a [Natural Wonder] tile> <during the [Modern era]> <(modified by game speed)> <hidden from users>",
+       "Gain [240] [Culture] <upon discovering a [Natural Wonder] tile> <during the [Atomic era]> <(modified by game speed)> <hidden from users>",
+       "Gain [270] [Culture] <upon discovering a [Natural Wonder] tile> <during the [Information era]> <(modified by game speed)> <hidden from users>",
+       "Gain [300] [Culture] <upon discovering a [Natural Wonder] tile> <during the [Future era]> <(modified by game speed)> <hidden from users>"]
+    },
+        {
+        "name": "[Víkingr] ability",
+        "uniques": ["Unit will heal every turn, even if it performs an action <within [1] tiles of a [pillaged]> <hidden from users>", "Comment [Unit will heal every turn, even if it performs an action within 1 tile of a pillaged tile]"]
+    },
 
         {
-        "name": "Normannitas",
+        "name": "Servitium Debitum",
         "uniques": ["[+20]% Strength <when attacking> <in tiles adjacent to [Coast] tiles>","[+1] Movement <when [Embarked]>"]
     },
         
@@ -137,11 +153,20 @@
         "name": "[Castilian Tercio] ability",
         "uniques": ["[-20]% Strength for enemy [Mounted] units in adjacent [All] tiles"]
     },
-        
+        {
+        "name": "Tsarstive",
+        "uniques": [ "[This Unit] gains the [Hidden] promotion <upon entering a [Hidden Fortress] tile>", "[This Unit] loses the [Hidden] promotion <upon entering a [non-[Hidden Fortress]] tile>"]
+    },
         {
         "name": "Hidden",
         "uniques": ["Invisible to others", "[+10]% Strength <if it hasn't used other actions yet>"]
     },
+        {
+        "name": "Siege Train",
+        "uniques": ["[+2] Movement <when number of [Destroyed Defences] is more than [0]> <hidden from users>", "Comment [+2 Movement for 2 turns after conquering a city]"]
+    },
+        
+        
 
 
 

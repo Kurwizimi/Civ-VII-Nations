@@ -190,7 +190,7 @@
 		"hurryCostModifier": 160,
 		"gold": 3,
 		"percentStatBonus": {"gold": 33},
-		"uniques": ["[+2 Gold, +1 Science] from each Trade Route", "Comment [Unlocked earlier at [Industrialization]]"],
+		"uniques": ["[+2 Gold, +1 Science] from each Trade Route", "Comment [Unlocked earlier at [Industrialization] vs [Electricity]]"],
 		"specialistSlots": {"Merchant": 2},
 		"requiredTech": "Industrialization"
 	},
@@ -232,6 +232,31 @@
 	},
 
 	{
+		"name": "Hammam",
+		"replaces": "Aqueduct",
+		"uniqueTo": "Devlet-i ʿAlīye-i ʿOsmānīye",
+		"maintenance": 1,
+		"cost": 125,
+		"hurryCostModifier": 0,
+		"uniques": ["[40]% Food is carried over after population increases [in this city]", "[+1 Culture, +2 Gold] from every specialist [in this city]"],
+		"requiredTech": "Engineering"
+	},
+	{
+		"name": "Külliye",
+		"replaces": "Museum",
+		"uniqueTo": "Devlet-i ʿAlīye-i ʿOsmānīye",
+		"culture": 5,
+		"production": 4,
+		"cost": 225,
+		"specialistSlots": {"Artist": 2},
+		"requiredBuilding": "Opera House",
+		"maintenance": 3,
+		"hurryCostModifier": 0,
+		"requiredTech": "Architecture",
+		"uniques": ["Destroyed when the city is captured", "Comment [Unlocked earlier at [Architecture] vs [Archaeology]]"]
+	},
+
+	{
 		"name": "Bāq",
 		"replaces": "Garden",
 		"uniqueTo": "Qajar Iran",
@@ -251,8 +276,8 @@
 		"hurryCostModifier": 160,
 		"gold": 2,
 		"science": 2,
+		"culture": 2,
 		"percentStatBonus": {"gold": 25},
-		"uniques": ["[+10]% [Culture] [in this city]"],
 		"specialistSlots": {"Merchant": 1},
 		"requiredTech": "Banking"
 	}
