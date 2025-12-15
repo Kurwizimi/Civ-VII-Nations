@@ -416,6 +416,38 @@
           "Order": 9,
       },
     },
+  //Tonga
+  {
+      "name": "Kau'ulufonua",
+      "culture": 9,
+      "faith": 3,
+      "food": 8,
+      "gold": 9,
+      "happiness": 6,
+      "production": 4,
+      "science": 3,
+
+      "military": 4,
+      "aggressive": 1,
+      "declareWar": 1,
+      "commerce": 6,
+      "diplomacy": 9,
+      "loyal": 6,
+      "expansion": 9,
+
+      "priorities": {
+          "Tradition": 4,
+          "Liberty": 9,
+          "Honor": 1,
+          "Commerce": 6,
+          "Patronage": 9,
+          "Piety": 3,
+          "Rationalism": 6,
+          "Freedom": 9,
+          "Autocracy": 2,
+          "Order": 6,
+      },
+    },
      //Abbasid
   {
       "name": "Al-Muktafī bi-Llāh",
@@ -576,6 +608,39 @@
           "Order": 5,
       },
     },
+
+  //Iceland
+  {
+      "name": "Gunnar Hámundarson",
+      "culture": 9,
+      "faith": 9,
+      "food": 5,
+      "gold": 9,
+      "happiness": 2,
+      "production": 6,
+      "science": 3,
+    
+      "military": 8,
+      "aggressive": 7,
+      "declareWar": 7,
+      "commerce": 9,
+      "diplomacy": 8,
+      "loyal": 2,
+      "expansion": 8,
+
+      "priorities": {
+          "Tradition": 3,
+          "Liberty": 7,
+          "Honor": 8,
+          "Commerce": 9,
+          "Patronage": 2,
+          "Piety": 6,
+          "Rationalism": 6,
+          "Freedom": 4,
+          "Autocracy": 9,
+          "Order": 6,
+      },
+    },
      //Taiwannitsuyyu
   {
       "name": "Pachacútec",
@@ -734,6 +799,39 @@
           "Freedom": 6,
           "Autocracy": 5,
           "Order": 6,
+      },
+    },
+
+  //Pirates
+  {
+      "name": "Edward Teach",
+      "culture": 2,
+      "faith": 1,
+      "food": 7,
+      "gold": 9,
+      "happiness": 9,
+      "production": 9,
+      "science": 2,
+
+      "military": 9,
+      "aggressive": 8,
+      "declareWar": 6,
+      "commerce": 9,
+      "diplomacy": 1,
+      "loyal": 1,
+      "expansion": 9,
+
+      "priorities": {
+          "Tradition": 6,
+          "Liberty": 1,
+          "Honor": 7,
+          "Commerce": 9,
+          "Patronage": 8,
+          "Piety": 3,
+          "Rationalism": 6,
+          "Freedom": 7,
+          "Autocracy": 9,
+          "Order": 2,
       },
     },
     //Shawnee
