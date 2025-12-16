@@ -1186,6 +1186,38 @@
           "Order": 5,
       },
     },
+   //Devlet-i Ayelie i-Osmaniye
+  {
+      "name": "Hurram Sultan",
+      "culture": 8,
+      "faith": 7,
+      "food": 8,
+      "gold": 2,
+      "happiness": 7,
+      "production": 5,
+      "science": 6,
+
+      "military": 9,
+      "aggressive": 6,
+      "declareWar": 6,
+      "commerce": 9,
+      "diplomacy": 6,
+      "loyal": 8,
+      "expansion": 7,
+
+      "priorities": {
+          "Tradition": 8,
+          "Liberty": 3,
+          "Honor": 4,
+          "Commerce": 7,
+          "Patronage": 8,
+          "Piety": 7,
+          "Rationalism": 7,
+          "Freedom": 7,
+          "Autocracy": 7,
+          "Order": 2,
+      },
+    },
      //Prussia
   {
       "name": "Freidrick",
