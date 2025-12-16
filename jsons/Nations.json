@@ -46,12 +46,12 @@
 		"defeated": "To you, it may seem like the Greatness of Nineveh has ended, but in reality, you have started a curse. A curse that you have inherited, one that can never be rude of. Prepare, or suffer eternal torture.",
 		"introduction": "Greetings, I am the Beloved of all Assyrians, inheritor of the Four Corners of the World, Destroyer of Arpad, Shammuramat. May Ashur bless this meeting.",
 		
-		"neutralHello": "",
-		"hateHello": "",
-		"afterPeace": "",
-		"tradeRequest": "",
-		"denounced": "",
-		"declaringfriendship": "",
+		"neutralHello": "Welcome, leader.",
+		"hateHello": "Keep your gaze away.",
+		"afterPeace": "The might of Assyria has been shown. Now it is time to reap the rewards.",
+		"tradeRequest": "I offer you this deal.",
+		"denounced": "Have you not seen the power of the Assyrians? Ha! Let me tell you, you don't want to find out.",
+		"declaringfriendship": "Being an ally of Assyria grants many benefits... and a lot less negatives.",
 
 		"spyNames": ["Arda-Mulišši","Libbāli-Šarrat","Mutakkil-Nusku","Sammu-Rāmat","Aššur-Rabi","Zakûtu","Adad-Nīrārī","Ešarra-Hammat","Aššur-Dān","Muballitat-Sherua"],
 
@@ -149,7 +149,7 @@
 		"hateHello": "Scoudrel!",
 		"tradeRequest": "My friend, would you kindly accept this offer?",
 		"denounced": "Really? Have you not seen the might of my armies? Do you really want to test your luck against me?",
-		//"declaringfriendship": "",
+		"declaringfriendship": "It takes a lot of effort top convince thousands to become friendly, but I believe you, my friend, just managed to do that.",
 
 		"spyNames": ["Agapetos","Chloe","Demokritos","Hypatia","Heracleitos","Ligeia","Nereus","Pelagia","Sosigenes","Xanthe"],
 
@@ -181,7 +181,7 @@
 		"hateHello": "We do not welcome tyrants like you!",
 		"tradeRequest": "May this offer seek you well.",
 		"denounced": "I guess I shouldn't have expected much from you. Your tyranny shall end one day.",
-		//"declaringfriendship": "",
+		"declaringfriendship": "I graciously extend my hand to you.",
 
 		"spyNames": ["Chen","Chang","Kong","Huan-Yue","Lei","Li-mei","Shaiming","Qing-yuan","Shing","Xin-qian"],
 		
@@ -208,11 +208,11 @@
 		"defeated": "One gains humility in defeat. I pray you are granted the most humility of all.",
 		"introduction": "I am Jayavarman VII, and the Khmer allow me to lead them. Their suffering is my suffering.",
 		
-		"neutralHello": " Heaven smiles upon you - as do the Khmer.",
+		"neutralHello": "Heaven smiles upon you - as do the Khmer.",
 		"hateHello": "You must know how to live a divine life—how else could you teach your people to do the opposite?",
 		"tradeRequest": "The Khmer wish to offer you this gift.",
-		"denounced": "",
-		//"declaringfriendship": "",
+		"denounced": "Don't curse my lannds with your sinful words, you obviously need to focus more on managing your mistake of an empire.",
+		"declaringfriendship": "The Khmer wish to make our friendship official.",
 
 		"spyNames": ["Balarama","Indradevi","Damkhat","Lakshmi","Laksmana","Romchang","Rama","Suryavana","Thomma","Viralakshmi"],
 
@@ -244,7 +244,7 @@
 		"hateHello": "Why are you here?",
 		"tradeRequest": "I hope this offer will be beneficial for both of us.",
 		"denounced": "This must be a mistake, no? If not, then you have made a grand error, my friend.",
-		//"declaringfriendship": "",
+		"declaringfriendship": "I hope our people may rejoice in unity.",
 
 		"spyNames": ["Darshan","Asha","Kuruvilla","Dakshina","Narayan","Lajila","Pulkit","Savatari","Surya","Vineeta"],
 
@@ -276,7 +276,7 @@
 		"hateHello": "Watch where you step...",
 		"tradeRequest": "Will this deal strengthen the ties of our nations?",
 		"denounced": "Your words mean nothing to me. Like the Quetzal, the Ki'iche shall never be bound to your petty actions.",
-		//"declaringfriendship": "",
+		"declaringfriendship": "You are a friend of the Ki'iche and beyond, right?",
 
 		"spyNames": ["Bound-stone Jaguar","Star House","Scroll Serpent","Baby Jaguar","Shield Skull","Scroll-in-hand","Lord Chocolate","Eveningstar","Storm Sky","Lady Crocodile"],
 
@@ -304,11 +304,11 @@
 		"defeated": "If I shall die fighting for my peoples freedoms in flames, I shall die a noble death.",
 		"introduction": "I am Tuskaloosa, Chief of the Mississipi. Make your presence known to my people, stranger, and we shall live in peace.",
 		
-		"neutralHello": "The Mississipi wlcome you.",
+		"neutralHello": "The Mississipi welcome you.",
 		"hateHello": "I see you approach me?!",
 		"tradeRequest": "Trade has been good this year, so the Mississipi offer you this deal.",
 		"denounced": "Don't try to force my hand. The last person to insult me like that suffered a terrible fate, one I'm sure you don't want to face.",
-		//"declaringfriendship": "",
+		"declaringfriendship": "You're not bad, not bad at all.",
 
 		"spyNames": ["Abit","Biisan","Chahta","Chashwi","Watonathi","Waahih","Chito","Chaliis","Chaan","Achaakatabi"],
 
@@ -395,16 +395,16 @@
 		"startIntroPart1": "The temple bell rings out across Korea, and Silla responds. In their palaces, the seonggol pursue a life of luxury, lending inspiration to the craftsman’s hands, the poet’s brush, and the soldier’s step. Guide Silla now, and bring an enlightened hand to a darkened world.",
 		"startIntroPart2": "",
 		
-		"declaringWar": "",
-		"attacked": "",
-		"defeated": "",
-		"introduction": "",
+		"declaringWar": "Vile rats! Your backwater nation shall be destroyed!",
+		"attacked": "I expected nothing less from troglodytes like you.",
+		"defeated": "Peace and prosperity is the only way forwards. Your conquest has stunted humanity, but of course you don't care.",
+		"introduction": "I am Jindeok, Queen of Stilla. I hope for a fruitful relationship between our people.",
 		
-		"neutralHello": "",
-		"hateHello": "",
-		"tradeRequest": "",
-		"denounced": "",
-		//"declaringfriendship": "",
+		"neutralHello": "I welcome you, Great Leader!",
+		"hateHello": "Is there anything I can do for you?",
+		"tradeRequest": "My friend, is this delegation beneficial to you?",
+		"denounced": "You have not turned yourself in opposition of Stilla, but in opposition of the entire civilised world!",
+		"declaringfriendship": "Shall I declare that you people is  friend of Silla to my people?",
 
 		"spyNames": ["Makdong","Geuru","Olmadae","Nana","Omadae","Noeul","Omidi","Miru","Madin","Mira"],
 
@@ -461,7 +461,7 @@
 		"startIntroPart1": "Bahamut rumbles and sways the jacinth slab of Kuyutha. The Abbasids' weight will realign the balance of the world.\nUnified by the new religion of Islam, the early Arab caliphates expanded rapidly across the Mediterranean and eastward into Persia. In this world, Baghdad, the capital of the Abbasid dynasty, thrived as a center of learning and culture. Arab scholars advanced astronomy and mathematics, philosophy and art until, like the fall of night, the Mongols appeared on the eastern horizon.",
 		"startIntroPart2": "O wise Caliph Al-Muktafī bi-Llāh, you have lead the people of Islam well. Your decendents have spent their reign trying to grapple on to whatever power they could get after the devastation and embarrassment of the Anarchy of Samara. However you, with you reforms and your kindness, reformed the Caliphate into a more prosperous and grand empire. The Abbasids managed to retake Egypt and Syria without the need of your fathers brutality and torture, and you destroyed the prisons and the toyrture chambers your father have built across the nation. But after your reign, the Abbasid Caliphate declined, only becoming a mere puppet of foreign empires. Now, the Abbasids call for you again. Can you build a civilization that will stand the test of time?",
 		
-		"declaringWar": "I never thought I would follow my fathers footsteps, but you need to be put in your place!",
+		"declaringWar": "I never thought I would follow my fathers footsteps, but you need to be put back in your place!",
 		"attacked": "Such brutality will never yeild you anything. The soldiers of the Abbasids shall cut you down!",
 		"defeated": "O God! Why must you turn your people into the puppets of tyrants?! Why?!",
 		"introduction": "Peace be on you. I am Al-Muktafī bi-Llāh, Caliph of the Abbasids. It is a pleasure to meet you.",
@@ -470,7 +470,9 @@
 		"hateHello": "What is it?",
 		"tradeRequest": "Is this trade deal good for you? If not, we can definitely find a compromise",
 		"denounced": "We shall record all the insults that you have given us so that future generations can humour themselves at your stupidity.",
-		//"declaringfriendship": "",
+		"declaringfriendship": "May peace reign eternally between our nations!",
+
+		"spyNames": ["Abdullah","Amatullah","Diya-al-Din","Leilah","El-marees","Fatimah","Musad","Widad","Rabbani","Mawiyah"],
 
 		"outerColor": [250,219,2],
 		"innerColor": [26,103,40],
@@ -500,7 +502,7 @@
 		"hateHello": "I have no words to say to you.",
 		"tradeRequest": "May you accept this offer.",
 		"denounced": "Bah, you dont learn. Have you seen the last person who insulted my nation like that? No? I wonder why!?",
-		//"declaringfriendship": "",
+		"declaringfriendship": "You lot aren't so bad, shall we declare friendship?",
 
 		"spyNames": ["Boris","Desislava","Radislav","Militsa","Bezmer","Miroslava","Kaloyan","Maria","Peter","Smiltsena"],
 
@@ -527,13 +529,13 @@
 		"declaringWar": "Your land holds important points that are essential for the Chola's survival. Prepare for war!",
 		"attacked": "Do you really think you can usurp me? Ha! ",
 		"defeated": "May Shiva strike you and your people down!",
-		"introduction": "Greetings, I am Rajaraja, the Great leader of the Chola. Say, do you have any good you are willing to trade?",
+		"introduction": "Greetings, I am Rajaraja, the Great leader of the Chola. Say, do you have any goods you are willing to trade?",
 		
 		"neutralHello": "Vaṇakkam, welcome.",
 		"hateHello": "Mīṇṭum nīṅkaḷ... ",
 		"tradeRequest": "The Chola has goods from far and wide. Would you like to sample them?",
-		"denounced": "It is bold to insult the masters of trade.",
-		//"declaringfriendship": "",
+		"denounced": "It is bold to insult the captians of trade.",
+		"declaringfriendship": "Becoming a friend of the Chola is great! After all, we offer great deals to the people closest to us!",
 
 		"spyNames": ["Anasuya","Govind","Bhadraa","Krishna","Kerani","Paramveer","Reeya","Purshotam","Sita","Uday"],
 
@@ -613,6 +615,8 @@
 		"afterPeace": "Now the balance of Mana has been restored, and the waves have finally settled.",
 		"tradeRequest": "Fancy going surfing after this?",
 
+		"spyNames": ["Lili’uokalani","Kamehameha","Ka’ahumanu","Pilikaʻaiea","Peleʻioholani","Lono-a-Piʻilani","Alapaʻi","Lakona","Kalaniʻōpuʻu","Piʻilani"],
+
 		"outerColor": [64,156,39],
 		"innerColor": [255,230,0],
 		"uniqueName": "Moananuiākea",
@@ -683,6 +687,8 @@
 		"afterPeace": "A revelation that we will live by.",
 		"tradeRequest": "May this deal shake the world!",
 
+		"spyNames": ["Anco","Chimpu","Manqu","Qispi","Kyunya","Qayara","Ruqa","Tupac","Sisa","Uqlllu"],
+
 		"outerColor": [120,61,3],
 		"innerColor": [249,218,2],
 		"uniqueName": "Apukuna",
@@ -719,6 +725,8 @@
 		
 		"afterPeace": "And now, we shall stop fighting",
 		"tradeRequest": "What if we make a deal, you and me?",
+
+		"spyNames": ["Adityawarman","Kidul","Bayu","Dewi","Jayapangus","Pitaloka","Raden","Sukarna","Samaragrawira","Susilawati"],
 
 		"outerColor": [121,0,2],
 		"innerColor": [0,195,140],
@@ -796,6 +804,8 @@
 		"afterPeace": "The Eternal Blue Sky commands all.",
 		"tradeRequest": "I hope this offer seeks you well.",
 
+		"spyNames": ["Arslan","Barghujin","Chuluunbold","Khulan","Khadan","Jaliqai","Nergui","Oyunchimeg","Tatatunga","Yesuntei"],
+
 		"outerColor": [25,65,150],
 		"innerColor": [185,210,155],
 		"uniqueName": "Bokh",
@@ -833,6 +843,8 @@
 		
 		"afterPeace": "Now you shall remember what the Norman people are capable of!",
 		"tradeRequest": "How about this deal?",
+
+		"spyNames": ["Robert","William","Henry","Matilda","Richerd","Stephen","John","Eleanor","Edward","Mary"],
 
 		"outerColor": [1,42,107],
 		"innerColor": [202,20,19],
