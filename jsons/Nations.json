@@ -564,17 +564,10 @@
 		"introduction": "The breeze from Fan Si Pan was cool this evening, and the Red River flows calm. And here you are.",
 		
 		"neutralHello": "Greetings, fellow leader.",
-		"neutralLetsHearIt": ["Yes?"],
-		"neutralNo": ["My people's interests come first. No."],
-		"neutralYes": ["A harmonious deal!"],
-
 		"hateHello": "I do not spend time with tyrants like you.",
-		"hateLetsHearIt": ["..."],
-		"hateNo": ["No!"],
-		"hateYes": ["If you insist..."],
-		
-		"afterPeace": "In harmony, like land and water.",
-		"tradeRequest": "My friend, is this deal good for you?",
+		"tradeRequest": "Does this please your peoples interests?.",
+		"denounced": "When all the men bow their heads in submission, only I stand for what is right.",
+		"declaringfriendship": "Our nations shall be in harmony, like land and water.",
 
 		"spyNames": ["Lĩnh","Minh","Hoàn","Anh","Phật Mã","Hạnh","Hiếu","Thủy","Định","Phượng"],
 
@@ -603,17 +596,10 @@
 		"introduction": "Greetings, stranger. I am Kamehameha III, grandson of the grand unifire on our people. But, if you seek peace with my kingdom, call me Liholiho.",
 		
 		"neutralHello": "Hello friend! Want to go surfing?",
-		"neutralLetsHearIt": ["Ooh, I'm interested"],
-		"neutralNo": ["Ah... maybe not this time..."],
-		"neutralYes": ["Yes! Whatever for you, my friend."],
-
 		"hateHello": "Dont muddy our waters with your presence...",
-		"hateLetsHearIt": ["I'm barely interested..."],
-		"hateNo": ["Go spill your nonsence somewhere else..."],
-		"hateYes": ["...Very well."],
-		
-		"afterPeace": "Now the balance of Mana has been restored, and the waves have finally settled.",
-		"tradeRequest": "Fancy going surfing after this?",
+		"tradeRequest": "Take this deal, if you please.",
+		"denounced": "May the waves wash your foul words away.",
+		"declaringfriendship": "Hey, fancy going surfing?",
 
 		"spyNames": ["Lili’uokalani","Kamehameha","Ka’ahumanu","Pilikaʻaiea","Peleʻioholani","Lono-a-Piʻilani","Alapaʻi","Lakona","Kalaniʻōpuʻu","Piʻilani"],
 
@@ -675,17 +661,10 @@
 		"introduction": "I am Pachacuti, favored of the sun and child of the mountains. Shake in my presence as the earth itself does.",
 		
 		"neutralHello": "Greetings, leader.",
-		"neutralLetsHearIt": ["Will this please the Inca?"],
-		"neutralNo": ["This proposal isnt very good."],
-		"neutralYes": ["I shall live by it"],
-
 		"hateHello": "Your presence is heard",
-		"hateLetsHearIt": ["Hmph..."],
-		"hateNo": ["This proposal lacks substance."],
-		"hateYes": ["...I shall do my best to live with this."],
-		
-		"afterPeace": "A revelation that we will live by.",
 		"tradeRequest": "May this deal shake the world!",
+		"denounced": "These insults lack substance",
+		"declaringfriendship": "Let us shake the world!",
 
 		"spyNames": ["Anco","Chimpu","Manqu","Qispi","Kyunya","Qayara","Ruqa","Tupac","Sisa","Uqlllu"],
 
