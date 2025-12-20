@@ -113,7 +113,7 @@
 		"uniqueTo": "Chola",
 		"cost": 200,
 		"hurryCostModifier": 160,
-		"gold": 2,
+		"gold": 3,
 		"percentStatBonus": {"gold": 25},
 		"uniques": ["[+50]% Production when constructing [Water] units [in this city]"],
 		"specialistSlots": {"Merchant": 1},
@@ -152,7 +152,7 @@
 		"requiredBuilding": "Harbor",
 		"uniques": ["[+1 Production, +1 Gold] from [Water resource] tiles [in this city]",
 			"Must be next to [Coast]", "[+50]% Production when constructing [Water] units [in this city]",
-		"[Water] Units adjacent to this city heal [50] HP per turn when healing"],
+		"[Water] Units adjacent to this city heal [25] HP per turn when healing"],
 		"requiredTech": "Navigation"
 	},
 
@@ -173,12 +173,12 @@
         	"replaces": "Factory",
         	"uniqueTo": "The United States",
         	"production": 4,
-		"percentStatBonus": {"production": 10},
+			"percentStatBonus": {"production": 10},
        		"specialistSlots": {"Engineer": 2},
         	"cost": 360,
-		"requiredResource": "Coal",
-        	"uniques": ["[+2 Production] from [Bonus resource] tiles [in this city]", "[+4 Production] from [Strategic resource] tiles [in this city]",
-				"[+1 Production, +1 Gold] from [Luxury resource] tiles [in this city]"],
+			"maintenance": 3,
+			"requiredResource": "Coal",
+        	"uniques": ["[+2 Production] from [Strategic resource] tiles [in this city]", "[+1 Production, +1 Gold] from [Luxury resource] tiles [in this city]"],
         	"requiredTech": "Industrialization"
         },
 
@@ -201,6 +201,7 @@
         	"uniqueTo": "Imperial France",
         	"happiness": 3,
         	"cost": 500,
+			"maintenance" 2,
         	"uniques": ["[+2 Happiness] from [Great Improvement] tiles [in this city]"],
         	"requiredTech": "Refrigeration"
         },
