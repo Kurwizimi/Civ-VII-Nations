@@ -201,7 +201,7 @@
         	"uniqueTo": "Imperial France",
         	"happiness": 3,
         	"cost": 500,
-			"maintenance" 2,
+			"maintenance": 2,
         	"uniques": ["[+2 Happiness] from [Great Improvement] tiles [in this city]"],
         	"requiredTech": "Refrigeration"
         },
