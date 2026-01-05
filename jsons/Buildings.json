@@ -165,7 +165,7 @@
 		"cost": 200,
         	"hurryCostModifier": 100,
        		"requiredTech": "Acoustics",
-		"uniques": [ "[+2 Gold, +1 Culture] from [Luxury] tiles [in this city]", "Destroyed when the city is captured"],
+		"uniques": [ "[+2 Gold, +1 Culture] from [Luxury resource] tiles [in this city]", "Destroyed when the city is captured"],
 	},
 
 	{
