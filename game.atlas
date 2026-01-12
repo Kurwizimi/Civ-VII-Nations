@@ -788,30 +788,37 @@ TileSets/HexaRealm/Tiles/Obshchina
   orig: 64, 65
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Potkop
+TileSets/HexaRealm/Tiles/Pairidaeza
   rotate: false
   xy: 1086, 263
   size: 64, 65
   orig: 64, 65
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Stepwell
+TileSets/HexaRealm/Tiles/Potkop
   rotate: false
   xy: 1158, 263
   size: 64, 65
   orig: 64, 65
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Water Puppet Theater
+TileSets/HexaRealm/Tiles/Stepwell
   rotate: false
   xy: 1230, 263
   size: 64, 65
   orig: 64, 65
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Örtöö
+TileSets/HexaRealm/Tiles/Water Puppet Theater
   rotate: false
   xy: 1302, 263
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Örtöö
+  rotate: false
+  xy: 870, 199
   size: 64, 65
   orig: 64, 65
   offset: 0, 0
