@@ -87,7 +87,7 @@
         "food": 1,
         "production": 1,
         "turnsToBuild": 7,
-        "uniques": ["[+1 Culture] for each adjacent [Farm]", "[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>", "[+1 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>",   
+        "uniques": ["[+2 Culture] for each adjacent [Fishing boats]", "[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>", "[+1 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>",   
                     "Only available <with [0] to [0] neighboring [Lo'i Kalo] tiles>", "Pillaging this improvement yields approximately [+25 Gold]"],
         "techRequired": "Construction",
         "shortcutKey": "L"
@@ -198,20 +198,4 @@
         "uniques": ["Can only be built on [River] tiles", "Pillaging this improvement yields approximately [+25 Gold]"],
         "shortcutKey": "B"
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ]
