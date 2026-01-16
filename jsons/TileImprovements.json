@@ -37,7 +37,7 @@
         "uniques": ["Adjacent enemy units ending their turn take [15] damage",  "Can be built outside your borders", "Does not need removal of [Forest]", "Does not need removal of [Jungle]", "Destroyed when pillaged",
                     "Pillaging this improvement yields approximately [+40 Gold]"],
         "shortcutKey": "T"
-    },//"Only available <for [Jaguar Hunter] units>",
+    },
   {
         "name": "Potkop",
         "uniqueTo": "Mississipi",
@@ -87,7 +87,7 @@
         "food": 1,
         "production": 1,
         "turnsToBuild": 7,
-        "uniques": ["[+2 Culture] for each adjacent [Fishing boats]", "[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>", "[+1 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>",   
+        "uniques": ["[+2 Culture] for each adjacent [Fishing Boats]", "[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>", "[+1 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>",   
                     "Only available <with [0] to [0] neighboring [Lo'i Kalo] tiles>", "Pillaging this improvement yields approximately [+25 Gold]"],
         "techRequired": "Construction",
         "shortcutKey": "L"
