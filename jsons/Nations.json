@@ -693,17 +693,10 @@
 		"introduction": "You came before the great warrior, Gajah Mada of Nusantara!",
 		
 		"neutralHello": "Greetings",
-		"neutralLetsHearIt": ["Proceed"],
-		"neutralNo": ["No."],
-		"neutralYes": ["This is good."],
-
 		"hateHello": "You again...",
-		"hateLetsHearIt": ["Speak up!"],
-		"hateNo": ["Are you a plank?"],
-		"hateYes": ["Even morons like you sometimes make sense."],
-		
-		"afterPeace": "And now, we shall stop fighting",
 		"tradeRequest": "What if we make a deal, you and me?",
+		"denounced": "Watch your words, fool.",
+		"declaringfriendship": "The Majapahit extends their hand to you. ",
 
 		"spyNames": ["Adityawarman","Kidul","Bayu","Dewi","Jayapangus","Pitaloka","Raden","Sukarna","Samaragrawira","Susilawati"],
 
@@ -732,22 +725,15 @@
 		"introduction": "I am the Yongle Emperor, friend to those who would steer their trade ships in my direction, and terrible to those who oppose me.",
 		
 		"neutralHello": "I welcome you.",
-		"neutralLetsHearIt": ["Go on..."],
-		"neutralNo": ["We cannot accept, unfortunately"],
-		"neutralYes": ["Lets both benefit"],
-
 		"hateHello": " I have told you again and again to refrain from evil. Soon I will tire of the telling.",
-		"hateLetsHearIt": ["What do you have to say?"],
-		"hateNo": ["We cannot accept such a thing"],
-		"hateYes": ["This will benefit the Ming more than you."],
-		
-		"afterPeace": "Lets hope this war has taught you how we handle barbarian hordes on our frontier.",
 		"tradeRequest": "We only deal with those who have something to offer. Like you, for instance.",
+		"denounced": "Don't dirty your reputation with those barbaric words.",
+		"declaringfriendship": "May our frontiers stay united.",
 
 		"outerColor": [50,140,70],
 		"innerColor": [200,200,160],
 		"uniqueName": "Great Canon of Yongle",
-		"uniqueText":"+10% [Science] after starting a Policy tree\n-10 [Science] after completing a Policy Tree",
+		"uniqueText":"+10% [Science] for every Policy Tree started\n-10 [Science] after completing a Policy Tree",
 		"uniques": ["[+10]% [Science]  <after adopting [Tradition]>","[+10]% [Science] <after adopting [Liberty]>","[+10]% [Science] <after adopting [Honor]>","[+10]% [Science] <after adopting [Piety]>","[+10]% [Science] <after adopting [Commerce]>","[+10]% [Science] <after adopting [Rationalism]>","[+10]% [Science]  <after adopting [Order]>","[+10]% [Science] <after adopting [Freedom]>","[+10]% [Science] <after adopting [Autocracy]>","[+10]% [Science] <after adopting [Patronage]>",
 			"[-10 Science] <after adopting [Tradition Complete]>","[-10 Science] <after adopting [Liberty Complete]>","[-10 Science] <after adopting [Honor Complete]>","[-10 Science] <after adopting [Piety Complete]>","[-10 Science] <after adopting [Commerce Complete]>","[-10 Science] <after adopting [Rationalism Complete]>","[-10 Science] <after adopting [Order Complete]>","[-10 Science] <after adopting [Freedom Complete]>","[-10 Science] <after adopting [Autocracy Complete]>","[-10 Science] <after adopting [Patronage Complete]>"],
 		"cities":["Yingtian","Beiping","Fuzhou","Guangzhou","Hangzhou","Guilin","Guiyang","Kaifeng","Hankou","Nanchang",
@@ -771,17 +757,10 @@
 		"introduction": "I am Chinggis Khaan. Are you friend or foe? For your sake, I hope a peace-seeking friend",
 		
 		"neutralHello": "Greetings, friend.",
-		"neutralLetsHearIt": ["Lets see..."],
-		"neutralNo": ["Your vision hinders my own"],
-		"neutralYes": ["Your words hold the wisdom of the divine"],
-
 		"hateHello": "Get this filth away from me.",
-		"hateLetsHearIt": ["What could you possibly want from me?"],
-		"hateNo": ["Your vision is pathetic compared to my own."],
-		"hateYes": ["Maybe your words some wisdom after all..."],
-		
-		"afterPeace": "The Eternal Blue Sky commands all.",
 		"tradeRequest": "I hope this offer seeks you well.",
+		"denounced": "Your words lack any wisdom.",
+		"declaringfriendship": "Shall we declare our friendship, brother?",
 
 		"spyNames": ["Arslan","Barghujin","Chuluunbold","Khulan","Khadan","Jaliqai","Nergui","Oyunchimeg","Tatatunga","Yesuntei"],
 
@@ -811,17 +790,10 @@
 		"introduction": "Welcome! I am William, King of Normandy and Conquerer of lands beyond. Would you like to join me in a feast? Your scouts look very tired.",
 		
 		"neutralHello": "Good to see you, friend!",
-		"neutralLetsHearIt": ["Yes?"],
-		"neutralNo": ["No."],
-		"neutralYes": ["Yes!"],
-
 		"hateHello": "What do you want, fool?",
-		"hateLetsHearIt": ["Go on..."],
-		"hateNo": ["Do you have an arrow stuck in your eye?"],
-		"hateYes": ["So be it."],
-		
-		"afterPeace": "Now you shall remember what the Norman people are capable of!",
 		"tradeRequest": "How about this deal?",
+		"denounced": "Can you not see who you are talking to? Or do you have an arrow stuck in your eye?",
+		"declaringfriendship": "Our lands shall stay united!",
 
 		"spyNames": ["Robert","William","Henry","Matilda","Richerd","Stephen","John","Eleanor","Edward","Mary"],
 
@@ -851,17 +823,10 @@
 		"introduction": "Hark ye to the Admiral of the Black, the scourge of the seven seas - Edward Teach, Blackbeard in the flesh.",
 		
 		"neutralHello": "Good to see you, friend!",
-		"neutralLetsHearIt": ["Yes?"],
-		"neutralNo": ["No."],
-		"neutralYes": ["Yes!"],
-
 		"hateHello": "What do you want, fool?",
-		"hateLetsHearIt": ["Go on..."],
-		"hateNo": ["Do you have an arrow stuck in your eye?"],
-		"hateYes": ["SO be it."],
-		
-		"afterPeace": "Done handsomely.",
 		"tradeRequest": "How about this deal?",
+		"denounced": "You wouldn't be talking so calmly when you see your seas filled with my fleets!",
+		"declaringfriendship": "Shall we make it done handsomely?",
 
 		"spyNames": ["Edward","Mary","William","Charlotte","Charles","Jacquotte","John","Martha","Benjamin","Christina"],
 
@@ -891,17 +856,10 @@
 		"introduction": "You see a star that crosses the night sky like a bolt of lightning? That is me, Tecumseh, the one who leaps great distances.",
 		
 		"neutralHello": "Good day, my friend.",
-		"neutralLetsHearIt": ["Yes?"],
-		"neutralNo": ["No"],
-		"neutralYes": ["Deal. Don’t make us regret it."],
-
 		"hateHello": "Why do you approach me?",
-		"hateLetsHearIt": ["Don't make a fool of yourself."],
-		"hateNo": ["No"],
-		"hateYes": ["I'm already starting to regret this deal."],
-		
-		"afterPeace": "Don’t make us regret this peace.",
 		"tradeRequest": "Let us assess this deal over these peace pipes.",
+		"denounced": "Sour words will not ruin the sweet freedom of the Shawnee",
+		"declaringfriendship": "Let us smoke together over these peace pipes!",
 
 		"outerColor": [160,115,185],
 		"innerColor": [230,230,0],
@@ -928,17 +886,10 @@
 		"introduction": "I am Sonni Ali, the Great leader of the Songhay. Make sure you tread in these waters carefully.",
 		
 		"neutralHello": "May you hae peace.",
-		"neutralLetsHearIt": ["A trade?"],
-		"neutralNo": ["No... thts not it..."],
-		"neutralYes": ["This is greatly favourable."],
-
 		"hateHello": "Well?",
-		"hateLetsHearIt": ["What makes you think we will accept this?"],
-		"hateNo": ["I told you."],
-		"hateYes": ["..."],
-		
-		"afterPeace": "Let the terror of the Songhay haunt your dreams.",
-		"tradeRequest": "Lets make the trade caraans between our nations flourish!",
+		"tradeRequest": "Lets make the trade caravans between our nations flourish!",
+		"denounced": "Once you see the power of the Songhay, it will haunt your dreams!",
+		"declaringfriendship": "Shall our cordial trades flow for longer?",
 
 		"outerColor": [250,219,2],
 		"innerColor": [113,20,0],
@@ -961,22 +912,14 @@
 		
 		"declaringWar": "I covet not your lands and your crown for my own sake, but for the sake of God's empire. Which is mine.",
 		"attacked": "You will only make martyrs.",
-		
 		"defeated": "I, who sought to extend God's grace across the land, am to be cast out. To live amongst pig farmers and… ugh, what is the word… bakers!",
 		"introduction": "I am Lady Isabella, queen of these lands. The queen is right. The queen is always right.",
 		
 		"neutralHello": "Good day, my friend.",
-		"neutralLetsHearIt": ["Yes."],
-		"neutralNo": ["No. I have my reasons."],
-		"neutralYes": ["Yes, yes, yes, send it to my scribe and he will put my seal upon it."],
-
 		"hateHello": "Why do you approach me?",
-		"hateLetsHearIt": ["Don't make a fool of yourself."],
-		"hateNo": ["Why would you think that I would accept this?"],
-		"hateYes": ["Now go away."],
-		
-		"afterPeace": "Send it to my secretary and put my seal on it!",
 		"tradeRequest": "Our riches must cause much envy in your people. Here is a deal to satisfy your subjects greed.",
+		"denounced": "You should have sent this to my Secretary, I have no time to waste with sinners like you.",
+		"declaringfriendship": "An ally of Castile with be very worthwhile.",
 
 		"outerColor": [255,178,60],
 		"innerColor": [212,20,21],
