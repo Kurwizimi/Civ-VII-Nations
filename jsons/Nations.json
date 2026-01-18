@@ -622,16 +622,16 @@
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 		
-		"declaringWar": "",
-		"attacked": "",
-		"defeated": "",
-		"introduction": "",
+		"declaringWar": "Your shores shall burn, and your cities shall be destroyed!",
+		"attacked": "Our atgeirs shall defeand our home, and you armies will be destroyed!",
+		"defeated": "I may have not protected my home from destruction, but at least I shall die with it.",
+		"introduction": "Greetings, stranger! I am Gunnar Hámundarson, brave hero and skilled warrior. Tell me more about yourself, Iceland will love to know more.",
 		
-		"neutralHello": "",
-		"hateHello": "",
-		"tradeRequest": "",
-		"denounced": "",
-		"declaringfriendship": "",
+		"neutralHello": "Welcome, friend!",
+		"hateHello": "Cast your gaze away.",
+		"tradeRequest": "These gifts are for you!",
+		"denounced": "Ha! You shouldn't be saying such stupid things. Maybe hitting your head with a rock will get you thinking straight!",
+		"declaringfriendship": "Come friend, lets have a few beers!",
 
 		"spyNames": ["Þorsteinn","Vigdís","Óláfr","Bergþora","Helgi","Hrefna","Skarphéðinn","Þorgerðr","Vesteinn","Gunnhildr"],
 
@@ -983,17 +983,10 @@
 		"introduction": "On behalf of Her Majesty, I welcome you to the United Kingdom of Great Britain. I am Benjamin Disreali, Prime Minister of this land.",
 
 		"neutralHello": "Greetings.",
-		"neutralLetsHearIt": [""],
-		"neutralNo": [""],
-		"neutralYes": [""],
-
 		"hateHello": "We do not accomodate brutes like you.",
-		"hateLetsHearIt": [""],
-		"hateNo": [""],
-		"hateYes": [""],
-		
-		"afterPeace": "Lets hope you will remember our attempts of civilising you.",
 		"tradeRequest": "Let us maintain the amicable relations between our nations",
+		"denounced": "All I hear from you is the grunts of uncivilised animals.",
+		"declaringfriendship": "Being a friend of Brittania and its Empire is an opportunity you shouldn't miss.",
 
 		"outerColor": [0,0,164],
 		"innerColor": [255,255,255],
