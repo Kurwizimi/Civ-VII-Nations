@@ -1,50 +1,30 @@
 [
-  
     {
         "name": "General",
-        "unitNames": ["Aperel", "Khay", "Xemophon", "Alexander the Great", "Hugo Qubing", "Álvar Núñez Cabeza de Vaca", "Francisco Pizarro", "Miguel López de Legazpi"]
+        "unitNames": ["Aperel", "Khay", "Xenophon", "Alexander the Great", "Hugo Qubing", "Álvar Núñez Cabeza de Vaca", "Francisco Pizarro", "Miguel López de Legazpi", "Gísli Sursson", "Grettir Ásmundarson", "Gunnarr Hámundarson", "Hrafnkell Hallfreðsson", "Jacques Nicolas Billaud-Varenne", "Jacques Pierre Brissot", "Louis Antoine de Saint-Just", "The Archangel of The Teror", "Amelio Robles Ávila", "Ángela Jiménez", "Antonio López de Santa Anna", "José María Morelos", "Miguel Hidalgo", "Pancho Villa", "Petra Herrera", "Sakdiphonlasep"]
     },
   {
         "name": "Admiral",
-        "unitNames": ["Ibn Fadlan", "Francisco de Orellana", "Inés Suárez", "Juan Ponce de León"]
+        "unitNames": ["Ibn Fadlan", "Francisco de Orellana", "Inés Suárez", "Juan Ponce de León", "Freydís Eiríksdóttir", "Guðríðr Þorbjarnardóttir"]
     },
   {
         "name": "Artist",
-        "unitNames": ["Amhose", "Nebet", "Ramose", "Useramen", "Rabia of Basra"]
+        "unitNames": ["Amhose", "Nebet", "Ramose", "Useramen", "Rabia of Basra", "Egill Skallagrímsson", "Etta Palm D'Aelders", "Maximilien Robespierre", "Benito Juárez", "Emiliano Zapata", "Vicente Guerrero", "Itsarasunthon"]
     },
   {
         "name": "Engineer",
-        "unitNames": ["Hemiunu", "Imohtep", "Paser"]
+        "unitNames": ["Hemiunu", "Imohtep", "Paser", "Phibun"]
     },
   {
         "name": "Scientist",
-        "unitNames": ["Ptahhotep", "Arete of Cyrene", "Aristotle", "Aspasia", "Hypatia", "Plato", "Pythagoras", "Sappho", "Socrates", "Thales of Miletus", "Ban Zhao", "Han Fei", "Laozi", "Mencius", "Mozi", "Xun Kuang", "Zhang Heng", "Al-Farabi", "Al-Farghani", "Al-Jahiz", "Al-Jahari", "Al-Khwarizmi", "Ibn Sina"]
+        "unitNames": ["Ptahhotep", "Arete of Cyrene", "Aristotle", "Aspasia", "Hypatia", "Plato", "Pythagoras", "Sappho", "Socrates", "Thales of Miletus", "Ban Zhao", "Han Fei", "Laozi", "Mencius", "Mozi", "Xun Kuang", "Zhang Heng", "Al-Farabi", "Al-Farghani", "Al-Jahiz", "Al-Jahari", "Al-Khwarizmi", "Ibn Sina", "Jean-Paul Marat", "Olympe de Gouges", "Vajiravudh"]
     },
   {
         "name": "Merchant",
-        "unitNames": ["Shang Yang", "Shen Buhai", "Al-Maqdisi", "Al-Shaybani", "Hernando de Soto"]
+        "unitNames": ["Shang Yang", "Shen Buhai", "Al-Maqdisi", "Al-Shaybani", "Hernando de Soto", "Guðrún Ósvífrsdóttir", "Kjartan Óláfsson", "Njáll Þorgeirsson", "Camille Desmoulins", "Georges Danton", "Paul Barras", "Chakrabongse", "Dara Rasmi", "Pinklao", "Pridi", "Senanurak", "Wichaichan"]
     },
    {
         "name": "Buccaneer",
         "unitNames": ["Blackbeard", "Anne Bonny", "Henry Every", "Samuel Bellamy", "Mary Critchett", "Nicholas de Concepcion", "Joseph Faro", "Richard Frowd", "William Kidd", "Francis Leslie", "John Rackam", "Emanuel Wynn", "Richard Worley"]
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ]
