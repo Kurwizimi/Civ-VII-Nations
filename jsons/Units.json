@@ -1,4 +1,5 @@
 [
+	//"civilopediaText": [ {"text": ""}],
 	{
         "name": "Dhow",
         "replaces": "Trireme",
@@ -258,8 +259,8 @@
 
 	{
         "name": "Mamluk",
-	"replaces": "Knight",
-	"uniqueTo": "The Abbasids",
+		"replaces": "Knight",
+		"uniqueTo": "The Abbasids",
         "unitType": "Mounted",
         "movement": 4,
         "strength": 18,
@@ -268,14 +269,15 @@
         "obsoleteTech": "Military Science",
         "upgradesTo": "Cavalry",
         "requiredResource": "Horses",
-        "uniques": ["[+25]% Strength <within [2] tiles of a [City center]>", "Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>",],
+        "uniques": ["[+25]% Strength <within [2] tiles of a [City center]>", "Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>"],
+		"civilopediaText": [ {"text": "The Mamluk's rise to power is an epic tale. The word means “one who is owned.” In its historical context, it referred to Turkic (also Armenian, Sudanese, or others) slave-soldiers utilized by various Arab caliphates, beginning with the Abbasids. These men were often taken as children and raised as soldiers. Since these warriors lacked kin, or other social networks, that Arab soldiers often had, they could be deployed against other caliphates with impunity. \nWith military prowess and success came power and respect – even for someone enslaved. Despite their status as property, Mamluk standing rose above even the general freed population. They seized power in Egypt and Syria in 1250 CE, creating the Mamluk Sultanate that persisted for nearly three hundred years, and they decisively expelled the last Crusaders from the Holy Land."}],
         "attackSound": "horse"
     },
 
 	 {
         "name": "Bolyar",
-	"replaces": "Knight",
-	"uniqueTo": "Bulgaria",
+		"replaces": "Knight",
+		"uniqueTo": "Bulgaria",
         "unitType": "Mounted",
         "movement": 4,
         "strength": 20,
@@ -285,7 +287,8 @@
         "upgradesTo": "Cavalry",
         "requiredResource": "Horses",
         "uniques": ["Double movement in [Hill]", "Can move after attacking", "[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
-	"promotions": ["Drill II"],
+		 "civilopediaText": [ {"text": "Known as a boila during the First Bulgarian Empire, a bolyar was an aristocrat of the Second Empire. These nobles held both civic and military roles, holding regional power during peacetime and responsible for activating during war. As highly ranked soldiers, they provided skills that made the Bulgarian army so effective – strong horsemanship and deep knowledge of the land. The cavalry was so valuable that neglect of a horse, even in peacetime, was harshly penalized. \nThe bolyar title was hereditary, and within their ranks there was an additional hierarchy, with a handful of greater bolyars serving as a royal council and the lesser bolyars focusing on regional governance."}],
+		"promotions": ["Drill II"],
         "attackSound": "horse"
     },
 
@@ -299,6 +302,7 @@
         "cost": 120,
         "requiredTech": "Astronomy",
         "uniques": ["Can move after attacking","[1] additional attacks per turn","[+1] Sight","Withdraws before melee combat <with [80]% chance>"],
+		"civilopediaText": [ {"text": "By some definitions, the Chola navy was a vast enterprise, arranging conquests from Sri Lanka to Cambodia, extending trade routes from Africa to China, and amassing power over the Indian Ocean. However, by other definitions, the Chola navy did not even exist. Instead of a standing navy, in times of war, the Chola would contract a large number of merchant vessels and privateers (possibly pirates). The design of these ships and how they functioned is largely lost to history, and surviving records are riddled with inaccuracies. \nHere 'kalam' refers to 'vessel' in Tamil. It is not a terribly descriptive name, nor is it evocative, but it remains the most accurate term to describe a unit of the immense and diverse navy of the Cholas"}],
         "upgradesTo": "Ironclad",
         "obsoleteTech": "Steam Power",
         "attackSound": "nonmetalhit"
@@ -306,8 +310,8 @@
 	{
         "name": "Voi Chiến",
         "unitType": "Archery",
-	"uniqueTo": "Đại Việt",
-	"replaces": "Crossbowman",
+		"uniqueTo": "Đại Việt",
+		"replaces": "Crossbowman",
         "movement": 3,
         "strength": 13,
         "rangedStrength": 23,
@@ -315,7 +319,8 @@
         "requiredTech": "Machinery",
         "upgradesTo": "Gatling Gun",
         "obsoleteTech": "Industrialization",
-	"uniques":["[+1] Sight", "Can move after attacking", "No defensive terrain bonus"],
+		"uniques":["[+1] Sight", "Can move after attacking", "No defensive terrain bonus"],
+		"civilopediaText": [ {"text": "War elephants – voi chiến in Vietnamese – were a staple of armies across Southeast Asia. Able to move with surprising grace even when hauling heavy loads, they were vital in logistics, and in battle, they were terrifying. From a commanding height, mounted atop tons of hide and flesh, elephant-mounted warriors armed with spears, pikes, or bows could reach above and behind enemy lines, and the beast itself could be goaded into crashing through and trampling even seasoned soldiers. Cavalry, it seems, were particularly susceptible to an elephant charge, as horses required a great deal of discipline and training to keep up an assault when facing a mass of elephants. As such, they were the tanks of their day. \nBut an elephant is, after all, a living thing. In the wars against the Song Dynasty, the forces of Lý Thường Kiệt, emboldened by their success against the Cham to the south, deployed war elephants against the Chinese. However, Chinese forces had learned to attack the sensitive trunks of the animals, causing them to fly into a rage and trample their own forces \nElephants remained in use for their hauling capacity and relative stealth well into the Vietnam War."}],
         "attackSound": "crossbow"
     },
 
@@ -329,6 +334,7 @@
         "cost": 75,
         "requiredTech": "Iron Working",
 		"promotions": ["[Leiomano] ability"],
+		"civilopediaText": [ {"text": "How can weapons of war be fashioned without metal, obsidian, or flint? For the Hawaiians, the answer was found in the sea. The leiomano, the shark’s lei, is a broad wooden club rimmed with tiger shark teeth, which put the power of a shark's bite into the hands of individual Hawaiian warriors. \nHawai’i hasn't always been a unified archipelago. Some areas and islands had different kings, and these kings often engaged in bloody battles of conquest – until the rise of Kamehameha in the late 1700s. This leader engaged in a broad system of conquest to unite the fractious isles through outrigger, spear, and shark-tooth club."}],
         "upgradesTo": "Longswordsman",
         "obsoleteTech": "Steel",
         "hurryCostModifier": 20,
@@ -347,21 +353,23 @@
 		"obsoleteTech": "Combustion",
 		"uniques": ["[+1] Sight", "Withdraws before melee combat <with [80]% chance>", "Comment [Unlocked earlier at [Metal Casting] vs [Astronomy]]"],
 		"promotions": ["[Víkingr] ability"],
+		"civilopediaText": [ {"text": "The most famous aspect of Icelandic, and more broadly Norse, society is of course the Viking phenomenon. The Vikings (Old Norse víkingar) were the young warriors who sailed abroad each spring to raid the coasts and rivers of, predominantly, Europe. Their attacks were swift and brutal, and were made possible by the technology of their longships. These vessels were low and built around a flexible keel – thus the ship was shallow enough to navigate up rivers and malleable enough to brave the choppy waters of the North Atlantic. Before the longships, there were no warships in Europe that could access rivers, and so these waterways were not well-guarded, instead functioning as natural barriers. The Vikings took advantage of the low security, arriving at dawn to pull their ships up on the shores, rapidly raiding and pillaging before departing a few hours later, faster than the local lord could muster forces in response. \nViking raids served two key functions within Norse society. The primary currency required for social mobility was honor, which could be reliably earned through martial success. Young men raiding during the summers between their mid-teens and mid-twenties could rack up many victories during that time, particularly against defenseless monks and surprised villagers. This was a quick and easy way of earning honor, though it could be obtained in other ways, such as serving as a mercenary or, for those who didn’t leave home, becoming a lawyer and winning the verbal battles of lawsuits. \nRaids also enriched the Vikings, not only through money but, more importantly, through rare objects of great value. The North was not home to many valuable resources, but the social fabric of Norse society relied on gift-giving. Viking raids were critical sources of rare and unusual objects , and by the time he retired, a young Viking had ideally built a stockpile of valuable gifts from which he could pull for the rest of his life when he needed to establish or strengthen an alliance. For those who didn’t go raiding, other types of gifts included hosting a feast for someone, composing a poem about them, or crafting some kind of item with one’s own hand."}],
 		"hurryCostModifier": 30,
 		"attackSound": "cannon"
 	},
 
 	{
         "name": "Warak'aq",
-	"replaces": "Composite Bowman",
+		"replaces": "Composite Bowman",
         "uniqueTo": "Tawantinsuyu",
         "unitType": "Archery",
         "movement": 3,
         "strength": 7,
-	"rangedStrength": 11,
+		"rangedStrength": 11,
         "cost": 75,
         "requiredTech": "Construction",
-	"promotions": ["Barrage I", "Ignore terrain cost"],
+		"promotions": ["Barrage I", "Ignore terrain cost"],
+		"civilopediaText": [ {"text": "The bow replaced the sling in many parts of the world but not in the Andes. Andean warak’aq – woolen slings braided in contrasting colors – were masterpieces, capable of flinging a stone with deadly force up to 130m away. Stones are more plentiful in the high places than in the woods where one might craft arrows. \nInca battles were both violent and symbolic. During tinku battles (show battles) warriors would re-enact famous conflicts from Inca history for an audience of nobles. Ethnic groups from around the empire would also dress in their particular ceremonial outfits, creating a drama that illustrated the scale and scope of the empire, as well as the Inca’s (inevitable) victory."}],
         "upgradesTo": "Crossbowman",
         "obsoleteTech": "Machinery",
         "hurryCostModifier": 20,
@@ -374,13 +382,14 @@
         "uniqueTo": "Majapahit",
         "unitType": "Ranged Water",
         "movement": 4,
-	"rangedStrength": 17,
+		"rangedStrength": 17,
         "range": 2,
         "strength": 16,
         "cost": 100,
         "requiredTech": "Compass",
         "uniques": ["[+15]% Strength <vs [Water] units>", "Cannot enter ocean tiles"],
-	"promotions": ["Extended Range"],
+		"promotions": ["Extended Range"],
+		"civilopediaText": [ {"text": "'Mongol hordes' call to mind a sweeping mass of horse archers stretched across the Eurasian steppe. However the Mongols – referring to Kublai Khan’s Yuan Dynasty in China – also attempted a takeover of Java in 1293 CE, which set the stage for the rise of the Majapahit Empire. This invasion failed thanks to naval treachery, but Java kept the Mongols' guns after the invaders left. The cetbang was a light cannon with one or two barrels, and was mounted onto a swivel, giving it a remarkably modern appearance – the same year that the Majapahit were using double-barreled swivel cannons, the English and French were still contesting over the superiority of longbows or crossbows. \nThe cetbang did not have the power of later bombards, and could not productively be used against enemy ships, but they still had their uses. At the time, navies were essentially floating platforms to carry warriors, so a volley of cetbang fire onto an enemy’s crowded decks could cause a great deal of damage, even before the first keris (Javanese dagger) was drawn."}],
         "upgradesTo": "Frigate",
         "obsoleteTech": "Navigation",
         "attackSound": "nonmetalhit"
@@ -399,6 +408,7 @@
 	"obsoleteTech": "Gunpowder",
 	"uniques": ["Can transform to [Xunleichong (Ranged)]", "Can transform to [Xunleichong (Anti-Mounted)]"],
 	"promotions": ["Shock I"]
+	"civilopediaText": [ {"text": "The Ming Dynasty oversaw a revolution in battlefield tactics. Gunpowder, though long present in China, was being used for experimental weaponry, and Zhao Shi Zhen was a master experimenter. One of his creations was the 'quick thunder gun', or xunleichong: a machine gun, shield, and spear all in one. Five matchlock barrels protruded through a shield, providing the gunner some cover, while a detachable axe (for close-quarter fighting) served as a gun rest. When reversed, the apparatus could be used as a spear, thus the xunleichong was a ranged, melee, and anti-cavalry armament all at once. \nWas it practical? Was it ever deployed en masse? No, and no. But it remains a testament to experimentation and imagination, an attempt to provide new means to deal damage on the battlefield, taking the best advantage of new possibilities."}],
    },
 
 	{
@@ -440,7 +450,8 @@
                 "Uncapturable",
 				"Is part of Great Person group [Great Person]",
 				"[This Unit] gets a name from the [Merchant] group",
-				"Great Person - [Gold]"]
+				"Great Person - [Gold]"],
+		"civilopediaText": [ {"text": "Mandarins were scholars and bureaucrats who achieved their positions through written examination. They emerged from a long tradition of merit-based appointments, as opposed to inherited rank. During the Ming dynasty, several revisions were made to the exam, incorporating law and current policy in addition to the traditional topics of classical literature and writing. As representatives of Confucian values, many mandarins pursued government positions, while others contributed to society in other ways, such as teaching, practicing law, collecting taxes, and acting as local leaders."}]
    },
 
 	{
@@ -458,6 +469,7 @@
 		"uniques":["Can move after attacking", "No defensive terrain bonus", "Ignores Zone of Control"],
 		"requiredResource": "Horses",
 		"promotions": ["[Keshig] ability"],
+		"civilopediaText": [ {"text": "Leadership in the Mongolian Empire was a complex system revolving around clan loyalties and the charisma of the khan. Assassinations were a persistent risk. Due to the temporary structure of the Mongolian ger (tent), trusted guards (the keshig or keshik) were vital to leaders. These guards would have been chosen from the best and most deserving Mongolian warriors. Indeed, the name 'keshig' means 'blessed'. For their service, keshig were often granted membership into their ruler’s clan. \nThe tradition of keshig continued in many places the Mongols influenced, including Mughal India, where the term came to mean the arms of the palace guard; Yuan China; and the various khanates that sprang up in the wake of Genghis Khan’s death."}],
         "attackSound": "crossbow"
     },
 
@@ -472,9 +484,10 @@
 	"obsolete": "Military Science",
 	"requiredTech": "Chivalry",
 	"uniques":["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>"],
+	"promotions": ["[Chevaler] ability"],
+	"civilopediaText": [ {"text": "The classic knight of the Middle Ages, the Norman chevaler was a noble who accepted temporary military service in exchange for a grant of land and serfs. The Norman knight was often equipped with a horse, shield, lance, sword, and hauberk (a shirt of chainmail) – the era of full plate had not yet arrived. In battle, these chevalers were the medieval equivalent of tanks – heavily armored and mobile – and they were capable of inflicting a devastating lance charge against less-armored and less-trained foot soldiers. This is a potent metaphor for status in the Middle Ages: the elite could enter a battle protected (especially after a papal ban on crossbows), whereas serfs had to rely upon wits...or luck. In the chevaler, status, duty, land, and violence came together, both on and off the battlefield."}],
 	"upgradesTo": "Cavalry",
-	"requiredResource": "Horses",
-	"promotions": ["[Chevaler] ability"]
+	"requiredResource": "Horses"
     },
 
 	{
@@ -492,6 +505,7 @@
 			"[This Unit] gets a name from the [Buccaneer] group",
             "Great Person - [War]", "Unbuildable", "Uncapturable",
 		"Founds a new city <once>"],
+		"civilopediaText": [ {"text": "A buccaneer is a general term for a pirate, but the word itself has an etymology that extends beyond. In the 17th century, as livestock from colonial settlements escaped and grew feral, Hispaniola gained a population of wild pigs – and some settlers, too, escaped and grew feral. These outlaws were named 'buccaneers', after the Arawak word (buccan) for a meat-grilling stand. By the time that more Europeans had arrived in the area, the word had come to mean anyone living off of brigandry and piracy – especially as colonial authorities tried to eradicate these lawless individuals and their feral prey and many sought employment and gain by plunder."}],
 		"movement": 4
 	},
 
@@ -505,6 +519,7 @@
 		    "May enter foreign tiles without open borders, but loses [200] religious strength each turn it ends there",
 		    "Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
         	    "[-1] Sight", "Unbuildable", "Religious Unit", "Only available <when religion is enabled>"],
+		"civilopediaText": [ {"text": "The hoceepkileni, 'medicine man', was a spiritual leader among the Shawnee people. They were intermediaries between the physical and metaphysical worlds and guided the community in their relationship with the divine. Healing was an important part of the hoceepkileni’s skills, and physical ailments were treated medicinally and spiritually. However, the hoceepkileni also addressed social tensions and communal disputes, mending divisions within the population."}],
         "movement": 5,
         "religiousStrength": 800
     },
@@ -518,6 +533,7 @@
 	"cost": 60,
 	"movement": 2,
 	"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+	"civilopediaText": [ {"text": "Songhai was a highly effective conquest-oriented empire in the Sahel region of West Africa. It took over territory from the Malian Empire and formed a key node in Muslim networks spanning the Sahara. The Songhai military was based around several axes: a riverine navy, a cavalry, and a highly-trained infantry known for the gold bangles they wore on their arms. \nThis reliance on medieval warfare based around swords and lances was their undoing. Even by the time of Askia the Great, in 1493, the tides were turning. Guns had entered the battlefield, so it was only a matter of time before a foreign force realized that Songhai lands were ripe for the taking. In 1591, Morocco delivered this blow, and the better-equipped Arab forces seized control of Songhai’s salt and gold resources."}],
 	"requiredTech": "Gunpowder",
 	"upgradesTo": "Lancer",
 	"promotions": ["[Golden Bangles] ability"]
@@ -533,6 +549,7 @@
 	"movement": 2,
 	"requiredTech": "Gunpowder",
 	"upgradesTo": "Rifleman",
+	"civilopediaText": [ {"text": "Guns did not immediately sweep away the era of swords, spears, and bows. Instead, early firearms, such as the arquebus, were incorporated into existing units. Though more effective than a crossbow or arbalest, they were also slow and expensive, and arquebusiers needed protection from cavalry. The Spanish created the tercio, a unit comprised of pikemen and arquebusiers, and arranged so that arquebusiers – protected by flanking pikemen – could fire and then move to a safe place to reload. While slow, it was an effective battle formation and proved extremely effective in the wars of the 16th century. As the faster flintlock musket overtook the matchlock, and the age of pikes came to an end, the tercio eventually gave way to the classic line infantry of the 18th and 19th centuries."}],
 	"promotions": ["[Castilian Tercio] ability"]
     },
 
@@ -546,6 +563,7 @@
 	"movement": 2,
 	"uniques":["[+1] Sight <when [Embarked]>", "[+100]% Strength <when defending> <when [Embarked]>",
 		"[1] Movement point cost to disembark", "[1] Movement point cost to embark", "Comment [Unlocked Earlier at [Electronics] vs [Pharmaceuticals]]"],
+	"civilopediaText": [ {"text": "Put simply, marines are land combat units deployed at sea for use in amphibious invasions (or to seize other ships). Until large cannons were deployed on ships, most naval combat was performed by the ancient equivalent of marines – navy ships from Rome to Majapahit to the Chola would close in on their enemy, and soldiers would attempt to board and capture the other vessel. In this sense, ships are merely a means of transport; later innovations in naval technology were needed for ship-to-ship combat (Greek fire and other such weapons were outliers). \nHowever, marines are not simply ship-to-ship fighters. They became vital as an advance force for major wars, especially those overseas where forces could establish a foothold on an enemy coast and pave the way for a larger army invasion. In World War II, the United States Marine Corps was crucial in securing sites in battles such as Normandy and Iwo Jima. These kinds of invasions were especially crucial when air power entered the picture – a rapid, amphibious force can seize an airfield, which in turn offers support for a greater advance."}],
 	"requiredTech": "Electronics",
 	"promotions": ["Amphibious"]
     },
@@ -565,6 +583,7 @@
         "upgradesTo": "Missile Cruiser",
         "uniques": ["Never appears as a Barbarian unit","[-25]% Strength for enemy [Military] units in adjacent [All] tiles"],
         "promotions": ["Indirect Fire"],
+		"civilopediaText": [ {"text": "In the first years of the 20th century, as militaries began to embrace the destructive potential of mechanized warfare, dreadnoughts hit the water. These were ships that relied upon large long-range guns, and would both dominate naval battle in World War II and see their power superseded by aircraft in the same conflict. \nThe Revenge class of British warships had eight 15-inch guns mounted on four turrets, a secondary battery along the side of the ship, and platforms for early fighter and reconnaissance aircraft. They saw brief battle in World War I, but primarily saw service in the interwar years; by World War II they were eventually phased out in favor of more modern ships."}],
         "attackSound": "shipguns"
     },
 
@@ -579,7 +598,8 @@
 	"obsolete": "Replaceable Parts",
 	"requiredTech": "Rifling",
 	"upgradesTo": "Great War Infantry",
-	"promotions": ["[Abambowa] ability"] // <upon ending a turn in a [pillaged] tile>
+	"civilopediaText": [ {"text": "The guards to the kabaka, the king of Buganda, the Abambowa are an elite group of warriors and caretakers, close to the heart of Gandan rule. Ganda's kingship has a dual nature: a sacred monarchy is represented by regalia while other sources of divine power have their emissary (the word kabaka means emissary) in the body of an individual. The king’s body is sacrosanct, and outsiders are generally not permitted near them, so the Abambowa are a line of defense between the world and the monarchy. Abambowa adhere to a strict code of conduct, abstaining from food and drink before their shifts so they will not have to use the toilet on duty. More to the point, they are equipped with a set of ceremonial equipment: a spear (now a gun), a shield, a machete, and a length of rope for securing potential captives."}],
+	"promotions": ["[Abambowa] ability"]
     },
 
 	{
@@ -593,6 +613,7 @@
 	"cost": 225,
 	"movement": 2,
 	"uniques": ["[+50]% Strength <when adjacent to a [Great General] unit>"],
+	"civilopediaText": [ {"text": "Napoleon’s elite troops formed the Garde Impériale, or Imperial Guard, which was under his direct command. The Imperial Guard was not a particular troop class, but represented the best of the infantry, cavalry, and artillery available to the French army; this included dragoons, grenadiers, and even mamluks from Napoleon’s Arabian possessions. In total, the Imperial Guard numbered somewhere between the low thousands to 100,000 men. The Old Guard, or 'grognards' (grumblers), were Napoleon’s favorites, but the Garde Impériale ceased when Napoleon’s empire fell and their leader was sent into exile."}],
 	"upgradesTo": "Great War Infantry",
 	"requiredTech": "Rifling",
 	"obsolete": "Replaceable Parts"
@@ -611,6 +632,7 @@
         "upgradesTo": "Destroyer",
         "uniques": ["[+33]% Strength <vs cities>", "Double movement in [Coast]"],
 		"promotions": ["[Mikasa] ability"],
+		"civilopediaText": [ {"text": "Japan’s industrialization was meteoric. In 1867, Edo Japan was a prosperous but isolated society, shunning foreign influence in favor of its own order. In the following years, the Meiji regime launched an ambitious plan to shape Japan into one of the world’s leading industrial, and colonial, powers. Modernizing Japan’s military was an essential goal, and the development of warships that could compete with those of the West was key. \nDuring the Russo-Japanese War of 1904-5, a pre-dreadnaught battleship called the Mikasa was the flagship of the imperial fleet. She was constructed in the United Kingdom, housed nearly a thousand crew members, sported four 40-caliber twelve-inch guns, and featured an array of smaller armament. The Mikasa sank when her magazine exploded after the end of the conflict, but she was refloated the following year and continued to serve in subsequent wars until decommissioned in 1923."}],
         "attackSound": "shipguns"
     },
 
@@ -625,6 +647,7 @@
 	"obsolete": "Replaceable Parts",
 	"requiredTech": "Rifling",
 	"upgradesTo": "Great War Infantry",
+	"civilopediaText": [ {"text": "The Mexican Revolution was a decade-long conflict between multiple power groups, beginning with the collapse of the dictatorship of Porfirio Díaz. In 1911, Díaz had jailed a prominent opponent, a wealthy landowner from the north of Mexico who had launched a rebellion against Díaz and his 'Porfiriato' – and won. This sparked a series of rebellions, reactions, coups, and attempted coups that eventually settled into a period of stability that has lasted from 1920 to the present day. \nFemale soldiers and army attendants, or soldaderas, played a key role in these conflicts. These varied across different armies and theaters of the revolution, from bands of female soldiers to camp followers to the wives and children of soldiers, thus increasing cohesion – and the humaneness – of soldiers in a chaotic battlefield. Famous soldaderas of the southern revolutionaries included Petra Herrera (a soldier in Pancho Villa’s army) and Ángela Jiménez (a master of demolitions)."}],
 	"promotions": ["[Soldaderas] ability"] // +10 health for adjacent units
     },
 
@@ -639,6 +662,7 @@
 	"requiredTech": "Rifling",
 	"obsolete": "Plastics",
 	"upgradesTo": "Great War Infantry",
+	"civilopediaText": [ {"text": "The name 'sepoy' initially referred to infantrymen in the Mughal Empire, armed with muskets and daggers, but through usage by the British East India Company, the term came to broadly refer to Indian soldiers under its employ. Sepoys were generally of low rank but were well-paid and trained in the arms they used. \nIn 1857, numerous sepoys (and other Indians) rose against the British East India Company. This rebellion came about as the Company sought to expand its ranks – local recruits vastly outnumbered the British, and the Company had largely recruited from upper-caste and well-remunerated locals (especially from Bengal). Integrating these units proved costly as higher-caste sepoys were granted separate dining facilities and exemption from fighting far from home. As the Company began to falter, it revoked many of these privileges and leaned on local troops. As missionaries became more and more visible, rumors abounded that the British were out to undermine Indian religion, both Hindu and Muslim. Finally, more rumors arose that the new Enfield rifle had charges laced with animal fat, which seemed to confirm the Company’s hostility to local beliefs. \nIn the wake of the rebellion, Britain took direct control over the Company’s possessions, citing mismanagement of public opinion as well as the exploitation of India for profit (but those practices didn't change much under the new regime)."}],
 	"promotions": ["[Sepoy] ability", "Besiege"]
     },
 
@@ -650,6 +674,7 @@
 	"strength": 80,
 	"cost": 400,
 	"movement": 3,
+	"civilopediaText": [ {"text": "The name 'Gurkha' in its origin simply refers to the Gorkha Kingdom, one of the progenitors of the modern-day Nepalese state, but in the later 19th and early 20th centuries, the term has come to refer to Nepalese fighters contracted out to fight for other states. Most notably, this was the British – after the Anglo-Nepalese war, the British noted the loyalty and ferocity of Nepali fighters, and formed battalions of Gurkha who were willing to fight for the British. And fight they did – the Gurkhas fought for the British in the Indian Rebellion of 1857, World War I, and World War II. After Indian independence, Gurkhas continued to fight for the British, but many of them entered Indian service. \nThe most iconic symbol of the Gurkha is their kukri knife – a heavy, forward-curving blade that serves as a machete as well as a weapon."}],
 	"upgradesTo": "Mechanized Infantry",
 	"requiredTech": "Plastics",
 	"obsolete": "Mobile Tactics"
@@ -667,6 +692,7 @@
 	"requiredTech": "Military Science",
 	"upgradesTo": "Landship",
 	"uniques":["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>"],
+	"civilopediaText": [ {"text": "Friedrich the Great is famous for thinking holistically about battle. Rows of soldiers positioned to withstand enemy fire are well and good, but those warriors must first travel to the front lines and their morale depends on a full belly as much as an inspirational speech. As the Prussians understood, logistics are key to victory – and destroying the enemy’s plans is equally important. Hussars were lightly armored rapid cavalry bearing pistols, sabers, and lances, and they were masters of disrupting enemies through raids. \nAs befits their swashbuckling image, hussars were often dressed in elaborate uniforms. The Prussian hussars sported a skull and crossbones motif – an image that would later be re-used in the German empire to terrifying effect. Friedrich formed the first of these regiments, dressed all in black, and this uniform was in use throughout the Napoleonic Wars and into the trenches of World War I."}],
 	"requiredResource": "Horses",
 	"promotions": ["[Prussian Hussar] ability"]
     },
@@ -683,6 +709,7 @@
         "cost": 375,
         "requiredTech": "Radar",
 		"uniques":["[+25]% Strength <vs [Land] units>"],
+		 "civilopediaText": [ {"text": "The German Junkers Ju 87 or 'Stuka' was a ground-attack aircraft deployed in World War II, and was primarily used to disrupt shipping during the first few years of the conflict. The Stuka was designed to drop bombs as it dove toward the ground at an incredible velocity; it even included automatic recovery systems in case the pilot blacked out. Imagine the shock of a Stuka strike – its sirens blaring as it descends hundreds of feet in seconds, pulling away at the last minute. It would have been a terrifying strike for both pilot and target alike. \nThat steep, precipitous drop revealed a vulnerability within the Stuka design. Heavy bombers flew at a high altitude with a contingent of protective fighters; what they lacked in accuracy they made up for in relative pilot safety. However, hitting specific targets forced pilots to leave this formation and rendered them vulnerable to the increasingly sophisticated fighters of the era. By the end of the war, the era of dogfighting and dive-bombing was replaced by rockets and remote artillery – ominous signs for the ICBM arms race to come."}],
         "requiredResource": "Oil",
         "upgradesTo": "Stealth Bomber",
         "attackSound": "bombing"
@@ -702,6 +729,7 @@
 		"upgradesTo": "Landship",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
 		"promotions": ["[Gholām] ability"],
+		"civilopediaText": [ {"text": "Emerging from the tradition of the Mamluks in the Abbasid Empire, gholāms were initially Turkish slave soldiers, first appearing in records during the Saffarid dynasty in the ninth century. Slavery was phased out under the Qajar centuries later, but gholāms remained a prominent, respected, and feared component of the 19th century Iranian army, particularly in their role as the royal bodyguard. They were divided into two units. The gholām-shāh were exclusively cavalrymen; they were the highest paid soldiers in the Qajar army, making more than six times more than the average soldier. The gholām-tofangchis ranked below the gholām-shāh, and fought on horseback and on foot wielding long rifles. \nThe gholāms remained Iran’s most elite soldiers until they were replaced by the Persian Cossack Brigade in 1879."}],
 		"attackSound": "horse"
 	},
 
@@ -716,7 +744,8 @@
 	"requiredTech": "Rifling",
 	"upgradesTo": "Great War Infantry",
 	"obsolete": "Replacable Parts",
-	"promotions": ["[Gusa] ability"] // [+10]% Strength <when adjacent to a [Gusa] unit>//
+	"civilopediaText": [ {"text": "Numbers can be misleading. The Qing's so-called Eight Banners (or 'gusa') were actually twenty-four: eight for each of the Manchu, Han, and Mongol cohorts. Scholars estimate that a single gusa comprised about 18,000 troops and their families, but exact numbers remain unknown as records were kept hidden, likely for security reasons. \nThe gusa were more than military entities and represented an entire segment of Qing society, maintaining their own social and administrative customs. Membership in the gusa was hereditary, and service to one of the Eight Banners dictated one's ethnicity – for instance, a large group of Han bannermen transferred to the Manchu ranks became Manchu. \nThough modernization and westernization eventually rendered the gusa obsolete, for a time they were the might and pride of the Qing."}],
+	"promotions": ["[Gusa] ability"]
     },
 
 	{
@@ -732,8 +761,9 @@
         "requiredTech": "Dynamite",
         "upgradesTo": "Rocket Artillery",
         "obsoleteTech": "Rocketry",
-        "uniques": ["[+200]% Strength <vs cities> <when attacking>", "[+100]% Strength <vs [Land] units> <when attacking>", "No defensive terrain bonus", "Must set up to ranged attack", "[-1] Sight", "Never appears as a Barbarian unit" ],
+        "uniques": ["[+200]% Strength <vs cities> <when attacking>", "[+100]% Strength <vs [Land] units> <when attacking>", "No defensive terrain bonus", "Must set up to ranged attack", "[-1] Sight"],
         "promotions": ["Indirect Fire"],
+		"civilopediaText": [ {"text": "Long-range artillery has a few inherent problems. Over long distances, rockets run a very real chance of missing their target (without modern guidance systems). The Soviet solution to this problem was simple – why fire one rocket when you can fire 48? The Katyusha was a system of rails mounted on the back of a truck and loaded with rockets that could be fired in a single horrific salvo. While the Katyusha took more time to reload, its series of launchers could obliterate its target – and anything remotely close to it. \nGerman and Finnish troops referred to the Katyusha as 'Stalin’s organ', which wasn't a reference to the rocket’s shape, but to the howl the missiles made as they were fired, an unearthly, siren-like whistle that preceded a hellish bombardment. Katyusha systems remain in use in Africa and the Middle East."}],
         "attackSound": "missile"
     },
 
@@ -751,6 +781,7 @@
         "upgradesTo": "Machine Gun",
         "obsoleteTech": "Ballistics",
         "uniques": ["Can move after attacking"],
+		"civilopediaText": [ {"text": "During the medieval and early modern periods, a Siamese war elephant (a yuthahathi) was a royal steed, intended to carry knights and lords into pike duels with other kings. However, after the advent of guns, the elephant became a tank. Rather than using the archaic term 'Yuthahathi', we have translated 'Machine gun elephant' as simply 'Gun [carrying] elephant', or 'Chang Beun'. \nHowdah-mounted swivel guns, weighing 50-100kg, were a feature of the Thai/Burmese wars of the early modern era. Elephants retained some advantage over motorized tanks, as they could move more quietly through jungle and across rivers. These massive animals could also withstand bullets that horses and other living mounts could not. As such, they were deployed in conflicts that required mobility across difficult terrain, such as the Haw Wars (1865-1890)."}],
         "hurryCostModifier": 20,
         "attackSound": "elephant"
     }
