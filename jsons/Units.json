@@ -233,7 +233,7 @@
 		"movement": 2,
 		"strength": 5,
 		"cost": 25,
-		"uniques": ["Comment [May enter [Ocean] tiles after discovering [Optics]]", "May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
+		"uniques": ["Comment [May enter [Ocean] tiles after discovering [Optics]]", "May upgrade to [Archer] through ruins-like effects"],
 		"promotions": ["Ignore terrain cost", "[Tehina] ability"],
 		"civilopediaText": [ {"text": "Tongan society was a complex network of rank and status dependent on sibling and marriage relationships. Polygamy and divorce were common, so kinship lines could result in heavy competition for land and influence. A tehina, or 'younger brother', was often such a man, possibly an actual brother but perhaps a cousin or other close kinsman. The Tu'i Tonga would send these men out to other islands with the task to find a wife, marry into the local governance structure, and absorb the territory into the greater range of the Tu'i Tonga's rule. The chief would supply the tehina with the ships and warriors possibly needed for the expedition, but it was up to the tehina himself to acquire a wife of high rank and build a network of support in the new area. \nA successful tehina would wrap his new territory into the system of 'inasi, or 'tribute', that bound the Tongan maritime empire together. As a new de facto chief, his subjects were responsible for providing a portion of the land's product to him, and from him, on to the Tu'i Tonga in the center. In this way, the periphery continually expanded, and the network of kinship and exchange bound the center to the outward islands in what was a stable and lasting arrangement."}, {"separator": true}],
 		"attackSound": "nonmetalhit"
@@ -349,7 +349,7 @@
 		"cost": 100,
 		"requiredTech": "Metal Casting",
 		"upgradesTo": "Ironclad",
-		"obsoleteTech": "Combustion",
+		"obsoleteTech": "Steam Power",
 		"uniques": ["[+1] Sight", "Withdraws before melee combat <with [80]% chance>", "Comment [Unlocked earlier at [Metal Casting] vs [Astronomy]]"],
 		"promotions": ["[Víkingr] ability"],
 		"civilopediaText": [ {"text": "The most famous aspect of Icelandic, and more broadly Norse, society is of course the Viking phenomenon. The Vikings (Old Norse víkingar) were the young warriors who sailed abroad each spring to raid the coasts and rivers of, predominantly, Europe. Their attacks were swift and brutal, and were made possible by the technology of their longships. These vessels were low and built around a flexible keel – thus the ship was shallow enough to navigate up rivers and malleable enough to brave the choppy waters of the North Atlantic. Before the longships, there were no warships in Europe that could access rivers, and so these waterways were not well-guarded, instead functioning as natural barriers. The Vikings took advantage of the low security, arriving at dawn to pull their ships up on the shores, rapidly raiding and pillaging before departing a few hours later, faster than the local lord could muster forces in response. \nViking raids served two key functions within Norse society. The primary currency required for social mobility was honor, which could be reliably earned through martial success. Young men raiding during the summers between their mid-teens and mid-twenties could rack up many victories during that time, particularly against defenseless monks and surprised villagers. This was a quick and easy way of earning honor, though it could be obtained in other ways, such as serving as a mercenary or, for those who didn’t leave home, becoming a lawyer and winning the verbal battles of lawsuits. \nRaids also enriched the Vikings, not only through money but, more importantly, through rare objects of great value. The North was not home to many valuable resources, but the social fabric of Norse society relied on gift-giving. Viking raids were critical sources of rare and unusual objects , and by the time he retired, a young Viking had ideally built a stockpile of valuable gifts from which he could pull for the rest of his life when he needed to establish or strengthen an alliance. For those who didn’t go raiding, other types of gifts included hosting a feast for someone, composing a poem about them, or crafting some kind of item with one’s own hand."}, {"separator": true}],
@@ -533,7 +533,8 @@
 	"movement": 2,
 	"uniques": ["[+50]% Strength <vs [Mounted] units>"],
 	"civilopediaText": [ {"text": "Songhai was a highly effective conquest-oriented empire in the Sahel region of West Africa. It took over territory from the Malian Empire and formed a key node in Muslim networks spanning the Sahara. The Songhai military was based around several axes: a riverine navy, a cavalry, and a highly-trained infantry known for the gold bangles they wore on their arms. \nThis reliance on medieval warfare based around swords and lances was their undoing. Even by the time of Askia the Great, in 1493, the tides were turning. Guns had entered the battlefield, so it was only a matter of time before a foreign force realized that Songhai lands were ripe for the taking. In 1591, Morocco delivered this blow, and the better-equipped Arab forces seized control of Songhai’s salt and gold resources."}, {"separator": true}],
-	"requiredTech": "Gunpowder",
+	"requiredTech": "Civil Service",
+	"obsoleteTech": "Metallurgy",
 	"upgradesTo": "Lancer",
 	"promotions": ["[Golden Bangles] ability"]
     },
@@ -547,6 +548,7 @@
 	"cost": 150,
 	"movement": 2,
 	"requiredTech": "Gunpowder",
+	"obsoleteTech": "Rifling",
 	"upgradesTo": "Rifleman",
 	"civilopediaText": [ {"text": "Guns did not immediately sweep away the era of swords, spears, and bows. Instead, early firearms, such as the arquebus, were incorporated into existing units. Though more effective than a crossbow or arbalest, they were also slow and expensive, and arquebusiers needed protection from cavalry. The Spanish created the tercio, a unit comprised of pikemen and arquebusiers, and arranged so that arquebusiers – protected by flanking pikemen – could fire and then move to a safe place to reload. While slow, it was an effective battle formation and proved extremely effective in the wars of the 16th century. As the faster flintlock musket overtook the matchlock, and the age of pikes came to an end, the tercio eventually gave way to the classic line infantry of the 18th and 19th centuries."}, {"separator": true}],
 	"promotions": ["[Castilian Tercio] ability"]
@@ -564,6 +566,7 @@
 		"[1] Movement point cost to disembark", "[1] Movement point cost to embark", "Comment [Unlocked Earlier at [Electronics] vs [Pharmaceuticals]]"],
 	"civilopediaText": [ {"text": "Put simply, marines are land combat units deployed at sea for use in amphibious invasions (or to seize other ships). Until large cannons were deployed on ships, most naval combat was performed by the ancient equivalent of marines – navy ships from Rome to Majapahit to the Chola would close in on their enemy, and soldiers would attempt to board and capture the other vessel. In this sense, ships are merely a means of transport; later innovations in naval technology were needed for ship-to-ship combat (Greek fire and other such weapons were outliers). \nHowever, marines are not simply ship-to-ship fighters. They became vital as an advance force for major wars, especially those overseas where forces could establish a foothold on an enemy coast and pave the way for a larger army invasion. In World War II, the United States Marine Corps was crucial in securing sites in battles such as Normandy and Iwo Jima. These kinds of invasions were especially crucial when air power entered the picture – a rapid, amphibious force can seize an airfield, which in turn offers support for a greater advance."}, {"separator": true}],
 	"requiredTech": "Electronics",
+	"obsoleteTech": "Mobile Tactics",
 	"promotions": ["Amphibious"]
     },
 
@@ -579,7 +582,6 @@
         "cost": 375,
         "requiredResource": "Oil",
         "requiredTech": "Electronics",
-        "upgradesTo": "Missile Cruiser",
         "uniques": ["Never appears as a Barbarian unit","[-25]% Strength for enemy [Military] units in adjacent [All] tiles"],
         "promotions": ["Indirect Fire"],
 		"civilopediaText": [ {"text": "In the first years of the 20th century, as militaries began to embrace the destructive potential of mechanized warfare, dreadnoughts hit the water. These were ships that relied upon large long-range guns, and would both dominate naval battle in World War II and see their power superseded by aircraft in the same conflict. \nThe Revenge class of British warships had eight 15-inch guns mounted on four turrets, a secondary battery along the side of the ship, and platforms for early fighter and reconnaissance aircraft. They saw brief battle in World War I, but primarily saw service in the interwar years; by World War II they were eventually phased out in favor of more modern ships."}, {"separator": true}],
@@ -629,6 +631,7 @@
         "requiredTech": "Steam Power",
         "requiredResource": "Coal",
         "upgradesTo": "Destroyer",
+		"obsoleteTech": "Combustion",
         "uniques": ["[+33]% Strength <vs cities>", "Double movement in [Coast]"],
 		"promotions": ["[Mikasa] ability"],
 		"civilopediaText": [ {"text": "Japan’s industrialization was meteoric. In 1867, Edo Japan was a prosperous but isolated society, shunning foreign influence in favor of its own order. In the following years, the Meiji regime launched an ambitious plan to shape Japan into one of the world’s leading industrial, and colonial, powers. Modernizing Japan’s military was an essential goal, and the development of warships that could compete with those of the West was key. \nDuring the Russo-Japanese War of 1904-5, a pre-dreadnaught battleship called the Mikasa was the flagship of the imperial fleet. She was constructed in the United Kingdom, housed nearly a thousand crew members, sported four 40-caliber twelve-inch guns, and featured an array of smaller armament. The Mikasa sank when her magazine exploded after the end of the conflict, but she was refloated the following year and continued to serve in subsequent wars until decommissioned in 1923."}, {"separator": true}],
