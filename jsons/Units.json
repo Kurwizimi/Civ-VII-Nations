@@ -676,6 +676,7 @@
 	"strength": 80,
 	"cost": 400,
 	"movement": 3,
+	"uniques":["Comment [Gain 10 Influence when gifting this unit to a City-State]"],
 	"civilopediaText": [ {"text": "The name 'Gurkha' in its origin simply refers to the Gorkha Kingdom, one of the progenitors of the modern-day Nepalese state, but in the later 19th and early 20th centuries, the term has come to refer to Nepalese fighters contracted out to fight for other states. Most notably, this was the British – after the Anglo-Nepalese war, the British noted the loyalty and ferocity of Nepali fighters, and formed battalions of Gurkha who were willing to fight for the British. And fight they did – the Gurkhas fought for the British in the Indian Rebellion of 1857, World War I, and World War II. After Indian independence, Gurkhas continued to fight for the British, but many of them entered Indian service. \nThe most iconic symbol of the Gurkha is their kukri knife – a heavy, forward-curving blade that serves as a machete as well as a weapon."}, {"separator": true}],
 	"upgradesTo": "Mechanized Infantry",
 	"requiredTech": "Plastics",
