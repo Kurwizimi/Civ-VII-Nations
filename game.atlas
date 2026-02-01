@@ -788,6 +788,20 @@ TileSets/AbsoluteUnits/Units/Soldaderas
   orig: 96, 96
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/Vikingr
+  rotate: false
+  xy: 1462, 298
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Vikingr-1
+  rotate: false
+  xy: 1108, 12
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
 TileSets/AbsoluteUnits/Units/Voi Chiến
   rotate: false
   xy: 1576, 924
@@ -916,14 +930,14 @@ TileSets/HexaRealm/Tiles/Stepwell
   index: -1
 TileSets/HexaRealm/Tiles/Water Puppet Theater
   rotate: false
-  xy: 1462, 289
+  xy: 1534, 303
   size: 64, 65
   orig: 64, 65
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Örtöö
   rotate: false
-  xy: 1534, 303
+  xy: 1606, 303
   size: 64, 65
   orig: 64, 65
   offset: 0, 0
