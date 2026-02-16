@@ -227,7 +227,7 @@
 
 	{
 		"name": "Tehina",
-		"replaces": "Scout"
+		"replaces": "Scout",
 		"uniqueTo": "Tonga",
 		"unitType": "Scout",
 		"movement": 2,
@@ -242,7 +242,7 @@
 	{
 		"name": "Kalia",
 		"unitType": "Melee Water",
-		"replaces": "Trireme"
+		"replaces": "Trireme",
 		"uniqueTo": "Tonga",
 		"movement": 4,
 		"strength": 10,
@@ -406,8 +406,11 @@
 	"upgradesTo": "Musketman",
 	"obsoleteTech": "Gunpowder",
 	"uniques": ["Can transform to [Xunleichong (Ranged)]", "Can transform to [Xunleichong (Anti-Mounted)]"],
-	"promotions": ["Shock I"]
-	"civilopediaText": [ {"text": "The Ming Dynasty oversaw a revolution in battlefield tactics. Gunpowder, though long present in China, was being used for experimental weaponry, and Zhao Shi Zhen was a master experimenter. One of his creations was the 'quick thunder gun', or xunleichong: a machine gun, shield, and spear all in one. Five matchlock barrels protruded through a shield, providing the gunner some cover, while a detachable axe (for close-quarter fighting) served as a gun rest. When reversed, the apparatus could be used as a spear, thus the xunleichong was a ranged, melee, and anti-cavalry armament all at once. \nWas it practical? Was it ever deployed en masse? No, and no. But it remains a testament to experimentation and imagination, an attempt to provide new means to deal damage on the battlefield, taking the best advantage of new possibilities."}, {"separator": true}],
+	"promotions": ["Shock I"],
+	"civilopediaText": [
+		{ "text": "The Ming Dynasty oversaw a revolution in battlefield tactics. Gunpowder, though long present in China, was being used for experimental weaponry, and Zhao Shi Zhen was a master experimenter. One of his creations was the 'quick thunder gun', or xunleichong: a machine gun, shield, and spear all in one. Five matchlock barrels protruded through a shield, providing the gunner some cover, while a detachable axe (for close-quarter fighting) served as a gun rest. When reversed, the apparatus could be used as a spear, thus the xunleichong was a ranged, melee, and anti-cavalry armament all at once. \nWas it practical? Was it ever deployed en masse? No, and no. But it remains a testament to experimentation and imagination, an attempt to provide new means to deal damage on the battlefield, taking the best advantage of new possibilities." },
+		{ "separator": true }
+	]
    },
 
 	{
