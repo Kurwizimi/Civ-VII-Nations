@@ -613,10 +613,10 @@
   {
       "name": "Gunnar Hámundarson",
       "culture": 9,
-      "faith": 9,
+      "faith": 8,
       "food": 5,
-      "gold": 9,
-      "happiness": 2,
+      "gold": 6,
+      "happiness": 7,
       "production": 6,
       "science": 3,
     
@@ -625,7 +625,7 @@
       "declareWar": 7,
       "commerce": 9,
       "diplomacy": 8,
-      "loyal": 2,
+      "loyal": 3,
       "expansion": 8,
 
       "priorities": {
@@ -752,7 +752,7 @@
       "aggressive": 9,
       "declareWar": 9,
       "commerce": 3,
-      "diplomacy": 4,
+      "diplomacy": 5,
       "loyal": 9,
       "expansion": 9,
 
