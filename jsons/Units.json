@@ -494,19 +494,19 @@
 
 	{
 		"name": "Buccaneer",
-		"unitType": "Civilian",
+		"unitType": "Civilian Water",
 		"replaces": "Great Admiral",
 		"uniqueTo": "The Republic of Pirates",
 		"uniques": [
             // TODO: "[Every adjacent [{Friendly} {Water}] unit] heals [100] HP <by consuming this unit>",
             "May Paradrop to [{your} {Coastal} {City center}] tiles up to [25] tiles away <in [City center] tiles>", // Change Port
             "[+15]% Strength bonus for [{Military} {Water}] units within [2] tiles",
-			"[+10]% Strength bonus for [Military] units within [2] tiles <during a Golden Age>",
+			"[+10]% Strength bonus for [Military] units within [3] tiles <during a Golden Age>",
+			"Free [Settler] appears <once>",
 			"Can be earned through combat <for [Water] units>",
             "Is part of Great Person group [Admiral]",
 			"[This Unit] gets a name from the [Buccaneer] group",
-            "Great Person - [War]", "Unbuildable", "Uncapturable",
-		"Founds a new city <once>"],
+            "Great Person - [War]", "Unbuildable", "Uncapturable"],
 		"civilopediaText": [ {"text": "A buccaneer is a general term for a pirate, but the word itself has an etymology that extends beyond. In the 17th century, as livestock from colonial settlements escaped and grew feral, Hispaniola gained a population of wild pigs – and some settlers, too, escaped and grew feral. These outlaws were named 'buccaneers', after the Arawak word (buccan) for a meat-grilling stand. By the time that more Europeans had arrived in the area, the word had come to mean anyone living off of brigandry and piracy – especially as colonial authorities tried to eradicate these lawless individuals and their feral prey and many sought employment and gain by plunder."}, {"separator": true}],
 		"movement": 4
 	},
