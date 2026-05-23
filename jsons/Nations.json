@@ -144,7 +144,7 @@
 
 	{
 		"name": "Hellas",
-		"leaderName": "Xenophon",
+		"leaderName": "Aléxandros",
 		"adjective": ["Greek"],
 		"startBias": ["Grassland", "Hill"],
 		"preferredVictoryType": "Diplomatic",
@@ -152,16 +152,16 @@
 		"startIntroPart1": "The people gather together, debating music and politics, poetry and law--envisioning how to build a Greece that will last for ages. \nThe city-states of Hellas were a constellation of powers, each with a rich history – militaristic Sparta, intellectual Athens, wealthy Corinth, far-off Syracuse. Fractious in their alliances, they were briefly united only once, under Alexander of Macedon. Though subsumed into the Roman Empire, the Greek cities influenced Roman religion and thought, the math and science of the Islamic Golden Age, and even the founding ideas of American democracy.",
 		"startIntroPart2": "",
 		
-		"declaringWar": "The Ten Thousand that follow me shall ravage your lands!",
-		"attacked": "You really think you can outsmart me? No one shall devise such knowledge to surpass my genius!",
-		"defeated": "How can you beat my knowledge of the battlefield? ....If you are truely a better general, philosopher and leader than I am, ...then you are the true ruler of the Greeks, not me.",
-		"introduction": "I am Xenophon, leader of the Ten Thousand, and protector of all Greek states.",
+		"declaringWar": "I am conquering the world. You are part of the world.",
+		"attacked": "Excellent! Enemies who strike first fall all the faster.",
+		"defeated": "I had such plans! Now the world will have no hero",
+		"introduction": "Greetings, my soon-to-be subject! You can bow or not, whichever is your preference.",
 		
-		"neutralHello": "Hello, brave leader!",
-		"hateHello": "Scoudrel!",
-		"tradeRequest": "My friend, would you kindly accept this offer?",
-		"denounced": "Really? Have you not seen the might of my armies? Do you really want to test your luck against me?",
-		"declaringfriendship": "It takes a lot of effort top convince thousands to become friendly, but I believe you, my friend, just managed to do that.",
+		"neutralHello": "What can your leige do for you, my loyal subject!",
+		"hateHello": "Here to gift me your lands?",
+		"tradeRequest": "As your soon-to-be leige, I give you this gift.",
+		"denounced": "Where did you come up with that insult? On the krepis?",
+		"declaringfriendship": "One day, the Muses will sing of me - godlike Alexander, and you - his loyal subject.",
 
 		"spyNames": ["Agapetos","Chloe","Demokritos","Hypatia","Heracleitos","Ligeia","Nereus","Pelagia","Sosigenes","Xanthe"],
 
