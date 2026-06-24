@@ -208,6 +208,37 @@
 			"Nánzhèng","Yè","Didao","Panyu"],
 	},
 	{
+		"name": "Heian",
+		"leaderName": "",
+		"adjective": ["Heian"],
+		"startBias": ["River", "Forest", "Mountain"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"hateHello": "",
+		"tradeRequest": "",
+		"denounced": "",
+		"declaringfriendship": "",
+
+		"spyNames": ["","","","","","","","","",""],
+
+		"outerColor": [255,255,20],
+		"innerColor": [25,120,25],
+		"uniqueName": "Pure Land",
+		"uniques": [],
+		"cities": ["Aksum","Adulis","Matara","Lalibela","Saba","Koloe","Qohayto","Maste","Tekondo","Zala-Bet-Makeda",
+			"Etchmara","Gulo-Makeda","Haghero-Deragweh","Dergouah","Henzat","Ham","Anza","Hawzien","Degum","Chergos Agula",
+			"Nazret","Yeha","Aden","Hehzat"]
+	},
+	{
 		"name": "Khmer",
 		"leaderName": "Jayavarman II",
 		"adjective": ["Khmer"],
