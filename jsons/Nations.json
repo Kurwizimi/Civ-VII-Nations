@@ -230,8 +230,8 @@
 
 		"spyNames": ["","","","","","","","","",""],
 
-		"outerColor": [255,255,20],
-		"innerColor": [25,120,25],
+		"outerColor": [0,42,108],
+		"innerColor": [116,165,243],
 		"uniqueName": "Pure Land",
 		"uniques": [],
 		"cities": ["Aksum","Adulis","Matara","Lalibela","Saba","Koloe","Qohayto","Maste","Tekondo","Zala-Bet-Makeda",
@@ -931,6 +931,38 @@
 		"cities": ["Nassau","Port Royal","Tortuga","Providence","Port-au-Prince","Charlotte Amalie","Newport","Havana","San Juan","Santo Domingo",
 			"Road Town","New Haven","Petit-Goâve","Île Sainte-Marie","Umhaille","Fort Saint Louis","Brigdetown","Île-à-Vache","Ocracoke","Eleuthera",
 			"St John's","Portobelo","Campeche","St George's"],
+	},
+
+	{
+		"name": "Sengoku Japan",
+		"leaderName": "Toyotomi Hideyoshi",
+		"adjective": ["Toyotomi"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"hateHello": "",
+		"tradeRequest": "",
+		"denounced": "",
+		"declaringfriendship": "",
+
+		"spyNames": ["","","","","","","","","",""],
+
+		"outerColor": [50,50,50],
+		"innerColor": [247,216,1],
+		"uniqueName": "Shogunate",
+		"uniques": [],
+		"cities": ["Aksum","Adulis","Matara","Lalibela","Saba","Koloe","Qohayto","Maste","Tekondo","Zala-Bet-Makeda",
+			"Etchmara","Gulo-Makeda","Haghero-Deragweh","Dergouah","Henzat","Ham","Anza","Hawzien","Degum","Chergos Agula",
+			"Nazret","Yeha","Aden","Hehzat"]
 	},
 
 	{
