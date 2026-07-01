@@ -7,7 +7,7 @@
 		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "The African coast of the Red Sea was the domain of Aksum, named by the prophet Mani as one of the four key powers of the ancient world. For most of the first millennium CE, Aksumite merchants bore ivory, gold, spices and other goods from the African interior to India, Persia, and the Mediterranean. Yet these trade routes planted the seeds of Aksum’s fall – when the Arab caliphates took over the Silk Road, Aksum was isolated and fell into decline.",
-		"startIntroPart2": "Great Queen Makeda, your rule has been remembered for a thousand years and more, by being in the Court of Solomon. You have converted your people to the light of Christianity, and from then on your nation remained a bastion of faith and piety since. But now your people are scattered and impoverished, as the trade that once fed your nation has dried up. Can you help your people regain their former wealth and power? Can you build a civilization that will stand the test of time?",
+		"startIntroPart2": "Great Queen Makeda, your rule has been remembered for a thousand years and more, by being in the Court of Solomon. You have converted your people to the light of Christianity, and from then on your nation remained a bastion of faith and piety since. But now your people are scattered and impoverished, as the trade that once fed your nation has dried up. Can you help your people regain their former wealth and power? Can you spread the wisdom of Solomon accross distant shores once more? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "You have tourtued your people long enough! I shall liberate your people from your oppressive rule!",
 		"attacked": "I knew this was coming, the beliefs that you constantly spew at others made clear of your intentions.",
@@ -182,7 +182,7 @@
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "The Han were not the first of China’s ancient dynasties, but were its grandest. From Liu Bang’s rebellion against the iron-fisted Qin came a balance between centralized authority and Confucian meritocracy, and a wave of innovation in statecraft, philosophy, and science. With an army of shi dafu, scholar-bureaucrats, at home, and an army of chariots, heavy infantry, and crossbows abroad, for four hundred years the Han held the Mandate of Heaven.",
-		"startIntroPart2": "Oh Xuan Emperor! You have suffered greatly when your Great Grandfather accused your family of witchraft, resulting in your parents being killed when you were a child. By living with the common people, you began to understand their struggles and sacrifices, so when you successfully regained control of the throne, you led a reign of sympathy and progress. But now the Han have far passed their golden age. Can you unify your people under a corruption-free rule? Can you build a civilization that will stand the test of time?",
+		"startIntroPart2": "Oh Xuan Emperor! You have suffered greatly when your Great Grandfather accused your family of witchraft, resulting in your parents being killed when you were a child. By living with the common people, you began to understand their struggles and sacrifices, so when you successfully regained control of the throne, you led a reign of sympathy and progress. But now the Han have far passed their golden age. Can you unify your people under a corruption-free rule? Can you lead the Han to enlightnment once again? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "You are an incompetent ruler, taxing your poor to benefit the rich! I shall put an end to this at once!",
 		"attacked": "I have known many people who have wronged me in the past. This comes with no suprise.",
@@ -208,25 +208,25 @@
 			"Nánzhèng","Yè","Didao","Panyu"],
 	},
 	{
-		"name": "Heian",
-		"leaderName": "",
+		"name": "Heian Japan",
+		"leaderName": "Shirakawa",
 		"adjective": ["Heian"],
 		"startBias": ["River", "Forest", "Mountain"],
 		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "",
-		"startIntroPart2": "",
+		"startIntroPart1": "The court of Heian Japan is best seen by the light of the clouded moon. Its poets write of love and the seasons, sorrow and the beauty of the court life. Take up the poet's brush, and write in praise of shadow.",
+		"startIntroPart2": "Oh holy Sirakawa. You have ascended to the throne 1073 after the abdication of your father. During your reign, you witnessed the rise of Buddhism and the piety of the devouted accross your empire. So after the unfortunate death of your daughter, you abdicated the throne to live in seclusion in a monestary. But you didnt fully let go from the reigns of power, and thanks to your master puppeteering, you maintained effective contol over the enirety of Japan, forcing the next emperors to just be mouthpeices for your ideals. Now the Japanese call back to you. Can you create an empire of pristine beauty out of a world of dirt? Can you revive the cultured works of the past? Can you build a civilization that will stand the test of time?",
 		
-		"declaringWar": "",
-		"attacked": "",
-		"defeated": "",
-		"introduction": "",
+		"declaringWar": "Just because I rule from a monestary does not mean I do not know how to fight! ",
+		"attacked": "Your 'empire' is a blight on the worlds natural beauty. Let the Heian teach you how to actually rule!",
+		"defeated": "The charm of Japan has fallen to a scourge of filthy apes!",
+		"introduction": "It is a pleasure to see you. I am Sirakawa, and I welcome you the breathtaking lands of Heian.",
 		
-		"neutralHello": "",
-		"hateHello": "",
-		"tradeRequest": "",
-		"denounced": "",
-		"declaringfriendship": "",
+		"neutralHello": "Blessings to you.",
+		"hateHello": "Do you have to talk to me?",
+		"tradeRequest": "The beauty of our Lands shall decorate our Palaces!",
+		"denounced": "You think I care about your disgusting babble?!",
+		"declaringfriendship": "Only your empire can rival the beauty of mine! Shall we unite the sights of our empires?",
 
 		"spyNames": ["","","","","","","","","",""],
 
