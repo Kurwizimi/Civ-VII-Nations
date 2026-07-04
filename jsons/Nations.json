@@ -233,7 +233,9 @@
 		"outerColor": [0,42,108],
 		"innerColor": [116,165,243],
 		"uniqueName": "Pure Land",
-		"uniques": [],
+		"uniqueText": "+1 [Culture] from Land tiles adjacent to [Coast] or [Mountain]",
+		"uniques": ["[+1 Culture] from [Land] tiles [in all cities] <in tiles adjacent to [Mountain] tiles> <in tiles not adjacent to [Coast] tiles>",
+					"[+1 Culture] from [Land] tiles [in all cities] <in tiles adjacent to [Coast] tiles>"],
 		"cities": ["Aksum","Adulis","Matara","Lalibela","Saba","Koloe","Qohayto","Maste","Tekondo","Zala-Bet-Makeda",
 			"Etchmara","Gulo-Makeda","Haghero-Deragweh","Dergouah","Henzat","Ham","Anza","Hawzien","Degum","Chergos Agula",
 			"Nazret","Yeha","Aden","Hehzat"]
@@ -385,7 +387,7 @@
 		"introduction": "There is one head alone that sits at the center of the world, and it is mine.",
 		
 		"neutralHello": "Yes?",
-		"hateHello": "Under my hand, wherever there is conflict and chaos I strike it down. I will have peace, even amidst ashes.",
+		"hateHello": "Under my hand, wherever there is conflict and chaos I strike it down. I will have control, even amidst ashes.",
 		"tradeRequest": "Trade flows through my lands like water in a river. Would you like to sample some of our goods?",
 		"denounced": "Hmph. Words from uncivilised bandits don't mean anything to me.",
 		"declaringfriendship": "Shall we open the gates to our nations' friendship?",
@@ -419,9 +421,9 @@
 		"introduction": "I am Octavian, Augustus Caesar, a simple first citizen. And emperor of the world.",
 		
 		"neutralHello": "*Salve*, my good friend",
-		"hateHello": "Under my hand, wherever there is conflict and chaos I strike it down. I will have peace, even amidst ashes.",
+		"hateHello": "I have no interest in you barbarians.",
 		"tradeRequest": "May this trade turn your cities made of bricks to cities made of marble!",
-		"denounced": "Roma stands as tall as ever and shall tower over all your nation, regardless of what you think of it. ",
+		"denounced": "Roma stands as tall as ever and shall tower over all your nation, regardless of what you think of it.",
 		"declaringfriendship": "If you will it, shall we declare our friendship?",
 
 		"spyNames": ["Acacius","Chloris","Brutus","Eliana","Emidius","Herta","Jovilius","Laetitia","Sophus","Proserpina"],
@@ -449,13 +451,13 @@
 		"declaringWar": "Vile rats! Your backwater nation shall be destroyed!",
 		"attacked": "I expected nothing less from troglodytes like you.",
 		"defeated": "Peace and prosperity is the only way forwards. Your conquest has stunted humanity, but of course you don't care.",
-		"introduction": "I am Jindeok, Queen of Stilla. I hope for a fruitful relationship between our people.",
+		"introduction": "I am Jindeok, Queen of Silla. I hope for a fruitful relationship between our people.",
 		
 		"neutralHello": "I welcome you, Great Leader!",
 		"hateHello": "Is there anything I can do for you?",
 		"tradeRequest": "My friend, is this delegation beneficial to you?",
-		"denounced": "You have not turned yourself in opposition of Stilla, but in opposition of the entire civilised world!",
-		"declaringfriendship": "Shall I declare that you people is  friend of Silla to my people?",
+		"denounced": "You have not only turned yourself in opposition of Silla, but in opposition of the entire civilised world!",
+		"declaringfriendship": "Shall I declare that your people is friend of Silla to my people?",
 
 		"spyNames": ["Makdong","Geuru","Olmadae","Nana","Omadae","Noeul","Omidi","Miru","Madin","Mira"],
 
@@ -941,26 +943,28 @@
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "",
-		"startIntroPart2": "",
+		"startIntroPart2": "Toyotomi Hideyoshi, you have risen from farmer’s son to ruler. Though others may mock your station and your appearance, none dare do so to your face. Through sheer force of will, your rivals are forced back, and in their wake you extend your grasp. Kanpaku Hideyoshi, seize the moment, and raise your banner.",
 		
-		"declaringWar": "",
-		"attacked": "",
-		"defeated": "",
-		"introduction": "",
+		"declaringWar": "If you won't listen to me, so be it. Get cut down by my blade if you so wish",
+		"attacked": "Virtue is swift. Lets finish this!",
+		"defeated": "I have over-reached, like a monkey reaching for the moon.",
+		"introduction": "Those who called me monkey, who called me farmer's-son: they now call me lord!",
 		
-		"neutralHello": "",
-		"hateHello": "",
-		"tradeRequest": "",
-		"denounced": "",
-		"declaringfriendship": "",
+		"neutralHello": "Greetings.",
+		"hateHello": "Don't bore me with your presence.",
+		"tradeRequest": "What do you think of this deal, hmm?",
+		"denounced": "If you think you'll lose, you will lose. If you think you'll win, you will still lose!",
+		"declaringfriendship": "Today is a grand day! Let us draft this agreement together!",
 
 		"spyNames": ["","","","","","","","","",""],
 
 		"outerColor": [50,50,50],
 		"innerColor": [247,216,1],
 		"uniqueName": "Shogunate",
-		"uniques": [],
-		"cities": ["Aksum","Adulis","Matara","Lalibela","Saba","Koloe","Qohayto","Maste","Tekondo","Zala-Bet-Makeda",
+		"uniqueText":"Earn 75% of the damage done to Military units as [Science] and [Culture]\n+200% maintenance cost for [Science] and [Culture] buildings in all cities",
+		"uniques": ["Earn [75]% of the damage done to [Military] units as [Science]", "Earn [75]% of the damage done to [Military] units as [Culture]",
+					"[+200]% maintenance cost for [Science] buildings [in all cities]", "[+200]% maintenance cost for [Culture] buildings [in all cities]"],
+		"cities": ["Kyoto","Adulis","Matara","Lalibela","Saba","Koloe","Qohayto","Maste","Tekondo","Zala-Bet-Makeda",
 			"Etchmara","Gulo-Makeda","Haghero-Deragweh","Dergouah","Henzat","Ham","Anza","Hawzien","Degum","Chergos Agula",
 			"Nazret","Yeha","Aden","Hehzat"]
 	},
