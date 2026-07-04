@@ -20,6 +20,11 @@
         "uniques": ["[+20]% Strength <when adjacent to a [Wounded] unit>"]
     },
 
+        {
+        "name": "Mono no Aware",
+        "uniques": ["Can build [Jinja (Sea)] improvements on tiles"]
+    },
+        
          {
         "name": "[Yumi] ability",
         "uniques": ["[+25]% Strength <when above [2] movement>",
