@@ -6,7 +6,8 @@
        
        {
         "name": "[Medjay] ability",
-       "uniques": ["[+15]% Strength <when fighting in [Friendly Land] tiles>", "[+15]% Strength <when fighting in [City center] tiles>"]
+       "uniques": ["[+15]% Strength <when fighting in [Friendly Land] tiles>",
+                   "[+15]% Strength <when fighting in [City center] tiles>"]
     },
 
        {
@@ -17,6 +18,12 @@
        {
         "name": "[Han Chu-Ko-Nu] ability",
         "uniques": ["[+20]% Strength <when adjacent to a [Wounded] unit>"]
+    },
+
+         {
+        "name": "[Yumi] ability",
+        "uniques": ["[+25]% Strength <when above [2] movement>",
+                    "[+15]% Strength <when above [1] movement>"]
     },
         
         {
@@ -36,7 +43,7 @@
 
         {
         "name": "[Hwarang] ability",
-        "uniques": ["[+25]% Strength <vs cities> "]
+        "uniques": ["[+25]% Strength <vs cities>"]
     },
 
         {
@@ -102,6 +109,15 @@
         {
         "name": "[Chevaler] ability",
         "uniques": ["[+20]% Strength <vs [Sword] units>"]
+    },
+
+        {
+        "name": "Kabunakama I",
+        "uniques": ["Comment [1 unit defeated, 2 more units needed for upgrade]"]
+    },
+        {
+        "name": "Kabunakama II",
+        "uniques": ["Comment [2 units defeated, 1 more unit needed for upgrade]"]
     },
 
        {
