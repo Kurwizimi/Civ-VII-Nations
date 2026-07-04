@@ -22,6 +22,34 @@
         "civilopediaText": [ {"text": "Though its name suggests otherwise, the Great Wall of China is not a single wall. Its earliest sections were built between the seventh and third centuries BCE by warring kingdoms hoping to defend themselves against each other. The victorious Qin dynasty unified these states and destroyed the walls between them, but kept the structures along the northern borders. These segments were connected to defend against northern enemies. \nWith the rise of the Han dynasty in 202 BCE, diplomatic negotiations with the nomadic Xiongnu in the north soon erupted into war. In response, the Han strengthened and expanded the Qin walls, leveraging them as offensive structures to great success. Dotted with towers and forts, these walls created positions of strength in contested territories, claiming land and providing a defended route for supplies, communication, and trade. The walls were supplied by civilian and military farms and built largely using the rammed earth technique, in which soil is tightly compacted layer by layer between two vertical boards."}, {"separator": true}],
         "shortcutKey": "W"
     },
+     {
+        "name": "Jinja (Sea)",
+        "uniqueTo": "Heian Japan",
+        "terrainsCanBeBuiltOn": ["Coast"],
+        "turnsToBuild": 1,
+        "uniques": ["[+1 Culture] for each adjacent [Land]",
+                    "[+1 Happiness] <in cities with a major religion>",
+                    "Must be next to [Land]",
+                    "Unavailable <within [2] tiles of a [Jinja (Sea)]>",
+                    "Unavailable <within [2] tiles of a [Jinja (Land)]>",
+                    "Pillaging this improvement yields approximately [+25 Gold]"],
+        "techRequired": "Philosophy",
+        "shortcutKey": "J"
+    },
+    {
+        "name": "Jinja (Land)",
+        "uniqueTo": "Heian Japan",
+        "terrainsCanBeBuiltOn": ["Land"],
+        "turnsToBuild": 7,
+        "uniques": ["[+1 Culture] for each adjacent [Coast]",
+                    "[+1 Culture] for each adjacent [Mountain]",
+                    "[+1 Happiness] <in cities with a major religion>",
+                    "Unavailable <within [2] tiles of a [Jinja (Sea)]>",
+                    "Unavailable <within [2] tiles of a [Jinja (Land)]>",
+                    "Pillaging this improvement yields approximately [+25 Gold]"],
+        "techRequired": "Philosophy",
+        "shortcutKey": "J"
+    },
   {
         "name": "Baray",
         "uniqueTo": "Khmer",
