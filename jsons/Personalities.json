@@ -192,6 +192,39 @@
           "Order": 8,
       },
     },
+
+  //Heian
+   {
+      "name": "Shirakawa",
+      "culture": 9,
+      "faith": 7,
+      "food": 5,
+      "gold": 2,
+      "happiness": 8,
+      "production": 4,
+      "science": 4,
+
+      "military": 5,
+      "aggressive": 1,
+      "declareWar": 3,
+      "commerce": 9,
+      "diplomacy": 6,
+      "loyal": 7,
+      "expansion": 9,
+
+      "priorities": {
+          "Tradition": 8,
+          "Liberty": 5,
+          "Honor": 3,
+          "Commerce": 5,
+          "Patronage": 8,
+          "Piety": 7,
+          "Rationalism": 4,
+          "Freedom": 8,
+          "Autocracy": 3,
+          "Order": 3,
+      },
+    },
       //Khmer
   {
       "name": "Jayavarman II",
@@ -832,6 +865,38 @@
           "Freedom": 7,
           "Autocracy": 9,
           "Order": 2,
+      },
+    },
+  //Sengoku
+   {
+      "name": "Toyotomi Hideyoshi",
+      "culture": 2,
+      "faith": 1,
+      "food": 7,
+      "gold": 9,
+      "happiness": 7,
+      "production": 9,
+      "science": 2,
+
+      "military": 9,
+      "aggressive": 8,
+      "declareWar": 6,
+      "commerce": 9,
+      "diplomacy": 1,
+      "loyal": 1,
+      "expansion": 6,
+
+      "priorities": {
+          "Tradition": 4,
+          "Liberty": 1,
+          "Honor": 9,
+          "Commerce": 9,
+          "Patronage": 3,
+          "Piety": 4,
+          "Rationalism": 6,
+          "Freedom": 2,
+          "Autocracy": 9,
+          "Order": 7,
       },
     },
     //Shawnee
