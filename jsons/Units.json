@@ -102,7 +102,22 @@
         "attackSound": "arrow"
     },
 
-	
+	{
+		"name": "Yumi",
+		"unitType": "Archery",
+		"replaces": "Composite Bowman",
+		"uniqueTo": "Heian Japan",
+		"movement": 3,
+		"strength": 7,
+		"rangedStrength": 11,
+		"cost": 75,
+		"requiredTech": "Construction",
+		"obsoleteTech": "Machinery",
+		"promotions": ["[Yumi] ability"],
+		"upgradesTo": "Crossbowman",
+		"attackSound": "arrow"
+	},
+
 	{
         "name": "Yuthahathi",
 		"replaces": "Horseman",
@@ -212,7 +227,7 @@
 		"replaces": "Composite Bowman",
 		"uniqueTo": "Silla",
 		"unitType": "Archery",
-		"movement": 3,
+		"movement": 4,
 		"strength": 7,
 		"rangedStrength": 11,
 		"cost": 75,
@@ -512,11 +527,47 @@
 	},
 
 	{
+		"name": "Shinobi",
+		"unitType": "Sword",
+		"uniqueTo": "Sengoku Japan",
+		"movement": 2,
+		"strength": 20,
+		"cost": 100,
+		"uniques": ["Invisible to non-adjacent units",
+				"Self-destructs when attacking",
+				"[+100]% Strength <when attacking>",
+				"[-100]% Strength <when defending>",
+				"[-10]% Strength for enemy [Military] units in adjacent [All] tiles"],
+		"requiredTech": "Iron Working",
+		"obsoleteTech": "Military Science",
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	},
+
+	{
+		"name": "Sengoku Samurai",
+		"unitType": "Gunpowder",
+		"replaces": "Musketman",
+		"uniqueTo": "Sengoku Japan",
+		"movement": 2,
+		"strength": 24,
+		"cost": 150,
+		"uniques": ["[This Unit] gains the [Kabunakama I] status for [999] turn(s) <upon defeating a [Military] unit> <hidden from users>",
+					"[This Unit] gains the [Kabunakama II] status for [999] turn(s) <for units with [Kabunakama I]> <upon defeating a [Military] unit> <hidden from users>",
+					"[This Unit] upgrades for free <for units with [Kabunakama II]> <upon defeating a [Military] unit> <hidden from users>",
+					"Comment [This Unit upgrades for free after defeating 3 Military units]"],
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"attackSound": "shot"
+	},
+
+	{
         "name": "Hoceepkileni",
-	"unitType": "Civilian",
-	"replaces": "Missionary",
-	"uniqueTo": "Shawnee",
-	"cost": -1,
+		"unitType": "Civilian",
+		"replaces": "Missionary",
+		"uniqueTo": "Shawnee",
+		"cost": -1,
         "uniques": ["Can Spread Religion <for [5] movement> <[3] times> <after which this unit is consumed>",
 		    "May enter foreign tiles without open borders, but loses [200] religious strength each turn it ends there",
 		    "Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",

@@ -7,7 +7,7 @@
 		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "The African coast of the Red Sea was the domain of Aksum, named by the prophet Mani as one of the four key powers of the ancient world. For most of the first millennium CE, Aksumite merchants bore ivory, gold, spices and other goods from the African interior to India, Persia, and the Mediterranean. Yet these trade routes planted the seeds of Aksum’s fall – when the Arab caliphates took over the Silk Road, Aksum was isolated and fell into decline.",
-		"startIntroPart2": "Great Queen Makeda, your rule has been remembered for a thousand years and more, by being in the Court of Solomon. You have converted your people to the light of Christianity, and from then on your nation remained a bastion of faith and piety since. But now your people are scattered and impoverished, as the trade that once fed your nation has dried up. Can you help your people regain their former wealth and power? Can you build a civilization that will stand the test of time?",
+		"startIntroPart2": "Great Queen Makeda, your rule has been remembered for a thousand years and more, by being in the Court of Solomon. You have converted your people to the light of Christianity, and from then on your nation remained a bastion of faith and piety since. But now your people are scattered and impoverished, as the trade that once fed your nation has dried up. Can you help your people regain their former wealth and power? Can you spread the wisdom of Solomon accross distant shores once more? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "You have tourtued your people long enough! I shall liberate your people from your oppressive rule!",
 		"attacked": "I knew this was coming, the beliefs that you constantly spew at others made clear of your intentions.",
@@ -182,7 +182,7 @@
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "The Han were not the first of China’s ancient dynasties, but were its grandest. From Liu Bang’s rebellion against the iron-fisted Qin came a balance between centralized authority and Confucian meritocracy, and a wave of innovation in statecraft, philosophy, and science. With an army of shi dafu, scholar-bureaucrats, at home, and an army of chariots, heavy infantry, and crossbows abroad, for four hundred years the Han held the Mandate of Heaven.",
-		"startIntroPart2": "Oh Xuan Emperor! You have suffered greatly when your Great Grandfather accused your family of witchraft, resulting in your parents being killed when you were a child. By living with the common people, you began to understand their struggles and sacrifices, so when you successfully regained control of the throne, you led a reign of sympathy and progress. But now the Han have far passed their golden age. Can you unify your people under a corruption-free rule? Can you build a civilization that will stand the test of time?",
+		"startIntroPart2": "Oh Xuan Emperor! You have suffered greatly when your Great Grandfather accused your family of witchraft, resulting in your parents being killed when you were a child. By living with the common people, you began to understand their struggles and sacrifices, so when you successfully regained control of the throne, you led a reign of sympathy and progress. But now the Han have far passed their golden age. Can you unify your people under a corruption-free rule? Can you lead the Han to enlightnment once again? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "You are an incompetent ruler, taxing your poor to benefit the rich! I shall put an end to this at once!",
 		"attacked": "I have known many people who have wronged me in the past. This comes with no suprise.",
@@ -206,6 +206,39 @@
 		"cities": ["Cháng'ān","Luoyang","Línzī","Chengdu","Huáiyáng","Liángzhōu","Jīnyáng","Handan","Pengcheng","Ji",
 			"Guanglíng","Xuchang","Xíngyáng","Shouchun","Linxiang","Dìngtáo","Nanjun","Nanchang","Yángqǔ","Hefei",
 			"Nánzhèng","Yè","Didao","Panyu"],
+	},
+	{
+		"name": "Heian Japan",
+		"leaderName": "Shirakawa",
+		"adjective": ["Heian"],
+		"startBias": ["River", "Forest", "Mountain"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "The court of Heian Japan is best seen by the light of the clouded moon. Its poets write of love and the seasons, sorrow and the beauty of the court life. Take up the poet's brush, and write in praise of shadow.",
+		"startIntroPart2": "Oh holy Sirakawa. You have ascended to the throne 1073 after the abdication of your father. During your reign, you witnessed the rise of Buddhism and the piety of the devouted accross your empire. So after the unfortunate death of your daughter, you abdicated the throne to live in seclusion in a monestary. But you didnt fully let go from the reigns of power, and thanks to your master puppeteering, you maintained effective contol over the enirety of Japan, forcing the next emperors to just be mere mouthpeices for your ideals. Now the Japanese call back to you and your skills. Can you create an empire of pristine beauty out of a world of dirt? Can you revive the cultured works of the past? Can you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "Just because I rule from a monestary does not mean I do not know how to fight! ",
+		"attacked": "Your 'empire' is a blight on the worlds natural beauty. Let the Heian teach you how to actually rule!",
+		"defeated": "The charm of Japan has fallen to a scourge of filthy apes!",
+		"introduction": "It is a pleasure to see you. I am Sirakawa, and I welcome you the breathtaking lands of Heian.",
+		
+		"neutralHello": "Blessings to you.",
+		"hateHello": "Do you have to talk to me?",
+		"tradeRequest": "The beauty of our Lands shall decorate our Palaces!",
+		"denounced": "You think I care about your disgusting babble?!",
+		"declaringfriendship": "Only your empire can rival the beauty of mine! Shall we unite the sights of our empires?",
+
+		"spyNames": ["","","","","","","","","",""],
+
+		"outerColor": [0,42,108],
+		"innerColor": [116,165,243],
+		"uniqueName": "Pure Land",
+		"uniqueText": "+1 [Culture] from Land tiles adjacent to [Coast] or [Mountain]",
+		"uniques": ["[+1 Culture] from [Land] tiles [in all cities] <in tiles adjacent to [Mountain] tiles> <in tiles not adjacent to [Coast] tiles>",
+					"[+1 Culture] from [Land] tiles [in all cities] <in tiles adjacent to [Coast] tiles>",
+					"[Work Boats] units gain the [Mono No Aware] promotion"],
+		"cities": ["Heian-kyo","Kamakura","Heijo","Asuka","Dazaifu","Hitachi","Musashi","Sagami","Mutsu","Ise",
+			"Hakata","Sakai","Naniwa","Tsuruga","Nara","Hiraizumi","Fukuhara","Nagaoka"]
 	},
 	{
 		"name": "Khmer",
@@ -354,7 +387,7 @@
 		"introduction": "There is one head alone that sits at the center of the world, and it is mine.",
 		
 		"neutralHello": "Yes?",
-		"hateHello": "Under my hand, wherever there is conflict and chaos I strike it down. I will have peace, even amidst ashes.",
+		"hateHello": "Under my hand, wherever there is conflict and chaos I strike it down. I will have control, even amidst ashes.",
 		"tradeRequest": "Trade flows through my lands like water in a river. Would you like to sample some of our goods?",
 		"denounced": "Hmph. Words from uncivilised bandits don't mean anything to me.",
 		"declaringfriendship": "Shall we open the gates to our nations' friendship?",
@@ -388,9 +421,9 @@
 		"introduction": "I am Octavian, Augustus Caesar, a simple first citizen. And emperor of the world.",
 		
 		"neutralHello": "*Salve*, my good friend",
-		"hateHello": "Under my hand, wherever there is conflict and chaos I strike it down. I will have peace, even amidst ashes.",
+		"hateHello": "I have no interest in you barbarians.",
 		"tradeRequest": "May this trade turn your cities made of bricks to cities made of marble!",
-		"denounced": "Roma stands as tall as ever and shall tower over all your nation, regardless of what you think of it. ",
+		"denounced": "Roma stands as tall as ever and shall tower over all your nation, regardless of what you think of it.",
 		"declaringfriendship": "If you will it, shall we declare our friendship?",
 
 		"spyNames": ["Acacius","Chloris","Brutus","Eliana","Emidius","Herta","Jovilius","Laetitia","Sophus","Proserpina"],
@@ -418,13 +451,13 @@
 		"declaringWar": "Vile rats! Your backwater nation shall be destroyed!",
 		"attacked": "I expected nothing less from troglodytes like you.",
 		"defeated": "Peace and prosperity is the only way forwards. Your conquest has stunted humanity, but of course you don't care.",
-		"introduction": "I am Jindeok, Queen of Stilla. I hope for a fruitful relationship between our people.",
+		"introduction": "I am Jindeok, Queen of Silla. I hope for a fruitful relationship between our people.",
 		
 		"neutralHello": "I welcome you, Great Leader!",
 		"hateHello": "Is there anything I can do for you?",
 		"tradeRequest": "My friend, is this delegation beneficial to you?",
-		"denounced": "You have not turned yourself in opposition of Stilla, but in opposition of the entire civilised world!",
-		"declaringfriendship": "Shall I declare that you people is  friend of Silla to my people?",
+		"denounced": "You have not only turned yourself in opposition of Silla, but in opposition of the entire civilised world!",
+		"declaringfriendship": "Shall I declare that your people is friend of Silla to my people?",
 
 		"spyNames": ["Makdong","Geuru","Olmadae","Nana","Omadae","Noeul","Omidi","Miru","Madin","Mira"],
 
@@ -764,6 +797,8 @@
 		"denounced": "Don't dirty your reputation with those barbaric words.",
 		"declaringfriendship": "May our frontiers stay united.",
 
+		"spyNames": ["Tang","Hongwu","Ma","Zheng","Zhu","Wen","Xie","Hu","Kuai","Lu"],
+		
 		"outerColor": [50,140,70],
 		"innerColor": [200,200,160],
 		"uniqueName": "Great Canon of Yongle",
@@ -903,6 +938,40 @@
 	},
 
 	{
+		"name": "Sengoku Japan",
+		"leaderName": "Toyotomi Hideyoshi",
+		"adjective": ["Toyotomi"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "Toyotomi Hideyoshi, you have risen from farmer’s son to ruler. Though others may mock your station and your appearance, none dare do so to your face. Through sheer force of will, your rivals are forced back, and in their wake you extend your grasp. Kanpaku Hideyoshi, seize the moment, and raise your banner.",
+		
+		"declaringWar": "If you won't listen to me, so be it. Get cut down by my blade if you so wish",
+		"attacked": "Virtue is swift. Lets finish this!",
+		"defeated": "I have over-reached, like a monkey reaching for the moon.",
+		"introduction": "Those who called me monkey, who called me farmer's-son: they now call me lord!",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "Don't bore me with your presence.",
+		"tradeRequest": "What do you think of this deal, hmm?",
+		"denounced": "If you think you'll lose, you will lose. If you think you'll win, you will still lose!",
+		"declaringfriendship": "Today is a grand day! Let us draft this agreement together!",
+
+		"spyNames": ["","","","","","","","","",""],
+
+		"outerColor": [50,50,50],
+		"innerColor": [247,216,1],
+		"uniqueName": "Shogunate",
+		"uniqueText":"Earn 15% of the damage done to Military units as [Science] and [Culture]\n+200% maintenance cost for [Science] and [Culture] buildings in all cities",
+		"uniques": ["Earn [15]% of the damage done to [Military] units as [Science]", "Earn [15]% of the damage done to [Military] units as [Culture]",
+					"[+200]% maintenance cost for [Science] buildings [in all cities]", "[+200]% maintenance cost for [Culture] buildings [in all cities]"],
+		"cities": ["Kyoto","Edo","Sakai","Odawara","Sunpu","Kamakura","Azuchi","Gifu","Osaka","Himeji",
+			"Okayama","Aizu","Yonezawa","Sendai","Hakata","Nagasaki","Hyogo","Tsuruga","Kaga","Kanazawa",
+			"Kumamoto","Kagoshima","Utsunomiya","Matsuyama"]
+	},
+
+	{
 		"name": "Shawnee",
 		"leaderName": "Tecumseh",
 		"adjective": ["Shawnee"],
@@ -924,6 +993,8 @@
 		"denounced": "Sour words will not ruin the sweet freedom of the Shawnee",
 		"declaringfriendship": "Let us smoke together over these peace pipes!",
 
+		"spyNames": ["Kinwisiimo","Napiwesi","Napiyehaska","Natopesi","Piyecikapowi","Kitakimiyesi","Kokwetekwisiimo","Hakowesi","Haalakotaaka","Hacipiwasi"],
+		
 		"outerColor": [160,115,185],
 		"innerColor": [230,230,0],
 		"uniqueName": "Nepekifaki",
@@ -955,11 +1026,15 @@
 		"denounced": "Once you see the power of the Songhay, it will haunt your dreams!",
 		"declaringfriendship": "Shall our cordial trades flow for longer?",
 
+		"spyNames": ["Ali","Musa","Isma'il","Daoud","Ishaq","Benkan","Hargani","Harun","Boumi","Samsou"],
+		
 		"outerColor": [250,219,2],
 		"innerColor": [113,20,0],
 		"uniqueName": "Tarikh al-Sudan",
 		"uniques": ["[+2 Gold] from every [River] <in cities with a [Market]>", 
-					"[Civilian] units gain the [Amphibious] promotion"],
+					"Comment [1 Movement point cost for Civilian units to embark and disembark]",
+					"[1] Movement point cost to embark <for [Civilian] units> <hidden from users>",
+					"[1] Movement point cost to disembark <for [Civilian] units> <hidden from users>"],
 		"cities": ["Gao","Timbuktu","Jenne","Kukiya","Lulami","Tendirma","Kumbi Saleh","Tenenku","Agadez","Tadmekka",
 			"Gobir","Gaya","Katsina","Zaria","Takedda","Kabara","Kano","Walata","Sibiridugu","Segu",
 			"Bamba","Teghazza","Yatemga","Dia"],
@@ -1013,17 +1088,10 @@
 		"introduction": "Greetings! I am Benjamin Franklin, doctor, scientist, writer, and full of advice, whether you will listen or not!",
 
 		"neutralHello": "Hellp, my friend!",
-		"neutralLetsHearIt": ["Yes?"],
-		"neutralNo": ["Alas, when we separate what is useful from what is not… well, this is not useful."],
-		"neutralYes": ["A capital proposal — let's make it work!"],
-
 		"hateHello": "What?",
-		"hateLetsHearIt": ["Hmph."],
-		"hateNo": ["Alas, no. Not in your wildest dreams"],
-		"hateYes": ["This will work."],
-		
-		"afterPeace": "A capital proposal — let's make it work!",
 		"tradeRequest": "Let us create a trade agreement so that our nations shall prosper!",
+		"denounced": "In order to achive progress, we must seperate the useful from the unuseful, and alas, insulting me is not useful.",
+		"declaringfriendship": "Your knowledge and leadership impress me. I think we can learn alot from each other, no?",
 
 		"outerColor": [234,225,158],
 		"innerColor": [1,42,108],
@@ -1082,17 +1150,10 @@
 		"introduction": "I am Mwanga, son of Mutesa. What Mutesa was in Buganda, I am also. Anyone who stands against my people will not have mercy spared upon them.",
 
 		"neutralHello": "Welcome.",
-		"neutralLetsHearIt": [""],
-		"neutralNo": [""],
-		"neutralYes": [""],
-
 		"hateHello": "You dare disturb me?!",
-		"hateLetsHearIt": [""],
-		"hateNo": [""],
-		"hateYes": [""],
-		
-		"afterPeace": "I never wanted to give you my land. I want all people of all nations to come to Buganda, to build and to trade as they like.",
 		"tradeRequest": "Would you care to consider this deal?",
+		"denounced": "All I want is for the people of Buganda to life great lives, and weaklings like you see that as an insult, for some reason.",
+		"declaringfriendship": "Across our shores, our people jejoice. Shall we make our friendship official?",
 
 		"outerColor": [179,179,107],
 		"innerColor": [161,51,43],
@@ -1113,7 +1174,7 @@
 		"startIntroPart1": "France looks out upon an incomplete world-- a blank canvas waiting to be marked.\nFrom the long shadow of the guillotine, to the bright streamers of the revolutionary cockade, to the thunder of Napoleon’s cannon, to the Belle Epoque’s “City of Light” and the iron needle of the Eiffel Tower – France emerges. In the wake of the Revolution, the nation rocked from monarchy to republic and back again. But the Third French Republic brought a moment of respite, of avenues, industry, and salons…a breath before the coming storms.",
 		"startIntroPart2": "Gilbert du Motier, the Marquis de Lafayette, made his mark on two continents, leading troops in the American Revolution, and being a voice of reason in France, between the twin horrors of autocracy and revolutionary retribution. While his legacy is impressive, his most skillful feat may simply be survival at the center of some of the greatest tumult of his time.",
 		
-		"declaringWar": "Sic semper tyrannis.",
+		"declaringWar": "Sic semper tyrannis!",
 		"attacked": "Tyranny is strong. Liberty is stronger.",
 		"defeated": "To go with so much left undone! To depart with a dream yet unfulfilled?",
 		"introduction": "Just Citizen Lafayette, s'il vous plait.",
@@ -1121,8 +1182,8 @@
 		"neutralHello": "Welcome.",
 		"hateHello": "You again...",
 		"tradeRequest": "Is this reasonable for you?",
-		"denounced": "",
-		//"declaringfriendship": "",
+		"denounced": "That is no way to talk to me!",
+		"declaringfriendship": "From one world to another, we shall be united against tyranny!",
 
 		"outerColor": [66,100,174],
 		"innerColor": [242,244,183],
@@ -1136,7 +1197,7 @@
 
 	{
 		"name": "Meiji Japan",
-		"leaderName": "Meiji",
+		"leaderName": "Emperor Meiji",
 		"adjective": ["Japanese"],
 		"preferredVictoryType": "Scientific",
 		
@@ -1149,20 +1210,13 @@
 		"introduction": "",
 
 		"neutralHello": "",
-		"neutralLetsHearIt": [""],
-		"neutralNo": [""],
-		"neutralYes": [""],
-
 		"hateHello": "",
-		"hateLetsHearIt": [""],
-		"hateNo": [""],
-		"hateYes": [""],
-		
-		"afterPeace": "",
 		"tradeRequest": "",
-
-		"outerColor": [255,255,255],
-		"innerColor": [209,19,45],
+		"denounced": "",
+		"declaringfriendship": "",
+		
+		"outerColor": [120,0,1],
+		"innerColor": [247,216,1],
 		"uniqueName": "Goisshin",
 		"uniques": ["[+50]% Production when constructing [Science] buildings [in all cities]",
 					"[+50]% Production when constructing [Production] buildings [in all cities]"],
@@ -1183,22 +1237,14 @@
 		
 		"declaringWar": "",
 		"attacked": "",
-		
 		"defeated": "",
 		"introduction": "",
 		
 		"neutralHello": "",
-		"neutralLetsHearIt": [""],
-		"neutralNo": [""],
-		"neutralYes": [""],
-
 		"hateHello": "",
-		"hateLetsHearIt": [""],
-		"hateNo": [""],
-		"hateYes": [""],
-		
-		"afterPeace": "",
 		"tradeRequest": "",
+		"denounced": "",
+		"declaringfriendship": "",
 
 		"outerColor": [12,82,56],
 		"innerColor": [249,24,30],
@@ -1229,24 +1275,16 @@
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 		
-		"declaringWar": "You are clearly not fit for an agent of God. In Gods name I shall end your rule! Allah u Akbar!",
-		"attacked": "Rulers that lead their people into the pits of Hell shall neer be redeemed by God, not me. Jalla Jalaluhu!",
-		
+		"declaringWar": "You are clearly not fit for an agent of God. In his holy name I shall end your rule! Allah u Akbar!",
+		"attacked": "Rulers that lead their people into the pits of Hell shall never be redeemed by God. Jalla Jalaluhu!",
 		"defeated": "My hope for a united world, a united people, is over. I hope you enjoy your sour victory, because in the next life, God shall not be forgiving.",
 		"introduction": "Salaam, I am Akbar, Shahenshah-e-Hind. From one agent of God to another, I welcome you to my empire.",
 		
 		"neutralHello": "I wish you well",
-		"neutralLetsHearIt": [""],
-		"neutralNo": [""],
-		"neutralYes": [""],
-
 		"hateHello": "Why are you here?",
-		"hateLetsHearIt": [""],
-		"hateNo": [""],
-		"hateYes": [""],
-		
-		"afterPeace": "Now this slaughter can finally ends, and prosperity can breathe once more.",
-		"tradeRequest": "This offer shall hopefully see you well.",
+		"tradeRequest": "The wealth and riches of my empire are bountiful, and yet there are some things it lacks.",
+		"denounced": "Filthy squabble like you cant even imagine the great wealth of the Mughals.",
+		"declaringfriendship": "My great friend, shall we make our empires special relationship official?",
 
 		"outerColor": [0, 66, 33],
 		"innerColor": [253, 208, 22],
@@ -1272,22 +1310,14 @@
 		
 		"declaringWar": "",
 		"attacked": "",
-		
 		"defeated": "",
 		"introduction": "",
-		
-		"neutralHello": "",
-		"neutralLetsHearIt": [""],
-		"neutralNo": [""],
-		"neutralYes": [""],
 
+		"neutralHello": "",
 		"hateHello": "",
-		"hateLetsHearIt": [""],
-		"hateNo": [""],
-		"hateYes": [""],
-		
-		"afterPeace": "",
 		"tradeRequest": "",
+		"denounced": "",
+		"declaringfriendship": "",
 
 		"outerColor": [220, 20, 60],
 		"innerColor": [0, 56, 147],
@@ -1360,17 +1390,10 @@
 		"introduction": "Friedrich II, pleased to meet you. I am an angel in the salon, but a demon on the battlefield.",
 		
 		"neutralHello": "Greetings",
-		"neutralLetsHearIt": ["Lets see.."],
-		"neutralNo": ["I afraid not."],
-		"neutralYes": ["'Bien sur,' this is a rational offer!"],
-
 		"hateHello": "Why do you disturb me?",
-		"hateLetsHearIt": ["What?"],
-		"hateNo": ["A ridiculous offer. Send one better, or not at all!"],
-		"hateYes": ["So be it."],
-		
-		"afterPeace": "'Bien sur,' this is a rational offer!",
 		"tradeRequest": "These gifts shall seek you well, no?",
+		"denounced": "Bien sur! Another target!",
+		"declaringfriendship": "Our minds seem to be alike, fellow leader. Let us celebrate in my Temple of Friendship!",
 
 		"outerColor": [252,206,24],
 		"innerColor": [0,0,0],
@@ -1403,22 +1426,14 @@
 		
 		"declaringWar": "",
 		"attacked": "",
-		
 		"defeated": "",
 		"introduction": "",
 		
 		"neutralHello": "",
-		"neutralLetsHearIt": [""],
-		"neutralNo": [""],
-		"neutralYes": [""],
-
 		"hateHello": "",
-		"hateLetsHearIt": [""],
-		"hateNo": [""],
-		"hateYes": [""],
-		
-		"afterPeace": "",
 		"tradeRequest": "",
+		"denounced": "",
+		"declaringfriendship": "",
 
 		"spyNames": ["Abbas","Farah","Mahmoud","Maryam","Rostam","Shokouh","Ezzat","Hossein","Azadeh","Asadollah"],
 
@@ -1466,22 +1481,14 @@
 		
 		"declaringWar": "",
 		"attacked": "",
-		
 		"defeated": "",
 		"introduction": "",
 		
 		"neutralHello": "",
-		"neutralLetsHearIt": [""],
-		"neutralNo": [""],
-		"neutralYes": [""],
-
 		"hateHello": "",
-		"hateLetsHearIt": [""],
-		"hateNo": [""],
-		"hateYes": [""],
-		
-		"afterPeace": "",
 		"tradeRequest": "",
+		"denounced": "",
+		"declaringfriendship": "",
 
 		"outerColor": [250,219,2],
 		"innerColor": [16,41,87],
@@ -1505,7 +1512,6 @@
 		
 		"declaringWar": "Ha! I am already planning my triumphal parade after your defeat!",
 		"attacked": "Come, then. I will leave you where — as they say — the crayfish sleep.",
-		
 		"defeated": "Look after my palace when I am gone. The Grand Church must be aired regularly, a-and keep the amber dusted. Y-you mu — No. It is ...yours. I leave now.",
 		"introduction": "Yekaterina Alekseyevna, empress and patron of the arts. But you can call me Sophie.",
 		
@@ -1514,21 +1520,19 @@
 		"neutralNo": ["Friendship is friendship, but there are times that I must say no."],
 		"neutralYes": ["Lovely. Let us make it so"],
 
+		"neutralHello": "Ah, welcome my close friend",
 		"hateHello": "Why are you here?",
-		"hateLetsHearIt": ["Yes?"],
-		"hateNo": ["Friendship is friendship, but there are times that I must say no."],
-		"hateYes": ["Let us make it so"],
-		
-		"afterPeace": "Lovely! Let us make it so!",
 		"tradeRequest": "Will my offer to you suffice?",
-
+		"denounced": "You must think the barking of dogs to be greatest poetry.",
+		"declaringfriendship": "Your empire has many delights. Will you let my people indulge in them?",
+		
 		"outerColor": [249,249,249],
 		"innerColor": [0,79,206],
 		"uniqueName": "Prosveshchenie",
 		"uniques": ["[+4]% [Culture] [in all cities] <for every [Cities]>",
 					"[+1 Science] from every [Building] <in [Tundra] tiles>"],
 		"cities": ["St. Petersburg","Moscow","Saratov","Kazan","Rostov na Donu","Astrakhan","Tula","Nijni-Novgorod","Nikolaieff","Samara",
-			"Voronezh","orenburg","Yaroslavl","Orel","Ekaterinodar","Cronstadt","Tsaritsyn","Penza","Tver","Tomsk",
+			"Voronezh","Orenburg","Yaroslavl","Orel","Ekaterinodar","Cronstadt","Tsaritsyn","Penza","Tver","Tomsk",
 			"Kursk","Novotcherkask","Irkstk","Ufa"],
 	},
 
@@ -1544,23 +1548,15 @@
 		
 		"declaringWar": "",
 		"attacked": "",
-		
 		"defeated": "",
 		"introduction": "",
 		
 		"neutralHello": "",
-		"neutralLetsHearIt": [""],
-		"neutralNo": [""],
-		"neutralYes": [""],
-
 		"hateHello": "",
-		"hateLetsHearIt": [""],
-		"hateNo": [""],
-		"hateYes": [""],
-		
-		"afterPeace": "",
 		"tradeRequest": "",
-
+		"denounced": "",
+		"declaringfriendship": "",
+		
 		"outerColor": [1,79,81],
 		"innerColor": [0,192,155],
 		"uniqueName": "Itsaraphab",

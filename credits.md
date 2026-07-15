@@ -52,6 +52,7 @@ Improvements
 - STEPWELL - indian stepwell by Line & Dot Studio from <a href="https://thenounproject.com/browse/icons/term/indian-stepwell/" target="_blank" title="indian stepwell Icons">Noun Project</a> (CC BY 3.0)
 - HIGHLAND POWER STATION - Hydroelectric Energy by Kamin Ginkaew from <a href="https://thenounproject.com/browse/icons/term/hydroelectric-energy/" target="_blank" title="Hydroelectric Energy Icons">Noun Project</a> (CC BY 3.0)
 - OBSHCHINA - Farm by IconMark from <a href="https://thenounproject.com/browse/icons/term/farm/" target="_blank" title="Farm Icons">Noun Project</a> (CC BY 3.0)
+- Jinja - fushimini inari shrine gate by Moondried from <a href="https://thenounproject.com/browse/icons/term/fushimini-inari-shrine-gate/" target="_blank" title="fushimini inari shrine gate Icons">Noun Project</a> (CC BY 3.0)
 
 
 Buildings
