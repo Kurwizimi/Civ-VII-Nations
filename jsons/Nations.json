@@ -1061,6 +1061,8 @@
 		"denounced": "You should have sent this to my Secretary, I have no time to waste with sinners like you.",
 		"declaringfriendship": "An ally of Castile with be very worthwhile.",
 
+		"spyNames": ["Ferdinand","Alfonso","Maria","Catalina","Juana","Enrique","Juan","Beltrán","Pedro","Carlos"],
+
 		"outerColor": [255,178,60],
 		"innerColor": [212,20,21],
 		"uniqueName": "Siglo de Oro",
@@ -1093,6 +1095,8 @@
 		"denounced": "In order to achive progress, we must seperate the useful from the unuseful, and alas, insulting me is not useful.",
 		"declaringfriendship": "Your knowledge and leadership impress me. I think we can learn alot from each other, no?",
 
+		"spyNames": ["George","William","Mary","Dorothy","Emily","Matthew","Harriet","Laura","Chester","Eddie"],
+
 		"outerColor": [234,225,158],
 		"innerColor": [1,42,108],
 		"uniqueName": "Frontier Expansion",
@@ -1124,6 +1128,8 @@
 		"denounced": "All I hear from you is the grunts of uncivilised animals.",
 		"declaringfriendship": "Being a friend of Brittania and its Empire is an opportunity you shouldn't miss.",
 
+		"spyNames": ["William","Elizabeth","George","Eliza","James","Ann","Henry","Jane","Charles","Hannah"],
+
 		"outerColor": [0,0,164],
 		"innerColor": [255,255,255],
 		"uniqueName": "Workshop of the World",
@@ -1154,6 +1160,8 @@
 		"tradeRequest": "Would you care to consider this deal?",
 		"denounced": "All I want is for the people of Buganda to life great lives, and weaklings like you see that as an insult, for some reason.",
 		"declaringfriendship": "Across our shores, our people jejoice. Shall we make our friendship official?",
+
+		"spyNames": ["Kagolo","Daudi","Nuhu","Kamaanya","Mulondo","Kigali","Lwanga","Kinogo","Sebanakitta","Mawanda"],
 
 		"outerColor": [179,179,107],
 		"innerColor": [161,51,43],
