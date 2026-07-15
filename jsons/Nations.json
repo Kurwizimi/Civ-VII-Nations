@@ -237,9 +237,8 @@
 		"uniques": ["[+1 Culture] from [Land] tiles [in all cities] <in tiles adjacent to [Mountain] tiles> <in tiles not adjacent to [Coast] tiles>",
 					"[+1 Culture] from [Land] tiles [in all cities] <in tiles adjacent to [Coast] tiles>",
 					"[Work Boats] units gain the [Mono No Aware] promotion"],
-		"cities": ["Heian-kyo","Adulis","Matara","Lalibela","Saba","Koloe","Qohayto","Maste","Tekondo","Zala-Bet-Makeda",
-			"Etchmara","Gulo-Makeda","Haghero-Deragweh","Dergouah","Henzat","Ham","Anza","Hawzien","Degum","Chergos Agula",
-			"Nazret","Yeha","Aden","Hehzat"]
+		"cities": ["Heian-kyo","Kamakura","Heijo","Asuka","Dazaifu","Hitachi","Musashi","Sagami","Mutsu","Ise",
+			"Hakata","Sakai","Naniwa","Tsuruga","Nara","Hiraizumi","Fukuhara","Nagaoka"]
 	},
 	{
 		"name": "Khmer",
@@ -798,6 +797,8 @@
 		"denounced": "Don't dirty your reputation with those barbaric words.",
 		"declaringfriendship": "May our frontiers stay united.",
 
+		"spyNames": ["Tang","Hongwu","Ma","Zheng","Zhu","Wen","Xie","Hu","Kuai","Lu"],
+		
 		"outerColor": [50,140,70],
 		"innerColor": [200,200,160],
 		"uniqueName": "Great Canon of Yongle",
@@ -962,12 +963,12 @@
 		"outerColor": [50,50,50],
 		"innerColor": [247,216,1],
 		"uniqueName": "Shogunate",
-		"uniqueText":"Earn 75% of the damage done to Military units as [Science] and [Culture]\n+200% maintenance cost for [Science] and [Culture] buildings in all cities",
-		"uniques": ["Earn [75]% of the damage done to [Military] units as [Science]", "Earn [75]% of the damage done to [Military] units as [Culture]",
+		"uniqueText":"Earn 15% of the damage done to Military units as [Science] and [Culture]\n+200% maintenance cost for [Science] and [Culture] buildings in all cities",
+		"uniques": ["Earn [15]% of the damage done to [Military] units as [Science]", "Earn [15]% of the damage done to [Military] units as [Culture]",
 					"[+200]% maintenance cost for [Science] buildings [in all cities]", "[+200]% maintenance cost for [Culture] buildings [in all cities]"],
-		"cities": ["Kyoto","Adulis","Matara","Lalibela","Saba","Koloe","Qohayto","Maste","Tekondo","Zala-Bet-Makeda",
-			"Etchmara","Gulo-Makeda","Haghero-Deragweh","Dergouah","Henzat","Ham","Anza","Hawzien","Degum","Chergos Agula",
-			"Nazret","Yeha","Aden","Hehzat"]
+		"cities": ["Kyoto","Edo","Sakai","Odawara","Sunpu","Kamakura","Azuchi","Gifu","Osaka","Himeji",
+			"Okayama","Aizu","Yonezawa","Sendai","Hakata","Nagasaki","Hyogo","Tsuruga","Kaga","Kanazawa",
+			"Kumamoto","Kagoshima","Utsunomiya","Matsuyama"]
 	},
 
 	{
@@ -992,6 +993,8 @@
 		"denounced": "Sour words will not ruin the sweet freedom of the Shawnee",
 		"declaringfriendship": "Let us smoke together over these peace pipes!",
 
+		"spyNames": ["Kinwisiimo","Napiwesi","Napiyehaska","Natopesi","Piyecikapowi","Kitakimiyesi","Kokwetekwisiimo","Hakowesi","Haalakotaaka","Hacipiwasi"],
+		
 		"outerColor": [160,115,185],
 		"innerColor": [230,230,0],
 		"uniqueName": "Nepekifaki",
@@ -1023,11 +1026,13 @@
 		"denounced": "Once you see the power of the Songhay, it will haunt your dreams!",
 		"declaringfriendship": "Shall our cordial trades flow for longer?",
 
+		"spyNames": ["Ali","Musa","Isma'il","Daoud","Ishaq","Benkan","Hargani","Harun","Boumi","Samsou"],
+		
 		"outerColor": [250,219,2],
 		"innerColor": [113,20,0],
 		"uniqueName": "Tarikh al-Sudan",
 		"uniques": ["[+2 Gold] from every [River] <in cities with a [Market]>", 
-					"Comment[1 Movement point cost for Civilian units to embark and disembark]",
+					"Comment [1 Movement point cost for Civilian units to embark and disembark]",
 					"[1] Movement point cost to embark <for [Civilian] units> <hidden from users>",
 					"[1] Movement point cost to disembark <for [Civilian] units> <hidden from users>"],
 		"cities": ["Gao","Timbuktu","Jenne","Kukiya","Lulami","Tendirma","Kumbi Saleh","Tenenku","Agadez","Tadmekka",
