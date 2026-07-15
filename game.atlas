@@ -818,14 +818,14 @@ TileSets/AbsoluteUnits/Units/Soldaderas
   index: -1
 TileSets/AbsoluteUnits/Units/Vikingr
   rotate: false
-  xy: 1463, 199
+  xy: 1607, 218
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Vikingr-1
   rotate: false
-  xy: 1535, 218
+  xy: 1679, 218
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -914,6 +914,20 @@ TileSets/HexaRealm/Tiles/Jaguar Trap
   orig: 64, 65
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Tiles/Jinja (Land)
+  rotate: false
+  xy: 1294, 69
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Jinja (Sea)
+  rotate: false
+  xy: 1366, 69
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Tiles/Kabaka's Lake
   rotate: false
   xy: 319, 481
@@ -923,49 +937,49 @@ TileSets/HexaRealm/Tiles/Kabaka's Lake
   index: -1
 TileSets/HexaRealm/Tiles/Lo'i Kalo
   rotate: false
-  xy: 1293, 66
+  xy: 1391, 262
   size: 64, 65
   orig: 64, 65
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Obshchina
   rotate: false
-  xy: 1365, 68
+  xy: 1391, 189
   size: 64, 65
   orig: 64, 65
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Pairidaeza
   rotate: false
-  xy: 1391, 262
+  xy: 1463, 263
   size: 64, 65
   orig: 64, 65
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Potkop
   rotate: false
-  xy: 1391, 189
+  xy: 1463, 190
   size: 64, 65
   orig: 64, 65
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Stepwell
   rotate: false
-  xy: 1463, 263
+  xy: 1535, 209
   size: 64, 65
   orig: 64, 65
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Water Puppet Theater
   rotate: false
-  xy: 1607, 209
+  xy: 1751, 209
   size: 64, 65
   orig: 64, 65
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Örtöö
   rotate: false
-  xy: 1679, 209
+  xy: 1823, 209
   size: 64, 65
   orig: 64, 65
   offset: 0, 0
