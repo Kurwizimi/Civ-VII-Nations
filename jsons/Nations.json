@@ -608,6 +608,37 @@
 	},
 
 	{
+		"name": "Goryeo",
+		"leaderName": "",
+		"adjective": ["Goryeo"],
+		"startBias": ["Grassland","Forest"],
+		"preferredVictoryType": "Culture",
+		
+		"startIntroPart1": "Torn between the ambitions of its neighbors, Goryeo flourishes in adversity. Melding martial skill with poetry, they fight as fiercely with arrows as they do with words, and forges for steel alternate with kilns for delicate stoneware. Guide Goryeo through the fire, that it may emerge both strong and full of beauty.",
+		"startIntroPart2": "",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"hateHello": "",
+		"tradeRequest": "",
+		"denounced": "",
+		"declaringfriendship": "",
+
+		"spyNames": ["Anasuya","Govind","Bhadraa","Krishna","Kerani","Paramveer","Reeya","Purshotam","Sita","Uday"],
+
+		"outerColor": [0,0,2],
+		"innerColor": [0,0,24],
+		"uniqueName": "Byeongjo",
+		"uniques": [""],
+		"cities": ["Gaegyeong","Pyeongyang","Hanyang","Yangju","Hwangju","Haeju","Gwangju","Chungju","Cheongju","Gongju",
+			"Jeonju","Naju","Sangju","Jinju","Seungju","Poju"],
+	},
+
+	{
 		"name": "Đại Việt",
 		"leaderName": "Trần Thánh Tông",
 		"adjective": ["Vietnamese"],
@@ -1201,6 +1232,37 @@
 		"cities": ["Paris","Lyon","Marseille","Bordeaux","Lille","Nantes","Saint-Étienne","Toulouse","Rouen","Le Havre",
 			"Ajaccio","Brest","Roubaix","Reims","Toulon","Amiens","Nancy","Mulhouse","Nîmes","Limoges",
 			"Rennes","Angers","Montpellier","Besançon"],
+	},
+
+	{
+		"name": "Joseon",
+		"leaderName": "",
+		"adjective": ["Joseon"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Culture",
+		
+		"startIntroPart1": "As empires rise and fall, Joseon persists. In the calm behind its fleets of turtle ships, Joseon builds a society that balances Confucian meritocracy and kingship, a harmonious order as everything else seems to fail. Hold the line, stand firm and let Joseon thrive.",
+		"startIntroPart2": "",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"hateHello": "",
+		"tradeRequest": "",
+		"denounced": "",
+		"declaringfriendship": "",
+
+		"spyNames": ["Anasuya","Govind","Bhadraa","Krishna","Kerani","Paramveer","Reeya","Purshotam","Sita","Uday"],
+
+		"outerColor": [0,0,2],
+		"innerColor": [0,0,24],
+		"uniqueName": "Munchi",
+		"uniques": [""],
+		"cities": ["Hansong","Gaesong","Suwon","Gongju","Geonju","Daegu","Gongnae","Gangneung","Wonju","Haeju",
+			"Pyeongyang","Incheon","Wonsan","Hamheung","Hoeryeong","Chungju","Uiju","Jinju"],
 	},
 
 	{
