@@ -243,6 +243,21 @@
    },
 
 	{
+		"name": "Seowon",
+		"replaces": "University",
+        "uniqueTo": "Joseon",
+		"maintenance": 2,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 33},
+		"specialistSlots": {"Scientist": 2},
+		"requiredBuilding": "Library",
+		"uniques": ["Production to [Science] conversion in cities changed by [+25]% <in this city>", 
+					"Comment [Gain +1 Population in capital upon completion]",
+					"[+2 Science] from [Jungle] tiles [in this city]"],
+		"requiredTech": "Education"
+	},
+
+	{
 		"name": "Zaibatsu",
 		"replaces": "Stock Exchange",
 		"uniqueTo": "Meiji Japan",
