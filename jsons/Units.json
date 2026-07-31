@@ -322,6 +322,24 @@
         "obsoleteTech": "Steam Power",
         "attackSound": "nonmetalhit"
     },
+
+	{
+		"name": "Tobang",
+		"replaces": "Knight",
+        "uniqueTo": "Goryeo",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 20,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"requiredResource": "Horses",
+		"uniques": ["[This Unit] gains the [Bongwan] status for [1] turn(s)",
+			"Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"attackSound": "horse"
+	},
+	
 	{
         "name": "Voi Chiến",
         "unitType": "Archery",
@@ -676,6 +694,24 @@
 	"requiredTech": "Rifling",
 	"obsolete": "Replaceable Parts"
     },	
+
+	{
+		"name": "Geobukseon",
+		"uniqueTo": "Joseon",
+		"replaces": "Frigate",
+		"unitType": "Ranged Water",
+		"movement": 5,
+		"strength": 25,
+		"rangedStrength": 28,
+		"cost": 185,
+		"uniques": ["[-25]% Strength <when fighting in [Ocean] tiles>", "[+25]% Strength <when fighting in [Coast] tiles>"],
+		"requiredResource": "Iron",
+		"requiredTech": "Navigation",
+		"obsoleteTech": "Electronics",
+		"upgradesTo": "Battleship",
+		"hurryCostModifier": 20,
+		"attackSound": "shipCannonVolley"
+	},
 	
 	{
         "name": "Mikasa",
