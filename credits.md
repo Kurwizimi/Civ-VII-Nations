@@ -20,27 +20,8 @@ Art made by Basil, in order of when they were added:
 * Highland Power Station
 * Jaguar Trap
 
+These credits are for all icons sourced from the Noun Project
 
-These credits are for the placeholer icons when the mod was in heavy development. Some of the improvement icons and building icons are however still in use.
-
-Civ Icons
-* AKSUM - Coptic Cross by Avana Vana from <a href="https://thenounproject.com/browse/icons/term/coptic-cross/" target="_blank" title="Coptic Cross Icons">Noun Project</a> (CC BY 3.0)
-* HAN- Horse by designer468 from <a href="https://thenounproject.com/browse/icons/term/horse/" target="_blank" title="Horse Icons">Noun Project</a> (CC BY 3.0)
-* MAURYA - Lotus by leins from <a href="https://thenounproject.com/browse/icons/term/lotus/" target="_blank" title="Lotus Icons">Noun Project</a> (CC BY 3.0)
-* MISSISSIPI - paganism - sun cross by Gavin Muhammad Isa from <a href="https://thenounproject.com/browse/icons/term/paganism-sun-cross/" target="_blank" title="paganism - sun cross Icons">Noun Project</a> (CC BY 3.0)
-* BULGARIA - horse rider by Dimitri Lupo from <a href="https://thenounproject.com/browse/icons/term/horse-rider/" target="_blank" title="horse rider Icons">Noun Project</a> (CC BY 3.0)
-* CHOLA - tiger head by Yash Gohel from <a href="https://thenounproject.com/browse/icons/term/tiger-head/" target="_blank" title="tiger head Icons">Noun Project</a> (CC BY 3.0)
-* MAJAPAHIT - (Sourced from Yet Another Civilisation Mod)
-* MING - (Sourced from Nobles and Merchants)
-* NORMANDY - (Sourced from Project AllCiv)
-* SHAWNEE - (Sourced from Yet Another Civilisation Mod)
-* BUGANDA - Shield by Smalllike from <a href="https://thenounproject.com/browse/icons/term/shield/" target="_blank" title="Shield Icons">Noun Project</a> (CC BY 3.0)
-* MUGHAL - (Sourced from Project AllCiv)
-* MEXICO - (Sourced fro Rekmod)
-* NEPAL - Nepali Moon by Kemesh Maharjan from <a href="https://thenounproject.com/browse/icons/term/nepali-moon/" target="_blank" title="Nepali Moon Icons">Noun Project</a> (CC BY 3.0)
-* QING - dragon by Cédric Villain from <a href="https://thenounproject.com/browse/icons/term/dragon/" target="_blank" title="dragon Icons">Noun Project</a> (CC BY 3.0)
-
-  
 Improvements
 - HIDDEN FORTRESS - Fort by Nanik haq from <a href="https://thenounproject.com/browse/icons/term/fort/" target="_blank" title="Fort Icons">Noun Project</a> (CC BY 3.0)
 - HALWIT - aksum by Linseed Studio from <a href="https://thenounproject.com/browse/icons/term/aksum/" target="_blank" title="aksum Icons">Noun Project</a> (CC BY 3.0)
@@ -67,5 +48,27 @@ Buildings
 - FINANCIAL CENTRE - Pound by Singlar from <a href="https://thenounproject.com/browse/icons/term/pound/" target="_blank" title="Pound Icons">Noun Project</a> (CC BY 3.0)
 - DONJON - Norman Tower by József Balázs-Hegedüs from <a href="https://thenounproject.com/browse/icons/term/norman-tower/" target="_blank" title="Norman Tower Icons">Noun Project</a> (CC BY 3.0)
 - AVENUE - parisian café by Amethyst Studio from <a href="https://thenounproject.com/browse/icons/term/parisian-cafe/" target="_blank" title="parisian café Icons">Noun Project</a> (CC BY 3.0)
+- SEOWON - Palace by PTWIZ from <a href="https://thenounproject.com/browse/icons/term/palace/" target="_blank" title="Palace Icons">Noun Project</a> (CC BY 3.0)
 - ZOCALCO - plaza by Amethyst Studio from <a href="https://thenounproject.com/browse/icons/term/plaza/" target="_blank" title="plaza Icons">Noun Project</a> (CC BY 3.0)
 - HUIGUAN - thirteen tombs of the ming dynasty by tezar tantular from <a href="https://thenounproject.com/browse/icons/term/thirteen-tombs-of-the-ming-dynasty/" target="_blank" title="thirteen tombs of the ming dynasty Icons">Noun Project</a> (CC BY 3.0)
+
+
+
+These credits are for the placeholer icons when the mod was in early development.
+
+Civ Icons
+* AKSUM - Coptic Cross by Avana Vana from <a href="https://thenounproject.com/browse/icons/term/coptic-cross/" target="_blank" title="Coptic Cross Icons">Noun Project</a> (CC BY 3.0)
+* HAN- Horse by designer468 from <a href="https://thenounproject.com/browse/icons/term/horse/" target="_blank" title="Horse Icons">Noun Project</a> (CC BY 3.0)
+* MAURYA - Lotus by leins from <a href="https://thenounproject.com/browse/icons/term/lotus/" target="_blank" title="Lotus Icons">Noun Project</a> (CC BY 3.0)
+* MISSISSIPI - paganism - sun cross by Gavin Muhammad Isa from <a href="https://thenounproject.com/browse/icons/term/paganism-sun-cross/" target="_blank" title="paganism - sun cross Icons">Noun Project</a> (CC BY 3.0)
+* BULGARIA - horse rider by Dimitri Lupo from <a href="https://thenounproject.com/browse/icons/term/horse-rider/" target="_blank" title="horse rider Icons">Noun Project</a> (CC BY 3.0)
+* CHOLA - tiger head by Yash Gohel from <a href="https://thenounproject.com/browse/icons/term/tiger-head/" target="_blank" title="tiger head Icons">Noun Project</a> (CC BY 3.0)
+* MAJAPAHIT - (Sourced from Yet Another Civilisation Mod)
+* MING - (Sourced from Nobles and Merchants)
+* NORMANDY - (Sourced from Project AllCiv)
+* SHAWNEE - (Sourced from Yet Another Civilisation Mod)
+* BUGANDA - Shield by Smalllike from <a href="https://thenounproject.com/browse/icons/term/shield/" target="_blank" title="Shield Icons">Noun Project</a> (CC BY 3.0)
+* MUGHAL - (Sourced from Project AllCiv)
+* MEXICO - (Sourced frmo Rekmod)
+* NEPAL - Nepali Moon by Kemesh Maharjan from <a href="https://thenounproject.com/browse/icons/term/nepali-moon/" target="_blank" title="Nepali Moon Icons">Noun Project</a> (CC BY 3.0)
+* QING - dragon by Cédric Villain from <a href="https://thenounproject.com/browse/icons/term/dragon/" target="_blank" title="dragon Icons">Noun Project</a> (CC BY 3.0)
