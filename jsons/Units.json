@@ -333,6 +333,7 @@
 		"cost": 120,
 		"requiredTech": "Chivalry",
 		"obsoleteTech": "Military Science",
+		"civilopediaText": [ {"text": "In the later part of the Goryeo period (after 1170 CE), the military assumed near-direct control, keeping a king as a figurehead over what was in practice a military state. This was in some part a reaction against the accumulation of perceived slights towards military figures in Goryeo society, as well as the perceived threat from the Mongols and Mongol-dominated Yuan China so near to the Korean border. This regime held its power via the tobang – military personnel tasked with policing civil officials and ensuring loyalty to the military (and its ruling Choe family). This militarized society successfully defended Korea against invasions by the Khitans and Yuan alike. The era of the tobang fell as royal elites brokered a diplomatic solution, ending the threat of a Chinese invasion and resulting in the subjugation of Goryeo as a vassal state to the Yuan."}, {"separator": true}],
 		"upgradesTo": "Cavalry",
 		"requiredResource": "Horses",
 		"uniques": ["[This Unit] gains the [Bongwan] status for [1] turn(s)",
@@ -708,6 +709,7 @@
 		"requiredResource": "Iron",
 		"requiredTech": "Navigation",
 		"obsoleteTech": "Electronics",
+		"civilopediaText": [ {"text": "The turtle ship, the geobukseon, was a kind of protected warship used throughout Joseon. 19th century turtle ships were almost completely covered in order to repel boarders, complete with spikes and spines possibly made of iron, though the weight of metal might have been prohibitive. Some of these ships were armed with cannon, some had fire-arrows, and some were mounted with a terrifying dragon’s head, so as to deploy fear, as well as fire, as a weapon. \nAdmiral Yi Sun-sin deployed turtle ships in his defense of Joseon in the Imjin wars, and it was in his period that they reached their height. While they were still present in the Korean navy into the 19th century, after which Joseon’s navy declined to nearly nonexistent, later mechanized craft would prove more effective."}, {"separator": true}],
 		"upgradesTo": "Battleship",
 		"hurryCostModifier": 20,
 		"attackSound": "shipCannonVolley"
