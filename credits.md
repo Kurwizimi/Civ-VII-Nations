@@ -46,6 +46,7 @@ Improvements
 - HALWIT - aksum by Linseed Studio from <a href="https://thenounproject.com/browse/icons/term/aksum/" target="_blank" title="aksum Icons">Noun Project</a> (CC BY 3.0)
 - PAIRIDAEZA - violet by parkjisun from <a href="https://thenounproject.com/browse/icons/term/violet/" target="_blank" title="violet Icons">Noun Project</a> (CC BY 3.0)
 - HAN GREAT WALL - great wall by Danil Polshin from <a href="https://thenounproject.com/browse/icons/term/great-wall/" target="_blank" title="great wall Icons">Noun Project</a> (CC BY 3.0)
+- GAMA - ceramics by Cha from <a href="https://thenounproject.com/browse/icons/term/ceramics/" target="_blank" title="ceramics Icons">Noun Project</a> (CC BY 3.0)
 - ORTOO - horse rider by Dimitri Lupo from <a href="https://thenounproject.com/browse/icons/term/horse-rider/" target="_blank" title="horse rider Icons">Noun Project</a> (CC BY 3.0)
 - MAWASKAWE SKOTE - Fire by Aisyah from <a href="https://thenounproject.com/browse/icons/term/fire/" target="_blank" title="Fire Icons">Noun Project</a> (CC BY 3.0)
 - KABAKA'S LAKE - Lake by Muhammad Nur Auliady Pamungkas from <a href="https://thenounproject.com/browse/icons/term/lake/" target="_blank" title="Lake Icons">Noun Project</a> (CC BY 3.0)
