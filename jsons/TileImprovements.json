@@ -128,8 +128,8 @@
         "culture": 1,
         "turnsToBuild": 7,
         "techRequired": "Metal Casting",
-        "uniques": ["[+1 Production] for each adjacent [Great Improvment]", "[+1 Production] from [Forest] tiles", 
-                    "[+1 Culture] from [Jungle] tiles", "Pillaging this improvement yields approximately [+25 Gold]"],
+        "uniques": ["[+1 Production] for each adjacent [Great Improvment]", "[+1 Culture] from [Forest] tiles", 
+                    "[+1 Production] from [Jungle] tiles", "Pillaging this improvement yields approximately [+25 Gold]"],
         "civilopediaText": [ {"text": "Of all the arts of Goryeo, pottery has been the most renowned. Chinese celadon during the Song Dynasty, with its green-blue glaze so reminiscent of jade, became popular throughout the Sinitic world, with imitators across Korea, Japan, and other places touched by Chinese trade. But the kilns – the gama – in Goryeo brought local celadon production together with Chinese styles to create an artform that was truly unique. Goryeo kilns produced translucent, almost organic-seeming pieces. Korean craftsmen experimented with different kinds of clay, techniques such as stripping away a layer of glaze to reveal a pattern underneath, and shapes that evoked plants, dragons, lions, and turtles. Goryeo celadon has made it not only to international fame, but as National Treasures of Korea."}, {"separator": true}],
         "shortcutKey": "G"
     },
