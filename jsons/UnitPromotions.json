@@ -69,6 +69,11 @@
        "Gain [190] [Culture] <upon discovering a [City center] tile> <during the [Future era]> <(modified by game speed)> <hidden from users>"]
     },
 
+         {
+        "name": "Bongwan",
+        "uniques": ["[+50]% Strength", "[-1] Movement"]
+    },
+
         {
         "name": "[Leiomano] ability",
         "uniques": ["[+10]% Strength <vs [Mounted] units>","[+10]% Strength <vs [Sword] units>"]
@@ -88,7 +93,8 @@
     },
         {
         "name": "[Víkingr] ability",
-        "uniques": ["Unit will heal every turn, even if it performs an action <within [1] tiles of a [pillaged]> <hidden from users>", "Comment [Unit will heal every turn, even if it performs an action within 1 tile of a pillaged tile]"]
+        "uniques": ["Unit will heal every turn, even if it performs an action <within [1] tiles of a [pillaged]> <hidden from users>",
+                "Comment [Unit will heal every turn, even if it performs an action, within 1 tile of a pillaged tile]"]
     },
 
         {

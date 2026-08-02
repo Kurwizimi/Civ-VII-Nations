@@ -243,6 +243,22 @@
    },
 
 	{
+		"name": "Seowon",
+		"replaces": "University",
+        "uniqueTo": "Joseon",
+		"maintenance": 2,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 33},
+		"specialistSlots": {"Scientist": 2},
+		"civilopediaText": [ {"text": "Confucianism defined the culture of Joseon, combining an emphasis on study and learning with moral attainment and an orientation towards social order. For the noble literati, the seowon were institutions where scholars could elaborate upon Confucian ideas and craft an enlightened ethos of moral rule. Seowon even had the power to petition the king if they perceived an issue that needed addressing. With their emphasis on local and national education, these scholars cultivated links of mentorship and scholarship that became powerful forces. But politics is a messy business, and seowon faced a bitter division on the subject of tradition versus reform, kingly glory versus civil morality."}, {"separator": true}],
+		"requiredBuilding": "Library",
+		"uniques": ["Production to [Science] conversion in cities changed by [+25]% <in this city>", 
+					"Comment [Gain +1 Population in capital upon completion]",
+					"[+2 Science] from [Jungle] tiles [in this city]"],
+		"requiredTech": "Education"
+	},
+
+	{
 		"name": "Zaibatsu",
 		"replaces": "Stock Exchange",
 		"uniqueTo": "Meiji Japan",
