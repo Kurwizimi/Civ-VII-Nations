@@ -612,7 +612,7 @@
 		"leaderName": "",
 		"adjective": ["Goryeo"],
 		"startBias": ["Grassland","Forest"],
-		"preferredVictoryType": "Culture",
+		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "Torn between the ambitions of its neighbors, Goryeo flourishes in adversity. Melding martial skill with poetry, they fight as fiercely with arrows as they do with words, and forges for steel alternate with kilns for delicate stoneware. Guide Goryeo through the fire, that it may emerge both strong and full of beauty.",
 		"startIntroPart2": "",
@@ -1239,7 +1239,7 @@
 		"leaderName": "",
 		"adjective": ["Joseon"],
 		"startBias": ["Hill"],
-		"preferredVictoryType": "Culture",
+		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "As empires rise and fall, Joseon persists. In the calm behind its fleets of turtle ships, Joseon builds a society that balances Confucian meritocracy and kingship, a harmonious order as everything else seems to fail. Hold the line, stand firm and let Joseon thrive.",
 		"startIntroPart2": "",
