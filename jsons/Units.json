@@ -336,7 +336,7 @@
 		"civilopediaText": [ {"text": "In the later part of the Goryeo period (after 1170 CE), the military assumed near-direct control, keeping a king as a figurehead over what was in practice a military state. This was in some part a reaction against the accumulation of perceived slights towards military figures in Goryeo society, as well as the perceived threat from the Mongols and Mongol-dominated Yuan China so near to the Korean border. This regime held its power via the tobang – military personnel tasked with policing civil officials and ensuring loyalty to the military (and its ruling Choe family). This militarized society successfully defended Korea against invasions by the Khitans and Yuan alike. The era of the tobang fell as royal elites brokered a diplomatic solution, ending the threat of a Chinese invasion and resulting in the subjugation of Goryeo as a vassal state to the Yuan."}, {"separator": true}],
 		"upgradesTo": "Cavalry",
 		"requiredResource": "Horses",
-		"uniques": ["[This Unit] gains the [Bongwan] status for [1] turn(s) <in tiles adjacent to [City center] tiles> <upon turn end>",
+		"uniques": ["[This Unit] gains the [Bongwan] status for [1] turn(s) <in tiles adjacent to [City center] tiles> <upon turn start>",
 			"Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
 		"attackSound": "horse"
 	},
