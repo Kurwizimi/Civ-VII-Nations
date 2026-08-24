@@ -1414,18 +1414,18 @@
 		"adjective": ["Ottoman"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "",
+		"startIntroPart1": "Amid sparkling minarets and bright tulip gardens, the Ottomans reign at the world's crossroads. Cannons boom over land and sea, and bazaars burst with global goods. The empire's tradition holds strong in the külliye while secular reforms gain traction in the coffeehouse. Now take up the Sword of Osman and decide the empire's fate.",
 		"startIntroPart2": "",
 		
-		"declaringWar": "",
-		"attacked": "",
-		"defeated": "",
-		"introduction": "",
+		"declaringWar": "The walls you hide your tyrants and misers will fall to our bombards!",
+		"attacked": "The flag of Osman shall never fall from its place!",
+		"defeated": "I was elavated from being a noboby to having everything one can dream of, but yet I return to having nothing once more.",
+		"introduction": "I see you, kind stranger. I am the Haseki Sultan of this empire, the mother of my people.",
 		
-		"neutralHello": "",
-		"hateHello": "",
-		"tradeRequest": "",
-		"denounced": "",
+		"neutralHello": "Welcome.",
+		"hateHello": "You sap this place of all its colour.",
+		"tradeRequest": "Take this deal, leader. And have some complementary tulips, we have more than anyone can think of.",
+		"denounced": "Feeble minds cannot understand the beautiful glory of my empire.",
 		"declaringfriendship": "",
 
 		"spyNames": ["Osman","Zeynep","Betül","Süleyman","Meryem","Salih","Gülsüm","Kemal","Hanife","Burak"],
