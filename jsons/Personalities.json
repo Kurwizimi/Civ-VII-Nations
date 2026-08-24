@@ -1426,18 +1426,18 @@
 
     //Qajar Iran
   {
-      "name": "Agha Mohammad Khan Qajar",
-      "culture": 4,
-      "faith": 6,
+      "name": "Fath-Ali Shah Qajar",
+      "culture": 7,
+      "faith": 5,
       "food": 9,
       "gold": 3,
-      "happiness": 8,
+      "happiness": 2,
       "production": 9,
       "science": 6,
 
-      "military": 8,
-      "aggressive": 6,
-      "declareWar": 6,
+      "military": 9,
+      "aggressive": 4,
+      "declareWar": 1,
       "commerce": 4,
       "diplomacy": 8,
       "loyal": 4,
