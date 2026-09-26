@@ -68,6 +68,44 @@
 	},
 
 	{
+		"name": "Neo-Babylonia",
+		"leaderName": "Nabopolassar",
+		"adjective": ["Babylonian"],
+		"startBias": ["River"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "Rivers of wealth flow to the center of the world – Babylon, where all peoples gather. The azure gates reflect Ishtar's favor, and the gardens of splendor showcase the bounty of Marduk. Towers stretch from the horizon to the zenith of heaven, so all may behold Babylon's glory. Assemble your qašti and defend each brick and stone, for here lies the foundation of all beauty.",
+		"startIntroPart2": "",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"hateHello": "",
+		"afterPeace": "",
+		"tradeRequest": "",
+		"denounced": "",
+		"declaringfriendship": "",
+
+		"spyNames": ["Ibni-Ištar","Lū-balṭat","Aḫḫū-ṭābū","Nanāya-rīšat","Adad-dayyānu","Bēlessunu","Arad-ili-rabî","Esagil-ramât","Gimil-Gula","Qudāšu"],
+
+		"outerColor": [113,160,238],
+		"innerColor": [1,42,108],
+		"uniqueName": "City at the Center of the World",
+		"uniqueText":"-50% Production when constructing [Settler] units in all cities\n+50& [Gold] cost of purchasing [Settler] units\n[+1] population [in this city] <upon constructing [Food] building, [Culture] building or Wonder [in this city]>",
+		"uniques": ["[-50]% Production when constructing [Settler] units [in all cities]",
+					"[Gold] cost of purchasing [Settler] units [+50]%",
+					"[+1] population [in this city] <upon constructing [Food] [in this city]>",
+					"[+1] population [in this city] <upon constructing [Culture] [in this city]>",
+					"[+1] population [in this city] <upon constructing [Wonder] [in this city]>",],
+		"cities": ["Babylon","Ur","Nippur","Uruk","Lagaš","Akkad","Garšana","Harran","Dur-anki","Dur-Kurigalzu",
+			"Umma","Larak","Ešnunna","Borsippa","Zarpan","Maškan-šāpir","Isin","Sippar","Ḫindānu","Zarātu",
+			"Kûtu","Girsu","Ereš","Susa"]
+	},
+
+	{
 		"name": "Qart Hashdat",
 		"leaderName": "Hannibal Barca",
 		"adjective": ["Carthaginian"],
@@ -140,6 +178,42 @@
 		"cities": ["Waset","Men-nefer","Akhenaten","Djedet","Djanet","Behdet","Nekheb","Khemenu","Nekhen","Gebtu",
 			"Tjenu","Per-Atum","Abdju","Zau","Ipu","Khito","Swenet","Per-Hathor","Abu","Hut-waret",
 			"Djerty","Per-Bast","Nubt","Thonis"]
+	},
+
+	{
+		"name": "Gauls",
+		"leaderName": "Brennus",
+		"adjective": ["Gallic"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "Aedui, Arverni, Veneti - with fearsome trumpets and heavy swords, all the Gauls gather. The smiths have crafted the silver torques, and the druids have given their blessing. Now bold they stand, humming with fury, eager to claim all lands for their own. Come, take up the carnyx and lead them forth. The world belongs to the Gauls.",
+		"startIntroPart2": "",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"hateHello": "",
+		"afterPeace": "",
+		"tradeRequest": "",
+		"denounced": "",
+		"declaringfriendship": "",
+
+		"spyNames": ["Epponnus","Carva","Urvoedus","Iurca","Camulo","Matta","Corius","Vectinia","Votornus","Banona"],
+
+		"outerColor": [22,100,47],
+		"innerColor": [125,236,227],
+		"uniqueName": "Favor of Cernnunos",
+		"uniqueText":"+2 [Production] in cities that are at least 6 tiles away from the closest city you own\n+2 [Gold] in cities that are within 6 tiles of a city you don't own",
+		"uniques": ["[+2 Production] [in this city] <within [900] tiles of a [{Gaul}{City center}]>",
+					"[-2 Production] [in this city] <within [5] tiles of a [{Gaul}{City center}]>",
+					"[+2 Gold] [in this city] <within [6] tiles of a [{non-[Gaul]}{City center}]>"],
+		"cities": ["Bibracte","Alesia","Narbo","Gergovia","Ruscoialum","Massillia","Autricum","Cenabum","Lemonum","Ratiatum",
+			"Condate","Nantum","Nemesia","Carovicus","Briva Curretia","Brixia","Illiberis","Carsac","Montfau","Latera",
+			"Coccacus","Nemausos","Segodunum","Turnacum"]
 	},
 
 	{
@@ -605,6 +679,43 @@
 		"cities": ["Gangaikonda Cholapuram","Pazhayarai","Thanjavur","Uraiyuir","Nagapattinam","Kanchipuram","Madurai","Karur","Talakkad","Mahodaiyapuram",
 			"Kollam","Kantalur-Salai","Talakadu","Vengi","Mahabalipuram","Vasavasamudram","Arikamedu","Kaveripatnam","Tondi","Periyapattinam",
 			"Rameswaram","Devipattinam","Alagankulam","Korkal"],
+	},
+
+	{
+		"name": "Kingdom of England",
+		"leaderName": "Elizabeth I",
+		"adjective": ["English"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "The shawm cries out and England casts off into the wild main. Charters in hand, the intrepid fill cargo holds with luxuries and maps with opportunities. At home, the minds of the people soar as scientific empiricism vies with the theater’s imagination. Grasp the ship’s wheel or the playwright’s pen, and set England’s course.",
+		"startIntroPart2": "Queen Elizabeth, fair Lady of virtue, the brightest minds of your court cannot match your wit. With grace, you inspire playwrights; with cunning, you deploy your merchants. On the open waves, your Sea Dogs use a more direct approach. Step onto the world's stage and prove the merit of a woman. Long live the Queen!",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"hateHello": "",
+		"afterPeace": "",
+		"tradeRequest": "",
+		"denounced": "",
+		"declaringfriendship": "",
+
+		"spyNames": ["Richard","Joan","Michael","Catherine","Christopher","Elinor","Samuel","Margery","Edmund","Susanna"],
+
+		"outerColor": [22,100,47],
+		"innerColor": [125,236,227],
+		"uniqueName": "Magna Carta",
+		"uniqueText":"+1 [Culture] from [Gold] buildings in this city, doubles on foreign continents\n+1 [Gold] from [Culture] buildings in this city, doubles on foreign continents",
+		"uniques": ["[+1 Culture] from all [Gold] buildings <in this city>",
+					"[+1 Gold] from all [Culture] buildings <in this city>",
+					"[+1 Culture] from all [Gold] buildings <in this city> <on foreign continents>",
+					"[+1 Gold] from all [Culture] buildings <in this city> <on foreign continents>"],
+		"cities": ["London","Norwich","Coventry","Exeter","Salisbury","Ipswich","King's Lynn","Reading","Bury St Edmunds","York",
+			"Worcester","Gloucester","Hereford","Great Yarmouth","Hull","Southampton","Shrewsbury","Oxford","Leicester","Cambridge",
+			"Lavenham","Totnes","Wisbech","Hadleigh"]
 	},
 
 	{
