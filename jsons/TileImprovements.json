@@ -10,6 +10,21 @@
         "civilopediaText": [ {"text": "In Aksum, kingship was linked with religion, as kings were seen as the descendants of Astar, the principal god of the region. Before Aksum’s conversion to Christianity in the fourth century CE, royal tombs were marked by hawilt, large obelisks. These were decorated with false windows and doors, a type of vertical palatial skyscraper for the dead king. The obelisks were a source of ire for Aksum’s first Christian king, Ezana, who ended the practice, even though his own grave was marked with a hawilt. As a result, much of the original religious or social functions of these objects has been lost. Remaining hawilt number in the hundreds, including the Great Stele and King Ezana’s Stele."}, {"separator": true}],
         "shortcutKey": "H"
     },
+    {
+        "name": "Kirimāḫu",
+        "uniqueTo": "Neo-Babylonia",
+        "terrainsCanBeBuiltOn": ["Fresh water"],
+        "food": 1,
+        "turnsToBuild": 7,
+        "techRequired": "Agriculture",
+        "uniques": ["[+1 Food] from [River] tiles",
+                    "[+1 Food] for each adjacent [Great Improvment]",
+                    "[+1 Happiness] <in tiles adjacent to [Great Improvment] tiles>",
+                    "Unavailable <within [2] tiles of a [Kirimāḫu]>",
+                    "Pillaging this improvement yields approximately [+25 Gold]"],
+        "civilopediaText": [ {"text": "Like many of the Mesopotamian cultures in Antiquity, Babylonian kings and elites enjoyed the presence of nature for contemplation and relaxation. These pleasure gardens, the kirimāḫu, were typically located outside of the palace but still within the surrounding grounds. Some cities had larger-scale gardens located in the outskirts that functioned more like a wildlife park and botanical garden, the most famous example of which was in Nineveh, the capital of Assyria that fell to the Babylonians in 612 BCE. In Babylon’s city center, we know of one specific space called the 'Juniper Garden' (kirî burāši) that was situated between two temples and enclosed a library and 'House of Deliberation', among other structures. \nThe water required for these gardens was channeled through a complex network of canals that transported water from the Euphrates River. Evidence for these canals dates back to the mid-2nd millennium BCE in the Old Babylonian period, showing the advanced engineering skills Babylon developed to support the agricultural needs of its population and later the aesthetic desires of its elites."}, {"separator": true}],
+        "shortcutKey": "H"
+    },
   {
         "name": "Han Great Wall",
         "uniqueTo": "Han",
