@@ -36,6 +36,24 @@
 	},
 
 	{
+		"name": "Qašti",
+		"replaces": "Archer",
+		"uniqueTo": "Neo-Babylonia",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 5,
+		"rangedStrength": 7,
+		"cost": 40,
+		"requiredTech": "Archery",
+		"obsoleteTech": "Construction",
+		"upgradesTo": "Composite Bowman",
+		"uniques": ["[-30]% production cost <if [Shrine] is constructed in at least [2] of [your] cities>"],
+		"promotions": ["[Qašti] ability"],
+		"civilopediaText": [ {"text": "Babylonian archers, or qašti (lit: (men) of the bow), were primarily sourced from temples during times of war. In Babylonian society, the military was predominantly composed of men who had full-time roles in society outside of active military campaigns, and this was true for temple archers as well. Should it be peacetime, these men would have been employed as shepherds, farmers, or other such roles as temples had control over lands and required significant manpower to care for the temple and support its people. Many of these individuals were originally prisoners taken in war who were given to temples as workers and thus had little choice in their tasks. \nThe qašti were organized in decuries according to the men's peacetime role - a decury of shepherds, of gardeners, etc., and the command was given to a rab qašti, chief of the archers. Their bows were of both the Akkadian (slow but forceful) and Cimmerian (rapid fire) composite styles, and bowmakers were employed by the temple to craft and repair the qašti’s weaponry. They would have also been equipped with daggers, made by the temple’s smiths, and given a supply of about 50 arrows for which they were responsible."}, {"separator": true}],
+		"attackSound": "arrow"
+	},
+
+	{
         "name": "Colonist",
 		"replaces": "Settler",
         "uniqueTo": "Qart Hashdat",
@@ -65,6 +83,21 @@
         "hurryCostModifier": 20,
         "attackSound": "metalhit"
     },
+
+	{
+		"name": "Druid",
+		"replaces": "Settler",
+        "uniqueTo": "Gauls",
+		"unitType": "Civilian",
+		"movement": 4,
+		"cost": 106,
+		"requiredTech": "Agriculture",
+		"uniques": ["Comment [Cities founded by this unit nect to [Forest] gain +2 [Production]]",
+					"Comment [Cities founded by this unit nect to [Hill] gain +2 [Gold]]",
+			"Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction", "Requires at least [2] population"],
+		"civilopediaText": [ {"text": "In Gallic tribes, druids served the role of priest, lorekeeper, educator, and judge. They would have overseen ritual and been a source of guidance for decision-making through their skill in divination. For any instances of civic dispute, the druids would have heard the disagreement and offered judgment. They seem to have also been the teachers of the tribe, educating their members in science, religion, and tradition. A key characteristic of the druids’ practice was a focus on memorization over written records, leading to our very limited examples of written material in the Gaulish language. \nAcross tribes, druids served as a kind of council for inter-tribal decisions. We know from Caesar that the druids met annually in a central location to decide larger disputes, and he reports that their decisions held across tribes, suggesting they were the highest level of authority in Gallic society. They did not participate in battle, but Diodorus Siculus reports that they could intervene on a battlefield for the purpose of peace, their very presence a force of neutrality. \nOur Roman sources, from which we get most of our information about druids, variously reported a Gallic practice of ritual execution which the druids would have overseen. This seems to have been partially related to punishment for some crime, but in some cases, ritual sacrifice of an innocent victim seems to have taken place, particularly in cases of communal danger. It is difficult to determine the frequency of the practice, as the Romans had ample reason to paint the Gauls as inhumane. Archaeological evidence for ritual murder has been found throughout Celtic Europe though it is rare, suggesting the practice existed only in specific ritual cases rather than as a norm."}, {"separator": true}],
+		"hurryCostModifier": 20
+	},
 
 	{
         "name": "Phalanx",
@@ -322,6 +355,21 @@
         "obsoleteTech": "Steam Power",
         "attackSound": "nonmetalhit"
     },
+
+	{
+		"name": "Merchant Adventurer",
+		"replaces": "Great Merchant",
+        "uniqueTo": "Kingdom of England",
+		"unitType": "Civilian",
+		"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence",
+            "Can instantly construct a [Customs house] improvement <by consuming this unit>",
+			"Gain control over [Coastal] tiles in a [1]-tile radius <[2] times> <after which this unit is consumed>",
+            "Is part of Great Person group [Great Person]",
+            "[This Unit] gets a name from the [Merchant] group",
+			"Great Person - [Gold]", "Unbuildable", "Uncapturable"],
+		"civilopediaText": [ {"text": "The expansion of English trade by the 15th century increasingly united merchants into companies to better organize, fund, and profit from overseas business. The earliest of these merchant adventurers specialized in the export of cloth to the Netherlands and Germany, often clashing with the Hanseatic League that had long dominated trade across Northern Europe. At their height, merchant adventurers controlled up to three-quarters of all foreign trade, and had significant influence at court, acting as financiers for the Tudor monarchs. Later ventures expanded English presence to more distant shores – Russia, the Middle East, the New World – building the infrastructure, both in colonies and trading companies, for the future British Empire."}, {"separator": true}],
+		"movement": 2
+	},
 
 	{
 		"name": "Tobang",
