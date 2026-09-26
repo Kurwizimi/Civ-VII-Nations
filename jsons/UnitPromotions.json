@@ -3,6 +3,10 @@
         "name": "[Magarru] ability",
        "uniques": ["[This Unit] gains [2] movement <upon damaging a [Land] unit>"]
     },
+         {
+        "name": "[Qašti] ability",
+       "uniques": ["[+10]% Strength <for every adjacent [Great Improvment]>","[+15]% Strength <for every adjacent [City center]>"]
+    },
        
        {
         "name": "[Medjay] ability",
