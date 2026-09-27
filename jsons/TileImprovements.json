@@ -13,7 +13,7 @@
     {
         "name": "Kirimāḫu",
         "uniqueTo": "Neo-Babylonia",
-        "terrainsCanBeBuiltOn": ["Land5"],
+        "terrainsCanBeBuiltOn": ["Land"],
         "food": 1,
         "turnsToBuild": 7,
         "techRequired": "Agriculture",
