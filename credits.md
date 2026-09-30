@@ -34,17 +34,21 @@ Improvements
 - STEPWELL - indian stepwell by Line & Dot Studio from <a href="https://thenounproject.com/browse/icons/term/indian-stepwell/" target="_blank" title="indian stepwell Icons">Noun Project</a> (CC BY 3.0)
 - HIGHLAND POWER STATION - Hydroelectric Energy by Kamin Ginkaew from <a href="https://thenounproject.com/browse/icons/term/hydroelectric-energy/" target="_blank" title="Hydroelectric Energy Icons">Noun Project</a> (CC BY 3.0)
 - OBSHCHINA - Farm by IconMark from <a href="https://thenounproject.com/browse/icons/term/farm/" target="_blank" title="Farm Icons">Noun Project</a> (CC BY 3.0)
-- Jinja - fushimini inari shrine gate by Moondried from <a href="https://thenounproject.com/browse/icons/term/fushimini-inari-shrine-gate/" target="_blank" title="fushimini inari shrine gate Icons">Noun Project</a> (CC BY 3.0)
+- JINJA - fushimini inari shrine gate by Moondried from <a href="https://thenounproject.com/browse/icons/term/fushimini-inari-shrine-gate/" target="_blank" title="fushimini inari shrine gate Icons">Noun Project</a> (CC BY 3.0)
+- KIRIMAHU - sakura by Azam Ishaq from <a href="https://thenounproject.com/browse/icons/term/sakura/" target="_blank" title="sakura Icons">Noun Project</a> (CC BY 3.0)
+- GOBEN - Blacksmith by Firza Alamsyah from <a href="https://thenounproject.com/browse/icons/term/blacksmith/" target="_blank" title="Blacksmith Icons">Noun Project</a> (CC BY 3.0)
 
 
 Buildings
 - VIHARA - Pagoda by Ahmad Roaayala from <a href="https://thenounproject.com/browse/icons/term/pagoda/" target="_blank" title="Pagoda Icons">Noun Project</a> (CC BY 3.0)
+- DUNON - yard by Adrien Coquet from <a href="https://thenounproject.com/browse/icons/term/yard/" target="_blank" title="yard Icons">Noun Project</a> (CC BY 3.0)
 - PUNIC PORT - Harbor by Andhi Yulianto from <a href="https://thenounproject.com/browse/icons/term/harbor/" target="_blank" title="Harbor Icons">Noun Project</a> (CC BY 3.0)
 - ACROPOLIS - acropolis by Wuppdidu from <a href="https://thenounproject.com/browse/icons/term/acropolis/" target="_blank" title="acropolis Icons">Noun Project</a> (CC BY 3.0)
 - FORUM - Pillar by Anton from <a href="https://thenounproject.com/browse/icons/term/pillar/" target="_blank" title="Pillar Icons">Noun Project</a> (CC BY 3.0)
 - AVJUVVANAM - chennai by Lars Meiertoberens from <a href="https://thenounproject.com/browse/icons/term/chennai/" target="_blank" title="chennai Icons">Noun Project</a> (CC BY 3.0)
 - NECROPOLIS - temple of seti by Brickclay from <a href="https://thenounproject.com/browse/icons/term/temple-of-seti/" target="_blank" title="temple of seti Icons">Noun Project</a> (CC BY 3.0)
 - PURA - pura by alifiyah fitri nurisa from <a href="https://thenounproject.com/browse/icons/term/pura/" target="_blank" title="pura Icons">Noun Project</a> (CC BY 3.0)
+- PARISH - parish by Laurent Généreux from <a href="https://thenounproject.com/browse/icons/term/parish/" target="_blank" title="parish Icons">Noun Project</a> (CC BY 3.0)
 - PLAZA - plaza mayor by Brickclay from <a href="https://thenounproject.com/browse/icons/term/plaza-mayor/" target="_blank" title="plaza mayor Icons">Noun Project</a> (CC BY 3.0)
 - FINANCIAL CENTRE - Pound by Singlar from <a href="https://thenounproject.com/browse/icons/term/pound/" target="_blank" title="Pound Icons">Noun Project</a> (CC BY 3.0)
 - DONJON - Norman Tower by József Balázs-Hegedüs from <a href="https://thenounproject.com/browse/icons/term/norman-tower/" target="_blank" title="Norman Tower Icons">Noun Project</a> (CC BY 3.0)
