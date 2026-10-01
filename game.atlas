@@ -4,6 +4,13 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+BuildingIcons/Abbey
+  rotate: false
+  xy: 4, 1720
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Acropolis
   rotate: false
   xy: 1031, 1830
@@ -39,13 +46,6 @@ BuildingIcons/Donjon
   orig: 90, 90
   offset: 0, 0
   index: -1
-BuildingIcons/Dūnon
-  rotate: false
-  xy: 320, 1928
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 BuildingIcons/Ekallu
   rotate: false
   xy: 608, 1741
@@ -65,6 +65,13 @@ BuildingIcons/Forum
   xy: 314, 1349
   size: 90, 90
   orig: 90, 90
+  offset: 0, 0
+  index: -1
+BuildingIcons/Goben
+  rotate: false
+  xy: 536, 1928
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Hammam
@@ -114,13 +121,6 @@ BuildingIcons/Necropolis
   xy: 510, 859
   size: 90, 90
   orig: 90, 90
-  offset: 0, 0
-  index: -1
-BuildingIcons/Parish
-  rotate: false
-  xy: 4, 748
-  size: 100, 100
-  orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Plaza
@@ -207,18 +207,18 @@ ImprovementIcons/Caravanaserai
   orig: 90, 90
   offset: 0, 0
   index: -1
+ImprovementIcons/Dūnon
+  rotate: false
+  xy: 4, 1504
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 ImprovementIcons/Gama
   rotate: false
   xy: 412, 1447
   size: 90, 90
   orig: 90, 90
-  offset: 0, 0
-  index: -1
-ImprovementIcons/Goben
-  rotate: false
-  xy: 4, 1396
-  size: 100, 100
-  orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Han Great Wall
@@ -251,14 +251,14 @@ ImprovementIcons/Jaguar Trap
   index: -1
 ImprovementIcons/Jinja (Land)
   rotate: false
-  xy: 644, 1928
+  xy: 4, 1180
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Jinja (Sea)
   rotate: false
-  xy: 644, 1928
+  xy: 4, 1180
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -272,7 +272,7 @@ ImprovementIcons/Kabaka's Lake
   index: -1
 ImprovementIcons/Kirimāḫu
   rotate: false
-  xy: 4, 1072
+  xy: 860, 1928
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -370,7 +370,7 @@ NationIcons/Buganda
   index: -1
 NationIcons/Bulgaria
   rotate: false
-  xy: 4, 1720
+  xy: 212, 1928
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -384,7 +384,7 @@ NationIcons/Castile
   index: -1
 NationIcons/Chola
   rotate: false
-  xy: 212, 1928
+  xy: 4, 1612
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -398,14 +398,14 @@ NationIcons/Devlet-i ʿAlīye-i ʿOsmānīye
   index: -1
 NationIcons/Gaul
   rotate: false
-  xy: 4, 1504
+  xy: 428, 1928
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Goryeo
   rotate: false
-  xy: 536, 1928
+  xy: 4, 1288
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -433,7 +433,7 @@ NationIcons/Hawai'i
   index: -1
 NationIcons/Heian Japan
   rotate: false
-  xy: 4, 1288
+  xy: 644, 1928
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -468,7 +468,7 @@ NationIcons/Imperial Russia
   index: -1
 NationIcons/Joseon
   rotate: false
-  xy: 4, 1180
+  xy: 752, 1928
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -496,7 +496,7 @@ NationIcons/Ki'iche
   index: -1
 NationIcons/Kingdom of England
   rotate: false
-  xy: 752, 1928
+  xy: 4, 1072
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -517,14 +517,14 @@ NationIcons/Maurya
   index: -1
 NationIcons/Meiji Japan
   rotate: false
-  xy: 860, 1928
+  xy: 4, 964
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Mexico
   rotate: false
-  xy: 968, 1928
+  xy: 4, 856
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -538,14 +538,14 @@ NationIcons/Ming
   index: -1
 NationIcons/Mississipi
   rotate: false
-  xy: 4, 856
+  xy: 1076, 1928
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Neo-Babylonia
   rotate: false
-  xy: 1076, 1928
+  xy: 4, 748
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -1161,7 +1161,7 @@ UnitIcons/Dhow
   index: -1
 UnitIcons/Druid
   rotate: false
-  xy: 4, 1612
+  xy: 320, 1928
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -1175,7 +1175,7 @@ UnitIcons/Garde Impériale
   index: -1
 UnitIcons/Geobukseon
   rotate: false
-  xy: 428, 1928
+  xy: 4, 1396
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -1308,7 +1308,7 @@ UnitIcons/Medjay
   index: -1
 UnitIcons/Merchant Adventurer
   rotate: false
-  xy: 4, 964
+  xy: 968, 1928
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
