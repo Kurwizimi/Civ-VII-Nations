@@ -43,6 +43,18 @@
 	},
 
 	{
+		"name": "Goben",
+		"replaces": "Walls",
+		"uniqueTo": "Gaul",
+		"cityStrength": 5,
+		"cityHealth": 50,
+		"hurryCostModifier": 25,
+		"requiredTech": "Masonry",
+		"civilopediaText": [ {"text": "A central part of Gallic settlements was the metalsmithing workshop, or goben, the Gallic word for a blacksmith. Gallic artisans were well-known for their craftsmanship and creativity, and within Gallic society, they were highly valued, holding a high place in the social hierarchy. Using metals like iron, bronze, and gold, Gallic smiths created common items used by the general population, both domestic and military, as well as ornate works of art, many of which have been found in graves and in lakes like at La Tène. In addition, metalworking was a significant element of the Gallic economy, forming the foundation of trade both between Gallic tribes and externally with other cultural groups. Gauls would export their craftsmanship in exchange for items like Greek pottery and Etruscan ceramics. \nDuring the Halstatt and early La Tène periods, the goben would typically be placed on the hilltop in the center of the settlement as part of the enclosure. In the late La Tène period and after, workshops moved to the outskirts as settlements shifted their use of space and expanded the fortified area. While the goben was a consistent element of Gallic settlements and we translate the word as “blacksmith,” there were many different kinds of metalworking skills used to create the breadth of objects we are fortunate to have recovered. It’s likely that settlements would have specialized into particular metalcrafts depending on their resources at hand and their specific artisans."}, {"separator": true}],
+		"uniques": ["Creates a [Dūnon] improvement on a specific tile", "Destroyed when the city is captured"]
+	},
+
+	{
 		"name": "Acropolis",
 		"replaces": "Amphitheater",
 		"uniqueTo": "Hellas",
@@ -128,6 +140,7 @@
 					"[+2 Science, +1 Gold] from every specialist [in this city]"],
         "requiredTech": "Education"
     },
+	
 	{
 		"name": "Anjuvannam",
 		"replaces": "Bank",
@@ -140,6 +153,22 @@
 		"uniques": ["[+50]% Production when constructing [Water] units [in this city]"],
 		"specialistSlots": {"Merchant": 1},
 		"requiredTech": "Banking"
+	},
+
+	{
+		"name": "Abbey",
+		"replaces": "Temple",
+		"uniqueTo": "Kingdom of England",
+		"faith": 3,
+		"requiredBuilding": "Shrine",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Guilds",
+		"civilopediaText": [ {"text": "An abbey is a type of monastery following a particular religious order. Led by an abbot or abbess, the medieval English abbey was built around a church or cathedral, featuring the chapter house, refectory (the dining hall), cloister and garth (a central open-air courtyard), dormitories, library, and sometimes a scriptorium (where manuscripts were written and copied). \nAbbeys were originally secluded, self-sufficient retreats for those wishing to devote their lives to the church. But they increasingly became institutions that also served the surrounding lay community through charity, religious service, education, and the production and sale of goods. As major landowners in England, abbeys profited greatly from the towns that grew up around them. The Reformation brought their age to a crashing end when Henry VIII violently shut down hundreds of monasteries, priories, and abbeys, seizing their assets and executing those who resisted."}, {"separator": true}],
+		"uniques": ["Comment [Unlocked later at [Guilds] vs [Philosophy]]",
+					"Comment [+1 [Culture], +1 [Gold] in this city for every one of your cities following your religion]",
+			"[+1 Culture, +1 Gold] [in this city] <for every [[in all cities in which the majority religion is a major religion] Cities]> <hidden from users>",
+			"Only available <when religion is enabled>", "Destroyed when the city is captured"]
 	},
 
 	{
