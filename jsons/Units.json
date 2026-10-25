@@ -47,7 +47,7 @@
 		"requiredTech": "Archery",
 		"obsoleteTech": "Construction",
 		"upgradesTo": "Composite Bowman",
-		"uniques": ["[-30]% production cost <if [Shrine] is constructed in at least [2] of [your] cities>"],
+		"uniques": ["Comment [+30% [Production] towards building this unit in cities with a [Shrine]]"],
 		"promotions": ["[Qašti] ability"],
 		"civilopediaText": [ {"text": "Babylonian archers, or qašti (lit: (men) of the bow), were primarily sourced from temples during times of war. In Babylonian society, the military was predominantly composed of men who had full-time roles in society outside of active military campaigns, and this was true for temple archers as well. Should it be peacetime, these men would have been employed as shepherds, farmers, or other such roles as temples had control over lands and required significant manpower to care for the temple and support its people. Many of these individuals were originally prisoners taken in war who were given to temples as workers and thus had little choice in their tasks. \nThe qašti were organized in decuries according to the men's peacetime role - a decury of shepherds, of gardeners, etc., and the command was given to a rab qašti, chief of the archers. Their bows were of both the Akkadian (slow but forceful) and Cimmerian (rapid fire) composite styles, and bowmakers were employed by the temple to craft and repair the qašti’s weaponry. They would have also been equipped with daggers, made by the temple’s smiths, and given a supply of about 50 arrows for which they were responsible."}, {"separator": true}],
 		"attackSound": "arrow"
