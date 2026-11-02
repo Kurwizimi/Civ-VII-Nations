@@ -31,7 +31,7 @@
         
          {
         "name": "[Yumi] ability",
-        "uniques": ["[+25]% Strength <when above [2] movement>",
+        "uniques": ["[+15]% Strength <when above [2] movement>",
                     "[+15]% Strength <when above [1] movement>"]
     },
         
@@ -172,7 +172,14 @@
 
        {
         "name": "[Prussian Hussar] ability",
-        "uniques": ["[+60]% Strength <if it hasn't used other actions yet>"]
+        "uniques": ["[+10]% Strength <when above [1] movement>",
+                    "[+10]% Strength <when above [2] movement>",
+                    "[+10]% Strength <when above [3] movement>",
+                    "[+10]% Strength <when above [4] movement>",
+                    "[+10]% Strength <when above [5] movement>",
+                    "[+10]% Strength <when above [6] movement>",
+                    "[+10]% Strength <when above [7] movement>",
+                    "[+10]% Strength <when above [8] movement>"]
     },
 
        {
@@ -196,17 +203,4 @@
         "name": "Siege Train",
         "uniques": ["[+2] Movement <when number of [Destroyed Defences] is more than [0]> <hidden from users>", "Comment [+2 Movement for 2 turns after conquering a city]"]
     },
-        
-        
-
-
-
-
-
-
-
-
-
-
-
 ]
