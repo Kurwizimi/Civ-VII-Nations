@@ -127,14 +127,10 @@
     },
 
         {
-        "name": "Kabunakama I",
+        "name": "Kabunakama",
         "uniques": ["Comment [1 unit defeated, 2 more units needed for upgrade]"]
     },
-        {
-        "name": "Kabunakama II",
-        "uniques": ["Comment [2 units defeated, 1 more unit needed for upgrade]"]
-    },
-
+        
        {
         "name": "[Golden Bangles] ability",
        "uniques": ["[+15]% Strength <for every adjacent [Luxury resource]>", "[+10]% Strength <for every adjacent [Strategic resource]>", "[+5]% Strength <for every adjacent [Bonus resource]>"]
