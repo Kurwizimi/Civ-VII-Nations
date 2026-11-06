@@ -225,7 +225,7 @@
 		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "The people gather together, debating music and politics, poetry and law--envisioning how to build a Greece that will last for ages. \nThe city-states of Hellas were a constellation of powers, each with a rich history – militaristic Sparta, intellectual Athens, wealthy Corinth, far-off Syracuse. Fractious in their alliances, they were briefly united only once, under Alexander of Macedon. Though subsumed into the Roman Empire, the Greek cities influenced Roman religion and thought, the math and science of the Islamic Golden Age, and even the founding ideas of American democracy.",
-		"startIntroPart2": "",
+		"startIntroPart2": "Sing, Muse, of the King of the World, the Hero of Hellas, Son of Zeus and Ammon. From the hills of Macedonia to the edges of Oceanus, your name will mark the bounds of civilization. Take the reins, Aléxandros. Lead the charge and fulfill your fate",
 		
 		"declaringWar": "I am conquering the world. You are part of the world.",
 		"attacked": "Excellent! Enemies who strike first fall all the faster.",
@@ -290,7 +290,7 @@
 		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "The court of Heian Japan is best seen by the light of the clouded moon. Its poets write of love and the seasons, sorrow and the beauty of the court life. Take up the poet's brush, and write in praise of shadow.",
-		"startIntroPart2": "Oh holy Sirakawa. You have ascended to the throne 1073 after the abdication of your father. During your reign, you witnessed the rise of Buddhism and the piety of the devouted accross your empire. So after the unfortunate death of your daughter, you abdicated the throne to live in seclusion in a monestary. But you didnt fully let go from the reigns of power, and thanks to your master puppeteering, you maintained effective contol over the enirety of Japan, forcing the next emperors to just be mere mouthpeices for your ideals. Now the Japanese call back to you and your skills. Can you create an empire of pristine beauty out of a world of dirt? Can you revive the cultured works of the past? Can you build a civilization that will stand the test of time?",
+		"startIntroPart2": "O holy Sirakawa. You have ascended to the throne 1073 after the abdication of your father. During your reign, you witnessed the rise of Buddhism and the piety of the devouted accross your empire. So after the unfortunate death of your daughter, you abdicated the throne to live in seclusion in a monestary. But you didnt fully let go from the reigns of power, and thanks to your master puppeteering, you maintained effective contol over the enirety of Japan, forcing the next emperors to just be mere mouthpeices for your ideals. Now the Japanese call back to you and your skills. Can you create an empire of pristine beauty out of a world of dirt? Can you revive the cultured works of the past? Can you build a civilization that will stand the test of time?",
 		
 		"declaringWar": "Just because I rule from a monestary does not mean I do not know how to fight! ",
 		"attacked": "Your 'empire' is a blight on the worlds natural beauty. Let the Heian teach you how to actually rule!",
@@ -574,7 +574,7 @@
 		"outerColor": [164,3,6],
 		"innerColor": [255,240,230],
 		"uniqueName": "Lords of the South",
-		"uniques": ["Comment [Gain 30 [Culture] upon discovering a [City center], increasing by 20 [Culture] each age <(modified by game speed)>]",
+		"uniques": ["Comment [Gain 30 [Culture] upon discovering a [City center], increasing by 20 [Culture] each age (modified by game speed)]",
 					"[All] units gain the [Tu'i Tonga] promotion <hidden from users>",
 					"Enables [Scout] units to enter ocean tiles <hidden from users>"],
 		"cities": ["Lapaha","Toloa","Heketā","Mu'a","Tatakamotonga","Nukuleka","Fakatefenga","Mele Havea","Vaipuna","Tongoleleka",
@@ -823,7 +823,7 @@
 		"startBias": ["Coast", "Tundra", "Grassland"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "",
+		"startIntroPart1": "From the rugged north, the Icelanders burst forth on dragon-headed ships with Óðinn on their side. No shore is spared the fury of Norse warriors. Their ample spoils adorn longhouse walls, their deeds are made immortal by saga-writers and skalds. Ready your axe and raise your oar – the Viking Age begins.",
 		"startIntroPart2": "",
 		
 		"declaringWar": "Your shores shall burn, and your cities shall be destroyed!",
@@ -842,7 +842,7 @@
 		"outerColor": [92,77,217],
 		"innerColor": [195,195,195],
 		"uniqueName": "Kringla Heimsins",
-		"uniques": ["Comment [Gain 70 [Culture] upon discovering a [Natural Wonder], increasing by 30 [Culture] each age <(modified by game speed)>]",
+		"uniques": ["Comment [Gain 70 [Culture] upon discovering a [Natural Wonder], increasing by 30 [Culture] each age (modified by game speed)]",
 					"[All] units gain the [Þjóðveldið] promotion <hidden from users>",
 					"Comment [Water units gain the [Supply] status for 5 turns upon losing at least 10 HP in a single attack]"],
 		"cities": ["Skálaholt","Hólar","Borg","Hof","Tung","Möðruvellir","Oddi","Mosfell","Helgafell","Hjarðarholt",
@@ -1087,7 +1087,7 @@
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "",
+		"startIntroPart1": "In Sengoku Japan, power belongs to the bold. In the chaos of conflict, the lowliest Ashigaru can rise to the title of Samurai, and the minor lord can dream of becoming Shogun - provided one survives the storm. The time has come to make a name for yourself.",
 		"startIntroPart2": "Toyotomi Hideyoshi, you have risen from farmer’s son to ruler. Though others may mock your station and your appearance, none dare do so to your face. Through sheer force of will, your rivals are forced back, and in their wake you extend your grasp. Kanpaku Hideyoshi, seize the moment, and raise your banner.",
 		
 		"declaringWar": "If you won't listen to me, so be it. Get cut down by my blade if you so wish",
@@ -1421,7 +1421,7 @@
 		"startBias": ["Desert","Plains"],
 		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "",
+		"startIntroPart1": "As Mexico makes its break with the old world, it faces new challenges, both internal and external. In the Zócalo, in the stateroom, and in clandestine meetings of revolutionaries, its future is constantly being formed and re-formed, but its soul remains. Let that soul sing.",
 		"startIntroPart2": "",
 		
 		"declaringWar": "",
@@ -1461,7 +1461,7 @@
 		"startBias": ["Avoid [Hill]","Avoid [Tundra]"],
 		"preferredVictoryType": "Diplomatic",
 		
-		"startIntroPart1": "",
+		"startIntroPart1": "From the Peacock Throne, the Mughals oversee lands sprawling and rich, decadent and earnest, where architects dream of wonders and commoners dream of bread. Its contrasts are yours - give the order",
 		"startIntroPart2": "",
 		
 		"declaringWar": "You are clearly not fit for an agent of God. In his holy name I shall end your rule! Allah u Akbar!",
@@ -1674,7 +1674,7 @@
 		"startBias": ["Tundra"],
 		"preferredVictoryType": "Diplomatic",
 		
-		"startIntroPart1": "",
+		"startIntroPart1": "From the northern edges of the Chinese world come the Manchu, the Qing Dynasty of China. The mandarins of the court administer vast territories, their artists produce marvels that are the envy of the world, and their gusa defend the land against all who would seek to claim their mandate. Let the world remember the Qing.",
 		"startIntroPart2": "",
 		
 		"declaringWar": "",
