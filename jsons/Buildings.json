@@ -8,8 +8,8 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Masonry",
 		"civilopediaText": [ {"text": "The Assyrian ekallu, or palace, was a complex for both royal residence and political function. They were imposing centers that balanced public and private spaces – they included reception halls and a throne room for visitors, administrative offices for officials, and gardens and dwellings for the king and his family. Buildings were richly decorated according to each space’s intended audience. Statues of creatures like lions and human-animal hybrids flanked gates and entrances, and painted reliefs adorned the walls. In diplomatic spaces, their subjects were royal in nature, such as court scenes and lion hunts, while private spaces focused on mythological or religious sequences."}, {"separator": true}],
-		"uniques": ["[+1 Production] from every [Culture] <in this city> <hidden from users>",
-					"Comment [+1 [Production] from every [Culture] building in this city]",
+		"uniques": ["[+2 Production] from every [{non-[Wonder]} {Culture}] <in this city> <hidden from users>",
+					"Comment [+2 [Production] from every [Culture] building in this city]",
 					"Destroyed when the city is captured"]
 	},
 	
@@ -70,15 +70,16 @@
 	},
 	
 	{
-		"name": "Vihara",
+		"name": "Matha",
 		"replaces": "Temple",
 		"uniqueTo": "Maurya",
 		"cost": 100,
 		"hurryCostModifier": 160,
 		"faith": 2,
+		"happiness": 1,
 		"requiredBuilding": "Shrine",
-		"civilopediaText": [ {"text": "The rainy season poses a special problem for Buddhist monks. Prohibited from taking life, monks had to exercise special caution navigating paths and avoid stepping on the insects that proliferated during this time of year. With this in mind, many Theravada Buddhist monks retreated to a special hall – a vihara – during the rains. At least, this is the theological interpretation. Practically, rain retreats and special quarters for monks allowed the monastic community to persist, cultivate discipline (or reinforce orthodoxy), and focus on the individual education of monks and novices. Even in the dry season, viharas are places of communal gathering for Buddhist monks, where a lot of the business of the monastery takes place. \nDuring the Maurya period, viharas could be rest stops for travelers, even those of non-religious orientations. But under Ashoka, these more pleasure-oriented centers gave way to explicitly religious sites, often carved directly into the rock, as at Ellora. Ashoka even heavily promoted the gifts of goods and land to such religious viharas over the years."}, {"separator": true}],
-		"uniques": ["[+10]% [Happiness] [in this city]",
+		"civilopediaText": [ {"text": "A temple is often more than simply a temple. As Hindu and Jain temples grow larger, they fulfill more social functions and integrate into the community, becoming not only places of worship, but ones that offer services to all branches of society. Here, religious scholars are provided texts, technologies (e.g. medicine, sculpture, dance) are taught and studied, and the indigent or impoverished can receive help; temples may also function as communally-run spaces for agriculture and production. In the past, such places operated as a safety net in times of need, adding a human face to a world that, with wars and epidemics, disasters and uncertainty, could be harsh. These activities speak to the importance of working for the public good, and they occupy areas often managed by the state in the modern era. For example, universities, hospitals, and social welfare have become secularized today but were seen as a duty of religion in the past. \A temple is often more than simply a temple. As Hindu and Jain temples grow larger, they fulfill more social functions and integrate into the community, becoming not only places of worship, but ones that offer services to all branches of society. Here, religious scholars are provided texts, technologies (e.g. medicine, sculpture, dance) are taught and studied, and the indigent or impoverished can receive help; temples may also function as communally-run spaces for agriculture and production. In the past, such places operated as a safety net in times of need, adding a human face to a world that, with wars and epidemics, disasters and uncertainty, could be harsh. These activities speak to the importance of working for the public good, and they occupy areas often managed by the state in the modern era. For example, universities, hospitals, and social welfare have become secularized today but were seen as a duty of religion in the past."}, {"separator": true}],
+		"uniques": ["[+15] HP when healing <for [{Friendly} {Military}] units> <in this city> <during a Golden age>",
 					"Destroyed when the city is captured"],
 		"requiredTech": "Philosophy"
 	},
@@ -107,7 +108,7 @@
 		"specialistSlots": {"Merchant": 2},
         "percentStatBonus": {"gold": 25},
 		"civilopediaText": [ {"text": "The forum was the heart of Roman life, providing a communal center for the populace and drawing a settlement’s most important services – social, religious, economic, and cultural – into a single location. These public spaces began as commercial hubs, marketplaces that served multiple towns and drew them into a single political entity. They were also social centers for locals to gather and meet. Over time, these fora grew to incorporate additional functions. They housed the Temple of Jupiter and additional religious complexes and shrines. Political speeches and debates often took place on the steps of these buildings, while nearby basilicas bustled with legal matters and business transactions. During the Republic, the forum in Rome expanded in both scope and monumental architecture and became one of the city’s major tourist attractions, as well as the model for fora throughout the Roman world."}, {"separator": true}],
-		"uniques": ["[+1 Culture] <for every [Completed Policy branches]>",
+		"uniques": ["[+2 Culture] <for every [Completed Policy branches]>",
 					"Comment [+1 Merchant slot]"],
 		"requiredTech": "Currency"
 	},
@@ -137,7 +138,7 @@
         "requiredBuilding": "Library",
 		"civilopediaText": [ {"text": "Religion and education were closely intertwined under Abbasid rule, and the pursuit of knowledge was considered a key part of one’s spiritual journey. Early schooling focused on memorizing and studying religious texts. The development of the madrasa presented the opportunity for higher education and entry into the ranks of the ulema (the plural form of ʿālim), a community of scholars whose expertise on matters of legal import was invaluable to the empire. The mosque’s role as the center of spiritual and communal life formed a natural bond with the madrasa’s focus on religious-based scholarship, and the two buildings were typically constructed in a single complex that included a library and a boarding house for students, funded through charitable donations."}, {"separator": true}],
         "uniques": ["[+2 Science] from [Jungle] tiles [in this city]",
-					"[+2 Science, +1 Gold] from every specialist [in this city]"],
+					"[+2 Science] from every specialist [in this city]"],
         "requiredTech": "Education"
     },
 	
@@ -150,7 +151,9 @@
 		"gold": 3,
 		"percentStatBonus": {"gold": 25},
 		"civilopediaText": [ {"text": "The Five Hundred Lords and the manigramam were ethnic Indian traders; the anjuvannam was a guild of foreigners (most often Persians and Arabs, but could include Jews and Christians) operating within the Chola Empire. That such merchants not only existed, but existed in numbers requiring their own category, is a testament to the reach of the empire. Traders from every known people and religion operated in a complex web of trade. Such networks extended to Southeast Asia in the east (and from there to China) and the African coast and the Middle East to the west, linking the world in ways that would only intensify as history progressed."}, {"separator": true}],
-		"uniques": ["[+50]% Production when constructing [Water] units [in this city]"],
+		"uniques": ["[+15]% Production when constructing [Water] units [in this city]",
+					"[+1 Gold] from every [Culture] <in this city> <hidden from users>",
+					"Comment [+1 [Gold] from every [Culture] building in this city]",],
 		"specialistSlots": {"Merchant": 1},
 		"requiredTech": "Banking"
 	},
@@ -159,7 +162,7 @@
 		"name": "Abbey",
 		"replaces": "Temple",
 		"uniqueTo": "Kingdom of England",
-		"faith": 3,
+		"faith": 2,
 		"requiredBuilding": "Shrine",
 		"maintenance": 2,
 		"hurryCostModifier": 25,
@@ -267,7 +270,7 @@
         "cost": 500,
 		"maintenance": 2,
 		"civilopediaText": [ {"text": "Today, Paris is admired for its architectural heritage – the buildings all of a type, the grand avenues linking monument to monument (exemplified by the Champs-Élysées). However, these developments were historically controversial, built (by some accounts) by a self-aggrandizing architect at the behest of (by all accounts) a megalomaniac dictator obsessed with spectacle. These men were Georges-Eugène Haussmann and Napoleon III, both lovers of spectacle, and both profoundly influential in 19th century France, for better or for worse. \nFacing the chaotic slums of Paris, Napoleon III proposed that the city be entirely renovated, removing the vestiges of its medieval past and replacing it with a new, modern city. Haussmann heard the call – and saw the wealth Napoleon III was willing to spend. He blasted the broad avenues of Paris through its existing slums, tearing down rambling old buildings to be replaced by modern blocks (those buildings that are so iconic of Paris today). Much of the old charm of Paris was gone, but so was its disease-ridden alleys and chaotic layout. What remained was a web of avenues stretching across – and defining – the city. \nThese avenues became centers of Belle Époque life. In the arcades, winding shopping malls between streets – many of which were demolished by Haussmann – lived the flaneur. These urban wanderers and seekers of novelty were incredibly influential to writers such as Charles Baudelaire, Marcel Proust, and their historian, the theorist Walter Benjamin. In turn, those thinkers continue to inspire visitors and residents of the City of Light."}, {"separator": true}],
-        "uniques": ["[+2 Happiness] from [Great Improvement] tiles [in this city]"],
+        "uniques": ["[+1 Happiness] from [Great Improvement] tiles [in this city]"],
         "requiredTech": "Refrigeration"
    },
 
@@ -311,7 +314,7 @@
 		"gold": 3,
 		"percentStatBonus": {"gold": 33},
 		"civilopediaText": [ {"text": "Aztec ceremonial centers were built around a central plaza, a city plan that Spanish conquerors emulated in the Zócalo of Mexico City, here generalized to refer to the central plaza of all Mexican cities. It remains the place where important civic functions happen. The buildings surrounding the Zócalo are testaments to their importance in Mexican society: the cathedral, the city hall, and the main halls of administration. This space once contained the principal temple of the Aztec city of Tenochtitlan, and the Zócalo’s orientation toward the cardinal directions is a key outgrowth of its Aztec plan. This is the continuity of empire – the re-creation of a new world resting on the bones of the old."}, {"separator": true}],
-		"uniques": ["[+2 Culture, +1 Gold] <for every [Completed Policy branches]>"],
+		"uniques": ["[+1 Gold] <for every [Completed Policy branches]>", "[+15]% [Culture] <in this city> <during a Golden Age>"],
 		"specialistSlots": {"Merchant": 2},
 		"requiredTech": "Electricity"
 	},
